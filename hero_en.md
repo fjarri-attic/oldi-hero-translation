@@ -78,7 +78,7 @@ Something stirred in the darkness, and the earth shook.
 
 "I often have to think, Middle - the environment helps..." **[literally "is conductive to it" - any better phrasing?]**
 
-The face of the speaker (if, of course, he has one) is not visible, but the tone of the answer leaves no doubt that the Senior is now grinning sarcastically.
+The face of the speaker (if, of course, he has one) is not visible, but the tone of the answer leaves no doubt that Senior is now grinning sarcastically.
 
 "Then you must understand how dangerous this idea is, if it comes true! Junior is afraid of losing power, he is always afraid of losing power and frantically comes up with new... new weapons, and we still keep quiet and turn a blind eye to the possible consequences! Previously, it was acceptable - not the same scale, not the same power, not to mention that without us, without the Family..."
 
@@ -289,7 +289,7 @@ And with broad marching steps he headed away along the street leading to the cit
 
 "It was Amphitryon," Philid, who came down from the wall, answered instead of Thelem. "Amphitryon Perseid [8], a friend of Basileus Creon and the pride of all Hellas. Got it, you ignoramus?"
 
-"Got it," the youth nodded. "Amphitryon Perseid, the pride of Hellas. The one Who married his own niece, and then killed his father-in-law with a club. What's not to get - the pride, and in general..."
+"Got it," the youth nodded. "Amphitryon Perseid, the pride of Hellas. The one who married his own niece, and then killed his father-in-law with a club. What's not to get - the pride, and in general..."
 
 "Well, what do expect from a fool?!" Philid scratched the back of his head and spat in frustration. "I'm not going to intercede for you before Thelem anymore! So he killed his father-in-law... It was by accident! And besides - I would have killed my father-in-law long ago! He's got to me, can't stand the old stump anymore!.. But I don't! Because I'm not a hero. If I were a hero..."
 
@@ -297,7 +297,7 @@ The young man nodded once more, not listening to Philid and looking at the stree
 
 The street was empty, but the youth could still imagine the wings of an expensive cloak and the confident gait of a night visitor who looked like a god.
 
-Cheerful, fearless and merciless.
+Cheerful, fearless, and merciless.
 
 
 #### 2
@@ -401,7 +401,7 @@ Only then did he notice that Troezenid had been telling him something for some t
 
 At all.
 
-"And good for you!" Elphistic rejoiced, enthusiastically waving with a bull's bone. "I said to Panopeus back then too: you know, Panopey **]diminutive used in Russian; should we translated it? how?]**, good for our Amphitryon! He, I said, understands it well - now Taphos is ours anyway, it won't go anywhere, and what, are we to take this patricide, a Taphian snake, home now?! The gods guided your hand, my friend, truly gods did..."
+"And good for you!" Elphistic rejoiced, enthusiastically waving with a bull's bone. "I said to Panopeus back then too: you know, dear Panopeus **[diminutive used in Russian; should we translated it? how?]**, good for our Amphitryon! He, I said, understands it well - now Taphos is ours anyway, it won't go anywhere, and what, are we to take this patricide, a Taphian snake, home now?! The gods guided your hand, my friend, truly gods did..."
 
 "And I killed her later," Amphitryon repeated without listening to Elphistic, pouring himself out of a jug. "Her belly was... soft. And I broke the sword afterwards. Shouldn't have, probably..."
 
@@ -453,7 +453,7 @@ Who was that with her that night?!
 
 "I did! She is expecting - but the child is mine! Mine! And only mine! Divine! Ha!"
 
-"Well, who was it, anyway?" Elphistic clearly believed the story, and now he was primarily interested in what deity had been so shamefully disgraced?!
+"Well, who was it, anyway?" Elphistic clearly believed the story, and his primary concert now was: what deity had been so shamefully disgraced?!
 
 "I don't know," Amphitryon clung to the goblet and began to drink greedily, sprinkling wine around.
 
@@ -475,7 +475,7 @@ Troezenid was dead. The hook pierced the back of his head with a pointed end and
 
 However, getting scared was something he did not know how to do.
 
-And now he will never learn.
+And now he would never learn.
 
 People were already gathering around, a hunchback slave boy, one of the scullions, was fussing and sobbing, someone ran after a healer, although there was no need for that; nearby the owner was lamenting, mourning not so much over a guest perished so absurdly, but more over the possible loss of the profits of his establishment - for how many would go drinking to an establishment with such an ill fame?..
 
@@ -498,7 +498,7 @@ Poor Alcmene was completely worn out, seeing what was happening with her husband
 
 Praised be heavens, the gods did not take away the husband's mind!
 
-However, no one intended to take Amphitryon's mind - it seems that the gods had enough of their own, and if they did not, they would not have thought of borrowing this valuable (or not so much) item from the husband of the beautiful Alcmene.
+However, no one intended to take Amphitryon's mind - it seemed that the gods had enough of their own, and if they did not, they would not have thought of borrowing this valuable (or not so much) item from the husband of the beautiful Alcmene.
 
 It's just that Amphitryon Perseid, who was previously called an exile, and then a hero, for the first time in his life seriously considered what is his life worth in this world - and indeed any life in general. It was not so much the death of Elphistic that shocked Amphitryon - in his lifetime he had seen enough deaths, more absurd than that one, and more terrible, and all other kinds - as the circumstances of that death. A visit of a deity to Alcmene and his eventual disgrace; his, Amphitryon's, stupid and careless gossip - and a hook in the back of Troezenid's head... and the voice, the unpleasant voice of a ragamuffin in a dirty chlamys, warning of the harmful consequences of excessive blabbing.
 
@@ -506,7 +506,7 @@ But all the same - to think for a long time, especially when it's no use whether
 
 Amphitryon immediately armed part of his servants - choosing reliable people and those who had been in battle - and marched southeast towards Cephissus in order to put an end to the robbery.
 
-Although, upon arrival it became clear almost immediately that there was robbery, but there were no robbers; or rather, it’s not that there were none at all, and the goats were really disappearing - but only because the herders of the flocks, that is, the shepherds, are very fond of meat. And they are very fond of it more often than they should. Especially accompanied by young wine, which in around there almost flowed in streams.
+Although, upon arrival it became clear almost immediately that there was robbery, but there were no robbers; or rather, it’s not that there were none at all, and the goats were really disappearing - but only because the herders of the flocks, that is, the shepherds, were very fond of meat. And they were very fond of it more often than they should have been. Especially accompanied by young wine, which around those parts almost flowed in streams.
 
 There was a lot of meat. It maad, baad, and grazed very close. The meat was the owners', and it was tasty - which constitued a contradiction. Therefore, the shepherds honestly had fought the temptation every time - and every time the temptation had triumphed...
 
@@ -621,7 +621,7 @@ The healer waved to the porters, and everyone but the women and the onlookers fo
 
 ...After all that, the healer came out to Alcmene again.
 
-"He'll live," he replied unequivocally to the silent question. "You can feed him with worms. He'll be down for day or two, and that will be it.
+"He'll live," he replied unequivocally to the silent question. "You could feed him with worms for all he cares. He'll be down for a day or two, and that will be it.
 
 "Do I owe you something?" Alcmene asked straight on, having already paid her porters.
 
@@ -734,7 +734,7 @@ Except for a glimpse of the familiar hooded chlamys in the darkness, which remin
 
 ...And Amphitryon avoided meeting his wife's eyes and wandered on unsteady legs with his head bowed. For the first time in years, he was defeated. And now they are going home only owing to an unknown patron, for whom Amphitryon felt a distinct dislike - though he tried his best to feel gratitude.
 
-The bitterness of the loss, alas, did not grow any sweeter when he thought of the number of enemies he had overcome and the fact that one of them might not be quite human.
+The bitterness of the loss, alas, did not grow any sweeter when he thought of the number of enemies he had overcome and the fact that one of them might not have been quite human.
 
 If it were to be played over, Amphitryon knew he'd hit him again.
 
@@ -767,20 +767,13 @@ He was growing gloomy, cursing his pride, and drinking at nights.
 
 One day he let Creon know that he feared the trip to the oracle. Fortunately the booze was now hardly affecting Amphitryon, and this time he managed to stop his inappropriate revelations - and Creon, the basileus of Thebes and a statesman, understood him in his own way. There are quite a few brigands roving around Boeotia[12], aren't there? The next day Amphitryon, who had not slept well, was horrified to learn that the thoughtful Creon had dedicated a detachment of warriors to accompany them, enough to take Delphi by force - if such an idea could ever even occur to anyone.
 
-He had to refuse as politely as he could and personally select a dozen and a half veterans of previous campaigns who were willing to charge anyone for Amphitryon - and, most importantly, who could chrage calmly and judiciously.
+He had to refuse as politely as he could and personally select a dozen and a half veterans of previous campaigns who were willing to charge at anyone for Amphitryon - and, most importantly, who could charge calmly and judiciously.
 
 A veteran is a warrior who has survived, and that says it all.
 
-Креонт одобрил выбор друга, а Амфитрион умолчал, что из самых живучих отобрал самых опытных, из самых опытных — самых верных, а из самых верных — самых несуеверных, способных не вздрагивать при громе с ясного неба и любящих клясться интимными частями тел олимпийцев.
-
-Почему-то это казалось ему очень важным.
-
-Шестого дня месяца гекатомбеона[13] под приветственные клики толпы из северо-западных ворот Фив выехала и двинулась дальше процессия из трех колесниц, запряженных парами лошадей митаннийской породы, за которыми следовало пятнадцать солдат, вовсю горланящих соленые солдатские песни. Первой колесницей правил лично Амфитрион, а стоявшая позади него Алкмена улыбалась направо и налево, приветственно взмахивая ветвью лавра; второй колесницей правил юный Ликимний, сводный брат Алкмены (отец — Электрион, младший сын Персея — у них был общий, а матерью Ликимния была фригиянка Мидея), такой же буйно-черноволосый, как сестра; а поводья третьей колесницы держал в руках не кто иной, как Телем Гундосый, отпущенный по просьбе Амфитриона из караульщиков и сиявший, как начищенная бляха.
-
-
 Creon approved of his friend's choice, and Amphitryon did not mention that he selected the most expierenced among the most enduring, the most loyal among the most experienced, and the least supersticious among the most loyal, capable of not flinching at thunder from a clear blue sky and loving to swear by the intimate body parts of the Olympians.
 
-For some reason this seemed very important to him.
+For some reason it seemed very important to him.
 
-On the sixth day of the month of Hecatombeon,[13] to the cheers of the crowd, a procession of three chariots drawn by pairs of Mitanni horses, followed by fifteen soldiers, chanting salty soldierly songs to and fro, rode out of the northwest gate of Thebes. The first chariot was personally ruled by Amphitryon, with Alcmene behind him smiling to right and left, waving a laurel branch; the second chariot was ruled by the young Lycimnion, Alkmene's half-brother (their father, Electrion, the younger son of Perseus, had the same father, and Lycimnion's mother was the Phrygian Midea), who had black hair as wild as his sister; and the reins of the third chariot were held by none other than Thelem the Gundos, released at Amphitryon's request from the guards and shining like a polished plaque.
+On the sixth day of the month of Hecatombeon,[13] to the cheers of the crowd, a procession of three chariots drawn by pairs of Mitanni horses, followed by fifteen soldiers, chanting salty soldierly songs to and fro, rode out of the northwest gate of Thebes. The first chariot was personally driven by Amphitryon, with Alcmene behind him smiling left and right, waving a laurel branch; the second chariot was driven by the young Licymnius, Alcmene's half-brother (they shared the father, Electryon, the younger son of Perseus, and Licymnius's mother was Midea of Phrygia), who had black hair as wild as his sister's; and the reins of the third chariot were held by none other than Thelem the Nasal, at Amphitryon's request released from the guard duty and shining like a polished badge.
 
