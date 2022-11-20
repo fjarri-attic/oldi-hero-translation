@@ -1,5 +1,5 @@
 # The hero must be alone
-**can we keep the wordplay in the title?**
+**[can we keep the wordplay in the title?]**
 
 And then Serpent's voice sounded:
 
@@ -11,7 +11,7 @@ And he heard:
 
 "Only the gods are needed? The Chronids?"
 
-"Neither are the gods needed. Gods too he overcomes. Unshackled he holds the sky, because he is the Power." **or Force?**
+"Neither are the gods needed. Gods too he overcomes. Unshackled he holds the sky, because he is the Power." **[or Force?]**
 
 And the Serpent croaked gloomily:
 
@@ -21,11 +21,11 @@ And the Serpent croaked gloomily:
 
 
 ## Book One. Sacrifices
-**Can we keep the wordplay with the second book?**
+**[Can we keep the wordplay with the second book?]**
 
 With all the conviction of modern man that the gods of Greece are only a product of imagination and that they never existed anywhere, all these gods stand before us - Zeus, Hera, Athena, Aphrodite, and even lesser gods, nymphs and satyrs - clothed into flesh and blood, and so alive that it takes a lot of mental energy to get rid of this glittering vision.
 
-*- V. Ali (RE XVI, 1376, s. v. Mythos)* **what is RE? some kind of journal? Can't find**
+*- V. Ali (RE XVI, 1376, s. v. Mythos)* **[what is RE? some kind of journal? Can't find]**
 
 
 ### Parodos [1]
@@ -76,7 +76,7 @@ Something stirred in the darkness, and the earth shook.
 
 "You're right again. It is annoying sometimes... Of course, you know everything. But did you think what this might lead to?"
 
-"I often have to think, Middle - the environment helps..." **literally "is conductive to it" - any better phrasing?**
+"I often have to think, Middle - the environment helps..." **[literally "is conductive to it" - any better phrasing?]**
 
 The face of the speaker (if, of course, he has one) is not visible, but the tone of the answer leaves no doubt that the Senior is now grinning sarcastically.
 
@@ -118,7 +118,7 @@ Middle doesn't answer.
 
 "Can you guess then what the very same Perseus the Scavenger began to consider as he was getting older?"
 
-"Can I guess?" laughs the darkness, and unhappy is its laughter. "*I know!* I myself asked him about it when he came to me. The blood of the sacrificial cow warmed Perseus's memory, and he had nothing to lose - he had lost everything. 'I don’t regret anything,' he said, and I shuddered when I saw his smile, 'except for one thing... I should not have given Alalkomena [2] the head of Medusa. But since I did, I at least should have let them look each other in the eyes. Relatives, after all... Answer me, Overlord **is there an actual title similar to this?** - would you then dare to send Thanatos [3] after me?' And I didn't answer him, Middle! I was silent, and he was smiling..."
+"Can I guess?" laughs the darkness, and unhappy is its laughter. "*I know!* I myself asked him about it when he came to me. The blood of the sacrificial cow warmed Perseus's memory, and he had nothing to lose - he had lost everything. 'I don’t regret anything,' he said, and I shuddered when I saw his smile, 'except for one thing... I should not have given Alalkomena [2] the head of Medusa. But since I did, I at least should have let them look each other in the eyes. Relatives, after all... Answer me, Overlord **[is there an actual title similar to this?]** - would you then dare to send Thanatos [3] after me?' And I didn't answer him, Middle! I was silent, and he was smiling..."
 
 Silence. And only the black water of Styx splashes on the foot of the White Cliff of Oblivion, invisible in the darkness, as if washing away from it the bitterness of Overlord's last words.
 
@@ -229,7 +229,7 @@ From afar, from the side of the Cephissus valley, a barely audible rumble came -
 
 "Look at him racing," grumbled Thelem the Nasal, the senior guard of the post at the southeastern gates of Thebes, and wrapped himself tighter in a woolen cape.
 
-"Whom, uncle?" **A better term? Something informal, but with a degree of respect.** - A youth, almost a boy, who was sitting next to Thelem, timidly asked, blinking his long girlish eyelashes.
+"Whom, uncle?" **[A better term? Something informal, but with a degree of respect.]** - A youth, almost a boy, who was sitting next to Thelem, timidly asked, blinking his long girlish eyelashes.
 
 "How should I know, whom?" Nasal responded gloomily, and the young man shivered, listening to the oncoming roar, and then pulled a short spear with a leaf-shaped head closer to him.
 
@@ -239,7 +239,7 @@ Thelem glanced sideways at the young man, grunted, scratched his sunken nose bri
 
 "So what is there to listen to, uncle?" The young man shrugged his shoulders in bewilderment. "It just rumbles and rumbles... as if a monster gallops on a hundred hooves."
 
-"Spread your ears!" **a better expression?** Nasal yelled at the stupid youth. "I am not an 'uncle' to you! To you twit I'm mister senior guard! Got it? Monsters he hears! What if I taught you a good lesson right now!.. A hundred-hoofed wonder..."
+"Spread your ears!" **[a better expression?]** Nasal yelled at the stupid youth. "I am not an 'uncle' to you! To you twit I'm mister senior guard! Got it? Monsters he hears! What if I taught you a good lesson right now!.. A hundred-hoofed wonder..."
 
 "Leave the lad alone, Nasal," the third guard responded lazily - a stocky bearded man in a leather carapace with sparse bronze plaques. Before that, the bearded man had been sitting, leaning against the wall, and keeping silent, thoughtlessly twirling a torn stalk in his fingers; now, bored with this occupation, he decided to join the conversation.
 
@@ -253,9 +253,9 @@ Thelem glanced sideways at the young man, grunted, scratched his sunken nose bri
 
 The bearded man laughed and bit the stalk with his strong teeth, and Thelem gave the young man a slight slap on the back of the head.
 
-"Enemies... You knotty club! **a better expression?** Enemies don't ride in on a single chariot and don't rush along an unfamiliar road, especially at night! This must be a friend, a local, who both knows the way, and isn't holding the reins for the first time in his life. Who though? What do you think, Philid?"
+"Enemies... You knotty club! **[a better expression?]** Enemies don't ride in on a single chariot and don't rush along an unfamiliar road, especially at night! This must be a friend, a local, who both knows the way, and isn't holding the reins for the first time in his life. Who though? What do you think, Philid?"
 
-"I..." the bearded Philid began, but then the rumble became very close, **adjust expression here - one action right after another** and Philid briskly jumped to his feet, not waiting for Nasal's order, and began to climb the stairs to the wall, which in this place was no higher than fifteen cubits.
+"I..." the bearded Philid began, but then the rumble became very close, **[adjust expression here - one action right after another]** and Philid briskly jumped to his feet, not waiting for Nasal's order, and began to climb the stairs to the wall, which in this place was no higher than fifteen cubits.
 
 He was on the wall just in time.
 
@@ -263,7 +263,7 @@ A heavy war chariot, harnessed by a pair of lathered horses, flew out from behin
 
 "Open up, sleepyheads!" the low voice of the driver rolled across the land like a thunder, and the young man looked scaredly at Thelem, who shrugged his mighty shoulders, as if stretching before a fist fight. "Hey, you're going to oversleep the city! Hurry up!"
 
-"You're going to have to wait until morning," Philid informed him sharply **a better expression?** from the wall. "Order of basileus [6] Creon - not to let anyone into the city until dawn. That clear?"
+"You're going to have to wait until morning," Philid informed him sharply **[a better expression?]** from the wall. "Order of basileus [6] Creon - not to let anyone into the city until dawn. That clear?"
 
 "Come on, didn't you recognize me, Philid?"
 
@@ -283,7 +283,7 @@ The newcomer jumped lightly from the chariot, flapping the sides of his wide clo
 
 And with broad marching steps he headed away along the street leading to the city center and Cadmea, the inner fortress.
 
-"He remembers," Thelem grunted contentedly, starting to unharness the snorting **what sound do horses make when they are tired?** horses. "He remembers me, and my brother, and every warrior in person... How long ago was it that we raided the Teleboans for the first time, and he still remembers. In a word - a hero! If he were to tell me: let us go, Thelem, together against the Lapiths [7] - I would go! I swear by Zeus of Dodona, I would go! He says my brother will be back by noon... oh, we're going to get drunk on the undiluted one!
+"He remembers," Thelem grunted contentedly, starting to unharness the snorting **[what sound do horses make when they are tired?]** horses. "He remembers me, and my brother, and every warrior in person... How long ago was it that we raided the Teleboans for the first time, and he still remembers. In a word - a hero! If he were to tell me: let us go, Thelem, together against the Lapiths [7] - I would go! I swear by Zeus of Dodona, I would go! He says my brother will be back by noon... oh, we're going to get drunk on the undiluted one!
 
 "Who was that anyway, uncle?" the youth brought up, but Nasal did not hear him, immersed in joyful dreams about the upcoming drinking bout.
 
@@ -361,7 +361,7 @@ The frightened slave girl looked out of the house, yelped soundlessly and hid ag
 
 #### 3
 
-"I can't believe my eyes! By the hooves of Silenus! Is it you, my friend, the great and glorious lavaget [9] Amphitryon?! Some wine here! Wine for me and my friend, red Pramneios, and a jug of cold water! Heroes drink in Colchis manner, without diluting, and pour water on their heads after drinking!.. Climb up here, Amphitryon, - here, on this dais, you feel closer to heaven, and I remember your love for everything elevated... No, it's not your love, but Cephalus's from Thoricos, but I also remember your tastes, if I weren't Elphistiс **any mythological reference?** Troezenid! **Was he actually a descendant of Troezen the guy, or just from Troezen the city? The Russian usage points to the former, and "Troezenid" is used later by itself...** I remember everything, everything..."
+"I can't believe my eyes! By the hooves of Silenus! Is it you, my friend, the great and glorious lavaget [9] Amphitryon?! Some wine here! Wine for me and my friend, red Pramneios, and a jug of cold water! Heroes drink in Colchis manner, without diluting, and pour water on their heads after drinking!.. Climb up here, Amphitryon, - here, on this dais, you feel closer to heaven, and I remember your love for everything elevated... No, it's not your love, but Cephalus's from Thoricos, but I also remember your tastes, if I weren't Elphistiс **[any mythological reference?]** Troezenid! **[Was he actually a descendant of Troezen the guy, or just from Troezen the city? The Russian usage points to the former, and "Troezenid" is used later by itself...]** I remember everything, everything..."
 
 "You do, you do, but it is absolutely not necessary to yell about it for the whole tavern to hear," Amphitryon thought with slight annoyance, climbing up the dais and sitting down on a stool next to his former ally in the Taphian campaign Elphistic Troezenid, a stout red-bearded lout in a chiton made of expensive fabric, the original color of which was already impossible to find out, to such an extent the clothes were soaked in wine and grease.
 
@@ -377,7 +377,7 @@ However, Elphistic sure knew how to fight. And did not know how to betray. More 
 
 More than two months that passed since his return were like torture for Amphitryon. He immersed himself headlong into affairs, personally supervised the division of the loot and the allocation of shares to the families of the fallen warriors, accompanied almost to the very Lake Copais some shepherds with a herd of cows - an annual tribute to the warlike city of Orchomenos, a tribute that Amphitryon himself considered humiliating, but was afraid to directly state this to Creon of Thebes. Then he commissioned a new shield and a dozen spearheads from the weaponsmiths; he returned home late, was affectionate with his wife and every minute he was afraid to lose temper and hit her.
 
-With a backhand swing, as the owners of cheap whores - porns **or pornes?** - in the ports do when they conceal a part of the proceeds.
+With a backhand swing, as the owners of cheap whores - porns **[or pornes?]** - in the ports do when they conceal a part of the proceeds.
 
 He understood that Alcmene was not to blame for anything.
 
@@ -401,7 +401,7 @@ Only then did he notice that Troezenid had been telling him something for some t
 
 At all.
 
-"And good for you!" Elphistic rejoiced, enthusiastically waving with a bull's bone. "I said to Panopeus back then too: you know, Panopey **diminutive used in Russian; should we translated it? how?**, good for our Amphitryon! He, I said, understands it well - now Taphos is ours anyway, it won't go anywhere, and what, are we to take this patricide, a Taphian snake, home now?! The gods guided your hand, my friend, truly gods did..."
+"And good for you!" Elphistic rejoiced, enthusiastically waving with a bull's bone. "I said to Panopeus back then too: you know, Panopey **]diminutive used in Russian; should we translated it? how?]**, good for our Amphitryon! He, I said, understands it well - now Taphos is ours anyway, it won't go anywhere, and what, are we to take this patricide, a Taphian snake, home now?! The gods guided your hand, my friend, truly gods did..."
 
 "And I killed her later," Amphitryon repeated without listening to Elphistic, pouring himself out of a jug. "Her belly was... soft. And I broke the sword afterwards. Shouldn't have, probably..."
 
@@ -415,7 +415,7 @@ And he pointed a shiny finger at the sky.
 
 Elphistic bent to his friend's ear with a noticeable effort and whispered theatrically:
 
-"My Enonia **Any mythological prototype? Sounds kind of like Oenone** - well, you know her! - was visited by Ares the god of war himself!"
+"My Enonia **[Any mythological prototype? Sounds kind of like Oenone]** - well, you know her! - was visited by Ares the god of war himself!"
 
 "Really?!" Amphitryon feigned surprise, because he really knew the busty Enonia, the wife of Troezenid, and knew her much better than Elphistic himself had assumed. And in his mind it was coming up: the night, a sleepy and indifferently detached Alcmene, an unpleasant coldness in the chest, and her words: "Praise heaven... worked at last... the captive girls wore you out, right?" And the sand, the cold sand of the courtyard, painfully scratching the forehead, and the howl, the howl rising from within, from the depths, from such abysses of the soul which Amphitryon never knew existed.
 
@@ -439,7 +439,7 @@ Who was that with her that night?!
 
 "Say what?" Elphistic goggled his eyes.
 
-"That! You know what! The man thing! Even though you and I will die some day, we will die as men, and over Acheron we will be taken as men, and they will continue to... how many times have I called myself a god when I snuck over to other people's wives! Either Ares, or Hermes, and one time even made up some Pantelis-of-the-river **a reference to a joke poem by M. Bukanov** on the spot..."
+"That! You know what! The man thing! Even though you and I will die some day, we will die as men, and over Acheron we will be taken as men, and they will continue to... how many times have I called myself a god when I snuck over to other people's wives! Either Ares, or Hermes, and one time even made up some Pantelis-of-the-river **[a reference to a joke poem by M. Bukanov]** on the spot..."
 
 "No, you wait a moment!" Elphistic grabbed Amphitryon by the shoulder. "You wait! Don't start slandering the gods! Some Pantelis-of-the-river you are... My Enonia, after Ares, does not even want to lie with me! I even put on a helmet, and take a shield - no way! And you're saying - the man thing..."
 
@@ -447,7 +447,7 @@ Who was that with her that night?!
 
 "Well?!" Elphistic leaned forward.
 
-"'Well?!'" Amphitryon mocked him. "Well nothing! He even ended up pretending to be me - no go. Didn't work out! Just like he lay down on the bed, so he left with nothing to show for it. **A bit of an awkward construction... better phrasing?** A spearman! The spear does not even stand by itself, keeps falling. And just then I came back - and for him, for the Olympian, I did my best! And I was so surprised too, the fool, that Alcmene was so... tired, I guess? And the bedding was all crumpled..."
+"'Well?!'" Amphitryon mocked him. "Well nothing! He even ended up pretending to be me - no go. Didn't work out! Just like he lay down on the bed, so he left with nothing to show for it. **[A bit of an awkward construction... better phrasing?]** A spearman! The spear does not even stand by itself, keeps falling. And just then I came back - and for him, for the Olympian, I did my best! And I was so surprised too, the fool, that Alcmene was so... tired, I guess? And the bedding was all crumpled..."
 
 "But she's expecting, isn't she!" Elphistic frowned uncomprehendingly. "You said it yourself!"
 
@@ -557,11 +557,11 @@ That's when a beggar clung to them. Short, scrawny, in an incredibly dirty chlam
 
 "Alms for a wretched cripple!" the beggar howled behind the women's backs, grabbing the slaves by the clothes (nonetheless, the beggar looked quite healthy). "Alms for Zeus's sake! And for Apollo's! And for Athena's! And Dionysus's! And Hermes's! And Artemis's! And... all the rest! Alms, I'm begging you! What is it to you?! Alms!.."
 
-There were many gods, and the ragamuffin could enumerate them endlessly, so Alcmene tried to get rid of the beggar by handing him the smallest pomegranate - and regretted it. The beggar immediately realized that there was booty **a better word?** to be gained there, and resumed his pestering with renewed vigor.
+There were many gods, and the ragamuffin could enumerate them endlessly, so Alcmene tried to get rid of the beggar by handing him the smallest pomegranate - and regretted it. The beggar immediately realized that there was booty **[a better word?]** to be gained there, and resumed his pestering with renewed vigor.
 
 Then Alcmene tried not to pay attention to him - and, oddly enough, she succeeded. Especially when she stopped near the poles with Thessalian smoked meats. Alcmene was meticulously choosing a better piece for some time, and the black-bearded fat merchant kept constantly praising his goods, glancing sideways at the enviable hips of the slave girls - and from his chatter and the smell of smoky meat, Alcmene felt dizzy, so she seemed to have poked her finger not at the piece she had almost chosen, but at the next, a little suspicious one.
 
-The fat man smartly removed the selected piece, oozing compliments, and one of the slave-girls had almost put up the basket **a better way to translate 'было'?**, when a silent and therefore forgotten beggar jumped out from behind her.
+The fat man smartly removed the selected piece, oozing compliments, and one of the slave-girls had almost put up the basket **[a better way to translate 'было'?]**, when a silent and therefore forgotten beggar jumped out from behind her.
 
 He snatched the smoked goat from the merchant, jumped back, and, drooling all over, clawed at the meat with his yellow teeth, grimacing and devouring the stolen goods with incredible speed.
 
@@ -646,7 +646,7 @@ Why Zeus? Just in case...
 
 It's just that Amphitryon really disliked these cursed incidents that had haunted his wife since that memorable night.
 
-Oh, gods, gods... what is human life to you? You may elevate in passing, you may trample in passing, and who knows what is worse... **Sophocles quote?**
+Oh, gods, gods... what is human life to you? You may elevate in passing, you may trample in passing, and who knows what is worse... **[Sophocles quote?]**
 
 This thought tormented Amphitryon on the day when Alcmene, accompanied by a huge Ethiopian slave, went to the palace of the basileus Creon, which towered in the southern part of Thebes. She was not, of course, going to Creon himself, but to his wife, Nausicaa, a chubby giggler who was not at all regal (though very pretty) looking. Like their husbands, Alcmene and Nausicaa became friends almost immediately, and the latter often invited her friend to visit, especially when new fabrics were brought in - Alcmene knew exactly which fabrics suited the frivolous Nausicaa, who had birthed many girls for her Creon.
 
@@ -682,7 +682,7 @@ Wobbling, the ringleader moved toward Amphitryon.
 
 He had a curved Thracian knife tucked behind his belt, but he did not draw it, instead reaching forward with his knotty, tree-root-like hand and taking hold of Amphitryon's chiton at the chest.
 
-"A hero," muttered the fat man, and the worm on his cheekbone wriggled lazily. "Look, brothers, that's a hero... three heads in a row..." **some joke rhyming with 'hero'**
+"A hero," muttered the fat man, and the worm on his cheekbone wriggled lazily. "Look, brothers, that's a hero... three heads in a row..." **[some joke rhyming with 'hero']**
 
 And he howled in rage when Amphitryon's tree-hard fingers hit him in the eye, he howled and threw his hands up to his face, and wheezed and gurgled and sank to the ground, grinning fearfully with his new mouth slit under his chin.
 
