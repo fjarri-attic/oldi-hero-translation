@@ -704,7 +704,7 @@ Then the ground shoved Amphitryon in the back of the head again.
 
 ...The broad-shouldered man stood over him, holding his cheek thoughtfully, and in his piercing eyes contempt inexplicably mingled with amazement. It must be the way a wolf looks at a mad goat kid that has bitten the side of a ferocious beast with its blunt teeth.
 
-"And your wife has hairy thighs," said the broad-shouldered man indifferently, so indifferently that at first it was hard even to take it as an insult. "Like a satyr. You're a midge, hero... Slime."
+"And your wife has hairy thighs," said the broad-shouldered man indifferently, so indifferently that at first it was hard to even take it as an insult. "Like a satyr. You're a midge, hero... Slime."
 
 That's when Amphitryon realized that that was it. It was time to die. Only he could not die, because Alcmene still pressed herself against the fence; he could not die, and he forced himself to stand on his knees - kneeling before the broad-shouldered man was humiliating, but somehow not too much - then on one knee, then...
 
@@ -777,3 +777,31 @@ For some reason it seemed very important to him.
 
 On the sixth day of the month of Hecatombeon,[13] to the cheers of the crowd, a procession of three chariots drawn by pairs of Mitanni horses, followed by fifteen soldiers, chanting salty soldierly songs to and fro, rode out of the northwest gate of Thebes. The first chariot was personally driven by Amphitryon, with Alcmene behind him smiling left and right, waving a laurel branch; the second chariot was driven by the young Licymnius, Alcmene's half-brother (they shared the father, Electryon, the younger son of Perseus, and Licymnius's mother was Midea of Phrygia), who had black hair as wild as his sister's; and the reins of the third chariot were held by none other than Thelem the Nasal, at Amphitryon's request released from the guard duty and shining like a polished badge.
 
+Amphitryon himself, by necessity dressed in ceremonial robes with purple embroidery where needed and where not needed at all, could not wait for the time when they would ride far enough from the city and he would finally be able to strip off the annoying rags and change into more familiar clothes that befit a man during a campaign - even if it's just a trip to the sacred Delphi. Then he was going to transfer Alcmene to the chariot of Licymnius. The fact was that Amphitryon was rightfully considered the best charioteer in Boeotia - and perhaps not just in Boeotia - and, like any master proud of his skill, he allowed himself many liberties when riding, not entirely suitable for transporting pregnant women.
+
+Especially if this woman is your wife and you want her to safely finish her term and give birth to an heir.
+
+On the other hand, Licymnius, despite his age, was considered an experienced and prudent driver.
+
+...When the last soldier left the gate, and the crowd of Thebans began to disperse, exchanging impressions, a light shadow fell on the faces of people, sliding towards the still open gate leaves, - although the sun was shining with all its might, and there was not a single cloud in the sky.
+
+"Mom, mom!" some blue-eyed boy of about five years old pulled his mother by the edge of the peplos. "Look! Someone passed by the sun! Come on, mom!"
+
+"What?" asked the fat mother inattentively, very busy discussing yesterday's prices for fish and wool with her friend. "What do you want? Do you want to eat?"
+
+"Someone passed by the sun!" the boy repeated patiently. "And he went o-over there!"
+
+He pointed with his hand to the west, in the direction where the procession to Delphi had departed.
+
+"Is that right?" the mother replied. "That's good. Let's go back and I'll feed you..."
+
+The kid was about to cry, but then he saw a grass snake sticking out of a hole in the ground and changed his mind.
+
+
+#### 8
+
+This week of the journey Amphitryon will remember to the end of his days - of which not that many is left, about half of those already passed, but not too few either, praised be Moirai the casters of lots; then again, no praise has yet stopped the inexorable Atropos the Moira, ready to cut a thin thread of human life.
+
+The summer month of Hecatombeon is originally intended for enjoying the earthly pleasures, and the pilgrims first lingered for a while near Lake Copais (which, to be fair, wasn't exactly on the way), where the graying veterans were splashing like kids, and Licymnius, crazed from sun and freedom, challenged Nasal to a wreestling match, and even wrestled for some time, but not for long, because the intervening Amphitryon tore the feign-growling Thelem from his brother-in-law - after which he grabbed both by the scruff of their necks and dragged them to a deep part, despite their resistance and screams, where he sunk **[a better word? waterboarded?]** them a little, accompanied by the cackle of the soldiers and the squeal of a happy Alcmene.
+
+Then, having decorated themselves with wreaths of the sacred laurel and sworn to Apollo to not take them off until returning home, everyone moved in the direction of Phocis and almost reached the slopes of Parnassus, when Amphitryon at one stop suggested making a small detour, going down to the Gulf of Corinth and visiting Kirra **[Oldie have Crissa here - which was also near Delphi, but was not at a seaside. Intentional or mistake?]** - a tiny seaside down serving as Delphi's harbor.
