@@ -820,3 +820,37 @@ The sky was clear, although a few clouds began to gather seaward, standing still
 "Ha-a-ai **[Supposed to be a Greek interjection, like "Aoi" in the Song of Roland. There's "ai", but I can't find any reference to "ha-a-ai".]**, a storm over the sea, ha-a-ai, hundred-headed Typhon," out of fullness of feelings started to sing Licymnius, who was riding in front, and Alcmene echoed him, looking affectionately at her brother who was confidently driving their chariot, "ha-a-ai, Tartarus is raging..."
 
 "Ha-a-ai, a storm over the sea," the veterans picked up discordantly, "ha-a-ai, a storm over the world..."
+
+Amphitryon had fallen behind, letting the soldiers pass him, and now rode last, listening to the long-familiar song with an inexplicable ache. The horses tossed their heads, straining to bolt forward, but he held them back stubbornly and looked about, as though trying to spot, in the clouds over the sea or in the thistles pushing up through the scattered stones, the cause of his state - to understand it, and become the Amphitryon he used to be. Had he been a philosopher, he might have said that the moment had come when a man understands that everything, just now, was fine - but would never be better again.
+
+No, he was no philosopher. He was a mercenary soldier, then a lawagetas **[Mycenaean military title - keep transliterated, or gloss as "war-leader"?]**, a mercenary commander; he always grew angry when people called him a hero, and so he simply listened to the song, breathed deep, and did not notice how the waves licked the gray stone of the cliffs with ever greater fury, climbing higher and higher, while Notus, the wandering south wind, had long since fled back to his home among the winds, frightened by something, or perhaps simply remembering urgent business elsewhere.
+
+"Ha-a-ai, a storm over the sea..."
+
+At first Amphitryon did not grasp what had happened, or whether anything had happened at all. One of the waves, simply the steepest and angriest of them, suddenly rose above the rest, twice the height of its now-hushed sisters, and froze in the air like a pedestal of foam - and before it could crash down, the earth sighed and stirred beneath the feet of the men, the hooves of the horses, and the wheels of the wretched carts.
+
+A stifling closeness spread through the air, bitter and intoxicating; no one had time to be afraid before, in the sudden hush, Nasal's voice rang out mockingly, still dragging out the song's refrain - and then came a second tremor, far weaker than the first, but strong enough to send one of Licymnius's two bay mares rearing, striking out with her hooves, and bolting headlong in a neighing frenzy, blind to the road and infecting her yoke-mate with the same madness.
+
+The line of veterans broke; Thelem cut off another "ha-a-ai" mid-word, staring open-mouthed after Licymnius's chariot as it bounced over the stones. Licymnius himself leaned his whole body back, hanging over the fallen Alcmene and trying at any cost to check the maddened horses - and it seemed to Amphitryon that he heard a battle cry, achingly familiar, roll out across the sea and make the clouds on the horizon shudder and begin, unhurried, to move toward the shore.
+
+He did not at once understand that he himself was shouting. He was the one shouting, arms thrown up with the reins clenched dead in his fists, as he had shouted so many times in battle before the start of a headlong chariot charge - shouting though he saw no enemy, sensing its presence with his gut alone, threatening the wind, the sea, the sky, the shuddering earth, the frenzied mares... an enemy that had no name.
+
+Then he lashed his own horses across the back with all his strength, driving them to the same madness as the pair now racing a spear's throw ahead of him, pressing ever closer to the impatiently licking jaws of the cliff - where, below, the absurd, impossible, monstrous wave still stood on its pedestal and did not fall.
+
+His shout - his war cry - saved the veterans' lives; many of them would otherwise have been trampled without fail. Those who by chance found themselves in the path of Amphitryon's chariot scattered instantly in every direction - a soldier's instincts had more than once saved men in moments when wise Metis-Thought **[keep the paired epithet, as with "Atropos the Moira" earlier? or gloss Metis for readers unfamiliar with her]** proved entirely useless - while clever Nasal dropped from his own chariot like a whirlwind, seized the bridles of his team, hung his whole weight on them, and wrenched the bared muzzles to the right, toward the cliff, forcing the animals to dance in place and letting Amphitryon pass at full speed, grazing the left side of his chariot.
+
+Which nearly threw Thelem and his horses from the cliff as well - though that no longer mattered in the least - and salt spray tore off the crest of the giant wave, like an involuntary round of applause.
+
+The pounding of hooves was deafening; the wreath of sacred laurel fell from his head almost at once; the earth swayed in time with the gallop; the reins burned his palms, straining to tear free of his stiffened grip; twice the chariot's left wheels left the crunching gravel, and both times the gasping Amphitryon kept his balance by some miracle, sweat running down his forehead and stinging his eyes unbearably - yet still he could see that Licymnius had not mastered the cursed mares... there, closer... closer still... the rear wheel hung for an instant over the edge of the cliff, but Licymnius, baring his teeth in a terrible grimace, wrenched the left rein - and won one cubit of life from nameless fate... two cubits... three... nearly five cubits of life - and into that gap between the side of Licymnius's chariot and the edge of the cliff, beyond which the foaming void began, Amphitryon drove himself, his horses, and his chariot, the way in battle he had once driven a spear between the rim of a shield and an enemy's outstretched sword.
+
+"Ha-a-ai!.."
+
+He jumped. For an instant the two chariots ran side by side, grinding into each other with a screech - and Amphitryon, not understanding what he was doing, launched himself sideways through the air, crashing down onto the shouting Licymnius, nearly throwing the young brother-in-law onto the rocks, and clawed his fingers into the fists of Alcmene's brother, frozen dead on the reins.
+
+A moment later Amphitryon felt that his back was about to tear apart.
+
+And the sky smelled of horse sweat and death.
+
+Then came the pain of a lip bitten clean through - a joyful, happy pain, because the earth was slowing its rush, gradually ceasing to hurtle toward him, roaring and jolting; and Amphitryon licked the blood from his lip, savoring its salty taste, and tried to straighten his fingers: his own first, and then, a little later, those of a bewildered, blinking Licymnius.
+
+Only then did the rain come pouring down.
