@@ -24,7 +24,7 @@ The prologue dialogue refers to the gods by relational nicknames rather than nam
 | Moirai | Мойры | The Fates collectively |
 | Clotho | Клото | |
 | Family | Семья | Collective term for the Olympian dynasty/gods |
-| Halfmen / Half-Man | Полулюди / Получеловек | Demigods |
+| Halfmen / Halfman | Полулюди / Получеловек | Demigods |
 | Scavenger / Lone Scavenger | Мусорщик / Мусорщик-Одиночка | Central term for heroes (esp. the child who will become Heracles) — gods' epithet for demigods who "clean up" after them |
 | Hecatoncheires / Hundred-handed | Гекатонхейры / Сторукие | |
 | Thanatos | Танат/Танатос | |
@@ -34,7 +34,7 @@ The prologue dialogue refers to the gods by relational nicknames rather than nam
 | Tartarus | Тартар | |
 | Notus | Нот | South wind |
 | Helios | Гелиос | |
-| Alalkomena | Алалкомена | Perseus's wife |
+| Alalcomeneis | Алалкомена | Epithet of Athena (Ἀλαλκομενηΐς, "guardian"), from her Boeotian cult site Alalcomenae near Lake Copais. **Not** to be confused with "Alalcomenes" (a hero who reared infant Athena, per some sources) — similar spelling, different figure. Current text in `hero_en.md` has "Alalkomena", a simplified transliteration close to the Russian rather than the scholarly form — flagged for a decision on which to keep. |
 | Pegasus, Chrysaor the Golden Bow | Пегас, Хрисаор Золотой Лук | Medusa's children |
 | Gorgons | Горгоны | |
 
