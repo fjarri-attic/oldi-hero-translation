@@ -805,3 +805,18 @@ This week of the journey Amphitryon will remember to the end of his days - of wh
 The summer month of Hecatombeon is originally intended for enjoying the earthly pleasures, and the pilgrims first lingered for a while near Lake Copais (which, to be fair, wasn't exactly on the way), where the graying veterans were splashing like kids, and Licymnius, crazed from sun and freedom, challenged Nasal to a wreestling match, and even wrestled for some time, but not for long, because the intervening Amphitryon tore the feign-growling Thelem from his brother-in-law - after which he grabbed both by the scruff of their necks and dragged them to a deep part, despite their resistance and screams, where he sunk **[a better word? waterboarded?]** them a little, accompanied by the cackle of the soldiers and the squeal of a happy Alcmene.
 
 Then, having decorated themselves with wreaths of the sacred laurel and sworn to Apollo to not take them off until returning home, everyone moved in the direction of Phocis and almost reached the slopes of Parnassus, when Amphitryon at one stop suggested making a small detour, going down to the Gulf of Corinth and visiting Kirra **[Oldie have Crissa here - which was also near Delphi, but was not at a seaside. Intentional or mistake?]** - a tiny seaside down serving as Delphi's harbor.
+
+He did not know hinself what prompted him to take this step. Either an obvious reason - a need to get news of the trader galleys which were contracted to deliver the remaining booty from Taphos, and to personally organize the transportation of the valuables to Thebes, exchanging a part of the Taphos treasure for copper and priceless purple pigment; or a hidden reason to snatch from fate one more week of happiness... No, he did not waht to overthink it, but in a couple of days the wheels of the chariots and the hooves of the horses were already rumbling along the rocky coast of the Gulf of Corinth, and behind them the sandals of the veterans were slapping on the stone.
+
+The sun was close to dusk, and, when the chariots were passing too close to the cliff edge, beyond which forty cubits below the sea displeased with something was rustling, - one could see how the water boiled up with foam, lilac in the rays of the setting Helios, and the waves delivered weighty slaps to the innocent **[rethink phrasing]** rocks.
+
+The sky was clear, although a few clouds began to gather seaward, standing still, like stubborn sheep, and not wanting to obey the scourge of the shepherd - Notus the south wind, who accidentally flew past and decided to frolic.
+
+
+— Хаа-ай, гроза над морем, хаа-ай, Тифон стоглавый, — запел от полноты чувств ехавший первым Ликимний, и ему вторила Алкмена, с лаской глядевшая на брата, уверенно правившего их колесницей, — хаа-ай, бушует Тартар…
+
+— Хаа-ай, гроза над морем, — нестройно подхватили ветераны, — хаа-ай, гроза над миром…
+
+"Ha-a-ai **[Supposed to be a Greek interjection, like "Aoi" in the Song of Roland. There's "ai", but I can't find any reference to "ha-a-ai".]**, a storm over the sea, ha-a-ai, hundred-headed Typhon," out of fullness of feelings started to sing Licymnius, who was riding in front, and Alcmene echoed him, looking affectionately at her brother who was confidently driving their chariot, "ha-a-ai, Tartarus is raging..."
+
+"Ha-a-ai, a storm over the sea," the veterans picked up discordantly, "ha-a-ai, a storm over the world..."
