@@ -1,0 +1,40 @@
+# Translation Workflow & Style Conventions
+
+Working notes for translating Genry Lion Oldi's «Герой должен быть один» ("The Hero Must Be Alone") from Russian to English. Read this file at the start of every session before continuing the translation.
+
+## Files
+
+- `hero_ru.md` — full Russian source. Untracked in git (kept out deliberately — full copyrighted text).
+- `hero_en.md` — the English translation, growing incrementally. Tracked in git.
+- `hero_en.html` — rendered export (mkdocs-style). Not actively maintained during translation; regenerate later if needed.
+- `GLOSSARY.md` — names, places, epithets, and terms with their settled English renderings. Update this whenever a new proper noun or term is introduced, or a existing one is corrected.
+- `CONVENTIONS.md` — this file.
+
+## Workflow
+
+- Work through the source **paragraph by paragraph**, appending finished English paragraphs to the end of `hero_en.md`.
+- Commit granularity: **one scene/beat per commit** (a natural narrative chunk — a few paragraphs to a page — not single paragraphs, not full chapters).
+- Commit message style: short, matching existing history (e.g. "New paragraphs", "Corrections"). No need for elaborate messages.
+- **Commit locally only** — never `git push` to `origin` unless explicitly asked.
+- Only stage/commit `hero_en.md` (and `GLOSSARY.md` / `CONVENTIONS.md` when they change). Never add `hero_ru.md` or the `.sublime-*` files to git.
+- When starting a new session on this project, check `git log` and the tail of `hero_en.md` to find exactly where the translation left off before continuing.
+
+## Translator queries vs. footnotes — two different bracket styles
+
+- **Open questions for the user** (word choice uncertain, needs research, ambiguous in source): bold bracket note right after the relevant word/phrase, e.g. `**[a better word? waterboarded?]**`. These are flags for discussion, not meant to survive into a final draft.
+- **Footnotes** (explanatory content that should actually accompany the word): plain (non-bold) bracket note placed right next to the word, e.g. `lawagetas [a Mycenaean military title - leader of the host, second in rank only to the wanax]`. For now these live inline; later they may be converted into the book's real numbered endnote system (see below).
+- Once a translator query is resolved, either delete the bracket note or convert it into a proper footnote — don't leave stale open questions sitting in finished text.
+
+## Footnote policy going forward
+
+- **All Classical Greek / Mycenaean terminology gets a footnote by default** — this matches the style of the original book, which glosses specialist terms for the reader.
+- The original book has its own numbered endnote system: markers like `[13]`, `[14]` in the running text correspond to a "Примечания" (Notes) section near the end of `hero_ru.md` (starting around line 13884). When we eventually integrate with that system, our new footnotes will need numbers of their own and an entry in the notes section.
+- For now, don't try to slot new footnotes into that numbered system — just use the inline square-bracket style described above.
+
+## Style notes
+
+- Register: literary, matching Oldi's long, clause-heavy sentences, semicolons, ellipses, and mid-sentence dashes. Translate fluently rather than word-for-word, but preserve sentence rhythm and structure where possible.
+- Dialogue: Russian em-dash dialogue markers (`— ...`) become standard English quotation marks in translation.
+- Chapter/section structure borrows Greek tragedy vocabulary from the original (Parodos, epeisodion, etc.) — keep these terms transliterated, not translated.
+- Character epithets that pair a name with a descriptive word (e.g. «Мойра Атропос» → "Atropos the Moira", «Метида-Мысль» → "Metis-Thought") should preserve that paired/disambiguating presentation — this is a deliberate authorial device, not decoration to be dropped.
+- See `GLOSSARY.md` for settled names, places, and terms. Check it before translating a proper noun that may have appeared before.
