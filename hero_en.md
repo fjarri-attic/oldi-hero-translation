@@ -118,7 +118,7 @@ Middle doesn't answer.
 
 "Can you guess then what the very same Perseus the Scavenger began to consider as he was getting older?"
 
-"Can I guess?" laughs the darkness, and unhappy is its laughter. "*I know!* I myself asked him about it when he came to me. The blood of the sacrificial cow warmed Perseus's memory, and he had nothing to lose - he had lost everything. 'I don’t regret anything,' he said, and I shuddered when I saw his smile, 'except for one thing... I should not have given Alalkomena [2] the head of Medusa. But since I did, I at least should have let them look each other in the eyes. Relatives, after all... Answer me, Overlord **[is there an actual title similar to this?]** - would you then dare to send Thanatos [3] after me?' And I didn't answer him, Middle! I was silent, and he was smiling..."
+"Can I guess?" laughs the darkness, and unhappy is its laughter. "*I know!* I myself asked him about it when he came to me. The blood of the sacrificial cow warmed Perseus's memory, and he had nothing to lose - he had lost everything. 'I don’t regret anything,' he said, and I shuddered when I saw his smile, 'except for one thing... I should not have given Alalcomeneis [2] the head of Medusa. But since I did, I at least should have let them look each other in the eyes. Relatives, after all... Answer me, Overlord **[is there an actual title similar to this?]** - would you then dare to send Thanatos [3] after me?' And I didn't answer him, Middle! I was silent, and he was smiling..."
 
 Silence. And only the black water of Styx splashes on the foot of the White Cliff of Oblivion, invisible in the darkness, as if washing away from it the bitterness of Overlord's last words.
 
@@ -811,11 +811,6 @@ He did not know hinself what prompted him to take this step. Either an obvious r
 The sun was close to dusk, and, when the chariots were passing too close to the cliff edge, beyond which forty cubits below the sea displeased with something was rustling, - one could see how the water boiled up with foam, lilac in the rays of the setting Helios, and the waves delivered weighty slaps to the innocent **[rethink phrasing]** rocks.
 
 The sky was clear, although a few clouds began to gather seaward, standing still, like stubborn sheep, and not wanting to obey the scourge of the shepherd - Notus the south wind, who accidentally flew past and decided to frolic.
-
-
-— Хаа-ай, гроза над морем, хаа-ай, Тифон стоглавый, — запел от полноты чувств ехавший первым Ликимний, и ему вторила Алкмена, с лаской глядевшая на брата, уверенно правившего их колесницей, — хаа-ай, бушует Тартар…
-
-— Хаа-ай, гроза над морем, — нестройно подхватили ветераны, — хаа-ай, гроза над миром…
 
 "Ha-a-ai **[Supposed to be a Greek interjection, like "Aoi" in the Song of Roland. There's "ai", but I can't find any reference to "ha-a-ai".]**, a storm over the sea, ha-a-ai, hundred-headed Typhon," out of fullness of feelings started to sing Licymnius, who was riding in front, and Alcmene echoed him, looking affectionately at her brother who was confidently driving their chariot, "ha-a-ai, Tartarus is raging..."
 

@@ -34,7 +34,7 @@ The prologue dialogue refers to the gods by relational nicknames rather than nam
 | Tartarus | Тартар | |
 | Notus | Нот | South wind |
 | Helios | Гелиос | |
-| Alalcomeneis | Алалкомена | Epithet of Athena (Ἀλαλκομενηΐς, "guardian"), from her Boeotian cult site Alalcomenae near Lake Copais. **Not** to be confused with "Alalcomenes" (a hero who reared infant Athena, per some sources) — similar spelling, different figure. Current text in `hero_en.md` has "Alalkomena", a simplified transliteration close to the Russian rather than the scholarly form — flagged for a decision on which to keep. |
+| Alalcomeneis | Алалкомена | Epithet of Athena (Ἀλαλκομενηΐς, "guardian"), from her Boeotian cult site Alalcomenae near Lake Copais. **Not** to be confused with "Alalcomenes" (a hero who reared infant Athena, per some sources) — similar spelling, different figure. |
 | Pegasus, Chrysaor the Golden Bow | Пегас, Хрисаор Золотой Лук | Medusa's children |
 | Gorgons | Горгоны | |
 
