@@ -361,7 +361,7 @@ The frightened slave girl looked out of the house, yelped soundlessly and hid ag
 
 #### 3
 
-"I can't believe my eyes! By the hooves of Silenus! Is it you, my friend, the great and glorious lavaget [9] Amphitryon?! Some wine here! Wine for me and my friend, red Pramneios, and a jug of cold water! Heroes drink in Colchis manner, without diluting, and pour water on their heads after drinking!.. Climb up here, Amphitryon, - here, on this dais, you feel closer to heaven, and I remember your love for everything elevated... No, it's not your love, but Cephalus's from Thoricos, but I also remember your tastes, if I weren't Elphistiс **[any mythological reference?]** Troezenid! **[Was he actually a descendant of Troezen the guy, or just from Troezen the city? The Russian usage points to the former, and "Troezenid" is used later by itself...]** I remember everything, everything..."
+"I can't believe my eyes! By the hooves of Silenus! Is it you, my friend, the great and glorious lawagetas [9] Amphitryon?! Some wine here! Wine for me and my friend, red Pramneios, and a jug of cold water! Heroes drink in Colchis manner, without diluting, and pour water on their heads after drinking!.. Climb up here, Amphitryon, - here, on this dais, you feel closer to heaven, and I remember your love for everything elevated... No, it's not your love, but Cephalus's from Thoricos, but I also remember your tastes, if I weren't Elphistiс **[any mythological reference?]** Troezenid! **[Was he actually a descendant of Troezen the guy, or just from Troezen the city? The Russian usage points to the former, and "Troezenid" is used later by itself...]** I remember everything, everything..."
 
 "You do, you do, but it is absolutely not necessary to yell about it for the whole tavern to hear," Amphitryon thought with slight annoyance, climbing up the dais and sitting down on a stool next to his former ally in the Taphian campaign Elphistic Troezenid, a stout red-bearded lout in a chiton made of expensive fabric, the original color of which was already impossible to find out, to such an extent the clothes were soaked in wine and grease.
 
@@ -759,7 +759,7 @@ Amphitryon grudgingly agreed - though he couldn't shake the thought that he was 
 
 However, Alcmene knew nothing of his torment and radiated joy, snuggling up to her husband... while her husband was avoiding her, pleading busyness, afraid to give away even a hint and let Alcmene understand the reason for his gloominess - and Amphitryon regretted only one thing.
 
-That in the long years of his life, the life of a grandson of Perseus, a son of one of the Mycenaean kings, a warrior, a murderer against his will, an exile, a husband, a commander-lavaget - that in these years he had not learned two things.
+That in the long years of his life, the life of a grandson of Perseus, a son of one of the Mycenaean kings, a warrior, a murderer against his will, an exile, a husband, a commander-lawagetas - that in these years he had not learned two things.
 
 To forgive insults and to take pride in another's charity.
 
@@ -804,7 +804,7 @@ This week of the journey Amphitryon will remember to the end of his days - of wh
 
 The summer month of Hecatombeon is originally intended for enjoying the earthly pleasures, and the pilgrims first lingered for a while near Lake Copais (which, to be fair, wasn't exactly on the way), where the graying veterans were splashing like kids, and Licymnius, crazed from sun and freedom, challenged Nasal to a wreestling match, and even wrestled for some time, but not for long, because the intervening Amphitryon tore the feign-growling Thelem from his brother-in-law - after which he grabbed both by the scruff of their necks and dragged them to a deep part, despite their resistance and screams, where he sunk **[a better word? waterboarded?]** them a little, accompanied by the cackle of the soldiers and the squeal of a happy Alcmene.
 
-Then, having decorated themselves with wreaths of the sacred laurel and sworn to Apollo to not take them off until returning home, everyone moved in the direction of Phocis and almost reached the slopes of Parnassus, when Amphitryon at one stop suggested making a small detour, going down to the Gulf of Corinth and visiting Kirra - a tiny seaside down serving as Delphi's harbor.
+Then, having decorated themselves with wreaths of the sacred laurel and sworn to Apollo to not take them off until returning home, everyone moved in the direction of Phocis and almost reached the slopes of Parnassus, when Amphitryon at one stop suggested making a small detour, going down to the Gulf of Corinth and visiting Kirra - a tiny seaside town serving as Delphi's harbor.
 
 He did not know hinself what prompted him to take this step. Either an obvious reason - a need to get news of the trader galleys which were contracted to deliver the remaining booty from Taphos, and to personally organize the transportation of the valuables to Thebes, exchanging a part of the Taphos treasure for copper and priceless purple pigment; or a hidden reason to snatch from fate one more week of happiness... No, he did not waht to overthink it, but in a couple of days the wheels of the chariots and the hooves of the horses were already rumbling along the rocky coast of the Gulf of Corinth, and behind them the sandals of the veterans were slapping on the stone.
 
@@ -818,7 +818,7 @@ The sky was clear, although a few clouds began to gather seaward, standing still
 
 Amphitryon had fallen behind, letting the soldiers pass him, and now rode last, listening to the long-familiar song with an inexplicable ache. The horses tossed their heads, straining to bolt forward, but he held them back stubbornly and looked about, as though trying to spot, in the clouds over the sea or in the thistles pushing up through the scattered stones, the cause of his state - to understand it, and become the Amphitryon he used to be. Had he been a philosopher, he might have said that the moment had come when a man understands that everything, just now, was fine - but would never be better again.
 
-No, he was no philosopher. He was a mercenary soldier, then a lavaget, a mercenary commander; he always grew angry when people called him a hero, and so he simply listened to the song, breathed deep, and did not notice how the waves licked the gray stone of the cliffs with ever greater fury, climbing higher and higher, while Notus, the wandering south wind, had long since fled back to his home among the winds, frightened by something, or perhaps simply remembering urgent business elsewhere.
+No, he was no philosopher. He was a mercenary soldier, then a lawagetas, a mercenary commander; he always grew angry when people called him a hero, and so he simply listened to the song, breathed deep, and did not notice how the waves licked the gray stone of the cliffs with ever greater fury, climbing higher and higher, while Notus, the wandering south wind, had long since fled back to his home among the winds, frightened by something, or perhaps simply remembering urgent business elsewhere.
 
 "Ha-a-ai, a storm over the sea..."
 

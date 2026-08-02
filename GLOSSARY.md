@@ -74,7 +74,7 @@ The prologue dialogue refers to the gods by relational nicknames rather than nam
 |---|---|---|
 | Hecatombeon | Гекатомбеон | Summer month name |
 | Basileus | Басилей | Kept transliterated (Mycenaean king/ruler title), not translated as "king" |
-| lavaget | Лавагет | Recurs constantly through the whole book (~80+ times) as a title/epithet/form of address for Amphitryon, so consistency matters a lot here. Chose "lavaget" over the more scholarly "lawagetas" - shorter, closer to the author's own transliteration, and matches the book's own endnote 9 ("a military commander, a warlord"), which is simpler than the full Mycenaean second-in-command-to-the-wanax gloss. Footnoted at first occurrence only (endnote [9]); later occurrences are plain, per house style below. |
+| lawagetas | Лавагет | Recurs constantly through the whole book (~80+ times) as a title/epithet/form of address for Amphitryon, so consistency matters a lot here. |
 | pornai | порны | Greek term for prostitutes (πόρναι), used as an aside gloss rather than "whores" alone; recurs a few times in the book. |
 
 ## Structural / formatting terms

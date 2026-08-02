@@ -30,7 +30,7 @@ Working notes for translating Genry Lion Oldi's «Герой должен быт
 - **All Classical Greek / Mycenaean terminology gets a footnote by default** — this matches the style of the original book, which glosses specialist terms for the reader.
 - The original book has its own numbered endnote system: markers like `[13]`, `[14]` in the running text correspond to a "Примечания" (Notes) section near the end of `hero_ru.md` (starting around line 13884). When we eventually integrate with that system, our new footnotes will need numbers of their own and an entry in the notes section.
 - For now, don't try to slot new footnotes into that numbered system — just use the inline square-bracket style described above.
-- Before adding a footnote, check whether the term already has one earlier in the text (the book's own numbered endnotes, or one we added) - footnote/gloss on **first occurrence only**, then use the term plain afterward. This matters a lot for recurring terms like "lavaget," which shows up dozens of times.
+- Before adding a footnote, check whether the term already has one earlier in the text (the book's own numbered endnotes, or one we added) - footnote/gloss on **first occurrence only**, then use the term plain afterward. This matters a lot for recurring terms like "lawagetas," which shows up dozens of times.
 - When the original book already has its own endnote for a term (see «Примечания» in `hero_ru.md`), prefer the author's own definition over inventing a more elaborate scholarly one - it keeps the translation's register matching the original's.
 
 ## Style notes
