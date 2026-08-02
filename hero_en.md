@@ -25,7 +25,7 @@ And the Serpent croaked gloomily:
 
 With all the conviction of modern man that the gods of Greece are only a product of imagination and that they never existed anywhere, all these gods stand before us - Zeus, Hera, Athena, Aphrodite, and even lesser gods, nymphs and satyrs - clothed into flesh and blood, and so alive that it takes a lot of mental energy to get rid of this glittering vision.
 
-*- V. Ali (RE XVI, 1376, s. v. Mythos)* **[what is RE? some kind of journal? Can't find]**
+*- W. Aly (RE XVI, 1376, s. v. Mythos)*
 
 
 ### Parodos [1]
@@ -192,7 +192,7 @@ For some time, Senior was digesting what he heard.
 
 "You know what, Hermes - fly to the Moirai! Find out what they are spinning for the dowry of the future newborn. We cannot change fate, but knowing it... knowing it would not hurt. Anything is possible..."
 
-"Yes, Overlod!" Trickster shouted out of tune in a squeaky voice, which most likely made Senior frown - because the gloom instantly turned black, becoming the original darkness.
+"Yes, Overlord!" Trickster shouted out of tune in a squeaky voice, which most likely made Senior frown - because the gloom instantly turned black, becoming the original darkness.
 
 "You joker... I told you a hundred times - you can act the ape in front of strangers. Or with your father. With me - don't. I do not like it. Alright - fly, kid."
 
@@ -269,7 +269,7 @@ A heavy war chariot, harnessed by a pair of lathered horses, flew out from behin
 
 The voice of the newcomer no longer resembled thunder - no, rather, it was now like the roar of a seasoned lion, full for the time being, but ready to get hungry at any moment.
 
-Philid was still thinking and trying to get a better look, putting his palm to his forehead like a visor, but Thelem had already took off and began to fussily unlock the gate.
+Philid was still thinking and trying to get a better look, putting his palm to his forehead like a visor, but Thelem had already taken off and began to fussily unlock the gate.
 
 "There you go, my lord," Nasal fiddled with the bolt that did not want to give in, and the young man watched the senior guard with surprise, since he had never seen him like that. "Almost there... almost..."
 
@@ -377,7 +377,7 @@ However, Elphistic sure knew how to fight. And did not know how to betray. More 
 
 More than two months that passed since his return were like torture for Amphitryon. He immersed himself headlong into affairs, personally supervised the division of the loot and the allocation of shares to the families of the fallen warriors, accompanied almost to the very Lake Copais some shepherds with a herd of cows - an annual tribute to the warlike city of Orchomenos, a tribute that Amphitryon himself considered humiliating, but was afraid to directly state this to Creon of Thebes. Then he commissioned a new shield and a dozen spearheads from the weaponsmiths; he returned home late, was affectionate with his wife and every minute he was afraid to lose temper and hit her.
 
-With a backhand swing, as the owners of cheap whores - porns **[or pornes?]** - in the ports do when they conceal a part of the proceeds.
+With a backhand swing, as the owners of cheap whores - pornai - in the ports do when they conceal a part of the proceeds.
 
 He understood that Alcmene was not to blame for anything.
 
@@ -453,7 +453,7 @@ Who was that with her that night?!
 
 "I did! She is expecting - but the child is mine! Mine! And only mine! Divine! Ha!"
 
-"Well, who was it, anyway?" Elphistic clearly believed the story, and his primary concert now was: what deity had been so shamefully disgraced?!
+"Well, who was it, anyway?" Elphistic clearly believed the story, and his primary concern now was: what deity had been so shamefully disgraced?!
 
 "I don't know," Amphitryon clung to the goblet and began to drink greedily, sprinkling wine around.
 
@@ -508,7 +508,7 @@ Amphitryon immediately armed part of his servants - choosing reliable people and
 
 Although, upon arrival it became clear almost immediately that there was robbery, but there were no robbers; or rather, it’s not that there were none at all, and the goats were really disappearing - but only because the herders of the flocks, that is, the shepherds, were very fond of meat. And they were very fond of it more often than they should have been. Especially accompanied by young wine, which around those parts almost flowed in streams.
 
-There was a lot of meat. It maad, baad, and grazed very close. The meat was the owners', and it was tasty - which constitued a contradiction. Therefore, the shepherds honestly had fought the temptation every time - and every time the temptation had triumphed...
+There was a lot of meat. It maaed, baaed, and grazed very close. The meat was the owners', and it was tasty - which constituted a contradiction. Therefore, the shepherds had honestly fought the temptation every time - and every time the temptation had triumphed...
 
 Having found that out, instead of flying into a rage, as his companions expected, Amphitryon laughed for a long time, then ordered to give a whipping to the guilty shepherds (mainly for their inability to lie) and recover what they had eaten from the part of the offspring promised to them; after which he set off on the return journey.
 
@@ -532,7 +532,7 @@ Later he listened to the story of what had happened, and his face during that di
 
 ...Shouts "Fire!" started in the middle of the night. Apparently, someone knocked over an oil lamp, the carpet caught fire - well, and from there it started blazing.
 
-Half-asleep, Alcmena did not immediately realize what was the matter, but the incessant cries of "We're on fire!" and the smoky fumes, already seeping through the cracks, quickly informed her what had happened. Having hastily wrapped herself in a peplos [11], Alcmene rushed to the exit, but a fold of the carpet, as if alive, slipped under her feet, a sharp pain pierced her ankle... smoke drifted around, her throat started tickling, her head was spinning... Alcmene understood with utmost clarity that she could not get up - and would either burn or suffocate in the smoke. She screamed with all her strength - and fell into a bottomless smoky well, on the rapidly approaching bottom of which...
+Half-asleep, Alcmene did not immediately realize what was the matter, but the incessant cries of "We're on fire!" and the smoky fumes, already seeping through the cracks, quickly informed her what had happened. Having hastily wrapped herself in a peplos [11], Alcmene rushed to the exit, but a fold of the carpet, as if alive, slipped under her feet, a sharp pain pierced her ankle... smoke drifted around, her throat started tickling, her head was spinning... Alcmene understood with utmost clarity that she could not get up - and would either burn or suffocate in the smoke. She screamed with all her strength - and fell into a bottomless smoky well, on the rapidly approaching bottom of which...
 
 Two freedmen from the servants who had broken down the door to the gynaeceum managed to carry her outside. Almost immediately a downpour hit, knocking down and extinguishing the predatory tongues of flame that escaped from under the roof, and in the rain Alcmene came to her senses. The rain heavily trampled on the dying fire, the smell of freshness quickly displaced the suffocating fumes from the lungs... fortunately, no one died, and the fire did not cause any significant losses either.
 
@@ -607,7 +607,7 @@ The healer was about to leave much less enthusiastically.
 
 One of the slave girls whispered something in his ear, pointing a finger at her mistress.
 
-The healer comletely reconsidered leaving.
+The healer completely reconsidered leaving.
 
 "You and you," he pointed at the two sturdy men with calloused craftsmen hands who stood among the gawkers. "Take him and follow me. She will pay you later."
 
@@ -676,7 +676,7 @@ And in all his voice, in all its brass-like sound that many times rose over the 
 
 "Get out of the way, you bastards!"
 
-The rapists staggered at first, but then stopped, looking at each other, and one stepped forward, a big, fat man with a hooked nose and small, sleepy, close-set eyes. A scar, looking like a rain warm, protruded from his left eye, lost in the stubble.
+The rapists staggered at first, but then stopped, looking at each other, and one stepped forward, a big, fat man with a hooked nose and small, sleepy, close-set eyes. A scar, looking like an earthworm, protruded from his left eye, lost in the stubble.
 
 Wobbling, the ringleader moved toward Amphitryon.
 
@@ -753,7 +753,7 @@ Not in the slightest.
 
 Alcmene could not be dissuaded from going to the oracle - the hereditary stubbornness of the Perseids had awakened in her, and Amphitryon knew from his own experience that in such cases further persuasion was pointless.
 
-All the more so because Alcmene, who was on her fifth month, was feeling fine, carried her visibly rounded belly with majestic dignity, and in general was not so different from the old Alcmene, except for an unexpected love of Rhodessian **[or Rhodesian? From Rhodes, not from Rhodesia]** smoked meats. Thessalian ones, she could not even look at after that incident in the marketplace.
+All the more so because Alcmene, who was on her fifth month, was feeling fine, carried her visibly rounded belly with majestic dignity, and in general was not so different from the old Alcmene, except for an unexpected love of Rhodian smoked meats. Thessalian ones, she could not even look at after that incident in the marketplace.
 
 Amphitryon grudgingly agreed - though he couldn't shake the thought that he was making a terrible mistake in indulging his wife's whim to ask Apollo of Delphi or any other deity, one of which had casually, out of a moment's curiosity, trampled their marital happiness.
 
@@ -771,7 +771,7 @@ He had to refuse as politely as he could and personally select a dozen and a hal
 
 A veteran is a warrior who has survived, and that says it all.
 
-Creon approved of his friend's choice, and Amphitryon did not mention that he selected the most expierenced among the most enduring, the most loyal among the most experienced, and the least supersticious among the most loyal, capable of not flinching at thunder from a clear blue sky and loving to swear by the intimate body parts of the Olympians.
+Creon approved of his friend's choice, and Amphitryon did not mention that he selected the most experienced among the most enduring, the most loyal among the most experienced, and the least superstitious among the most loyal, capable of not flinching at thunder from a clear blue sky and loving to swear by the intimate body parts of the Olympians.
 
 For some reason it seemed very important to him.
 
@@ -804,7 +804,7 @@ This week of the journey Amphitryon will remember to the end of his days - of wh
 
 The summer month of Hecatombeon is originally intended for enjoying the earthly pleasures, and the pilgrims first lingered for a while near Lake Copais (which, to be fair, wasn't exactly on the way), where the graying veterans were splashing like kids, and Licymnius, crazed from sun and freedom, challenged Nasal to a wreestling match, and even wrestled for some time, but not for long, because the intervening Amphitryon tore the feign-growling Thelem from his brother-in-law - after which he grabbed both by the scruff of their necks and dragged them to a deep part, despite their resistance and screams, where he sunk **[a better word? waterboarded?]** them a little, accompanied by the cackle of the soldiers and the squeal of a happy Alcmene.
 
-Then, having decorated themselves with wreaths of the sacred laurel and sworn to Apollo to not take them off until returning home, everyone moved in the direction of Phocis and almost reached the slopes of Parnassus, when Amphitryon at one stop suggested making a small detour, going down to the Gulf of Corinth and visiting Kirra **[Oldie have Crissa here - which was also near Delphi, but was not at a seaside. Intentional or mistake?]** - a tiny seaside down serving as Delphi's harbor.
+Then, having decorated themselves with wreaths of the sacred laurel and sworn to Apollo to not take them off until returning home, everyone moved in the direction of Phocis and almost reached the slopes of Parnassus, when Amphitryon at one stop suggested making a small detour, going down to the Gulf of Corinth and visiting Kirra - a tiny seaside down serving as Delphi's harbor.
 
 He did not know hinself what prompted him to take this step. Either an obvious reason - a need to get news of the trader galleys which were contracted to deliver the remaining booty from Taphos, and to personally organize the transportation of the valuables to Thebes, exchanging a part of the Taphos treasure for copper and priceless purple pigment; or a hidden reason to snatch from fate one more week of happiness... No, he did not waht to overthink it, but in a couple of days the wheels of the chariots and the hooves of the horses were already rumbling along the rocky coast of the Gulf of Corinth, and behind them the sandals of the veterans were slapping on the stone.
 
@@ -818,7 +818,7 @@ The sky was clear, although a few clouds began to gather seaward, standing still
 
 Amphitryon had fallen behind, letting the soldiers pass him, and now rode last, listening to the long-familiar song with an inexplicable ache. The horses tossed their heads, straining to bolt forward, but he held them back stubbornly and looked about, as though trying to spot, in the clouds over the sea or in the thistles pushing up through the scattered stones, the cause of his state - to understand it, and become the Amphitryon he used to be. Had he been a philosopher, he might have said that the moment had come when a man understands that everything, just now, was fine - but would never be better again.
 
-No, he was no philosopher. He was a mercenary soldier, then a lawagetas [a Mycenaean military title - leader of the host, second in rank only to the wanax], a mercenary commander; he always grew angry when people called him a hero, and so he simply listened to the song, breathed deep, and did not notice how the waves licked the gray stone of the cliffs with ever greater fury, climbing higher and higher, while Notus, the wandering south wind, had long since fled back to his home among the winds, frightened by something, or perhaps simply remembering urgent business elsewhere.
+No, he was no philosopher. He was a mercenary soldier, then a lavaget, a mercenary commander; he always grew angry when people called him a hero, and so he simply listened to the song, breathed deep, and did not notice how the waves licked the gray stone of the cliffs with ever greater fury, climbing higher and higher, while Notus, the wandering south wind, had long since fled back to his home among the winds, frightened by something, or perhaps simply remembering urgent business elsewhere.
 
 "Ha-a-ai, a storm over the sea..."
 

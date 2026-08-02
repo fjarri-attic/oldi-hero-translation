@@ -34,7 +34,7 @@ The prologue dialogue refers to the gods by relational nicknames rather than nam
 | Tartarus | Тартар | |
 | Notus | Нот | South wind |
 | Helios | Гелиос | |
-| Alalcomeneis | Алалкомена | Epithet of Athena (Ἀλαλκομενηΐς, "guardian"), from her Boeotian cult site Alalcomenae near Lake Copais. **Not** to be confused with "Alalcomenes" (a hero who reared infant Athena, per some sources) — similar spelling, different figure. |
+| Alalcomeneis | Алалкомена | Epithet of Athena, daughter of Zeus and Metis — per the book's own endnote 2, she later receives the epithet Pallas after defeating the giant Pallas and stretching his skin over her shield. Corresponds to Ἀλαλκομενηΐς, "guardian," from her Boeotian cult site Alalcomenae near Lake Copais. **Not** to be confused with "Alalcomenes" (a hero who reared infant Athena, per some sources) — similar spelling, different figure. |
 | Pegasus, Chrysaor the Golden Bow | Пегас, Хрисаор Золотой Лук | Medusa's children |
 | Gorgons | Горгоны | |
 
@@ -66,7 +66,7 @@ The prologue dialogue refers to the gods by relational nicknames rather than nam
 | Parnassus | Парнас | |
 | Phocis | Фокида | |
 | Delphi | Дельфы | |
-| Kirra | Крисы | Translator's choice — original says «Крисы» which is inland near Delphi; used "Kirra" (the actual seaside harbor town) since the narrative describes a seaside location. **Flagged for review** — possible original mistake or intentional. |
+| Kirra | Крисы | Original says «Крисы» (Crisa), an inland town near Delphi; used "Kirra" instead, since Kirrha was the actual seaside harbor town serving Delphi, matching the narrative's description of a seaside location. The two were distinct but related places, easily conflated. |
 
 ## Calendar & titles
 
@@ -74,7 +74,8 @@ The prologue dialogue refers to the gods by relational nicknames rather than nam
 |---|---|---|
 | Hecatombeon | Гекатомбеон | Summer month name |
 | Basileus | Басилей | Kept transliterated (Mycenaean king/ruler title), not translated as "king" |
-| lawagetas | Лавагет | Mycenaean military title — leader of the host, second in rank only to the wanax. Footnoted inline per Conventions. |
+| lavaget | Лавагет | Recurs constantly through the whole book (~80+ times) as a title/epithet/form of address for Amphitryon, so consistency matters a lot here. Chose "lavaget" over the more scholarly "lawagetas" - shorter, closer to the author's own transliteration, and matches the book's own endnote 9 ("a military commander, a warlord"), which is simpler than the full Mycenaean second-in-command-to-the-wanax gloss. Footnoted at first occurrence only (endnote [9]); later occurrences are plain, per house style below. |
+| pornai | порны | Greek term for prostitutes (πόρναι), used as an aside gloss rather than "whores" alone; recurs a few times in the book. |
 
 ## Structural / formatting terms
 
