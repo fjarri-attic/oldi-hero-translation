@@ -28,7 +28,9 @@ With all the conviction of modern man that the gods of Greece are only a product
 *- W. Aly (RE XVI, 1376, s. v. Mythos)*
 
 
-### Parodos [1]
+### Parodos[^1]
+
+[^1] The first song that is sung by the chorus at the beginning of a Greek tragedy.
 
 Darkness.
 
@@ -118,7 +120,11 @@ Middle doesn't answer.
 
 "Can you guess then what the very same Perseus the Scavenger began to consider as he was getting older?"
 
-"Can I guess?" laughs the darkness, and unhappy is its laughter. "*I know!* I myself asked him about it when he came to me. The blood of the sacrificial cow warmed Perseus's memory, and he had nothing to lose - he had lost everything. 'I don’t regret anything,' he said, and I shuddered when I saw his smile, 'except for one thing... I should not have given Alalcomeneis [2] the head of Medusa. But since I did, I at least should have let them look each other in the eyes. Relatives, after all... Answer me, Overlord **[is there an actual title similar to this?]** - would you then dare to send Thanatos [3] after me?' And I didn't answer him, Middle! I was silent, and he was smiling..."
+"Can I guess?" laughs the darkness, and unhappy is its laughter. "*I know!* I myself asked him about it when he came to me. The blood of the sacrificial cow warmed Perseus's memory, and he had nothing to lose - he had lost everything. 'I don’t regret anything,' he said, and I shuddered when I saw his smile, 'except for one thing... I should not have given Alalcomeneis[^2] the head of Medusa. But since I did, I at least should have let them look each other in the eyes. Relatives, after all... Answer me, Overlord **[is there an actual title similar to this?]** - would you then dare to send Thanatos[^3] after me?' And I didn't answer him, Middle! I was silent, and he was smiling..."
+
+[^2] One of the epithets of the goddess Athena, daughter of Zeus and Metis; the epithet Pallas she will earn later, having defeated the giant Pallas and crafted a shield out of his skin.
+
+[^3] Thanatos the Death, twin brother of Hypnos the Sleep, son of Nyx the Night.
 
 Silence. And only the black water of Styx splashes on the foot of the White Cliff of Oblivion, invisible in the darkness, as if washing away from it the bitterness of Overlord's last words.
 
@@ -126,7 +132,9 @@ Silence. And only the black water of Styx splashes on the foot of the White Clif
 
 "What do you suggest, Middle?"
 
-"To begin with, talk to Junior. Convince him not to do it. The Moirai [4] have not yet spun the thread, so everything is reversible. Perhaps Junior will listen to both of us..."
+"To begin with, talk to Junior. Convince him not to do it. The Moirai[^4] have not yet spun the thread, so everything is reversible. Perhaps Junior will listen to both of us..."
+
+[^4] Three goddesses of destiny: Clotho the Spinner, Atropos the Inescapable, Lakhesis the Apportioner of Lots. "Moirai" is literally "parts", "shares", or "alottted portions".
 
 "He didn't listen to you alone, it seems. Don't be naive, Middle - you know Zeus as well as I do! If he has decided on something, you will not dissuade him, even if you turn the world inside out."
 
@@ -150,7 +158,9 @@ Flashes.
 
 Darkness.
 
-"You rarely come down to me, Middle," the darkness responds almost silently. "Very rarely. Otherwise you would have known that the Hecatoncheires [5] are holding back the pressure from Tartarus with more and more difficulty. And sooner or later the Hundred-handed may succumb to it. Then I will welcome any ally: no matter if it's one of the Family, or a Half-Man, or a Lone Scavenger - if only he knows how to kill permanently. Junior is an arrogant tyrant, but on that day he will be the first of the fighters. And you, Middle, would you prefer to sit it out in your depths? Do not be offended, I'm just saying... In short, I would advise you not to worry too much about the future fate of the Lone Scavenger. He is mortal - and that says it all; at least for me. We need to worry about those who are accumulating strength down there, in Tartarus. And your claims to power do not concern me. I am not striving for power, what I have is enough for me. And I will not inform Junior about our conversation."
+"You rarely come down to me, Middle," the darkness responds almost silently. "Very rarely. Otherwise you would have known that the Hecatoncheires[^5] are holding back the pressure from Tartarus with more and more difficulty. And sooner or later the Hundred-handed may succumb to it. Then I will welcome any ally: no matter if it's one of the Family, or a Half-Man, or a Lone Scavenger - if only he knows how to kill permanently. Junior is an arrogant tyrant, but on that day he will be the first of the fighters. And you, Middle, would you prefer to sit it out in your depths? Do not be offended, I'm just saying... In short, I would advise you not to worry too much about the future fate of the Lone Scavenger. He is mortal - and that says it all; at least for me. We need to worry about those who are accumulating strength down there, in Tartarus. And your claims to power do not concern me. I am not striving for power, what I have is enough for me. And I will not inform Junior about our conversation."
+
+[^5] The Hundred-Handed, firstborn of Uranus the Sky and Gaia the Earth; Briareos, Gyes, and Kottos.
 
 "Thanks for that at least," Middle mutters discontentedly. "Oh, Senior, you will reconsider - but it will be too late. Make sure you don't regret it afterwards..."
 
@@ -263,7 +273,9 @@ A heavy war chariot, harnessed by a pair of lathered horses, flew out from behin
 
 "Open up, sleepyheads!" the low voice of the driver rolled across the land like a thunder, and the young man looked scaredly at Thelem, who shrugged his mighty shoulders, as if stretching before a fist fight. "Hey, you're going to oversleep the city! Hurry up!"
 
-"You're going to have to wait until morning," Philid informed him sharply **[a better expression?]** from the wall. "Order of basileus [6] Creon - not to let anyone into the city until dawn. That clear?"
+"You're going to have to wait until morning," Philid informed him sharply **[a better expression?]** from the wall. "Order of basileus[^6] Creon - not to let anyone into the city until dawn. That clear?"
+
+[^6] The ruler of the city. An analogue would be a grand prince.
 
 "Come on, didn't you recognize me, Philid?"
 
@@ -283,11 +295,15 @@ The newcomer jumped lightly from the chariot, flapping the sides of his wide clo
 
 And with broad marching steps he headed away along the street leading to the city center and Cadmea, the inner fortress.
 
-"He remembers," Thelem grunted contentedly, starting to unharness the snorting **[what sound do horses make when they are tired?]** horses. "He remembers me, and my brother, and every warrior in person... How long ago was it that we raided the Teleboans for the first time, and he still remembers. In a word - a hero! If he were to tell me: let us go, Thelem, together against the Lapiths [7] - I would go! I swear by Zeus of Dodona, I would go! He says my brother will be back by noon... oh, we're going to get drunk on the undiluted one!
+"He remembers," Thelem grunted contentedly, starting to unharness the snorting **[what sound do horses make when they are tired?]** horses. "He remembers me, and my brother, and every warrior in person... How long ago was it that we raided the Teleboans for the first time, and he still remembers. In a word - a hero! If he were to tell me: let us go, Thelem, together against the Lapiths[^7] - I would go! I swear by Zeus of Dodona, I would go! He says my brother will be back by noon... oh, we're going to get drunk on the undiluted one!
+
+[^7] One of the tribes descended from the titans; the tree people. **Not sure where Oldi got that from, they can be kind of traced to titans, but "tree people" is mentioned nowhere**
 
 "Who was that anyway, uncle?" the youth brought up, but Nasal did not hear him, immersed in joyful dreams about the upcoming drinking bout.
 
-"It was Amphitryon," Philid, who came down from the wall, answered instead of Thelem. "Amphitryon Perseid [8], a friend of Basileus Creon and the pride of all Hellas. Got it, you ignoramus?"
+"It was Amphitryon," Philid, who came down from the wall, answered instead of Thelem. "Amphitryon Perseid[^8], a friend of Basileus Creon and the pride of all Hellas. Got it, you ignoramus?"
+
+[^8] Perseid is a descendant of Perseus, in this case a grandson (cf. Zeus Kronid (son of Kronos), Autolycus Hermesid **or Hermid?** (son of Hermes) etc). Sometimes the ending "ad" was used (Aload, Heliad etc).
 
 "Got it," the youth nodded. "Amphitryon Perseid, the pride of Hellas. The one who married his own niece, and then killed his father-in-law with a club. What's not to get - the pride, and in general..."
 
@@ -361,7 +377,9 @@ The frightened slave girl looked out of the house, yelped soundlessly and hid ag
 
 #### 3
 
-"I can't believe my eyes! By the hooves of Silenus! Is it you, my friend, the great and glorious lawagetas [9] Amphitryon?! Some wine here! Wine for me and my friend, red Pramneios, and a jug of cold water! Heroes drink in Colchis manner, without diluting, and pour water on their heads after drinking!.. Climb up here, Amphitryon, - here, on this dais, you feel closer to heaven, and I remember your love for everything elevated... No, it's not your love, but Cephalus's from Thoricos, but I also remember your tastes, if I weren't Elphistiс **[any mythological reference?]** Troezenid! **[Was he actually a descendant of Troezen the guy, or just from Troezen the city? The Russian usage points to the former, and "Troezenid" is used later by itself...]** I remember everything, everything..."
+"I can't believe my eyes! By the hooves of Silenus! Is it you, my friend, the great and glorious lawagetas[^9] Amphitryon?! Some wine here! Wine for me and my friend, red Pramneios, and a jug of cold water! Heroes drink in Colchis manner, without diluting, and pour water on their heads after drinking!.. Climb up here, Amphitryon, - here, on this dais, you feel closer to heaven, and I remember your love for everything elevated... No, it's not your love, but Cephalus's from Thoricos, but I also remember your tastes, if I weren't Elphistiс **[any mythological reference?]** Troezenid! **[Was he actually a descendant of Troezen the guy, or just from Troezen the city? The Russian usage points to the former, and "Troezenid" is used later by itself...]** I remember everything, everything..."
+
+[^9] Leader of the army, commander.
 
 "You do, you do, but it is absolutely not necessary to yell about it for the whole tavern to hear," Amphitryon thought with slight annoyance, climbing up the dais and sitting down on a stool next to his former ally in the Taphian campaign Elphistic Troezenid, a stout red-bearded lout in a chiton made of expensive fabric, the original color of which was already impossible to find out, to such an extent the clothes were soaked in wine and grease.
 
@@ -433,7 +451,9 @@ Who was that with her that night?!
 
 "I don't know. Me, I guess... or Ares."
 
-"And mine - without a doubt! He! Ares-Enyalius [10]! Enonia said, even during this business, he did not take off his helmet. Honored us, that is. But my Enonia is so stupid - can't handle her now! Every night she repeats: 'Now Ares - that was the real thing! It was divine! Truly - a god... a spearman! And you're just a raggy billygoat...' And what about me? Sure, I’m not a spearman - although the women haven't complained so far! Listen, Amphitryon, let's go on a campaign! Otherwise I will croak, trying to please her..."
+"And mine - without a doubt! He! Ares-Enyalius[^10]! Enonia said, even during this business, he did not take off his helmet. Honored us, that is. But my Enonia is so stupid - can't handle her now! Every night she repeats: 'Now Ares - that was the real thing! It was divine! Truly - a god... a spearman! And you're just a raggy billygoat...' And what about me? Sure, I’m not a spearman - although the women haven't complained so far! Listen, Amphitryon, let's go on a campaign! Otherwise I will croak, trying to please her..."
+
+[^10] "Warlike", a common epithet of Ares, the god of war.
 
 "Ah, quit it!" unexpectedly for himself Amphitrion hissed through clenched teeth. "Divine, divine... We all know how it is - divine! They just gnash their teeth and run around the bedchamber - and that's all the love there is!"
 
@@ -532,7 +552,9 @@ Later he listened to the story of what had happened, and his face during that di
 
 ...Shouts "Fire!" started in the middle of the night. Apparently, someone knocked over an oil lamp, the carpet caught fire - well, and from there it started blazing.
 
-Half-asleep, Alcmene did not immediately realize what was the matter, but the incessant cries of "We're on fire!" and the smoky fumes, already seeping through the cracks, quickly informed her what had happened. Having hastily wrapped herself in a peplos [11], Alcmene rushed to the exit, but a fold of the carpet, as if alive, slipped under her feet, a sharp pain pierced her ankle... smoke drifted around, her throat started tickling, her head was spinning... Alcmene understood with utmost clarity that she could not get up - and would either burn or suffocate in the smoke. She screamed with all her strength - and fell into a bottomless smoky well, on the rapidly approaching bottom of which...
+Half-asleep, Alcmene did not immediately realize what was the matter, but the incessant cries of "We're on fire!" and the smoky fumes, already seeping through the cracks, quickly informed her what had happened. Having hastily wrapped herself in a peplos[^11], Alcmene rushed to the exit, but a fold of the carpet, as if alive, slipped under her feet, a sharp pain pierced her ankle... smoke drifted around, her throat started tickling, her head was spinning... Alcmene understood with utmost clarity that she could not get up - and would either burn or suffocate in the smoke. She screamed with all her strength - and fell into a bottomless smoky well, on the rapidly approaching bottom of which...
+
+[^11] A loose-fitting outer garment worn by women.
 
 Two freedmen from the servants who had broken down the door to the gynaeceum managed to carry her outside. Almost immediately a downpour hit, knocking down and extinguishing the predatory tongues of flame that escaped from under the roof, and in the rain Alcmene came to her senses. The rain heavily trampled on the dying fire, the smell of freshness quickly displaced the suffocating fumes from the lungs... fortunately, no one died, and the fire did not cause any significant losses either.
 
@@ -765,7 +787,9 @@ To forgive insults and to take pride in another's charity.
 
 He was growing gloomy, cursing his pride, and drinking at nights.
 
-One day he let Creon know that he feared the trip to the oracle. Fortunately the booze was now hardly affecting Amphitryon, and this time he managed to stop his inappropriate revelations - and Creon, the basileus of Thebes and a statesman, understood him in his own way. There are quite a few brigands roving around Boeotia[12], aren't there? The next day Amphitryon, who had not slept well, was horrified to learn that the thoughtful Creon had dedicated a detachment of warriors to accompany them, enough to take Delphi by force - if such an idea could ever even occur to anyone.
+One day he let Creon know that he feared the trip to the oracle. Fortunately the booze was now hardly affecting Amphitryon, and this time he managed to stop his inappropriate revelations - and Creon, the basileus of Thebes and a statesman, understood him in his own way. There are quite a few brigands roving around Boeotia[^12], aren't there? The next day Amphitryon, who had not slept well, was horrified to learn that the thoughtful Creon had dedicated a detachment of warriors to accompany them, enough to take Delphi by force - if such an idea could ever even occur to anyone.
+
+[^12] The central and the most fertile region of Middle Greece with the capital in Thebes.
 
 He had to refuse as politely as he could and personally select a dozen and a half veterans of previous campaigns who were willing to charge at anyone for Amphitryon - and, most importantly, who could charge calmly and judiciously.
 
@@ -775,7 +799,9 @@ Creon approved of his friend's choice, and Amphitryon did not mention that he se
 
 For some reason it seemed very important to him.
 
-On the sixth day of the month of Hecatombeon,[13] to the cheers of the crowd, a procession of three chariots drawn by pairs of Mitanni horses, followed by fifteen soldiers, chanting salty soldierly songs to and fro, rode out of the northwest gate of Thebes. The first chariot was personally driven by Amphitryon, with Alcmene behind him smiling left and right, waving a laurel branch; the second chariot was driven by the young Licymnius, Alcmene's half-brother (they shared the father, Electryon, the younger son of Perseus, and Licymnius's mother was Midea of Phrygia), who had black hair as wild as his sister's; and the reins of the third chariot were held by none other than Thelem the Nasal, at Amphitryon's request released from the guard duty and shining like a polished badge.
+On the sixth day of the month of Hecatombeon[^13], to the cheers of the crowd, a procession of three chariots drawn by pairs of Mitanni horses, followed by fifteen soldiers, chanting salty soldierly songs to and fro, rode out of the northwest gate of Thebes. The first chariot was personally driven by Amphitryon, with Alcmene behind him smiling left and right, waving a laurel branch; the second chariot was driven by the young Licymnius, Alcmene's half-brother (they shared the father, Electryon, the younger son of Perseus, and Licymnius's mother was Midea of Phrygia), who had black hair as wild as his sister's; and the reins of the third chariot were held by none other than Thelem the Nasal, at Amphitryon's request released from the guard duty and shining like a polished badge.
+
+[^13] Corresponds roughly to the period from July 15th to August 15th.
 
 Amphitryon himself, by necessity dressed in ceremonial robes with purple embroidery where needed and where not needed at all, could not wait for the time when they would ride far enough from the city and he would finally be able to strip off the annoying rags and change into more familiar clothes that befit a man during a campaign - even if it's just a trip to the sacred Delphi. Then he was going to transfer Alcmene to the chariot of Licymnius. The fact was that Amphitryon was rightfully considered the best charioteer in Boeotia - and perhaps not just in Boeotia - and, like any master proud of his skill, he allowed himself many liberties when riding, not entirely suitable for transporting pregnant women.
 
@@ -832,7 +858,7 @@ He did not at once understand that he himself was shouting. He was the one shout
 
 Then he lashed his own horses across the back with all his strength, driving them to the same madness as the pair now racing a spear's throw ahead of him, pressing ever closer to the impatiently licking jaws of the cliff - where, below, the absurd, impossible, monstrous wave still stood on its pedestal and did not fall.
 
-His shout - his war cry - saved the veterans' lives; many of them would otherwise have been trampled without fail. Those who by chance found themselves in the path of Amphitryon's chariot scattered instantly in every direction - a soldier's instincts had more than once saved men in moments when wise Metis-Thought proved entirely useless - while clever Nasal dropped from his own chariot like a whirlwind, seized the bridles of his team, hung his whole weight on them, and wrenched the bared muzzles to the right, toward the cliff, forcing the animals to dance in place and letting Amphitryon pass at full speed, grazing the left side of his chariot.
+His shout - his war cry - saved the veterans' lives; many of them would otherwise have been trampled without fail. Those who by chance found themselves in the path of Amphitryon's chariot scattered instantly in every direction - a soldier's instincts had more than once saved men in moments when wise Metis the Thought proved entirely useless - while clever Nasal dropped from his own chariot like a whirlwind, seized the bridles of his team, hung his whole weight on them, and wrenched the bared muzzles to the right, toward the cliff, forcing the animals to dance in place and letting Amphitryon pass at full speed, grazing the left side of his chariot.
 
 Which nearly threw Thelem and his horses from the cliff as well - though that no longer mattered in the least - and salt spray tore off the crest of the giant wave, like an involuntary round of applause.
 
