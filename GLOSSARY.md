@@ -60,3 +60,10 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Сила | Strength | The capitalized version, as something Heracles is a personification of. |
 | Зевс Додонский | Zeus of Dodona | An epithet of Zeus |
 | Гермесид | Hermid | Son/descendant of Hermes |
+| Эльпистик Трезенец | Elphistic Troezenid |  |
+| Энония | Oenonia | The wife of Elphistic. Not to be confused with Oenona, the wife of Paris |
+| Пантифлей-Речной | Pantelis-of-the-river |  |
+| Комето | Comaetho | Taphos princess |
+| Птерелай | Pterelaos | Taphos king |
+| Кефал из Торика | Cephalus of Thorikos |  |
+| Панопей | Panopeus |  |
