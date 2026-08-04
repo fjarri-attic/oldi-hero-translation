@@ -1,0 +1,6 @@
+hero_ru.md
+*.py
+ru/*
+.DS_STORE
+*.sublime-project
+*.sublime-workspace

@@ -4,20 +4,21 @@ Working notes for translating Genry Lion Oldi's «Герой должен быт
 
 ## Files
 
-- `hero_ru.md` — full Russian source. Untracked in git (kept out deliberately — full copyrighted text).
-- `hero_en.md` — the English translation, growing incrementally. Tracked in git.
-- `hero_en.html` — rendered export (mkdocs-style). Not actively maintained during translation; regenerate later if needed.
+- The folder `ru` contains the original text split into chapters (in Markdown format).
+- The folder `en` contains the translation with the file names matching those in the `ru` folder.
 - `GLOSSARY.md` — names, places, epithets, and terms with their settled English renderings. Update this whenever a new proper noun or term is introduced, or a existing one is corrected.
 - `CONVENTIONS.md` — this file.
 
+Ignore other files unless specifically instructed.
+
 ## Workflow
 
-- Work through the source **paragraph by paragraph**, appending finished English paragraphs to the end of `hero_en.md`.
+- Only ever work on a single file from the `ru` folder unless specifically instructed. When one of those is translated, put the translation in the file with the same name in the `en` folder.
 - Commit granularity: **one scene/beat per commit** (a natural narrative chunk — a few paragraphs to a page — not single paragraphs, not full chapters).
 - Commit message style: short, matching existing history (e.g. "New paragraphs", "Corrections"). No need for elaborate messages.
 - **Commit locally only** — never `git push` to `origin` unless explicitly asked.
-- Only stage/commit `hero_en.md` (and `GLOSSARY.md` / `CONVENTIONS.md` when they change). Never add `hero_ru.md` or the `.sublime-*` files to git.
-- When starting a new session on this project, check `git log` and the tail of `hero_en.md` to find exactly where the translation left off before continuing.
+- Only stage/commit the contents of `en` folder (and `GLOSSARY.md` / `CONVENTIONS.md` when they change). Never add other files to git.
+- When starting a new session on this project, check `git log` and the last file in the `en` folder (alphabetically, since they have enumerated prefixes) to find exactly where the translation left off before continuing.
 
 ## Translator queries vs. footnotes — two different bracket styles
 
