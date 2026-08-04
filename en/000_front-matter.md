@@ -1,5 +1,4 @@
-# The hero must be alone
-**[can we keep the wordplay in the title?]**
+# The hero stands alone
 
 And then Serpent's voice sounded:
 
