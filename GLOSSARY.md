@@ -41,7 +41,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Персей | Perseus |  |
 | Панопей Фокидский | Panopeus of Phocis |  |
 | Фивы | Thebes |  |
-| Тафос | Taphos |  |
+| Тафос | Taphos | An island |
 | Телебои | Teleboans |  |
 | Лапифы | Lapiths |  |
 | Копаидское озеро | Lake Copais |  |
@@ -58,3 +58,5 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | эписодий | epeisodion | Greek tragedy structural term, kept transliterated as section heading |
 | Геракл | Heracles | Using the Greek and not the Roman version of the name |
 | Сила | Strength | The capitalized version, as something Heracles is a personification of. |
+| Зевс Додонский | Zeus of Dodona | An epithet of Zeus |
+| Гермесид | Hermid | Son/descendant of Hermes |
