@@ -70,3 +70,4 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | ложе (множ. ложа) | kline (pl. klinai) | Ancient Greek furniture, served as a bed or as a couch |
 | опочивальня | thalamos |  |
 | Кефис | Cephissus |  |
+| гиматий | himation | a type of clothing |
