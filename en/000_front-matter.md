@@ -1,19 +1,19 @@
 # The hero stands alone
 
-And then Serpent's voice sounded:
+And then Serpent's voice rang out:
 
-"A mortal holds the sky with the gods. What of the titans then?"
+"A mortal holds up the sky with the gods. What of the titans then?"
 
 And he heard:
 
-"We are not needed. Never will the titans rise again. Their world is over. On one shoulder he holds the sky."
+"We are not needed. Never will the titans rise again. Their world is over. On one shoulder alone he holds the sky."
 
-"Only the gods are needed? The Chronids?"
+"Are only the gods needed then? The Kronids?"
 
-"Neither are the gods needed. Gods too he overcomes. Unshackled he holds the sky, because he is the Power." **[or Force?]**
+"Neither are the gods needed. Gods too he overcomes. Unshackled he holds the sky, because he is the Strength." **[or Force?]**
 
-And the Serpent croaked gloomily:
+And the Serpent rasped grimly:
 
-"Yes, now I know Hercules..."
+"Yes, now I know Heracles..."
 
-*- Y. Golosovker, "The Legend of Hercules"*
+*- Y. Golosovker, "The Legend of Heracles"*
