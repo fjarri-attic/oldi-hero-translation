@@ -78,3 +78,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Ананка-Неотвратимость | Ananke the Inevitability | Personification of necessity/inevitability. |
 | Пифия | Pythia | Oracle priestess at Delphi |
 | аэд (множ. аэды) | aoidos (pl. aoidoi) |
+| стасим | stasimon |  |
+| Душеводитель | Soul-Guide | An epithet of Hermes |
+| Эгина | Aegina |  |
