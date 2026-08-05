@@ -81,3 +81,17 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | стасим | stasimon |  |
 | Душеводитель | Soul-Guide | An epithet of Hermes |
 | Эгина | Aegina |  |
+| Навсикая | Nausicaa |  |
+| Галинтиада | Galinthias | Old crone, secret servant of Hecate, daughter of Proetus (myth. Galanthis/Galinthias, who tricked Eileithyia into letting Alcmene give birth) |
+| Пройт | Proetus |  |
+| Илифия (множ. Илифии) | Eileithyia (pl. Eileithyiai) | Goddess(es) of childbirth; footnoted on first occurrence |
+| Галинтиада | Galinthias |  |
+| Пройт | Proetus | Father of Galinthias |
+| Истребитель Чудовищ | Slayer of Monsters | Epithet of Heracles/Alcides, used before he is named as such by the narrative |
+| Трехтелая | Three-Formed | An epithet of Hecate (Trimorphos) |
+| Алкид | Alcides | The name Amphitryon gives the newborn Heracles ("Strong One"); used until he later takes the name Heracles |
+| Алкей | Alcaeus | Son of Perseus, father of Amphitryon |
+| Кадмея | Cadmea | The inner fortress/citadel of Thebes |
+| Громовержец | Thunderer | Epithet of Zeus |
+| Избавитель | Deliverer | An epithet given to Alcides/Heracles by Galinthias |
+| Герой Безымянный / Безымянный Герой | Nameless Hero | An epithet given to Alcides/Heracles by Galinthias |
