@@ -95,3 +95,11 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Громовержец | Thunderer | Epithet of Zeus |
 | Избавитель | Deliverer | An epithet given to Alcides/Heracles by Galinthias |
 | Герой Безымянный / Безымянный Герой | Nameless Hero | An epithet given to Alcides/Heracles by Galinthias |
+| Ификл | Iphicles | Alcides/Heracles's twin brother, son of Amphitryon |
+| Сфенел | Sthenelus | Amphitryon's uncle; exiled him from Mycenae; father of Eurystheus |
+| Никиппа | Nicippe | Wife of Sthenelus, daughter of Pelops, mother of Eurystheus |
+| Пелопс | Pelops | Son of Tantalus; footnoted on first occurrence |
+| Тантал | Tantalus | Cursed by the gods; father of Pelops |
+| Эврисфей | Eurystheus | Son of Sthenelus and Nicippe, born the same night as Alcides; later Mycenaean wanax |
+| Микены | Mycenae | Amphitryon's homeland, from which he was exiled |
+| ванакт | wanax | Mycenaean king, higher in rank than a basileus; footnoted on first occurrence |
