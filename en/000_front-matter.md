@@ -16,4 +16,4 @@ And the Serpent rasped grimly:
 
 "Yes, now I know Heracles..."
 
-*- Y. Golosovker, "The Legend of Heracles"*
+*--- Y. Golosovker, "The Legend of Heracles"*

@@ -1,10 +1,10 @@
 # Glossary
 
-Settled English renderings of names, places, epithets, and terms (including the epithets introduced by the authors). Check here before translating a proper noun that may have appeared earlier — consistency matters more than any single "better" choice.
+Settled English renderings of names, places, epithets, and terms (including the epithets introduced by the authors). Check here before translating a proper noun that may have appeared earlier --- consistency matters more than any single "better" choice.
 
 | Russian | English | Notes |
 |---|---|---|
-| герой должен быть один | the hero stands alone | This is the name of the book, and the phrase is repeated multiple time in the text - we should use the same translation in those places |
+| герой должен быть один | the hero stands alone | This is the name of the book, and the phrase is repeated multiple time in the text --- we should use the same translation in those places |
 | Старший | Senior | An epithet of Hades (used by fellow Olympians). Capitalized. |
 | Средний | Middle | An epithet of Poseidon (used by fellow Olympians). Capitalized. **)might be a better option)** |
 | Младший | Junior | An epithet of Zeus (used by fellow Olympians). Capitalized. |
@@ -37,7 +37,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Филид | Philid |  |
 | Креонт | Creon | Basileus of Thebes |
 | Электрион | Electryon | Father of Alcmene and Licymnius |
-| Мидея | Midea | Licymnius's mother — do not confuse with the sorceress Medea (Медея) |
+| Мидея | Midea | Licymnius's mother --- do not confuse with the sorceress Medea (Медея) |
 | Персей | Perseus |  |
 | Панопей Фокидский | Panopeus of Phocis |  |
 | Фивы | Thebes |  |
