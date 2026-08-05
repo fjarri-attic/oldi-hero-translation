@@ -77,3 +77,4 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Эглет | Aegeletes | An epithet of Apollo, "the radiant". |
 | Ананка-Неотвратимость | Ananke the Inevitability | Personification of necessity/inevitability. |
 | Пифия | Pythia | Oracle priestess at Delphi |
+| аэд (множ. аэды) | aoidos (pl. aoidoi) |
