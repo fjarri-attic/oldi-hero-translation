@@ -71,3 +71,4 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | опочивальня | thalamos |  |
 | Кефис | Cephissus |  |
 | гиматий | himation | a type of clothing |
+| Пеан | Paean | The healer god |
