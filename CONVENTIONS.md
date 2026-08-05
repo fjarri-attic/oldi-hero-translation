@@ -13,12 +13,7 @@ Ignore other files unless specifically instructed.
 
 ## Workflow
 
-- Only ever work on a single file from the `ru` folder unless specifically instructed. When one of those is translated, put the translation in the file with the same name in the `en` folder.
-- Commit granularity: **one scene/beat per commit** (a natural narrative chunk --- a few paragraphs to a page --- not single paragraphs, not full chapters).
-- Commit message style: short, matching existing history (e.g. "New paragraphs", "Corrections"). No need for elaborate messages.
-- **Commit locally only** --- never `git push` to `origin` unless explicitly asked.
-- Only stage/commit the contents of `en` folder (and `GLOSSARY.md` / `CONVENTIONS.md` when they change). Never add other files to git.
-- When starting a new session on this project, check `git log` and the last file in the `en` folder (alphabetically, since they have enumerated prefixes) to find exactly where the translation left off before continuing.
+Don't make commits - I will handle it. Change files only when specifically instructed. When we are working on a chapter, avoid looking into files other than the chapter itself, the glossary, and the conventions, unless necessary to check for consistency.
 
 ## Translator queries vs. footnotes --- two different bracket styles
 

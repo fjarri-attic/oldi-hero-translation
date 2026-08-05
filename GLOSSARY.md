@@ -105,3 +105,18 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | ванакт | wanax | Mycenaean king, higher in rank than a basileus; footnoted on first occurrence |
 | Фармакиды | Pharmakides | Sorceresses in folk tradition sent by Hera to delay childbirth |
 | Амфитриад | Amphitryoniades | Patronymic epithet, "son of Amphitryon" |
+| Эвритея | Eurythea | Old nurse in Amphitryon's household, daughter of the freedman Minyas the Lop-eared |
+| Миний Лопоухий | Minyas the Lop-eared | Freedman, Eurythea's father |
+| Гипнос | Hypnos | God of sleep, brother of Thanatos |
+| Сон-Гипнос | Hypnos the Sleep | Paired epithet |
+| Танат-Смерть | Thanatos the Death | Paired epithet (elsewhere plain "Танат" = "Thanatos") |
+| Ахерон | Acheron | River of the underworld |
+| Афина-Тритогенейя | Athena Tritogeneia | Epithet of Athena of disputed origin; footnoted on first occurrence |
+| Эол | Aeolus | God/lord of the winds |
+| Зефир | Zephyrus | West wind |
+| Борей | Boreas | North wind |
+| Борей-воитель | Boreas the Warrior | Paired epithet |
+| Гиперборея | Hyperborea |  |
+| Эвритея | Eurythea | Heracles's childhood nurse |
+| Крон | Kronus | Father of Zeus |
+| Бездна Вихрей | Abyss of Whirlwinds | Poetic/authorial term (from Y. Golosovker), not a standard classical name |
