@@ -73,3 +73,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | гиматий | himation | a type of clothing |
 | Пеан | Paean | The healer god |
 | Ехидна | Echidna |  |
+| Тиресий | Tiresias | Blind seer of Thebes |
+| Эглет | Aegeletes | An epithet of Apollo, "the radiant". |
+| Ананка-Неотвратимость | Ananke the Inevitability | Personification of necessity/inevitability. |
+| Пифия | Pythia | Oracle priestess at Delphi |
