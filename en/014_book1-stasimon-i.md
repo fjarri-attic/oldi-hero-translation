@@ -1,6 +1,6 @@
 ### Stasimon[^15] I
 
-[^15] A choral ode performed between the epeisodia of a Greek tragedy. Literally, "a standing song."
+[^15]: A choral ode performed between the epeisodia of a Greek tragedy. Literally, "a standing song."
 
 Darkness.
 

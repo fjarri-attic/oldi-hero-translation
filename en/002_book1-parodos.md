@@ -1,6 +1,6 @@
 ### Parodos[^1]
 
-[^1] The first song that is sung by the chorus at the beginning of a Greek tragedy.
+[^1]: The first song that is sung by the chorus at the beginning of a Greek tragedy.
 
 Darkness.
 
@@ -92,11 +92,11 @@ Middle doesn't answer.
 
 "Can I guess?" laughs the darkness, and unhappy is its laughter. "*I know!* I myself asked him about it when he came to me. The blood of the sacrificial cow warmed Perseus's memory, and he had nothing to lose --- he had lost everything. 'I don't regret anything,' he said, and I shuddered when I saw his smile, 'except for one thing... I should not have given Alalcomeneis[^2] the head of Medusa. But since I did, I at least should have let them look each other in the eyes. Relatives, after all... Answer me, Anax[^anax] --- would you then dare to send Thanatos[^3] after me?' And I didn't answer him, Middle! I was silent, and he was smiling..."
 
-[^2] One of the epithets of the goddess Athena, daughter of Zeus and Metis; the epithet Pallas she will earn later, having defeated the giant Pallas and crafted a shield out of his skin.
+[^2]: One of the epithets of the goddess Athena, daughter of Zeus and Metis; the epithet Pallas she will earn later, having defeated the giant Pallas and crafted a shield out of his skin.
 
 [^anax] Lord, king. Homer calls Hades *anax enerōn*, "lord of the dead men".
 
-[^3] Thanatos the Death, twin brother of Hypnos the Sleep, son of Nyx the Night.
+[^3]: Thanatos the Death, twin brother of Hypnos the Sleep, son of Nyx the Night.
 
 Silence. And only the black water of Styx splashes on the foot of the White Cliff of Oblivion, invisible in the darkness, as if washing away from it the bitterness of Anax's last words.
 
@@ -106,7 +106,7 @@ Silence. And only the black water of Styx splashes on the foot of the White Clif
 
 "To begin with, talk to Junior. Convince him not to do it. The Moirai[^4] have not yet spun the thread, so everything is reversible. Perhaps Junior will listen to both of us..."
 
-[^4] Three goddesses of destiny: Clotho the Spinner, Atropos the Inescapable, Lakhesis the Apportioner of Lots. "Moirai" is literally "parts", "shares", or "alottted portions".
+[^4]: Three goddesses of destiny: Clotho the Spinner, Atropos the Inescapable, Lakhesis the Apportioner of Lots. "Moirai" is literally "parts", "shares", or "alottted portions".
 
 "He didn't listen to you alone, it seems. Don't be naive, Middle --- you know Zeus as well as I do! If he has decided on something, you will not dissuade him, even if you turn the world inside out."
 
@@ -132,7 +132,7 @@ Darkness.
 
 "You rarely come down to me, Middle," the darkness responds almost silently. "Very rarely. Otherwise you would have known that the Hecatoncheires[^5] are holding back the pressure from Tartarus with more and more difficulty. And sooner or later the Hundred-Handed may succumb to it. Then I will welcome any ally: no matter if it's one of the Family, or a Halfman, or a Lone Scavenger --- if only he knows how to kill permanently. Junior is an arrogant tyrant, but on that day he will be the first of the fighters. And you, Middle, would you prefer to sit it out in your depths? Do not be offended, I'm just saying... In short, I would advise you not to worry too much about the future fate of the Lone Scavenger. He is mortal --- and that says it all; at least for me. We need to worry about those who are accumulating strength down there, in Tartarus. And your claims to power do not concern me. I am not striving for power, what I have is enough for me. And I will not inform Junior about our conversation."
 
-[^5] The Hundred-Handed, firstborn of Uranus the Sky and Gaia the Earth; Briareos, Gyes, and Kottos.
+[^5]: The Hundred-Handed, firstborn of Uranus the Sky and Gaia the Earth; Briareos, Gyes, and Kottos.
 
 "Thanks for that at least," Middle mutters discontentedly. "Oh, Senior, you will reconsider --- but it will be too late. Make sure you don't regret it afterwards..."
 
