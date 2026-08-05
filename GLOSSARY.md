@@ -103,3 +103,5 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Эврисфей | Eurystheus | Son of Sthenelus and Nicippe, born the same night as Alcides; later Mycenaean wanax |
 | Микены | Mycenae | Amphitryon's homeland, from which he was exiled |
 | ванакт | wanax | Mycenaean king, higher in rank than a basileus; footnoted on first occurrence |
+| Фармакиды | Pharmakides | Sorceresses in folk tradition sent by Hera to delay childbirth |
+| Амфитриад | Amphitryoniades | Patronymic epithet, "son of Amphitryon" |
