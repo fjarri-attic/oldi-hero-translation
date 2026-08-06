@@ -80,11 +80,11 @@ In reply --- a sarcastic chuckle.
 
 "That very one."
 
-"That's all we needed! Goodness knows what's going on in the Family as it is! You keep silent, Junior and Middle snarl at each other, Ares is itching for a fight, Hermeias has gone completely out of hand --- and all because of a child who isn't even born yet! Some Lone Scavenger, equal to the gods, indeed... And what will happen once he is born?!"
+"That's all we needed! Goodness knows what's going on in the Family as it is! You keep silent, Junior and Middle snarl at each other, Ares is itching for a fight, Hermeias has gone completely out of hand --- and all because of a child who isn't even born yet! Some Lone Cleaner, equal to the gods, indeed... And what will happen once he is born?!"
 
 "It seems to me, Sister, that you're simply jealous. As usual. As you have been a hundred times before. Jealous of a mortal woman whom Junior has once again preferred to you. And --- again, as usual --- you're about to take out your anger on her and her son. First you chase poor Io across the whole world, then you torment Aegina, and now it's Alcmene... It's time to calm down, Sister."
 
-"I? I'm jealous of a mortal?! A mere instant will pass --- for us --- and her body will turn to dust, and her shade will pass to you. To me she is already dust! How can I be jealous of dust? What concerns me, first of all, is the discord in the Family; then, I simply do not like the very idea of a Lone Scavenger... And finally --- my Spouse intends to raise the son of this... this woman, at the end of his life, to Olympus, making him our equal! Can you imagine it, Hades?! I did not sleep all night when Zeus announced it!"
+"I? I'm jealous of a mortal?! A mere instant will pass --- for us --- and her body will turn to dust, and her shade will pass to you. To me she is already dust! How can I be jealous of dust? What concerns me, first of all, is the discord in the Family; then, I simply do not like the very idea of a Lone Cleaner... And finally --- my Spouse intends to raise the son of this... this woman, at the end of his life, to Olympus, making him our equal! Can you imagine it, Hades?! I did not sleep all night when Zeus announced it!"
 
 "That is impossible, Sister. Either he is our equal from the start --- in which case Junior's intentions are meaningless; or he is not our equal --- and he will not become one, whatever Junior thinks on the matter!"
 
@@ -96,7 +96,7 @@ In reply --- a sarcastic chuckle.
 
 "Then he lied. I said that I keep to myself. And for now, I do not interfere. For now."
 
-"Then don't! In any case, this Lone Scavenger will not reign over all the Perseids --- I've already seen to that!"
+"Then don't! In any case, this Lone Cleaner will not reign over all the Perseids --- I've already seen to that!"
 
 The one they called Sister suddenly fell silent. When she spoke again, her voice held no more malice, no fury, not even authority --- only weariness and a plea, almost a supplication.
 
