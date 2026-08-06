@@ -126,3 +126,14 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Харикло | Chariclo | Nymph, mother of Tiresias |
 | Тучегонитель | Cloud-Gatherer | An epithet of Zeus |
 | Эниалий | Enyalius | An epithet of Ares |
+| Автолик | Autolycus | Son of Hermes, grandson of Zeus; "the craftiest of the Hellenes"; footnoted on first occurrence (name means "a wolf unto himself") |
+| Диоскуры | Dioscuri | Castor and Polydeuces, twin sons of Leda |
+| Кастор | Castor | One of the Dioscuri; son of Tyndareus |
+| Полидевк | Polydeuces | One of the Dioscuri; son of Zeus. Using the Greek form, not the Roman "Pollux" |
+| Тиндарей | Tyndareus | Father of Castor |
+| Идас Афарид | Idas Apharid | Son of Aphareus, of Messenia; patronymic epithet pattern as with Hermid |
+| Мессения | Messenia | Region of the Peloponnese |
+| Аргос | Argos | City in the Argolid |
+| Арголида | Argolis | Region where Argos is located |
+| Родос | Rhodes |  |
+| Истмийский перешеек | the Isthmos | The Isthmus of Corinth |
