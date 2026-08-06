@@ -54,7 +54,7 @@ The face of the speaker (if, of course, he has one) is not visible, but the tone
 
 "Then you must understand how dangerous this idea is, if it comes true! Junior is afraid of losing power, he is always afraid of losing power and frantically comes up with new... new weapons, and we still keep quiet and turn a blind eye to the possible consequences! Previously, it was acceptable --- not the same scale, not the same power, not to mention that without us, without the Family..."
 
-"That's right, Middle --- without us! By themselves, Halfmen are only capable of destroying their own kind, and no more... But with us --- oh, with us, as it turned out, they are capable of many things! They turned out to be great Scavengers! And you, Middle, you yourself produced bastard heroes with great pleasure, not caring for any considerations! Isn't that right, Sea Stallion?! Well tell me, tell me again --- 'you are right, brother'!"
+"That's right, Middle --- without us! By themselves, Half-Men are only capable of destroying their own kind, and no more... But with us --- oh, with us, as it turned out, they are capable of many things! They turned out to be great Scavengers! And you, Middle, you yourself produced bastard heroes with great pleasure, not caring for any considerations! Isn't that right, Sea Stallion?! Well tell me, tell me again --- 'you are right, brother'!"
 
 "Stop it!"
 
@@ -84,7 +84,7 @@ Middle doesn't answer.
 
 "You did," Senior continues confidently, and the flashes wink from afar, bending and pulsing. "Only from a great love could Medusa have children such as Pegasus and Chrysaor the Golden Bow. You loved her, Blackmane! And that's why you came to hate Perseus with all his offspring! Perhaps, if Junior went today not to a woman of the Perseids, but to any other, you would..."
 
-"Don't be silly, Senior! I am far from personal accounts --- further than you think! Although I do not forget anything and do not forgive insults. But you, do you remember what a shock it was for the whole Family --- to learn that those like us can be killed permanently too?! That a Scavenger, trash, a Halfman, is capable of something none of the Family can do?! Do you remember that?!"
+"Don't be silly, Senior! I am far from personal accounts --- further than you think! Although I do not forget anything and do not forgive insults. But you, do you remember what a shock it was for the whole Family --- to learn that those like us can be killed permanently too?! That a Scavenger, trash, a Half-Man, is capable of something none of the Family can do?! Do you remember that?!"
 
 "I remember," Senior replies dully.
 
@@ -130,7 +130,7 @@ Flashes.
 
 Darkness.
 
-"You rarely come down to me, Middle," the darkness responds almost silently. "Very rarely. Otherwise you would have known that the Hecatoncheires[^5] are holding back the pressure from Tartarus with more and more difficulty. And sooner or later the Hundred-Handed may succumb to it. Then I will welcome any ally: no matter if it's one of the Family, or a Halfman, or a Lone Scavenger --- if only he knows how to kill permanently. Junior is an arrogant tyrant, but on that day he will be the first of the fighters. And you, Middle, would you prefer to sit it out in your depths? Do not be offended, I'm just saying... In short, I would advise you not to worry too much about the future fate of the Lone Scavenger. He is mortal --- and that says it all; at least for me. We need to worry about those who are accumulating strength down there, in Tartarus. And your claims to power do not concern me. I am not striving for power, what I have is enough for me. And I will not inform Junior about our conversation."
+"You rarely come down to me, Middle," the darkness responds almost silently. "Very rarely. Otherwise you would have known that the Hecatoncheires[^5] are holding back the pressure from Tartarus with more and more difficulty. And sooner or later the Hundred-Handed may succumb to it. Then I will welcome any ally: no matter if it's one of the Family, or a Half-Man, or a Lone Scavenger --- if only he knows how to kill permanently. Junior is an arrogant tyrant, but on that day he will be the first of the fighters. And you, Middle, would you prefer to sit it out in your depths? Do not be offended, I'm just saying... In short, I would advise you not to worry too much about the future fate of the Lone Scavenger. He is mortal --- and that says it all; at least for me. We need to worry about those who are accumulating strength down there, in Tartarus. And your claims to power do not concern me. I am not striving for power, what I have is enough for me. And I will not inform Junior about our conversation."
 
 [^5]: The Hundred-Handed, firstborn of Uranus the Sky and Gaia the Earth; Briareos, Gyes, and Kottos.
 

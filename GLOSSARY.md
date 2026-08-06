@@ -15,7 +15,8 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Мойры | Moirai | The three Fates collectively. Capitalized. |
 | Клото | Clotho | One of the Moirai |
 | Семья | Family | Collective term for the Olympian dynasty/gods, used internally. Capitalized. |
-| Получеловек (множ. Полулюди) | Halfman (pl. Halfmen) | Demigod, a hero descending from gods. Capitalized. |
+| полубог | half-god | Demigod. We use "half-god" instead because in the text it is often juxtaposed with "half-man". If capitalized in the original, capitalize both parts ("Half-God"). If not, don't capitalize. |
+| получеловек (множ. полулюди) | half-man (pl. half-men) | Demigod, a hero descending from gods. If capitalized in the original, capitalize both parts ("Half-Man"). If not, don't capitalize. |
 | Мусорщик | Scavenger | Olympic gods' term for heroes who "clean up" after them **(might be a better option)** |
 | Мусорщик-Одиночка | Lone Scavenger | An epithet of Hercules |
 | Гекатонхейры / Сторукие | Hecatoncheires / Hundred-Handed |  |
