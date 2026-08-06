@@ -105,7 +105,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Микены | Mycenae | Amphitryon's homeland, from which he was exiled |
 | ванакт | wanax | Mycenaean king, higher in rank than a basileus; footnoted on first occurrence |
 | Фармакиды | Pharmakides | Sorceresses in folk tradition sent by Hera to delay childbirth |
-| Амфитриад | Amphitryoniades | Patronymic epithet, "son of Amphitryon" |
+| Амфитриад (мн. Амфитриады) | Amphitryoniades (pl. Amphitryoniadae) | Patronymic epithet, "son of Amphitryon" |
 | Эвритея | Eurythea | Old nurse in Amphitryon's household, daughter of the freedman Minyas the Lop-eared |
 | Миний Лопоухий | Minyas the Lop-eared | Freedman, Eurythea's father |
 | Гипнос | Hypnos | God of sleep, brother of Thanatos |
@@ -157,3 +157,11 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Бриарей | Briareus | One of the three Hecatoncheires |
 | Гий | Gyges | One of the three Hecatoncheires |
 | Котт | Cottus | One of the three Hecatoncheires |
+| Поликтор | Polyctor | Alcides's classmate; doesn't seem to have a mythological prototype |
+| Этолия | Aetolia | A region in Greece |
+| Орфей | Orpheus |  |
+| Атрей | Atreus |  |
+| Фиест | Thyestes |  |
+| Пелопид | Peolopid | Descendant of Pelops (like Atreus and Thyestes) |
+| Эак | Aeacus |  |
+| Горгоноубийца | Gorgon-Slayer | An epithet of Perseus |
