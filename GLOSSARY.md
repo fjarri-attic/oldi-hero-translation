@@ -137,3 +137,12 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Арголида | Argolis | Region where Argos is located |
 | Родос | Rhodes |  |
 | Истмийский перешеек | the Isthmos | The Isthmus of Corinth |
+| Дий | Dias | Alternate/archaic name for Zeus, used interchangeably with Зевс and paired with epithets (Dias the Father, Dias the Cloud-Gatherer, etc.); recurs frequently later in the book |
+| Бронтей-громовник | Brontes the Thunder-Wielder | Epithet of Zeus used once alongside "Дий" and "Зевс-Отец"; distinct from Громовержец (Thunderer) |
+| Мусагет | Musagetes | "Leader of the Muses," an epithet of Apollo; footnoted on first occurrence with the author's own endnote definition |
+| Радуйся | "Rejoice" | Standard Greek greeting (chaire); footnoted on first occurrence with the author's own endnote definition |
+| Психопомп | Psychopomp | Epithet of Hermes as guide of souls, glossed in-text by the author as "Проводник душ" (i.e. Soul-Guide) |
+| Даная | Danae | Mother of Perseus, visited by Zeus as a golden rain |
+| Европа | Europa | Visited by Zeus in the form of a bull |
+| Кастор Диоскур | Castor the Dioscurus | Castor introduced with the "Dioscurus" epithet on this one occasion; elsewhere referred to plainly as Castor, one of the Dioscuri |
+| кифаред (мн. кифареды) | kitharode (pl. kitharodes) | A kithara player |
