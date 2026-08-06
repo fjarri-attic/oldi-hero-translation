@@ -147,3 +147,4 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Европа | Europa | Visited by Zeus in the form of a bull |
 | Кастор Диоскур | Castor the Dioscurus | Castor introduced with the "Dioscurus" epithet on this one occasion; elsewhere referred to plainly as Castor, one of the Dioscuri |
 | кифаред (мн. кифареды) | kitharode (pl. kitharodes) | A kithara player |
+| Тефия | Tephia | Phoenician slave woman in Alcmene's household |
