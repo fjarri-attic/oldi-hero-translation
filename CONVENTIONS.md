@@ -18,7 +18,7 @@ Don't make commits - I will handle it. Change files only when specifically instr
 ## Translator queries vs. footnotes --- two different bracket styles
 
 - **Open questions for the user** (word choice uncertain, needs research, ambiguous in source): bold bracket note right after the relevant word/phrase, e.g. `**[a better word? waterboarded?]**`. These are flags for discussion, not meant to survive into a final draft.
-- **Footnotes** (explanatory content that should actually accompany the word): Markdown style --- a reference anchor near the word (without a space), and the actual footnote under the paragpaph. E.g. `... lawagetas[^9] ...` in a paragraph, and `[^9] A Mycenaean military title --- leader of the host, second in rank only to the wanax]` after the paragraph.
+- **Footnotes** (explanatory content that should actually accompany the word): Markdown style --- a reference anchor near the word (without a space), and the actual footnote under the paragpaph. E.g. `... lawagetas[^9] ...` in a paragraph, and `[^9]: A Mycenaean military title --- leader of the host, second in rank only to the wanax]` after the paragraph.
 - Once a translator query is resolved, either delete the bracket note or convert it into a proper footnote --- don't leave stale open questions sitting in finished text.
 
 ## Footnote policy going forward

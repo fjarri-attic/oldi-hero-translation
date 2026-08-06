@@ -120,3 +120,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Эвритея | Eurythea | Heracles's childhood nurse |
 | Крон | Kronus | Father of Zeus |
 | Бездна Вихрей | Abyss of Whirlwinds | Poetic/authorial term (from Y. Golosovker), not a standard classical name |
+| Гермес | Hermes |  |
+| Гермий | Hermeias | Alternate/poetic form of Hermes's name (Homeric variant), used interchangeably with Гермес (Hermes) in the book. We want to use the matching translation every time. |
+| Гермий-Киллений / Киллений | Hermeias Cyllenios / Cyllenios | Epithet of Hermes, "the Cyllenian" (born on Mount Cyllene in Arcadia); footnoted on first occurrence with the author's own endnote definition |
+| Харикло | Chariclo | Nymph, mother of Tiresias |

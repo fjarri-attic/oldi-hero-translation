@@ -66,7 +66,7 @@ In reply --- a sarcastic chuckle.
 
 "Don't pretend! The one who's at your place every single night, without fail! Your Soul-Guide!"
 
-"Trickster, you mean? Hermes?"
+"Trickster, you mean? Hermeias?"
 
 "Him, Maia's brat... Dummy! The wretched thief! He's managed to anger not only Middle, but my Ares as well. You know yourself, just give Ares a reason... I tell him, 'Son, don't tangle with Dummy!' --- but he's beside himself. I'll catch Trickster, he says, and..."
 
@@ -80,7 +80,7 @@ In reply --- a sarcastic chuckle.
 
 "That very one."
 
-"That's all we needed! Goodness knows what's going on in the Family as it is! You keep silent, Junior and Middle snarl at each other, Ares is itching for a fight, Hermes has gone completely out of hand --- and all because of a child who isn't even born yet! Some Lone Scavenger, equal to the gods, indeed... And what will happen once he is born?!"
+"That's all we needed! Goodness knows what's going on in the Family as it is! You keep silent, Junior and Middle snarl at each other, Ares is itching for a fight, Hermeias has gone completely out of hand --- and all because of a child who isn't even born yet! Some Lone Scavenger, equal to the gods, indeed... And what will happen once he is born?!"
 
 "It seems to me, Sister, that you're simply jealous. As usual. As you have been a hundred times before. Jealous of a mortal woman whom Junior has once again preferred to you. And --- again, as usual --- you're about to take out your anger on her and her son. First you chase poor Io across the whole world, then you torment Aegina, and now it's Alcmene... It's time to calm down, Sister."
 
@@ -154,7 +154,7 @@ Trickster snorted scornfully.
 
 "Exactly. So raise your voice at Cerberus, uncle --- he's guarding badly, too busy chasing fleas! And tell Charon --- he'd better check his ferry more carefully... he'll miss a runaway shade!"
 
-"You frighten me, Hermes. And I am not easily frightened... but I am careful. And I have great hopes for the child who is to be born today. If Junior hasn't made a mistake..."
+"You frighten me, Hermeias. And I am not easily frightened... but I am careful. And I have great hopes for the child who is to be born today. If Junior hasn't made a mistake..."
 
 "Dad isn't terribly clever. But even so, he's rarely wrong."
 
