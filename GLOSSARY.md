@@ -148,3 +148,12 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Кастор Диоскур | Castor the Dioscurus | Castor introduced with the "Dioscurus" epithet on this one occasion; elsewhere referred to plainly as Castor, one of the Dioscuri |
 | кифаред (мн. кифареды) | kitharode (pl. kitharodes) | A kithara player |
 | Тефия | Tephia | Phoenician slave woman in Alcmene's household |
+| Хирон | Chiron | Centaur, son of Kronus; lives on Pelion, apart from the Family |
+| Пелион | Pelion | Mountain, Chiron's home |
+| Колебатель Земли | Earth-Shaker | Epithet of Poseidon |
+| Крон-Павший | Kronus the Fallen | Paired epithet of Kronus |
+| Крон-Временщик | Kronus the Timekeeper | Paired epithet of Kronus, echoing his epithet "Хозяин Времени" (Master of Time) |
+| Титаномахия | Titanomachy | War between the gods and the Titans; footnoted on first occurrence with the author's own endnote definition |
+| Бриарей | Briareus | One of the three Hecatoncheires |
+| Гий | Gyges | One of the three Hecatoncheires |
+| Котт | Cottus | One of the three Hecatoncheires |
