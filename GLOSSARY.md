@@ -205,3 +205,12 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Очищающий от скверны | Purifier | Epithet of Apollo |
 | Феб | Phoebus | Epithet/alternate name of Apollo |
 | Аполлон | Apollo | Choosing this in favor of Apollon; Apollon is the original spelling, but there is no difference in Russian as it is with Hermeias/Hermes, so we pick the more common one |
+| Кадм-Фивостроитель | Cadmus the Thebes-Builder | Paired epithet of Cadmus, founder of Thebes, who slew a dragon and later turned into a serpent himself |
+| Алоады | Aloadae | Giant brothers who piled Ossa on Pelion and imprisoned Ares; killed each other via a trick involving Artemis's doe |
+| Осса | Ossa | Mountain, piled by the Aloadae on Pelion |
+| Арей | Ares | Alternate/poetic form of Ares's name, used once so far (cf. Эниалий, an epithet of the same god) |
+| Идас | Idas | Idas of Messenia (cf. Идас Афарид / Idas Apharetid); dared to raise his hand against Apollo over his bride Marpessa |
+| Марпесса | Marpessa | River-nymph, bride of Idas of Messenia; object of Apollo's rivalry with Idas |
+| Кореб | Coroebus | Young rival of Apollo, from Argos; exiled |
+| Иксион | Ixion | Rebellious Lapith who dared to love Hera, Zeus's wife, as an equal |
+| Дромос | Dromos | A hidden shortcut path of Hermes's own devising, letting one cross great distances instantly; footnoted on first occurrence, capitalized as a proper name |
