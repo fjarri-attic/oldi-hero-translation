@@ -166,7 +166,15 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Эак | Aeacus |  |
 | Горгоноубийца | Gorgon-Slayer | An epithet of Perseus |
 | Ифит | Iphitus | Eldest son of Eurytus, basileus of Oechalia; an archer |
-| Эврит | Eurytus | Basileus of Oechalia, famed archer; father of Iphitus |
 | Ойхаллия | Oechalia | City on Euboea, Eurytus's kingdom |
 | Лин | Linus | Legendary kitharode, referenced as a standard of excellence |
 | Эвбея | Euboea |  |
+| Эврит | Eurytus | Basileus of Oechalia, famed archer; father of Iphitus and Iole. Also called "Эврит-лучник" / "Eurytus the Archer" |
+| Иола | Iole | Eurytus's foretold future daughter, prophesied to become the future wife of Alcmene's son (Heracles) |
+| Миртил | Myrtilus | Current teacher of Alcides and Iphicles in archery |
+| Мунит | Munit | Eurytus's deliberately dismissive/mocking mangling of "Myrtil" 's name, used twice |
+| килик | kylix | Ancient Greek drinking cup; the author's own endnote glosses it simply as "a ladle-shaped drinking cup" --- footnoted on first occurrence |
+| Энносигей | Ennosigaios | Epithet of Poseidon ("Earth-Shaker" in Greek), paired with the translated epithet: "the Earth-Shaker, Poseidon Ennosigaios" |
+| Зевс-Гостеприимец | Zeus the Hospitable | Epithet of Zeus as protector of guests/hospitality |
+| Солнцебог | Sun-God | Epithet of Apollo |
+| вакханки | bacchantes |  |
