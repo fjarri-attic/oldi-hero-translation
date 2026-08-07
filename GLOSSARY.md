@@ -60,7 +60,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Геракл | Heracles | Using the Greek and not the Roman version of the name |
 | Сила | Strength | The capitalized version, as something Heracles is a personification of. |
 | Зевс Додонский | Zeus of Dodona | An epithet of Zeus |
-| Гермесид | Hermid | Son/descendant of Hermes |
+| Гермесид | Hermesid | Son/descendant of Hermes |
 | Эльпистик Трезенец | Elphistic Troezenid |  |
 | Энония | Oenonia | The wife of Elphistic. Not to be confused with Oenona, the wife of Paris |
 | Пантифлей-Речной | Pantelis-of-the-river |  |
@@ -132,7 +132,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Кастор | Castor | One of the Dioscuri; son of Tyndareus |
 | Полидевк | Polydeuces | One of the Dioscuri; son of Zeus. Using the Greek form, not the Roman "Pollux" |
 | Тиндарей | Tyndareus | Father of Castor |
-| Идас Афарид | Idas Apharid | Son of Aphareus, of Messenia; patronymic epithet pattern as with Hermid |
+| Идас Афарид | Idas Apharetid | Son of Aphareus, of Messenia |
 | Мессения | Messenia | Region of the Peloponnese |
 | Аргос | Argos | City in the Argolid |
 | Арголида | Argolis | Region where Argos is located |
@@ -165,3 +165,8 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Пелопид | Peolopid | Descendant of Pelops (like Atreus and Thyestes) |
 | Эак | Aeacus |  |
 | Горгоноубийца | Gorgon-Slayer | An epithet of Perseus |
+| Ифит | Iphitus | Eldest son of Eurytus, basileus of Oechalia; an archer |
+| Эврит | Eurytus | Basileus of Oechalia, famed archer; father of Iphitus |
+| Ойхаллия | Oechalia | City on Euboea, Eurytus's kingdom |
+| Лин | Linus | Legendary kitharode, referenced as a standard of excellence |
+| Эвбея | Euboea |  |
