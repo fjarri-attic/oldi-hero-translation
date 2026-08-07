@@ -178,3 +178,12 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Зевс-Гостеприимец | Zeus the Hospitable | Epithet of Zeus as protector of guests/hospitality |
 | Солнцебог | Sun-God | Epithet of Apollo |
 | вакханки | bacchantes |  |
+| Своя / Свой | Kinswoman / Kinsman | Recognition term used between followers of the Fallen (Titans); gendered address, capitalized like a title |
+| Павшие | the Fallen | Collective term for the deposed Titans, awaited by their followers to return and overthrow the Olympians |
+| Грайя | Graea | One of the Graeae, three grey-haired sisters born old, sharing one eye and one tooth |
+| Аргус Панопт | Argus Panoptes | The many-eyed titan/giant, here associated with the stars |
+| Нюкта | Nyx | Goddess/personification of Night |
+| Селена | Selene | Moon goddess |
+| Кадм-Змей | Cadmus the Serpent | Paired epithet of Cadmus, founder of Thebes/Cadmea |
+| Гермес-Путеводитель | Hermes the Guide | Epithet of Hermes distinct from Душеводитель (Soul-Guide) |
+| Сребролукий Аполлон | Silver-Bowed Apollo | Epithet of Apollo |
