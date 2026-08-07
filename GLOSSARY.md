@@ -187,3 +187,8 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Кадм-Змей | Cadmus the Serpent | Paired epithet of Cadmus, founder of Thebes/Cadmea |
 | Гермес-Путеводитель | Hermes the Guide | Epithet of Hermes distinct from Душеводитель (Soul-Guide) |
 | Сребролукий Аполлон | Silver-Bowed Apollo | Epithet of Apollo |
+| Пустышка | Dummy | Nickname the child Hermes gives himself; used by Alcides and Iphicles |
+| Гермий-Пустышка | Hermeias the Dummy | Paired epithet, "Пустышка" combined with the "Гермий" form of Hermes's name |
+| Сипил | Sipylus | Mountain (and city); Tantalus's domain in the story he tells the twins |
+| Пандарей | Pandareus | Figure from the Tantalus myth; called "эфесец" (from Ephesus) in the text |
+| молния | thunderbolt | Specifically when used as Zeus's weapon of choise. |

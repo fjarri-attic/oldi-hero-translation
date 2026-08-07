@@ -68,7 +68,7 @@ Chilling stuffiness.
 
 That is all.
 
-"Don't anger me, Senior. This is not why I came here. And I don't want to quarrel with you. We could always see eye to eye --- everyone: you, and me, and the Sisters. Everyone except Junior. And now too --- without listening to anyone, he intends to spawn a Lone Cleaner! Ordinary lightning bolts are not enough for him --- he wants a live one! And if Junior succeeds..."
+"Don't anger me, Senior. This is not why I came here. And I don't want to quarrel with you. We could always see eye to eye --- everyone: you, and me, and the Sisters. Everyone except Junior. And now too --- without listening to anyone, he intends to spawn a Lone Cleaner! Ordinary thunderbolts are not enough for him --- he wants a live one! And if Junior succeeds..."
 
 "I hope he does," Senior mutters, but Middle pretends not to hear.
 
