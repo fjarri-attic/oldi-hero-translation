@@ -192,3 +192,16 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Сипил | Sipylus | Mountain (and city); Tantalus's domain in the story he tells the twins |
 | Пандарей | Pandareus | Figure from the Tantalus myth; called "эфесец" (from Ephesus) in the text |
 | молния | thunderbolt | Specifically when used as Zeus's weapon of choise. |
+| Латона | Leto | Mother of Apollo and Artemis, daughter of the titan Coeus and Phoebe; using the Greek form "Leto," not the Latin "Latona" |
+| Кей | Coeus | Titan, father of Leto |
+| Феба | Phoebe | Titaness, mother of Leto |
+| Атлант-Небодержатель | Atlas the Sky-Bearer | Paired epithet of Atlas, father of the nymph Maia |
+| Пастырь Стад | Keeper of the Flocks | Epithet of Hermes |
+| Пифий / Аполлон Пифий | Pythius / Apollo Pythius | Epithet of Apollo, "Pythian," tied to Delphi |
+| Стреловержец | Far-Shooter | Epithet of Apollo |
+| Мститель | Avenger | Epithet of Apollo |
+| Водитель Муз | Leader of the Muses | Epithet of Apollo, translated (as opposed to "Мусагет" / Musagetes, which is transliterated) |
+| Несущий чуму | Plague-Bringer | Epithet of Apollo |
+| Очищающий от скверны | Purifier | Epithet of Apollo |
+| Феб | Phoebus | Epithet/alternate name of Apollo |
+| Аполлон | Apollo | Choosing this in favor of Apollon; Apollon is the original spelling, but there is no difference in Russian as it is with Hermeias/Hermes, so we pick the more common one |
