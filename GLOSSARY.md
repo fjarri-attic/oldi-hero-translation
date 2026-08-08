@@ -214,3 +214,8 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Кореб | Coroebus | Young rival of Apollo, from Argos; exiled |
 | Иксион | Ixion | Rebellious Lapith who dared to love Hera, Zeus's wife, as an equal |
 | Дромос | Dromos | A hidden shortcut path of Hermes's own devising, letting one cross great distances instantly; footnoted on first occurrence, capitalized as a proper name |
+| Прометей Япетид | Prometheus Iapetionides | Patronymic epithet, "son of Iapetus"; elsewhere plain "Прометей" = "Prometheus" |
+| герма (мн. гермы) | herma (pl. hermae) | Roadside boundary post topped with a carved head, sacred to Hermes; footnoted on first occurrence |
+| Бог-Покровитель | Patron God |  |
+| Гермес-Проводник | Hermes Pompaios | Note that it is distinct from Гермес-Путеводитель (Guide, Diaktoros). Don't know what English word would be better to use there, and Guide is already taken. |
+| фибула | fibula | Clothing pin/clasp, kept transliterated |
