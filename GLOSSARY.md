@@ -219,3 +219,17 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Бог-Покровитель | Patron God |  |
 | Гермес-Проводник | Hermes Pompaios | Note that it is distinct from Гермес-Путеводитель (Guide, Diaktoros). Don't know what English word would be better to use there, and Guide is already taken. |
 | фибула | fibula | Clothing pin/clasp, kept transliterated |
+| Силен | Silenus | Old satyr, tutor and companion of Dionysus |
+| Дриопа | Dryope | Nymph, daughter of the Dryopian tribe; mother of Pan by Hermes and of Amphissus by Andraemon |
+| Андремон | Andraemon | Dryope's mortal husband |
+| Амфис | Amphissus | Son of Dryope and Andraemon |
+| Пан | Pan | Son of Hermes and Dryope, raised by Dionysus |
+| Ниоба | Niobe | Mother whose children were killed by Apollo and Artemis |
+| Прокна | Procne | Wife of Tereus, killed her own son |
+| Терей | Tereus | Husband of Procne |
+| Ата-Обман | Ate the Deception | Paired epithet, personification of delusion/ruin |
+| Лисса-Безумие | Lyssa the Rage | Paired epithet, personification of rage/madness |
+| Дика-Правда | Dike the Justice | Paired epithet, personification of justice |
+| Мом | Momus | God of mockery and slander; footnoted on first occurrence with the author's own endnote definition |
+| Вакх-Дионис | Bacchus-Dionysus | Paired epithet of Dionysus |
+| Гермий-Рогач | Hermeias the Cuckold |  |
