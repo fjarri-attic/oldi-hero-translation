@@ -233,3 +233,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Мом | Momus | God of mockery and slander; footnoted on first occurrence with the author's own endnote definition |
 | Вакх-Дионис | Bacchus-Dionysus | Paired epithet of Dionysus |
 | Гермий-Рогач | Hermeias the Cuckold |  |
+| Кронид (множ. Крониды) | Kronid (pl. Kronids) | Patronymic epithet, "son of Kronus," |
+| Химера | Chimera | Monster; referenced in a simile ("howled like a wounded Chimera") |
+| Сериф | Seriphos | Island where Perseus grew up |
