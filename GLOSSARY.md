@@ -105,7 +105,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Микены | Mycenae | Amphitryon's homeland, from which he was exiled |
 | ванакт | wanax | Mycenaean king, higher in rank than a basileus; footnoted on first occurrence |
 | Фармакиды | Pharmakides | Sorceresses in folk tradition sent by Hera to delay childbirth |
-| Амфитриад (мн. Амфитриады) | Amphitryoniades (pl. Amphitryoniadae) | Patronymic epithet, "son of Amphitryon" |
+| Амфитриад (мн. Амфитриады) | Amphitryad (pl. Amphitryads) | Patronymic epithet, "son of Amphitryon". Note that the patronymic drops a part of the original name; this is to mimic the Russian original. |
 | Эвритея | Eurythea | Old nurse in Amphitryon's household, daughter of the freedman Minyas the Lop-eared |
 | Миний Лопоухий | Minyas the Lop-eared | Freedman, Eurythea's father |
 | Гипнос | Hypnos | God of sleep, brother of Thanatos |
@@ -214,7 +214,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Кореб | Coroebus | Young rival of Apollo, from Argos; exiled |
 | Иксион | Ixion | Rebellious Lapith who dared to love Hera, Zeus's wife, as an equal |
 | Дромос | Dromos | A hidden shortcut path of Hermes's own devising, letting one cross great distances instantly; footnoted on first occurrence, capitalized as a proper name |
-| Прометей Япетид | Prometheus Iapetionides | Patronymic epithet, "son of Iapetus"; elsewhere plain "Прометей" = "Prometheus" |
+| Прометей Япетид | Prometheus Iapetid | Patronymic epithet, "son of Iapetus"; elsewhere plain "Прометей" = "Prometheus" |
 | герма (мн. гермы) | herma (pl. hermae) | Roadside boundary post topped with a carved head, sacred to Hermes; footnoted on first occurrence |
 | Бог-Покровитель | Patron God |  |
 | Гермес-Проводник | Hermes Pompaios | Note that it is distinct from Гермес-Путеводитель (Guide, Diaktoros). Don't know what English word would be better to use there, and Guide is already taken. |
