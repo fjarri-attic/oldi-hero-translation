@@ -123,7 +123,7 @@ Two hazy silhouettes, two shades... no, shades have no place here --- they shoul
 
 Hades did not answer at once, but the Trickster did not hurry him, understanding that his uncle had told far from the whole story.
 
-"You know, Trickster," came at last out of the darkness, "I suspect the One doesn't believe in you, Hermeias Psychopomp, either. I also suspect the Fallen chose to call Kronus and the titans into alliance only for lack of strength of their own --- otherwise they would hardly have stood on ceremony with our ancestors! Just as they didn't stand on ceremony with us --- Kronus's children...
+"You know, Trickster," came at last out of the darkness, "I suspect the One doesn't believe in you, Hermeias Psychopompos, either. I also suspect the Fallen chose to call Kronus and the titans into alliance only for lack of strength of their own --- otherwise they would hardly have stood on ceremony with our ancestors! Just as they didn't stand on ceremony with us --- Kronus's children...
 
 "I was the first son of Star-Eyed Rhea and Kronus the Timekeeper. And the Fallen understood before anyone else that a new kind of being had been born, akin in some way to themselves; not a titan, but a god! The ancient titans were offspring of Gaia; they felt themselves to be mountains, forests, elements, and so were incapable of devouring one another's domains. A river and a mountain are not rivals; each 'I' has its limit set from the start. But we, the generation of gods, are capable of extending our 'I' onto what had not belonged to it before --- and in this we resemble the Fallen.
 
