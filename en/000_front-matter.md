@@ -10,7 +10,7 @@ And he heard:
 
 "Are only the gods needed then? The Kronids?"
 
-"Neither are the gods needed. Gods too he overcomes. Unshackled he holds the sky, because he is the Strength."
+"Neither are the gods needed. Gods too he overcomes. Unshackled he holds the sky, because he is Strength."
 
 And the Serpent rasped grimly:
 
