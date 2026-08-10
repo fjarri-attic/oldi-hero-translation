@@ -98,7 +98,7 @@ Middle doesn't answer.
 
 [^3]: Thanatos the Death, twin brother of Hypnos the Sleep, son of Nyx the Night.
 
-Silence. And only the black water of Styx splashes on the foot of the White Cliff of Oblivion, invisible in the darkness, as if washing away from it the bitterness of Anax's last words.
+Silence. And only the black water of Styx splashes on the foot of the White Cliff of Oblivion, invisible in the darkness, as if washing away from it the bitterness of the Anax's last words.
 
 "And he was smiling," repeats Middle. "He was smiling. Here. And after that, you don't want to prevent the Lone Cleaner from being born? Strange... very strange. Are you getting old, Anax?"
 
@@ -188,12 +188,12 @@ Hermeias was gone for quite a long time, and Senior was already beginning to won
 
 "Twins," immediately agreed the Trickster. "But for a thread to be twisted --- the Moirai themselves cannot recall this! In short, we untwisted it somehow..."
 
-"'We?'" Anax literally jumped up.
+"'We?'" the Anax literally jumped up.
 
 "We," Hermes confirmed with dignity. "I helped too! But all in vain --- in the end it got twisted again. So when two lots were drawn, they could not figure out which one goes to whom. However, what is there to figure out, the shards were almost the same..."
 
 "And the lot, what is the lot?!" almost shouted Senior.
 
-And then the Trickster bent down right to Anax's ear and whispered something.
+And then the Trickster bent down right to the Anax's ear and whispered something.
 
 The flashes blinked, puzzled, and went out.

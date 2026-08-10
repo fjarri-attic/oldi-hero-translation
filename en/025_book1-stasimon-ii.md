@@ -120,7 +120,7 @@ Chiron fell silent.
 
 Hermeias fell silent, as Chiron had a little while before.
 
-"And if I see that they are dangerous," he finished harshly, "I will kill them both. Whatever Father does afterward, however furious Anax grows and however Poseidon and Hera rejoice --- I will kill them. I believe I am the only one who would not fear doing it openly."
+"And if I see that they are dangerous," he finished harshly, "I will kill them both. Whatever Father does afterward, however furious the Anax grows and however Poseidon and Hera rejoice --- I will kill them. I believe I am the only one who would not fear doing it openly."
 
 Chiron studied the young face of the Trickster for a long moment --- so like, just then, the face of his father, Dias the Thunderer, Zeus of Olympus, as he had been many centuries ago, before the great battle.
 

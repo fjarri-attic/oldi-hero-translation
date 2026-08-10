@@ -77,7 +77,7 @@ Two hazy silhouettes, two shades... no, shades have no place here --- they shoul
 
 "Don't change the subject, uncle," Hermeias said sharply. "What happened next?"
 
-"Next?" The Anax fell silent for a moment, as though gathering his thoughts. "Very well. Listen on.
+"Next?" the Anax fell silent for a moment, as though gathering his thoughts. "Very well. Listen on.
 
 "Kronus the Timekeeper had just then overthrown his father Uranus, gelding him, and the Fallen quickly understood whom to bet on. They began giving Kronus wise counsel --- the kind Momus the Mocker gives..."
 
