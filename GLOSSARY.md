@@ -237,3 +237,9 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Химера | Chimera | Monster; referenced in a simile ("howled like a wounded Chimera") |
 | Сериф | Seriphos | Island where Perseus grew up |
 | жезл-кадуцей | the caduceus rod |  |
+| Полидект | Polydectes | King of Seriphos who mocked Perseus |
+| Беллерофонт | Bellerophon | Hero who slew the Chimera |
+| Иобат-ликиец | Iobates from Lycia | King of Lycia who tried to send Bellerophon to Hades |
+| солимы | Solymi | Warlike people defeated by Bellerophon |
+| Аид | Hades | The underworld/god of the dead, used as a place name here ("send to Hades") |
+| Гера | Hera | Zeus's wife; blamed for Alcides's madness |
