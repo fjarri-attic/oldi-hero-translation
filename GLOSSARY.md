@@ -4,7 +4,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 
 | Russian | English | Notes |
 |---|---|---|
-| герой должен быть один | the hero stands alone | This is the name of the book, and the phrase is repeated multiple time in the text --- we should use the same translation in those places |
+| герой должен быть один | a/the hero stands alone | This is the name of the book, and the phrase is repeated multiple time in the text --- we should use the same translation in those places. Note that the article may change depending on the context. |
 | Старший | Senior | An epithet of Hades (used by fellow Olympians). Capitalized. |
 | Средний | Middle | An epithet of Poseidon (used by fellow Olympians). Capitalized. **)might be a better option)** |
 | Младший | Junior | An epithet of Zeus (used by fellow Olympians). Capitalized. |
