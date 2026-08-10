@@ -103,7 +103,7 @@ Two hazy silhouettes, two shades... no, shades have no place here --- they shoul
 
 "It was then that, for the first time, the Firstborn stirred in the abysses of Tartarus --- the Hecatoncheires, Briareus, Gyges, and Cottus. They stirred, made themselves known... and fell silent again for a time..."
 
-"How could that be possible?!" Trickster's voice wavered. "That was *their* own land! That was *themselves*! One cannot maim, cannot kill oneself!"
+"How could that be possible?!" the Trickster's voice wavered. "That was *their* own land! That was *themselves*! One cannot maim, cannot kill oneself!"
 
 "We cannot. But they were the Fallen... Strangers. In their own world they devoured worlds the way men devour quinces and apricots; they digested them like food, turning what they swallowed into themselves --- to consume, and only afterward to say: 'This is I!' Can you truly not feel the difference, Trickster?!
 
@@ -121,7 +121,7 @@ Two hazy silhouettes, two shades... no, shades have no place here --- they shoul
 
 "I don't believe in the One," Hermeias's voice was firm and ringing. "I simply don't. It's a lie!"
 
-Hades did not answer at once, but Trickster did not hurry him, understanding that his uncle had told far from the whole story.
+Hades did not answer at once, but the Trickster did not hurry him, understanding that his uncle had told far from the whole story.
 
 "You know, Trickster," came at last out of the darkness, "I suspect the One doesn't believe in you, Hermeias Psychopomp, either. I also suspect the Fallen chose to call Kronus and the titans into alliance only for lack of strength of their own --- otherwise they would hardly have stood on ceremony with our ancestors! Just as they didn't stand on ceremony with us --- Kronus's children...
 
@@ -179,7 +179,7 @@ Hades did not answer at once, but Trickster did not hurry him, understanding tha
 
 "Since then, every human sacrifice, every violent destruction of a mortal mind --- in which particles of the Family's 'I' also reside --- unwittingly feeds Tartarus and the Fallen (for now everyone down there is Fallen: some for the first time, others for the second), feeding those who once tried to destroy us and now must make do with scraps..."
 
-"Cleaners," Trickster muttered hoarsely. "So that's why the Family needed the Half-Man Cleaners. To exterminate the offspring of the Fallen, to whom human sacrifices are so often offered..."
+"Cleaners," the Trickster muttered hoarsely. "So that's why the Family needed the Half-Man Cleaners. To exterminate the offspring of the Fallen, to whom human sacrifices are so often offered..."
 
 "You're right. Only the Cleaners themselves know just this much --- that they exterminate monsters --- and that is enough."
 
@@ -190,7 +190,7 @@ Hades did not answer at once, but Trickster did not hurry him, understanding tha
 
 [^33]: The concluding part of a stasimon.
 
-"You've grown up a great deal of late, Hermeias," Hades said, weighing each word, after Trickster fell silent. "The way out that you and Chiron have chosen --- it's not the best, but perhaps the only one..."
+"You've grown up a great deal of late, Hermeias," Hades said, weighing each word, after the Trickster fell silent. "The way out that you and Chiron have chosen --- it's not the best, but perhaps the only one..."
 
 Hermeias flinched. He had heard those same words (though on a different occasion) from Chiron.
 

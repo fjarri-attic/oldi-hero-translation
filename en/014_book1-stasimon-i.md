@@ -68,13 +68,13 @@ In reply --- a sarcastic chuckle.
 
 "Trickster, you mean? Hermeias?"
 
-"Him, Maia's brat... Dummy! The wretched thief! He's managed to anger not only Middle, but my Ares as well. You know yourself, just give Ares a reason... I tell him, 'Son, don't tangle with Dummy!' --- but he's beside himself. I'll catch Trickster, he says, and..."
+"Him, Maia's brat... Dummy! The wretched thief! He's managed to anger not only Middle, but my Ares as well. You know yourself, just give Ares a reason... I tell him, 'Son, don't tangle with Dummy!' --- but he's beside himself. I'll catch the Trickster, he says, and..."
 
 "Let him catch him first."
 
-"And what if he does? Trickster is your favorite --- so tell him not to poke his long nose where it doesn't belong! Ares doesn't like to joke, you know. Or rather, he doesn't know how."
+"And what if he does? The Trickster is your favorite --- so tell him not to poke his long nose where it doesn't belong! Ares doesn't like to joke, you know. Or rather, he doesn't know how."
 
-"Trickster does, though. He stole my own helmet right out from under me --- and that was the last anyone saw of him."
+"The Trickster does, though. He stole my own helmet right out from under me --- and that was the last anyone saw of him."
 
 "What helmet? Not the one, surely? The one the Cyclopes forged for you?!"
 
@@ -100,7 +100,7 @@ In reply --- a sarcastic chuckle.
 
 The one they called Sister suddenly fell silent. When she spoke again, her voice held no more malice, no fury, not even authority --- only weariness and a plea, almost a supplication.
 
-"You know, Senior, my Spouse has changed a great deal lately. For nine months now he has shared a bed with no one. Women no longer interest him --- and that frightens me. He has grown irritable, at times gloomy, and even more quick-tempered than before. I do not know the reasons --- and I am afraid to learn them. So I ask you, Senior --- stay out of it, as you promised. And I ask one more thing --- rein in Trickster."
+"You know, Senior, my Spouse has changed a great deal lately. For nine months now he has shared a bed with no one. Women no longer interest him --- and that frightens me. He has grown irritable, at times gloomy, and even more quick-tempered than before. I do not know the reasons --- and I am afraid to learn them. So I ask you, Senior --- stay out of it, as you promised. And I ask one more thing --- rein in the Trickster."
 
 "Very well, Sister. I'll rein him in... if I can find him."
 
@@ -122,15 +122,15 @@ No answer came.
 
 "What, decided to hide from me? Take off the helmet and get over here. Or I'll call Cerberus to chase you around, you fool..."
 
-Something stirred in the niche --- and in the gloom a face faintly emerged, followed by the dimly glowing outline of Trickster's slender figure (which appeared somewhat later than the face), and some bulky object in his right hand.
+Something stirred in the niche --- and in the gloom a face faintly emerged, followed by the dimly glowing outline of the Trickster's slender figure (which appeared somewhat later than the face), and some bulky object in his right hand.
 
 It was, apparently, the notorious helmet.
 
-"It's a bit too big for me, uncle," Trickster complained. "Keeps sliding down over my nose."
+"It's a bit too big for me, uncle," the Trickster complained. "Keeps sliding down over my nose."
 
 "Well, you shouldn't have taken it without asking --- then maybe it wouldn't slide. Fine, keep the helmet for now. You need it more --- if Ares gets his paws on you, he'll skin you alive."
 
-Trickster snorted scornfully.
+The Trickster snorted scornfully.
 
 "Thanks, uncle," he added a moment later.
 
@@ -148,7 +148,7 @@ Trickster snorted scornfully.
 
 "Such as?"
 
-"Human sacrifices. Again. Where they used to be offered, they're being offered more often. Where people had begun to forget about them, they've remembered again. And even where there were never any before... And you know, uncle, who they go to, even when they're offered to you and me," Trickster jabbed a finger at the ground beneath his feet.
+"Human sacrifices. Again. Where they used to be offered, they're being offered more often. Where people had begun to forget about them, they've remembered again. And even where there were never any before... And you know, uncle, who they go to, even when they're offered to you and me," the Trickster jabbed a finger at the ground beneath his feet.
 
 "I know. Even when they're offered to you and me, even when they're offered to the Thunderer --- they go down. Into Tartarus. And feed the Fallen."
 
@@ -164,6 +164,6 @@ Trickster snorted scornfully.
 
 "Just mind --- don't get caught."
 
-"Me?" Trickster burst out laughing. "Me, get caught? Sooner you'll die, uncle!.."
+"Me?" the Trickster burst out laughing. "Me, get caught? Sooner you'll die, uncle!.."
 
 The darkness went on laughing in two voices for a long while after that.

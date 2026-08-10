@@ -174,7 +174,7 @@ For some time, Senior was digesting what he heard.
 
 "You know what, Hermeias --- fly to the Moirai! Find out what they are spinning for the dowry of the future newborn. We cannot change fate, but knowing it... knowing it would not hurt. Anything is possible..."
 
-"Yes, Anax!" Trickster shouted out of tune in a squeaky voice, which most likely made Senior frown --- because the gloom instantly turned black, becoming the original darkness.
+"Yes, Anax!" the Trickster shouted out of tune in a squeaky voice, which most likely made Senior frown --- because the gloom instantly turned black, becoming the original darkness.
 
 "You joker... I told you a hundred times --- you can act the ape in front of strangers. Or with your father. With me --- don't. I do not like it. Alright --- fly, kid."
 
@@ -182,11 +182,11 @@ For some time, Senior was digesting what he heard.
 
 Hermeias was gone for quite a long time, and Senior was already beginning to wonder where this rogue had gone --- when at last there was a rustle again and the slightly winded messenger flopped on the bank of the Styx next to Senior.
 
-"Strange things, Anax," Trickster was unusually serious, and this time it did not occur to Senior to interrupt his nephew. "There I am, arriving to the Moirai, and I ask them --- and they only shrug their shoulders. Nothing, they say, not yet, the thread is not spun, the lot has not been drawn, and of course has not been written down. I, naturally, start prying --- the old hags must be hiding something! --- and then lo and behold, Clotho's thread has started! And not a simple thread, but a double and twisted one..."
+"Strange things, Anax," the Trickster was unusually serious, and this time it did not occur to Senior to interrupt his nephew. "There I am, arriving to the Moirai, and I ask them --- and they only shrug their shoulders. Nothing, they say, not yet, the thread is not spun, the lot has not been drawn, and of course has not been written down. I, naturally, start prying --- the old hags must be hiding something! --- and then lo and behold, Clotho's thread has started! And not a simple thread, but a double and twisted one..."
 
 "Twins," whispered Senior.
 
-"Twins," immediately agreed Trickster. "But for a thread to be twisted --- the Moirai themselves cannot recall this! In short, we untwisted it somehow..."
+"Twins," immediately agreed the Trickster. "But for a thread to be twisted --- the Moirai themselves cannot recall this! In short, we untwisted it somehow..."
 
 "'We?'" Anax literally jumped up.
 
@@ -194,6 +194,6 @@ Hermeias was gone for quite a long time, and Senior was already beginning to won
 
 "And the lot, what is the lot?!" almost shouted Senior.
 
-And then Trickster bent down right to Anax's ear and whispered something.
+And then the Trickster bent down right to Anax's ear and whispered something.
 
 The flashes blinked, puzzled, and went out.

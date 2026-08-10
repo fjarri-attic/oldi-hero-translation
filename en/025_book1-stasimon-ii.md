@@ -122,7 +122,7 @@ Hermeias fell silent, as Chiron had a little while before.
 
 "And if I see that they are dangerous," he finished harshly, "I will kill them both. Whatever Father does afterward, however furious Anax grows and however Poseidon and Hera rejoice --- I will kill them. I believe I am the only one who would not fear doing it openly."
 
-Chiron studied the young face of Trickster for a long moment --- so like, just then, the face of his father, Dias the Thunderer, Zeus of Olympus, as he had been many centuries ago, before the great battle.
+Chiron studied the young face of the Trickster for a long moment --- so like, just then, the face of his father, Dias the Thunderer, Zeus of Olympus, as he had been many centuries ago, before the great battle.
 
 "Do not hurry," the centaur finally said. "I am not advising you, I am simply saying: do not hurry. Even if I knew that the child would grow up and kill me, I would not kill him for that --- I would not kill the present for the sake of the future. And here is what I will do... I give you leave to come to Pelion without my permission. Come as you please. But on one condition only --- that you come together with these children. Agreed?"
 

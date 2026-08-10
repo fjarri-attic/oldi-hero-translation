@@ -8,7 +8,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Старший | Senior | An epithet of Hades (used by fellow Olympians). Capitalized. |
 | Средний | Middle | An epithet of Poseidon (used by fellow Olympians). Capitalized. **)might be a better option)** |
 | Младший | Junior | An epithet of Zeus (used by fellow Olympians). Capitalized. |
-| Лукавый | Trickster | An epithet of Hermes (used by fellow Olympians). Capitalized. |
+| Лукавый | Trickster | An epithet of Hermes (used by fellow Olympians). Capitalized. Use without an article in direct speech addressed to him, with "the" otherwise. |
 | Владыка | Anax | An epithet of Hades (used by fellow Olympians), meaning king or lord (of the dead). Capitalized. |
 | Метида-Мысль | Metis the Thought | Paired epithet of Metis |
 | Мойра Атропос | Atropos the Moira | Paired epithet of Atropos. First word capitalized. |
