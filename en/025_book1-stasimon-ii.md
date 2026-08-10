@@ -34,7 +34,7 @@ The centaur nods to the silence.
 
 Out of the silence and stillness, startling the poor sunbeam, steps a slender, dark-haired youth. The nostrils of his thin, aquiline nose quiver slightly, as though he is agitated and trying to hide it.
 
-"Hail, Chiron," the youth tosses off, turning in his hands a small caduceus wand entwined with two serpents.
+"Hail, Chiron," the youth tosses off, turning a small caduceus rod entwined with two serpents in his hands.
 
 "Hail, Hermeias," the centaur answers. "Welcome to Pelion."
 
