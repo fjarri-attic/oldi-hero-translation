@@ -187,7 +187,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Селена | Selene | Moon goddess |
 | Кадм-Змей | Cadmus the Serpent | Paired epithet of Cadmus, founder of Thebes/Cadmea |
 | Гермес-Путеводитель | Hermes the Guide | Epithet of Hermes distinct from Душеводитель (Soul-Guide) |
-| Сребролукий Аполлон | Silver-Bowed Apollo | Epithet of Apollo |
+| Сребролукий Аполлон | silver-bowed Apollo | Epithet of Apollo. Capitalize "silver-bowed" only if it is capitalized in the original. |
 | Пустышка | Dummy | Nickname the child Hermes gives himself; used by Alcides and Iphicles. Use without an article unless in a paired epithet like "Hermeias the Dummy". |
 | Гермий-Пустышка | Hermeias the Dummy | Paired epithet, "Пустышка" combined with the "Гермий" form of Hermes's name |
 | Сипил | Sipylus | Mountain (and city); Tantalus's domain in the story he tells the twins |
@@ -259,3 +259,8 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Каллиопа | Calliope | Muse; mother of Linus (in this text) |
 | Нюкта-Ночь | Nyx the Night | Paired epithet of Nyx, goddess of night |
 | Гефест | Hephaestus | God of the forge |
+| десятник | dekarchos (pl. dekarchoi) | Leader of ten soldiers |
+| Радамант | Rhadamanthys | Cretan lawgiver/judge, brother of Minos; his law acquits one who answers an unjust blow with a blow |
+| Фобос-Страх | Phobos the Fright | Paired epithet, son of Ares; also occurs plain as "Фобос" (Phobos) |
+| Деймос-Ужас | Deimos the Dread | Paired epithet, son of Ares; also occurs plain as "Деймос" (Deimos) |
+| Киферон | Cithaeron | Mountain near Thebes, where shepherds live |
