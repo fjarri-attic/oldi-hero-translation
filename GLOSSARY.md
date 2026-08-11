@@ -160,7 +160,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Котт | Cottus | One of the three Hecatoncheires |
 | Поликтор | Polyctor | Alcides's classmate; doesn't seem to have a mythological prototype |
 | Этолия | Aetolia | A region in Greece |
-| Орфей | Orpheus |  |
+| Орфей | Orpheus | Linus's younger brother, son of Oeagrus and Calliope; introduced later marrying Eurydice |
 | Атрей | Atreus |  |
 | Фиест | Thyestes |  |
 | Пелопид | Peolopid | Descendant of Pelops (like Atreus and Thyestes) |
@@ -266,3 +266,13 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Киферон | Cithaeron | Mountain near Thebes, where shepherds live |
 | Амалфея | Amalthea | The goat that nursed the infant Zeus |
 | Минос | Minos | Cretan king, brother of Rhadamanthys |
+| Иобат-фокидец | Iobates from Phocis | A judge at Alcides's trial; not to be confused with Иобат-ликиец / Iobates from Lycia (a different character, king of Lycia) |
+| Перимеда | Perimede | Creon's sister, Licymnius's wife |
+| Фемида | Themis | Goddess of justice, proverbially blind |
+| Эвридика | Eurydice | Orpheus's wife |
+| Пиерия | Pieria | Region where Orpheus and Eurydice are from/were married |
+| Иолк | Iolcus | City with a harbor, where the Argo set sail |
+| Эпер | Eperos | Seer at Orpheus and Eurydice's wedding in Pieria |
+| лимнада | limnade | Nymph of the meadows |
+| Арго | Argo | The twenty-five-oared ship |
+| митаннийский | Mitannian | From Mitanni, a state in Anatolia |
