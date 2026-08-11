@@ -251,3 +251,9 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Акрисий | Acrisius | Perseus's grandfather |
 | Тиринф | Tiryns |  |
 | Персеид | Perseid |  |
+| палестра | palaestra | Wrestling/training ground |
+| гимнасий | gymnasium |  |
+| Асфодельские поля | the Asphodel Meadows | Realm of the dead in the underworld, used here in a simile |
+| Ойагр | Oeagrus | Linus's father (in this text; a Thracian king/river-god), husband of Calliope |
+| Каллиопа | Calliope | Muse; mother of Linus (in this text) |
+| Нюкта-Ночь | Nyx the Night | Paired epithet of Nyx, goddess of night |
