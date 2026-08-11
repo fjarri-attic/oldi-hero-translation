@@ -124,6 +124,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Гермес | Hermes |  |
 | Гермий | Hermeias | Alternate/poetic form of Hermes's name (Homeric variant), used interchangeably with Гермес (Hermes) in the book. We want to use the matching translation every time. |
 | Гермий-Киллений / Киллений | Hermeias Cyllenios / Cyllenios | Epithet of Hermes, "the Cyllenian" (born on Mount Cyllene in Arcadia); footnoted on first occurrence with the author's own endnote definition |
+| Гермес-Килленец | Hermes Cyllenios |  |
 | Харикло | Chariclo | Nymph, mother of Tiresias |
 | Тучегонитель | Cloud-Gatherer | An epithet of Zeus |
 | Эниалий | Enyalius | An epithet of Ares |
@@ -145,7 +146,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Психопомп | Psychopompos | Epithet of Hermes as guide of souls, glossed in-text by the author as "Проводник душ" (i.e. Soul-Guide). Note that as a Greek epithet it is used without an article. |
 | Даная | Danae | Mother of Perseus, visited by Zeus as a golden rain |
 | Европа | Europa | Visited by Zeus in the form of a bull |
-| Кастор Диоскур | Castor the Dioscurus | Castor introduced with the "Dioscurus" epithet on this one occasion; elsewhere referred to plainly as Castor, one of the Dioscuri |
+| Кастор Диоскур | Castor Dioscurus | Castor introduced with the "Dioscurus" epithet, recurring; elsewhere referred to plainly as Castor, one of the Dioscuri |
 | кифаред (мн. кифареды) | kitharode (pl. kitharodes) | A kithara player |
 | Тефия | Tephia | Phoenician slave woman in Alcmene's household |
 | Хирон | Chiron | Centaur, son of Kronus; lives on Pelion, apart from the Family |
@@ -257,3 +258,4 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Ойагр | Oeagrus | Linus's father (in this text; a Thracian king/river-god), husband of Calliope |
 | Каллиопа | Calliope | Muse; mother of Linus (in this text) |
 | Нюкта-Ночь | Nyx the Night | Paired epithet of Nyx, goddess of night |
+| Гефест | Hephaestus | God of the forge |
