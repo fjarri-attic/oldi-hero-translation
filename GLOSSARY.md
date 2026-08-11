@@ -59,7 +59,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | эписодий | epeisodion | Greek tragedy structural term, kept transliterated as section heading |
 | Геракл | Heracles | Using the Greek and not the Roman version of the name |
 | Сила | Strength | The capitalized version, as something Heracles is a personification of. |
-| Зевс Додонский | Zeus of Dodona | An epithet of Zeus |
+| Зевс Додонский | Zeus Dodonaios | An epithet of Zeus |
 | Гермесид | Hermesid | Son/descendant of Hermes |
 | Эльпистик Трезенец | Elphistic Troezenid |  |
 | Энония | Oenonia | The wife of Elphistic. Not to be confused with Oenona, the wife of Paris |
@@ -142,7 +142,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Дий | Dias | Alternate/archaic name for Zeus, used interchangeably with Зевс and paired with epithets (Dias the Father, Dias the Cloud-Gatherer, etc.); recurs frequently later in the book |
 | Бронтей-громовник | Brontes the Thunder-Wielder | Epithet of Zeus used once alongside "Дий" and "Зевс-Отец"; distinct from Громовержец (Thunderer) |
 | Мусагет | Musagetes | "Leader of the Muses," an epithet of Apollo; footnoted on first occurrence with the author's own endnote definition |
-| Радуйся | "Rejoice" | Standard Greek greeting (chaire); footnoted on first occurrence with the author's own endnote definition |
+| Радуйся | "Rejoice" | Standard Greek greeting (chaire); footnoted on first occurrence with the author's own endnote definition. Recurring reciprocal response «И ты радуйся» ("and you, rejoice") → "Rejoice as well" --- avoid "rejoice to you," which reads as ironic/mocking rather than a plain formulaic reply. |
 | Психопомп | Psychopompos | Epithet of Hermes as guide of souls, glossed in-text by the author as "Проводник душ" (i.e. Soul-Guide). Note that as a Greek epithet it is used without an article. |
 | Даная | Danae | Mother of Perseus, visited by Zeus as a golden rain |
 | Европа | Europa | Visited by Zeus in the form of a bull |
@@ -264,3 +264,5 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Фобос-Страх | Phobos the Fright | Paired epithet, son of Ares; also occurs plain as "Фобос" (Phobos) |
 | Деймос-Ужас | Deimos the Dread | Paired epithet, son of Ares; also occurs plain as "Деймос" (Deimos) |
 | Киферон | Cithaeron | Mountain near Thebes, where shepherds live |
+| Амалфея | Amalthea | The goat that nursed the infant Zeus |
+| Минос | Minos | Cretan king, brother of Rhadamanthys |
