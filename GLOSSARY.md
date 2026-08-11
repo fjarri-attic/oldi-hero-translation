@@ -247,3 +247,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | фарос | pharos | A type of mantle |
 | Ликомед | Lycomedes |  |
 | Павсаний | Pausanias |  |
+| подес | pous (pl. podes) | A unit of measurement, a foot |
+| Акрисий | Acrisius | Perseus's grandfather |
+| Тиринф | Tiryns |  |
+| Персеид | Perseid |  |
