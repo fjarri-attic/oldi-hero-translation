@@ -243,3 +243,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | солимы | Solymi | Warlike people defeated by Bellerophon |
 | Аид | Hades | The underworld/god of the dead, used as a place name here ("send to Hades") |
 | Гера | Hera | Zeus's wife; blamed for Alcides's madness |
+| Гея | Gaia | Goddess of Earth |
+| фарос | pharos | A type of mantle |
+| Ликомед | Lycomedes |  |
+| Павсаний | Pausanias |  |
