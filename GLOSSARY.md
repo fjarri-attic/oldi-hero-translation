@@ -178,7 +178,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Энносигей | Ennosigaios | Epithet of Poseidon ("Earth-Shaker" in Greek), paired with the translated epithet: "the Earth-Shaker, Poseidon Ennosigaios" |
 | Зевс-Гостеприимец | Zeus the Hospitable | Epithet of Zeus as protector of guests/hospitality |
 | Солнцебог | Sun-God | Epithet of Apollo |
-| вакханки | bacchantes |  |
+| вакханка (мн. вакханки) | bacchante (pl. bacchantes) |  |
 | Своя / Свой | Kinswoman / Kinsman | Recognition term used between followers of the Fallen (Titans); gendered address, capitalized like a title |
 | Павшие | the Fallen | Collective term for the deposed Titans, awaited by their followers to return and overthrow the Olympians |
 | Грайя | Graea | One of the Graeae, three grey-haired sisters born old, sharing one eye and one tooth |
@@ -290,3 +290,10 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Единый | the One | Mysterious, unnamed singular deity hinted at in Hermeias's/the narrator's reflections; capitalized |
 | пентесилейские (лошадки) | Peneia (ponies) | An Ancient Greek horse breed. "Penthesilea" is not even a region, so we assume that's what Oldie meant. |
 | нисейские нимфы | Nysaean nymphs |  |
+| Автомедуза | Automedusa | Thirteen-year-old daughter of Alcathous, teret of Megara |
+| Алкатой / Алкатой-Плешивый | Alcathous / Alcathous the Bald | Teret of Megara, son-in-law of Megareus; "Плешивый" ("Bald") is a paired epithet, per the name-epithet convention |
+| терет | telestas (pl. telestai) | A nobleman close to the ruler |
+| Мегары / Мегара | Megara | City; Alcathous's home |
+| Мегарей | Megareus | Basileus of Megara, Alcathous's father-in-law |
+| оргия (мн. оргии) | orgyia (pl. orgyiai) | Ancient Greek unit of length (a fathom); kept transliterated, footnoted on first occurrence in the original |
+| эксомида | exomis | Greek garment baring one shoulder; kept transliterated |
