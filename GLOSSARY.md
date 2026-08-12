@@ -299,3 +299,8 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | эксомида | exomis | Greek garment baring one shoulder; kept transliterated |
 | Эмпедокл | Empedocles | Soothsayer consulted by Alcathous before his trip; mentioned but does not appear on-page |
 | Андромеда | Andromeda | Referenced in passing (the princess rescued by Perseus); standard mythological name |
+| Иолай | Iolaus | Son of Iphicles and Automedusa; raised by his grandmother Alcmene in Thebes |
+| Гераклиды | Heraclids | Descendants/offspring of Heracles collectively |
+| Протесилай | Protesilaus | Trojan War hero, called "son of Iphicles" by the narrator (playing on Iolaus also being Iphicles's son); killed by Hector; the name is glossed in-text as meaning both "First of the People" and "Iolaus the First" |
+| Гектор | Hector | Trojan hero; referenced in passing as Protesilaus's slayer |
+| Эллада | Hellas | Standard name for Greece in the original |
