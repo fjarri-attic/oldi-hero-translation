@@ -297,3 +297,5 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Мегарей | Megareus | Basileus of Megara, Alcathous's father-in-law |
 | оргия (мн. оргии) | orgyia (pl. orgyiai) | Ancient Greek unit of length (a fathom); kept transliterated, footnoted on first occurrence in the original |
 | эксомида | exomis | Greek garment baring one shoulder; kept transliterated |
+| Эмпедокл | Empedocles | Soothsayer consulted by Alcathous before his trip; mentioned but does not appear on-page |
+| Андромеда | Andromeda | Referenced in passing (the princess rescued by Perseus); standard mythological name |
