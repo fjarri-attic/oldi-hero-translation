@@ -209,7 +209,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Кадм-Фивостроитель | Cadmus the Thebes-Builder | Paired epithet of Cadmus, founder of Thebes, who slew a dragon and later turned into a serpent himself |
 | Алоады | Aloadae | Giant brothers who piled Ossa on Pelion and imprisoned Ares; killed each other via a trick involving Artemis's doe |
 | Осса | Ossa | Mountain, piled by the Aloadae on Pelion |
-| Арей | Ares | Alternate/poetic form of Ares's name, used once so far (cf. Эниалий, an epithet of the same god) |
+| Арей | Ares | Alternate/poetic form of Ares's name |
 | Идас | Idas | Idas of Messenia (cf. Идас Афарид / Idas Apharetid); dared to raise his hand against Apollo over his bride Marpessa |
 | Марпесса | Marpessa | River-nymph, bride of Idas of Messenia; object of Apollo's rivalry with Idas |
 | Кореб | Coroebus | Young rival of Apollo, from Argos; exiled |
@@ -304,3 +304,18 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Протесилай | Protesilaus | Trojan War hero, called "son of Iphicles" by the narrator (playing on Iolaus also being Iphicles's son); killed by Hector; the name is glossed in-text as meaning both "First of the People" and "Iolaus the First" |
 | Гектор | Hector | Trojan hero; referenced in passing as Protesilaus's slayer |
 | Эллада | Hellas | Standard name for Greece in the original |
+| Арей-Кровопийца | Ares the Blood-Drinker |  |
+| Арей Неукротимый | Ares the Untamable |  |
+| шлемоблещущий Арей | helm-flashing Ares | Homeric-style epithet of Ares |
+| конегривый шлем | horsehair-crested helmet | Ares's iconic helmet, which hides nearly his whole face; he removes it only at home |
+| Черногривый | Black-Maned | Epithet of Poseidon |
+| Амфитрита | Amphitrite | Poseidon's wife |
+| лилейнобедрая | lily-thighed | an epithet of Amphitrite |
+| Рея | Rhea | Mother of Zeus, Hera, Poseidon, Hades, etc.; wife of Kronus |
+| Ураниды | Uranids | Descendants of Uranus (broader than Крониды/Kronids); used of the gods/Titans collectively in a threat about being cast down |
+| Геба | Hebe | Goddess of youth, cupbearer to the gods; daughter of Zeus and Hera, called "вертихвостка" (flighty) here |
+| Хромец (Гефест) | the lame (Hephaestus) | Descriptive epithet applied to Hephaestus |
+| Мом-насмешник | Momus the Mocker | Paired epithet of Momus (cf. plain Мом / Momus) |
+| Арей Одинокий | Ares the Lonely | Epithet Ares gives himself, echoing/punning on Мусорщик-Одиночка (Lone Cleaner) --- both share the root "один" (alone) |
+| Беотия | Boeotia | Region of Greece where Thebes and Cithaeron lie |
+| Пелопоннес | Peloponnese |  |

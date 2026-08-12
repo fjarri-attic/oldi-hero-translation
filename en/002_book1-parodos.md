@@ -82,7 +82,7 @@ Senior is silent for a long time.
 
 Middle doesn't answer.
 
-"You did," Senior continues confidently, and the flashes wink from afar, bending and pulsing. "Only from a great love could Medusa have children such as Pegasus and Chrysaor the Golden Bow. You loved her, Blackmane! And that's why you came to hate Perseus with all his offspring! Perhaps, if Junior went today not to a woman of the Perseids, but to any other, you would..."
+"You did," Senior continues confidently, and the flashes wink from afar, bending and pulsing. "Only from a great love could Medusa have children such as Pegasus and Chrysaor the Golden Bow. You loved her, Black-Maned! And that's why you came to hate Perseus with all his offspring! Perhaps, if Junior went today not to a woman of the Perseids, but to any other, you would..."
 
 "Don't be silly, Senior! I am far from personal accounts --- further than you think! Although I do not forget anything and do not forgive insults. But you, do you remember what a shock it was for the whole Family --- to learn that those like us can be killed permanently too?! That a Cleaner, trash, a Half-Man, is capable of something none of the Family can do?! Do you remember that?!"
 
@@ -142,7 +142,7 @@ Darkness.
 
 When Middle's heavy steps died away in the distance, irritated Senior spat and muttered:
 
-"You're such a fool, brother! Straight as a spear --- so you fly straight where you were thrown! Hera steers you as she wishes, and you still think that it's the other way around... Oh, Blackmane! Wish you had at least a little bit of brains..."
+"You're such a fool, brother! Straight as a spear --- so you fly straight where you were thrown! Hera steers you as she wishes, and you still think that it's the other way around... Oh, Black-Maned! Wish you had at least a little bit of brains..."
 
 Something rustled in the damp, crimson darkness --- however, only now it became clear that the darkness had noticeably thinned out after the departure of Middle, turning into gloom.
 
