@@ -170,7 +170,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Ойхаллия | Oechalia | City on Euboea, Eurytus's kingdom |
 | Лин | Linus | Legendary kitharode, referenced as a standard of excellence |
 | Эвбея | Euboea |  |
-| Эврит | Eurytus | Basileus of Oechalia, famed archer; father of Iphitus and Iole. Also called "Эврит-лучник" / "Eurytus the Archer" |
+| Эврит | Eurytus | Basileus of Oechalia, famed archer; father of Iphitus and Iole. Also called "Эврит-лучник" / "Eurytus the archer" |
 | Иола | Iole | Eurytus's foretold future daughter, prophesied to become the future wife of Alcmene's son (Heracles) |
 | Миртил | Myrtilus | Current teacher of Alcides and Iphicles in archery |
 | Мунит | Munit | Eurytus's deliberately dismissive/mocking mangling of "Myrtil" 's name, used twice |
@@ -214,7 +214,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Марпесса | Marpessa | River-nymph, bride of Idas of Messenia; object of Apollo's rivalry with Idas |
 | Кореб | Coroebus | Young rival of Apollo, from Argos; exiled |
 | Иксион | Ixion | Rebellious Lapith who dared to love Hera, Zeus's wife, as an equal |
-| Дромос | Dromos | A hidden shortcut path of Hermes's own devising, letting one cross great distances instantly; footnoted on first occurrence, capitalized as a proper name |
+| Дромос | Dromos (pl. Dromoi) | A hidden shortcut path of Hermes's own devising, letting one cross great distances instantly; footnoted on first occurrence, capitalized as a proper name |
 | Прометей Япетид | Prometheus Iapetid | Patronymic epithet, "son of Iapetus"; elsewhere plain "Прометей" = "Prometheus" |
 | герма (мн. гермы) | herma (pl. hermae) | Roadside boundary post topped with a carved head, sacred to Hermes; footnoted on first occurrence |
 | Бог-Покровитель | Patron God |  |
@@ -276,3 +276,17 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | лимнада | limnade | Nymph of the meadows |
 | Арго | Argo | The twenty-five-oared ship |
 | митаннийский | Mitannian | From Mitanni, a state in Anatolia |
+| Киферон | Cithaeron | Mountain near Thebes; the twins go into exile here, sent to shepherds |
+| сатириск | satyrisk | A young/lesser satyr |
+| Фороней | Phoroneus | A young satyrisk in Dionysus's retinue, wounded in the ear by Iphitus |
+| бассариды | bassarids | Female followers of Dionysus (= maenads/bacchantes), named for the "bassaris" garment; kept transliterated, lowercase |
+| Бассарей | Bassareus | Epithet of Dionysus, "wearer of the bassaris" (a garment); glossed in-text by the author |
+| напея (мн. напеи) | napaea (pl. napaeae) | Nymphs of glens/valleys (as opposed to лимнады, meadow nymphs) |
+| Кербер | Cerberus | Hound of Hades; used here in a simile |
+| Бромий | Bromius | Epithet of Dionysus ("the Roarer"/"the Noisy One"), glossed in-text by the author; Dionysus dislikes being called this |
+| Горлохват | the Blusterer | Informal nickname for Dionysus, paired with Бромий/Bromios in the text |
+| Майя-Плеяда | Maia Pleiades | Paired epithet of Maia, mother of Hermes by Zeus |
+| Семела | Semele | Daughter of Cadmus, mother of Dionysus by Zeus |
+| Единый | the One | Mysterious, unnamed singular deity hinted at in Hermeias's/the narrator's reflections; capitalized |
+| пентесилейские (лошадки) | Peneia (ponies) | An Ancient Greek horse breed. "Penthesilea" is not even a region, so we assume that's what Oldie meant. |
+| нисейские нимфы | Nysaean nymphs |  |
