@@ -326,3 +326,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Персефона | Persephone | Wife of Hades (Владыка/Anax) |
 | Артемида | Artemis | Also occurs as «Артемида-охотница» → "Artemis the huntress" (paired epithet, second word lowercase to match the original) |
 | локоть (мн. локти) | cubit | Ancient Greek unit of length |
+| Теспий | Thespius | Basileus who hosted Alcides and Iphicles after the lion hunt; father of the fifty daughters (per legend) whom Alcides is rumored to have slept with in one night |
+| мегарон | megaron | Kept transliterated, lowercase (Mycenaean central hall of a house/palace, for men's feasts and business) --- established usage since ch. 006, not previously in glossary |
+| Падшие | the Fallen | Term used by Alcides (quoting Chiron) for those the gods shut themselves off from at the moment of a human sacrifice; capitalized |
