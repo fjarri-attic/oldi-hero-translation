@@ -319,3 +319,10 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Арей Одинокий | Ares the Lonely | Epithet Ares gives himself, echoing/punning on Мусорщик-Одиночка (Lone Cleaner) --- both share the root "один" (alone) |
 | Беотия | Boeotia | Region of Greece where Thebes and Cithaeron lie |
 | Пелопоннес | Peloponnese |  |
+| Киферонский Людоед | the Man-Eater of Cithaeron | The lion hunted and killed by Alcides and Iphicles; capitalized as a proper epithet-name. Recurs in later chapters, including a mocking feminine coinage "Киферонская Людоедка" applied to a field mouse. |
+| Мелампиг (мн. Мелампиги) | Melampygos (pl. Melampygoi) | Mocking nickname for the male Perseids ("Black-Arsed"), from the hair on their thighs/buttocks; glossed in-text by the author |
+| Абдер | Abderus | Hermes's son by a mortal woman; six years old at this point, later dies as a youth guarding Diomedes's man-eating mares (cf. Book 2) |
+| Локрида Опунтская | Opuntian Locris | Abderus's homeland |
+| Персефона | Persephone | Wife of Hades (Владыка/Anax) |
+| Артемида | Artemis | Also occurs as «Артемида-охотница» → "Artemis the huntress" (paired epithet, second word lowercase to match the original) |
+| локоть (мн. локти) | cubit | Ancient Greek unit of length |
