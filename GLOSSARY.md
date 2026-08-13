@@ -333,3 +333,11 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Одержимая/Одержимый Тартаром | the Tartarus-Possessed | Title/epithet for members of the cult of the Fallen. |
 | Хозяйка Перекрестков | Mistress of the Crossroads | Epithet of Hecate |
 | Праотец Крон | Kronus the Forefather | Paired epithet of Kronus, used of him as the eldest of the Titans |
+| Орхомен | Orchomenus | City of the Minyans, rival to Thebes; its envoys arrive to collect tribute in ch. 058 |
+| Эргин | Erginus | Basileus of Orchomenus, to whom the Minyan envoys belong |
+| Амфином | Amphinomus | Minyan envoy/guide from Orchomenus, "son of Lycius" |
+| Ликий | Lycius | Amphinomus's father (patronymic only) |
+| миниец (мн. минийцы) | Minyan (pl. Minyans) | Inhabitants of Orchomenus; not to be confused with the unrelated character Миний Лопоухий (Minyas the Lop-eared) |
+| Прокл | Proclus | Minyan envoy, nephew of basileus Erginus |
+| Дий-Громовержец | Dias the Thunderer | Paired epithet of Zeus/Dias, used mockingly by the Minyan soldier |
+| Солнце-Гелиос | Helios the Sun | Paired epithet of Helios |
