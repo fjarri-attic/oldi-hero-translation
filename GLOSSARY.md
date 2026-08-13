@@ -329,3 +329,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Теспий | Thespius | Basileus who hosted Alcides and Iphicles after the lion hunt; father of the fifty daughters (per legend) whom Alcides is rumored to have slept with in one night |
 | мегарон | megaron | Kept transliterated, lowercase (Mycenaean central hall of a house/palace, for men's feasts and business) --- established usage since ch. 006, not previously in glossary |
 | Падшие | the Fallen | Term used by Alcides (quoting Chiron) for those the gods shut themselves off from at the moment of a human sacrifice; capitalized |
+| Тень Фив | Shadow of Thebes | Self-given nickname of Galinthias, reflecting her intimate knowledge of and merging with the city |
+| Одержимая/Одержимый Тартаром | the Tartarus-Possessed | Title/epithet for members of the cult of the Fallen. |
+| Хозяйка Перекрестков | Mistress of the Crossroads | Epithet of Hecate |
+| Праотец Крон | Kronus the Forefather | Paired epithet of Kronus, used of him as the eldest of the Titans |
