@@ -128,6 +128,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Харикло | Chariclo | Nymph, mother of Tiresias |
 | Тучегонитель | Cloud-Gatherer | An epithet of Zeus |
 | Эниалий | Enyalius | An epithet of Ares |
+| Арей-Эниалий | Ares Enyalius | Combined name/epithet; rendered without a hyphen |
 | Автолик | Autolycus | Son of Hermes, grandson of Zeus; "the craftiest of the Hellenes"; footnoted on first occurrence (name means "a wolf unto himself") |
 | Диоскуры | Dioscuri | Castor and Polydeuces, twin sons of Leda |
 | Кастор | Castor | One of the Dioscuri; son of Tyndareus |
@@ -354,3 +355,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Фестиклей | Thesticles | Red-bearded/red-haired Orchomenian war-commander serving basileus Erginus, leads the militia; killed by Amphitryon's spear at the battle of ch. 061 |
 | Амфитрион-Изгнанник | Amphitryon the Exile | Settled since ch. 008; recurring epithet/nickname for Amphitryon |
 | лабрисса | labrys | Two-handed, double-bladed ceremonial/battle axe; kept transliterated |
+| сандалии-крепиды | crepidae sandals | A type of Greek sandal/boot; kept transliterated. Established since ch. 007/031 |
+| Нефела | Nephele | Goddess of clouds; drives her heavenly cattle across the sky (ch. 062, recurring ch. 072 as "богиня туч") |
+| Арей-Неистовый | Ares the Furious | Epithet of Ares (ch. 062); recurs later (ch. 080) |
