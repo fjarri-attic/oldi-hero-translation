@@ -358,3 +358,5 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | сандалии-крепиды | crepidae sandals | A type of Greek sandal/boot; kept transliterated. Established since ch. 007/031 |
 | Нефела | Nephele | Goddess of clouds; drives her heavenly cattle across the sky (ch. 062, recurring ch. 072 as "богиня туч") |
 | Арей-Неистовый | Ares the Furious | Epithet of Ares (ch. 062); recurs later (ch. 080) |
+| Арей-изгой | Ares the outcast | Epithet of Ares (ch. 063) (not a personal one, so not capitalized) |
+| талант | talent | Ancient unit of weight, roughly 26 kg; footnoted on first occurrence (ch. 063) |
