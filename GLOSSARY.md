@@ -61,7 +61,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Сила | Strength | The capitalized version, as something Heracles is a personification of. |
 | Зевс Додонский | Zeus Dodonaios | An epithet of Zeus |
 | Гермесид | Hermesid | Son/descendant of Hermes |
-| Эльпистик Трезенец | Elphistic Troezenid |  |
+| Эльпистик Трезенец | Elphistic the Troezenian |  |
 | Энония | Oenonia | The wife of Elphistic. Not to be confused with Oenona, the wife of Paris |
 | Пантифлей-Речной | Pantelis-of-the-river |  |
 | Комето | Comaetho | Taphos princess |
@@ -236,7 +236,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Вакх-Дионис | Bacchus-Dionysus | Paired epithet of Dionysus |
 | Гермий-Рогач | Hermeias the Cuckold |  |
 | Кронид (множ. Крониды) | Kronid (pl. Kronids) | Patronymic epithet, "son of Kronus," |
-| Химера | Chimera | Monster; referenced in a simile ("howled like a wounded Chimera") |
+| Химера | the Chimera | Monster; referenced in a simile ("howled like a wounded Chimera") |
 | Сериф | Seriphos | Island where Perseus grew up |
 | жезл-кадуцей | the caduceus rod |  |
 | Полидект | Polydectes | King of Seriphos who mocked Perseus |
@@ -365,3 +365,36 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Леда | Leda | Mother of the Dioscuri by Zeus; named directly in ch. 064 (cf. Диоскуры/Dioscuri) |
 | Олимпиец | Olympian | Epithet of Zeus, used in direct address (ch. 064) |
 | Зевс-Олимпиец | Zeus the Olympian | Paired epithet of Zeus (ch. 064) |
+| Строфа | Strophe | Greek tragedy structural term (a stanza-pair unit within a stasimon), kept transliterated as a section heading, like пародос/эписодий/стасим (ch. 065) |
+| Антистрофа | Antistrophe | Greek tragedy structural term, part of a stasimon; kept transliterated as a section heading (ch. 065) |
+| Эпод | Epode | Greek tragedy structural term, the concluding part of a stasimon; kept transliterated as a section heading (ch. 065) |
+| Белый Утес Забвения | White Rock of Oblivion | Underworld landmark shades are led past to strip their memory (ch. 065) |
+| Лета | Lethe | River of forgetfulness in the underworld (ch. 065) |
+| Харон / Харон-Перевозчик | Charon / Charon the Ferryman | Ferryman of the dead (ch. 065) |
+| Гермий-Психопомп | Hermeias Psychopompos | Combined form of Гермий + the Психопомп epithet (ch. 065) |
+| Кер (мн. Керы) | Ker (pl. Keres) | Spirits of violent death, here sent to keep watch over Amphitryon's shade on the Isles (ch. 065) |
+| Пустые Территории | the Empty Territories | Underworld region also called Острова/"the Isles" (ch. 065) |
+| Острова / Острова Блаженства | the Isles / Fortunate Isles | Afterlife realm for heroes (the Elysian equivalent); "Острова" is the short informal form (ch. 065) |
+| Мнемосина | Mnemosyne | Goddess of memory (ch. 065) |
+| Гея-Земля | Gaia the Earth | Paired epithet of Gaia (ch. 065) |
+| Афина | Athena | Plain form of the name (cf. epithets Алалкоменейя/Alalcomeneis, Защитница Городов/Defender of Cities) (ch. 065) |
+| Тезей | Theseus | Young hero, son of Poseidon; called "Мусорщик Посейдона" / "Poseidon's Cleaner" (ch. 065) |
+| Трезен | Troezen | A city |
+| трезенец | from Troezen | Theseus's epithet, standard "from which city" denominator. Not to be confused with Эльпистик Трезенец/Elphistic the Troezenian, whose epithet is capitalized in the original and is most likely a patronymic or a nickname. |
+| Арг-корабел | Argus the shipwright | Builder of the Argo in Iolcus; not to be confused with Аргус Панопт/Argus Panoptes (ch. 065) |
+| Колхида | Colchis | Destination of the Argonauts' voyage (ch. 065) |
+| Золотое Руно | the Golden Fleece | Object of the Argonauts' quest (ch. 065) |
+| Эвфем | Euphemus | Argonaut, son of Poseidon (ch. 065) |
+| Эргин (Аргонавт) | Erginus (the Argonaut) | Argonaut, son of Poseidon; not to be confused with Эргин, basileus of Orchomenus (cf. ch. 058) (ch. 065) |
+| Зет | Zetes | Son of Boreas, Argonaut (ch. 065) |
+| Калаид | Calais | Son of Boreas, Argonaut (ch. 065) |
+| Фан | Phanus | Son of Dionysus, Argonaut (ch. 065) |
+| Стафил | Staphylus | Son of Dionysus, Argonaut (ch. 065) |
+| Авгий Гелиад | Augeas Heliad | Son of Helios, Argonaut; patronymic epithet "Heliad" (ch. 065) |
+| Ялмен | Ialmenus | Son of Ares, Argonaut (ch. 065) |
+| Аскалаф | Ascalaphus | Son of Ares, Argonaut (ch. 065) |
+| Ареады | Areads | Patronymic epithet, "sons of Ares," applied to Ialmenus and Ascalaphus (ch. 065) |
+| Палемон Гефестид | Palaemon Hephaestid | Son of Hephaestus, Argonaut; patronymic epithet "Hephaestid" (ch. 065) |
+| Кроммионская свинья | the Crommyonian Sow | Monster slain by Theseus, referenced in passing (ch. 065) |
+| хитон | chiton | Ancient Greek garment; kept transliterated, cf. гиматий/himation, фарос/pharos, эксомида/exomis (ch. 065) |
+| Гигант (мн. Гиганты) | Gigas (pl. Gigantes) | Capitalized in the original, refers specifically to the children of the Fallen/Titans |
