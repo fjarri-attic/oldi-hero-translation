@@ -278,7 +278,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | митаннийский | Mitannian | From Mitanni, a state in Anatolia |
 | Киферон | Cithaeron | Mountain near Thebes; the twins go into exile here, sent to shepherds |
 | сатириск | satyrisk | A young/lesser satyr |
-| Фороней | Phoroneus | A young satyrisk in Dionysus's retinue, wounded in the ear by Iphitus |
+| Фороней | Phoroneus | A young satyrisk in Dionysus's retinue, wounded in the ear by Iphitus. Later called "колчеухий" ("notch-eared"), referring to this old wound. |
 | бассариды | bassarids | Female followers of Dionysus (= maenads/bacchantes), named for the "bassaris" garment; kept transliterated, lowercase |
 | Бассарей | Bassareus | Epithet of Dionysus, "wearer of the bassaris" (a garment); glossed in-text by the author |
 | напея (мн. напеи) | napaea (pl. napaeae) | Nymphs of glens/valleys (as opposed to лимнады, meadow nymphs) |
@@ -341,3 +341,12 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Прокл | Proclus | Minyan envoy, nephew of basileus Erginus |
 | Дий-Громовержец | Dias the Thunderer | Paired epithet of Zeus/Dias, used mockingly by the Minyan soldier |
 | Солнце-Гелиос | Helios the Sun | Paired epithet of Helios |
+| рапсод | rhapsode | Reciter of epic poetry (cf. аэд/aoidos); footnoted on first occurrence with the author's own endnote definition |
+| Геликон | Helicon | Mountain where the Muses gathered; footnoted on first occurrence with the author's own endnote definition |
+| Климен | Clymenus | Minyan, father of the Orchomenian basileus Erginus; accidentally killed by the Theban charioteer Perieres during athletic games |
+| Периер | Perieres | Theban charioteer who accidentally killed the Minyan Clymenus during athletic games |
+| Восточный перевал | the Eastern Pass | Mountain pass where Alcides and Iphicles are to join Amphitryon's army marching on Orchomenus |
+| Гадес | Aides | Form of Hades's name used among the gods themselves, glossed in-text as distinct from "Аид" (the name used by mortals); recurs rarely |
+| Защитница Городов | Defender of Cities | Epithet of Athena, distinct from Алалкоменейя/Alalcomeneis |
+| Гестия | Hestia | Olympian goddess of the hearth |
+| Тевмесская лисица | the Teumessian fox | Monstrous fox that ravaged Creon's lands and had to be bought off with sixteen-year-old youths; hunted down by Amphitryon using Cephalus's magic hound |
