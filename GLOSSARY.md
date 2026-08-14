@@ -53,7 +53,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Крисы | Kirra | Original says «Крисы» (Crisa), an inland town near Delphi; used "Kirra" instead, since Kirra was the actual seaside harbor town serving Delphi, matching the narrative's description of a seaside location. The two were distinct but related places, easily conflated. |
 | Гекатомбеон | Hecatombeon | Summer month name |
 | басилей | basileus | Kept transliterated (Mycenaean king/ruler title), not translated as "king" |
-| лавагет | lawagetas | A war commander, specifically used for Apmphitryon. |
+| лавагет | lawagetas | A war commander; originally used for Amphitryon, later also used generically for other commanders (e.g. Erginus's lawagetai in ch. 061). |
 | порны | pornai | Greek term for prostitutes (πόρναι), used as an aside gloss rather than "whores" alone; recurs a few times in the book. |
 | пародос | parodos | Greek tragedy structural term, kept transliterated as section heading |
 | эписодий | epeisodion | Greek tragedy structural term, kept transliterated as section heading |
@@ -65,7 +65,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Энония | Oenonia | The wife of Elphistic. Not to be confused with Oenona, the wife of Paris |
 | Пантифлей-Речной | Pantelis-of-the-river |  |
 | Комето | Comaetho | Taphos princess |
-| Птерелай | Pterelaos | Taphos king |
+| Птерелай | Pterelaos | Taphos king; not to be confused with the unrelated one-eyed Orchomenian war-commander of the same name, nicknamed the Cyclops (introduced ch. 061) |
 | Кефал из Торика | Cephalus of Thorikos |  |
 | Панопей | Panopeus |  |
 | ложе (множ. ложа) | kline (pl. klinai) | Ancient Greek furniture, served as a bed or as a couch |
@@ -338,7 +338,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Амфином | Amphinomus | Minyan envoy/guide from Orchomenus, "son of Lycius" |
 | Ликий | Lycius | Amphinomus's father (patronymic only) |
 | миниец (мн. минийцы) | Minyan (pl. Minyans) | Inhabitants of Orchomenus; not to be confused with the unrelated character Миний Лопоухий (Minyas the Lop-eared) |
-| Прокл | Proclus | Minyan envoy, nephew of basileus Erginus |
+| Прокл | Proclus | Minyan envoy, nephew of basileus Erginus; after losing a hand to Alcides, called Проклом-Одноруким / Proclus the One-Armed (ch. 061) |
 | Дий-Громовержец | Dias the Thunderer | Paired epithet of Zeus/Dias, used mockingly by the Minyan soldier |
 | Солнце-Гелиос | Helios the Sun | Paired epithet of Helios |
 | рапсод | rhapsode | Reciter of epic poetry (cf. аэд/aoidos); footnoted on first occurrence with the author's own endnote definition |
@@ -350,3 +350,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Защитница Городов | Defender of Cities | Epithet of Athena, distinct from Алалкоменейя/Alalcomeneis |
 | Гестия | Hestia | Olympian goddess of the hearth |
 | Тевмесская лисица | the Teumessian fox | Monstrous fox that ravaged Creon's lands and had to be bought off with sixteen-year-old youths; hunted down by Amphitryon using Cephalus's magic hound |
+| Птерелай-Циклоп / Циклоп-Птерелай | Pterelaos the Cyclops / Cyclops Pterelaos | One-eyed Orchomenian war-commander serving basileus Erginus (ch. 061); distinct from the Taphos king of the same name. Paired name/epithet, order preserved as in the Russian |
+| Фестиклей | Thesticles | Red-bearded/red-haired Orchomenian war-commander serving basileus Erginus, leads the militia; killed by Amphitryon's spear at the battle of ch. 061 |
+| Амфитрион-Изгнанник | Amphitryon the Exile | Settled since ch. 008; recurring epithet/nickname for Amphitryon |
+| лабрисса | labrys | Two-handed, double-bladed ceremonial/battle axe; kept transliterated |
