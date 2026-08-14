@@ -397,4 +397,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Палемон Гефестид | Palaemon Hephaestid | Son of Hephaestus, Argonaut; patronymic epithet "Hephaestid" (ch. 065) |
 | Кроммионская свинья | the Crommyonian Sow | Monster slain by Theseus, referenced in passing (ch. 065) |
 | хитон | chiton | Ancient Greek garment; kept transliterated, cf. гиматий/himation, фарос/pharos, эксомида/exomis (ch. 065) |
+| Танат-Железносердый | Thanatos the Iron-Hearted | Paired epithet, cf. Танат-Смерть/Thanatos the Death; elsewhere plain "Танат" = "Thanatos" (ch. 066) |
+| толос | tholos | Mycenaean beehive-shaped tomb; kept as the standard English archaeological term, cf. басилей/basileus (ch. 066) |
 | Гигант (мн. Гиганты) | Gigas (pl. Gigantes) | Capitalized in the original, refers specifically to the children of the Fallen/Titans |
