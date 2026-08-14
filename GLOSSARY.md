@@ -360,3 +360,8 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Арей-Неистовый | Ares the Furious | Epithet of Ares (ch. 062); recurs later (ch. 080) |
 | Арей-изгой | Ares the outcast | Epithet of Ares (ch. 063) (not a personal one, so not capitalized) |
 | талант | talent | Ancient unit of weight, roughly 26 kg; footnoted on first occurrence (ch. 063) |
+| Уран | Uranus | Father of Kronus, grandfather of Zeus (ch. 064) |
+| Ио | Io | One of Zeus's mortal/divine lovers, named alongside Leda, Europa, Danae, Semele (ch. 064) |
+| Леда | Leda | Mother of the Dioscuri by Zeus; named directly in ch. 064 (cf. Диоскуры/Dioscuri) |
+| Олимпиец | Olympian | Epithet of Zeus, used in direct address (ch. 064) |
+| Зевс-Олимпиец | Zeus the Olympian | Paired epithet of Zeus (ch. 064) |
