@@ -275,7 +275,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Иолк | Iolcus | City with a harbor, where the Argo set sail |
 | Эпер | Eperos | Seer at Orpheus and Eurydice's wedding in Pieria |
 | лимнада | limnade | Nymph of the meadows |
-| Арго | Argo | The twenty-five-oared ship |
+| Арго | *Argo* | The legendary twenty-five-oared ship. Italicized on use. |
 | митаннийский | Mitannian | From Mitanni, a state in Anatolia |
 | Киферон | Cithaeron | Mountain near Thebes; the twins go into exile here, sent to shepherds |
 | сатириск | satyrisk | A young/lesser satyr |
@@ -405,3 +405,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Танат-Железносердый | Thanatos the Iron-Hearted | Paired epithet, cf. Танат-Смерть/Thanatos the Death; elsewhere plain "Танат" = "Thanatos" (ch. 066) |
 | толос | tholos | Mycenaean beehive-shaped tomb; kept as the standard English archaeological term, cf. басилей/basileus (ch. 066) |
 | Гигант (мн. Гиганты) | Gigas (pl. Gigantes) | Capitalized in the original, refers specifically to the children of the Fallen/Titans |
+| гинекей | gynaeceum | Women's quarters of a Greek house; kept transliterated, cf. мегарон/megaron, палестра/palaestra (ch. 069) |
+| Питфей Мудрый | Pittheus the Wise | Basileus of Troezen, grandfather of Theseus; paired epithet (ch. 069) |
+| тафосец (мн. тафосцы) | Taphian | Inhabitant of Taphos, cf. Тафос/Taphos (ch. 069) |
+| кумар | khumar | Slang term used by the Taphians for a craving/withdrawal-like state; kept transliterated, introduced in quotes in the original (ch. 069) |
