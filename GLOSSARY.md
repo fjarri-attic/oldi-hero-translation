@@ -414,3 +414,13 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Алкей Микенский | Alcaeus of Mycenae | Paired epithet form for Amphitryon's father |
 | Геката | Hecate | Goddess Galinthias secretly serves; cf. Трехтелая/Three-Formed, Хозяйка Перекрестков/Mistress of the Crossroads (ch. 071) |
 | Трехтелая Геката | Hecate the Three-Formed | Paired epithet, name-plus-epithet order as elsewhere (cf. Мойра Атропос/Atropos the Moira) (ch. 071) |
+| Ификлид | Iphiclid | Patronymic epithet, "son of Iphicles"; used once of young Iolaus, echoing Амфитриад/Amphitryad, Персеид/Perseid, etc. (ch. 072) |
+| Поликлей | Polycles | Fellow palaestra student; not to be confused with Поликтор/Polyctor, Iphicles's assistant, who also appears in ch. 072 |
+| Фок | Phocus | Town drunkard who frequents the market (ch. 072) |
+| Триптолем | Triptolemus | Legendary hero of Eleusis, associated with Demeter and agriculture (ch. 072) |
+| Элевсин | Eleusis | City, cult center of Demeter; Triptolemus's home (ch. 072) |
+| Эгина | Aegina | Island, home of Aeacus (ch. 072) |
+| Радамант-законник | Rhadamanthys the Lawgiver | Paired epithet of Rhadamanthys, name-plus-epithet order as elsewhere (cf. Мойра Атропос/Atropos the Moira) (ch. 072) |
+| Одиссей | Odysseus | Autolycus's foretold grandson; name glossed in-text by the narrator as meaning "The one who angers the gods" (ch. 072) |
+| Маленьких обижают! | "They're picking on the little ones!" | Recurring childhood battle cry of Alcides and Iphicles (established ch. 027, 050, 069, etc.); settled translation, used again by young Iolaus/Amphitryon in ch. 072 |
+| дискобол (мн. дискоболы) | discobolos (pl. discoboloi) | A discus thrower. We use this word because on first occurrence (072) "disc thrower" clashed with another "throw" in the sentence |
