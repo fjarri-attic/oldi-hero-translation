@@ -295,12 +295,17 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Алкатой / Алкатой-Плешивый | Alcathous / Alcathous the Bald | Teret of Megara, son-in-law of Megareus; "Плешивый" ("Bald") is a paired epithet, per the name-epithet convention |
 | терет | telestas (pl. telestai) | A nobleman close to the ruler |
 | Мегары / Мегара | Megara | City; Alcathous's home |
+| Мегара | Megara | Creon's daughter, given in marriage to Alcides (ch. 068); not to be confused with the city of Megara --- same spelling in English, disambiguate from context |
 | Мегарей | Megareus | Basileus of Megara, Alcathous's father-in-law |
 | оргия (мн. оргии) | orgyia (pl. orgyiai) | Ancient Greek unit of length (a fathom); kept transliterated, footnoted on first occurrence in the original |
 | эксомида | exomis | Greek garment baring one shoulder; kept transliterated |
 | Эмпедокл | Empedocles | Soothsayer consulted by Alcathous before his trip; mentioned but does not appear on-page |
 | Андромеда | Andromeda | Referenced in passing (the princess rescued by Perseus); standard mythological name |
 | Иолай | Iolaus | Son of Iphicles and Automedusa; raised by his grandmother Alcmene in Thebes |
+| Астеропея | Asteropeia | Creon's daughter, given in marriage to Iphicles (ch. 068); Iphicles's second wife, stepmother to Iolaus |
+| Теримах | Therimachus | Son of Alcides and Megara (ch. 068); standard mythological name |
+| Деикоонт | Deicoon | Son of Alcides and Megara (ch. 068); standard mythological name |
+| Креонтиад | Creontiades | Son of Alcides and Megara (ch. 068); standard mythological name |
 | Гераклиды | Heraclids | Descendants/offspring of Heracles collectively |
 | Протесилай | Protesilaus | Trojan War hero, called "son of Iphicles" by the narrator (playing on Iolaus also being Iphicles's son); killed by Hector; the name is glossed in-text as meaning both "First of the People" and "Iolaus the First" |
 | Гектор | Hector | Trojan hero; referenced in passing as Protesilaus's slayer |
