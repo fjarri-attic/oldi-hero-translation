@@ -179,7 +179,7 @@ Hades did not answer at once, but the Trickster did not hurry him, understanding
 
 "Since then, every human sacrifice, every violent destruction of a mortal mind --- in which particles of the Family's 'I' also reside --- unwittingly feeds Tartarus and the Fallen (for now everyone down there is Fallen: some for the first time, others for the second), feeding those who once tried to destroy us and now must make do with scraps..."
 
-"Cleaners," the Trickster muttered hoarsely. "So that's why the Family needed the Half-Man Cleaners. To exterminate the offspring of the Fallen, to whom human sacrifices are so often offered..."
+"Cleaners," the Trickster muttered hoarsely. "So that's why the Family needed the Half-Man Cleaners. To exterminate the offspring of the Fallen, to whom human sacrifices are so often made..."
 
 "You're right. Only the Cleaners themselves know just this much --- that they exterminate monsters --- and that is enough."
 

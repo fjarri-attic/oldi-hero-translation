@@ -74,7 +74,7 @@ He smiled faintly, as though apologizing, and lowered himself onto the grass.
 
 "And you suspect a connection between the child and Tartarus?"
 
-"Suspect? I am certain of it! Every member of the Family --- except you, Chiron, but you do not count yourself among the Family --- has had human sacrifices offered to him at some time, and so each of us knows of his own connection to Tartarus and is able, should the need arise, to call upon the Fallen."
+"Suspect? I am certain of it! Every member of the Family --- except you, Chiron, but you do not count yourself among the Family --- has had human sacrifices made to him at some time, and so each of us knows of his own connection to Tartarus and is able, should the need arise, to call upon the Fallen."
 
 "The boy --- his name is Alcides? --- is not of the Family. At best he is a half-god."
 

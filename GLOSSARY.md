@@ -411,3 +411,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | кумар | khumar | Slang term used by the Taphians for a craving/withdrawal-like state; kept transliterated, introduced in quotes in the original (ch. 069) |
 | Орхоменская война | the Orchomenian War | The war against Orchomenus, five years prior to ch. 070; cf. Орхомен/Orchomenus |
 | Луна-Селена | Selene the Moon | Paired epithet of Selene, common-noun-plus-name order reversed as elsewhere (cf. Мойра Атропос/Atropos the Moira); Селена alone = Selene (ch. 070) |
+| Алкей Микенский | Alcaeus of Mycenae | Paired epithet form for Amphitryon's father |
+| Геката | Hecate | Goddess Galinthias secretly serves; cf. Трехтелая/Three-Formed, Хозяйка Перекрестков/Mistress of the Crossroads (ch. 071) |
+| Трехтелая Геката | Hecate the Three-Formed | Paired epithet, name-plus-epithet order as elsewhere (cf. Мойра Атропос/Atropos the Moira) (ch. 071) |

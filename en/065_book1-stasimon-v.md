@@ -185,7 +185,7 @@ For a while, both were silent.
 
 "Well then, let the brothers go and find the Possessed one for us!"
 
-"You disappoint me, Trickster. Even if Alcides picks up the trail of the cult of the Fallen, the Possessed need only bring him a human sacrificeand the search will be the last thing on Alcides's mind."
+"You disappoint me, Trickster. Even if Alcides picks up the trail of the cult of the Fallen, the Possessed need only make him a human sacrifice and the search will be the last thing on Alcides's mind."
 
 "Well, then I could try..."
 

@@ -148,9 +148,9 @@ The Trickster snorted scornfully.
 
 "Such as?"
 
-"Human sacrifices. Again. Where they used to be offered, they're being offered more often. Where people had begun to forget about them, they've remembered again. And even where there were never any before... And you know, uncle, who they go to, even when they're offered to you and me," the Trickster jabbed a finger at the ground beneath his feet.
+"Human sacrifices. Again. Where they used to be made, they're being made more often. Where people had begun to forget about them, they've remembered again. And even where there were never any before... And you know, uncle, who they go to, even when they're made to you and me," the Trickster jabbed a finger at the ground beneath his feet.
 
-"I know. Even when they're offered to you and me, even when they're offered to the Thunderer --- they go down. Into Tartarus. And feed the Fallen."
+"I know. Even when they're made to you and me, even when they're made to the Thunderer --- they go down. Into Tartarus. And feed the Fallen."
 
 "Exactly. So raise your voice at Cerberus, uncle --- he's guarding badly, too busy chasing fleas! And tell Charon --- he'd better check his ferry more carefully... he'll miss a runaway shade!"
 
