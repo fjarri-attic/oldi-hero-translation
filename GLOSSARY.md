@@ -409,3 +409,5 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Питфей Мудрый | Pittheus the Wise | Basileus of Troezen, grandfather of Theseus; paired epithet (ch. 069) |
 | тафосец (мн. тафосцы) | Taphian | Inhabitant of Taphos, cf. Тафос/Taphos (ch. 069) |
 | кумар | khumar | Slang term used by the Taphians for a craving/withdrawal-like state; kept transliterated, introduced in quotes in the original (ch. 069) |
+| Орхоменская война | the Orchomenian War | The war against Orchomenus, five years prior to ch. 070; cf. Орхомен/Orchomenus |
+| Луна-Селена | Selene the Moon | Paired epithet of Selene, common-noun-plus-name order reversed as elsewhere (cf. Мойра Атропос/Atropos the Moira); Селена alone = Selene (ch. 070) |
