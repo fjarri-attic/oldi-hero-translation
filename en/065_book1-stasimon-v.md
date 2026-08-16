@@ -235,7 +235,7 @@ And in mournful echo:
 
 "Anax, I know Amphitryon. Believe me, he's no less... reasonable than you are, and no less proud than Junior, besides."
 
-"Don't worry. Proud or reasonable, he's mortal. And he'll know that the Isles" --- a note of mockery crept into the Anax's voice --- "the Fortunate Isles are always ready to take him back. Besides, our interests largely coincide, so your Amphitryon will work not out of fear, but for conscience's sake."
+"Don't worry. Proud or reasonable, he's mortal. And he'll know that the Isles" --- a note of mockery crept into the Anax's voice --- "the Isles of the Blessed are always ready to take him back. Besides, our interests largely coincide, so your Amphitryon will work not out of fear, but for conscience's sake."
 
 "Out of fear --- I doubt it. But for conscience's sake... Shall I fly off for him, to the Isles, uncle?"
 

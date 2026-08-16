@@ -103,7 +103,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Тантал | Tantalus | Cursed by the gods; father of Pelops |
 | Эврисфей | Eurystheus | Son of Sthenelus and Nicippe, born the same night as Alcides; later Mycenaean wanax |
 | Микены | Mycenae | Amphitryon's homeland, from which he was exiled |
-| ванакт | wanax | Mycenaean king, higher in rank than a basileus; footnoted on first occurrence |
+| ванакт (мн. ванакты) | wanax (pl. wanaxes) | Mycenaean king, higher in rank than a basileus; footnoted on first occurrence |
 | Фармакиды | Pharmakides | Sorceresses in folk tradition sent by Hera to delay childbirth |
 | Амфитриад (мн. Амфитриады) | Amphitryad (pl. Amphitryads) | Patronymic epithet, "son of Amphitryon". Note that the patronymic drops a part of the original name; this is to mimic the Russian original. |
 | Эвритея | Eurythea | Old nurse in Amphitryon's household, daughter of the freedman Minyas the Lop-eared |
@@ -204,7 +204,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Мститель | Avenger | Epithet of Apollo |
 | Водитель Муз | Leader of the Muses | Epithet of Apollo, translated (as opposed to "Мусагет" / Musagetes, which is transliterated) |
 | Несущий чуму | Plague-Bringer | Epithet of Apollo |
-| Очищающий от скверны | Purifier | Epithet of Apollo |
+| Очищающий от скверны | Cleanser | Epithet of Apollo |
 | Феб | Phoebus | Epithet/alternate name of Apollo |
 | Аполлон | Apollo | Choosing this in favor of Apollon; Apollon is the original spelling, but there is no difference in Russian as it is with Hermeias/Hermes, so we pick the more common one |
 | Кадм-Фивостроитель | Cadmus the Thebes-Builder | Paired epithet of Cadmus, founder of Thebes, who slew a dragon and later turned into a serpent himself |
@@ -379,7 +379,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Гермий-Психопомп | Hermeias Psychopompos | Combined form of Гермий + the Психопомп epithet (ch. 065) |
 | Кер (мн. Керы) | Ker (pl. Keres) | Spirits of violent death, here sent to keep watch over Amphitryon's shade on the Isles (ch. 065) |
 | Пустые Территории | the Empty Territories | Underworld region also called Острова/"the Isles" (ch. 065) |
-| Острова / Острова Блаженства | the Isles / Fortunate Isles | Afterlife realm for heroes (the Elysian equivalent); "Острова" is the short informal form (ch. 065) |
+| Острова / Острова Блаженства | the Isles / Isles of the Blessed | Afterlife realm for heroes (the Elysian equivalent); "Острова" is the short informal form (ch. 065). Note that we need this specific form for the pun in the end of 075. |
 | Мнемосина | Mnemosyne | Goddess of memory (ch. 065) |
 | Гея-Земля | Gaia the Earth | Paired epithet of Gaia (ch. 065) |
 | Афина | Athena | Plain form of the name (cf. epithets Алалкоменейя/Alalcomeneis, Защитница Городов/Defender of Cities) (ch. 065) |
@@ -426,4 +426,20 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | дискобол (мн. дискоболы) | discobolos (pl. discoboloi) | A discus thrower. We use this word because on first occurrence (072) "disc thrower" clashed with another "throw" in the sentence |
 | Радужная Ирида | Rainbow Iris | Paired epithet of Iris, messenger goddess; here specifically "Hera's own messenger" (ch. 073) |
 | Век Златой | the Golden Age | The era of Kronus/the Titans' reign, invoked as the age presided over by the Fallen (ch. 073) |
-| Алкид-сумасброд | Alcides the Madcap | Paired epithet of Alcides, used mockingly by a bystander (ch. 074) |
+| Алкид-сумасброд | Alcides the madcap | Paired epithet of Alcides, used mockingly by a bystander (ch. 074) |
+| Алкид-безумец | Alcides the madman | Paired epithet of Alcides, used during his period of madness/exile; lowercase "the madman," cf. Алкид-сумасброд/Alcides the madcap (established ch. 072, recurring ch. 075) |
+| пеплос | peplos | Ancient Greek women's mantle/garment; kept transliterated, cf. хитон/chiton, гиматий/himation, фарос/pharos, эксомида/exomis (established ch. 006, footnoted there; not previously in glossary) |
+| хламида | chlamys | Ancient Greek short cloak; kept transliterated, cf. пеплос/peplos (ch. 075) |
+| Эвр | Eurus | East(-southeast) wind, brother of Zephyrus, Notus, and Boreas; footnoted on first occurrence (ch. 075) |
+| Крит | Crete | Island, Rhadamanthys's homeland before his exile (ch. 075) |
+| Мизия | Mysia | Region of Anatolia, near which the *Argo* is sailing (ch. 075) |
+| Лемнос | Lemnos | Island where the *Argo* makes a stop (ch. 075) |
+| Гилас | Hylas | A quiet boy, Alcides's (i.e. Iphicles's) companion/lover aboard the *Argo* (ch. 075) |
+| Афродита | Aphrodite | Olympian goddess; mother of Hermaphroditus by Hermes (ch. 075) |
+| Гермафродит | Hermaphroditus | Son of Hermes and Aphrodite (ch. 075) |
+| Радамант-Изгнанник | Rhadamanthys the Exile | Paired epithet of Rhadamanthys, echoing Амфитрион-Изгнанник/Amphitryon the Exile (ch. 075) |
+| Дий Высокогремящий | Dias the High-Thundering | Epithet of Zeus/Dias, distinct from Громовержец/Thunderer and Бронтей-громовник/Brontes the Thunder-Wielder (ch. 075) |
+| Гермий-Лукавый | Hermeias the Trickster | Combined form of Гермий + the Лукавый epithet (ch. 075) |
+| скверна | miasma | A term used specifically for a "stain" on a person who performed some crime. |
+| очистить | cleanse | A term specifically used for removing the miasma from a person |
+| осквернить (оскверненный) | pollute (polluted) | A term speficially used for someone possessing miasma |
