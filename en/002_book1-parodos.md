@@ -94,7 +94,7 @@ Middle doesn't answer.
 
 [^2]: One of the epithets of the goddess Athena, daughter of Zeus and Metis; the epithet Pallas she will earn later, having defeated the giant Pallas and crafted a shield out of his skin.
 
-[^anax] Lord, king. Homer calls Hades *anax enerōn*, "lord of the dead men".
+[^anax] Lord, king. Homer calls Hades *anax enerōn*, "lord of the dead men". The original uses a specific Russian term not mapping easily into the standard feudal hierarchy. [TN]
 
 [^3]: Thanatos the Death, twin brother of Hypnos the Sleep, son of Nyx the Night.
 

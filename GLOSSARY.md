@@ -276,7 +276,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | лимнада | limnade | Nymph of the meadows |
 | Арго | *Argo* | The legendary twenty-five-oared ship. Italicized on use. |
 | митаннийский | Mitannian | From Mitanni, a state in Anatolia |
-| Киферон | Cithaeron | Mountain near Thebes; the twins go into exile here, sent to shepherds |
 | сатириск | satyrisk | A young/lesser satyr |
 | Фороней | Phoroneus | A young satyrisk in Dionysus's retinue, wounded in the ear by Iphitus. Later called "колчеухий" ("notch-eared"), referring to this old wound. |
 | бассариды | bassarids | Female followers of Dionysus (= maenads/bacchantes), named for the "bassaris" garment; kept transliterated, lowercase |
@@ -465,3 +464,19 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Сфенелид | Sthenelid | Patronymic epithet, "son of Sthenelus," applied to Eurystheus ("Эврисфей Сфенелид"); elsewhere rendered descriptively as "Eurystheus, Sthenelus's son" (ch. 075) (ch. 076) |
 | Медуза | Medusa | Gorgon slain by Perseus; cf. Пегас/Pegasus, Хрисаор/Chrysaor, her children, and Горгоноубийца/Gorgon-Slayer, Perseus's epithet (ch. 076) |
 | Олимп | Olympus | Home of the Olympian gods (ch. 076) |
+| Пиндар | Pindar | Classical Greek poet, cited in the exodos epigraph for his ninth Pythian ode's account of the birth of Heracles and Iphicles (ch. 078) |
+| Ферекид | Pherecydes | Classical Greek mythographer, cited in the exodos epigraph for an alternate account of the serpent test that revealed which twin was Amphitryon's son (ch. 078) |
+| Мегамеда | Megamede | Daughter of Arneus; mother, by Thespius, of his fifty daughters (ch. 078) |
+| Арней | Arneus | Father of Megamede (ch. 078) |
+| Немейский лев | the Nemean lion | Invulnerable lion slain by Heracles in the first of his official Labors, per the rhapsodes' account (ch. 078) |
+| Стимфал / Стимфалийские птицы | Stymphalus / the Stymphalian birds | Region and its man-eating, bronze-beaked, arrow-feathered birds, driven off by Heracles with bronze tympana in one of his Labors (ch. 078) |
+| Лернейская Гидра | the Lernaean Hydra | Many-headed monster slain by Heracles with Iolaus's help, per the rhapsodes' account; one of the two labors Eurystheus later refused to count (ch. 078) |
+| Авгиевы конюшни | the Augean stables | The stables cleaned by Heracles as one of his Labors; the other of the two labors Eurystheus later refused to count, since Heracles demanded payment for it (ch. 078) |
+| Гомер | Homer | The legendary blind poet, author of the Iliad and Odyssey; quoted in the exodos on Heracles's shade in Hades (ch. 078) |
+| Гебея | Hebe | Alternate/poetic form of Геба (Hebe), used in the Homeric quotation; cf. Гермий/Hermeias used interchangeably with Гермес/Hermes (ch. 078) |
+| Главк | Glaucus | Sea-god who informs the Argonauts, per the exodos epigraph, that Heracles is fated to return to Tiryns and complete his Labors (ch. 078) |
+| Палестина | Palestine | Region referenced in the narrator's chronological aside about Achaean colonies and the future rise of monotheism (ch. 078) |
+| Единый | the One | The narrator's term for the monotheistic God, in the chronological aside (ch. 078); capitalized |
+| Сиддхартха Гаутама | Siddhartha Gautama | Historical figure later known as the Buddha, referenced in the narrator's chronological aside (ch. 078) |
+| Иисус из Назарета | Jesus of Nazareth | Referenced in the narrator's chronological aside (ch. 078) |
+| Магомет | Muhammad | Referenced in the narrator's chronological aside, credited with the declaration "There is no god but Allah" (ch. 078) |
