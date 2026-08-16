@@ -424,3 +424,5 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Одиссей | Odysseus | Autolycus's foretold grandson; name glossed in-text by the narrator as meaning "The one who angers the gods" (ch. 072) |
 | Маленьких обижают! | "They're picking on the little ones!" | Recurring childhood battle cry of Alcides and Iphicles (established ch. 027, 050, 069, etc.); settled translation, used again by young Iolaus/Amphitryon in ch. 072 |
 | дискобол (мн. дискоболы) | discobolos (pl. discoboloi) | A discus thrower. We use this word because on first occurrence (072) "disc thrower" clashed with another "throw" in the sentence |
+| Радужная Ирида | Rainbow Iris | Paired epithet of Iris, messenger goddess; here specifically "Hera's own messenger" (ch. 073) |
+| Век Златой | the Golden Age | The era of Kronus/the Titans' reign, invoked as the age presided over by the Fallen (ch. 073) |
