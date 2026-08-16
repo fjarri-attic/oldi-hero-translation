@@ -200,7 +200,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Атлант-Небодержатель | Atlas the Sky-Bearer | Paired epithet of Atlas, father of the nymph Maia |
 | Пастырь Стад | Keeper of the Flocks | Epithet of Hermes |
 | Пифий / Аполлон Пифий | Pythius / Apollo Pythius | Epithet of Apollo, "Pythian," tied to Delphi |
-| Стреловержец | Far-Shooter | Epithet of Apollo |
 | Мститель | Avenger | Epithet of Apollo |
 | Водитель Муз | Leader of the Muses | Epithet of Apollo, translated (as opposed to "Мусагет" / Musagetes, which is transliterated) |
 | Несущий чуму | Plague-Bringer | Epithet of Apollo |
@@ -443,3 +442,26 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | скверна | miasma | A term used specifically for a "stain" on a person who performed some crime. |
 | очистить | cleanse | A term specifically used for removing the miasma from a person |
 | осквернить (оскверненный) | pollute (polluted) | A term speficially used for someone possessing miasma |
+| юродивый | holy fool | Running epithet for the disguised, seemingly mad Heracles at Delphi, before "Геракл" settles as his name; paired once with оборванец ("ragged holy fool") on first occurrence (ch. 076) |
+| Эринии | Erinyes | The Furies, avenging sisters; collectively invoked (ch. 076) |
+| Алекто | Alecto | One of the Erinyes (ch. 076) |
+| Тисифона | Tisiphone | One of the Erinyes (ch. 076) |
+| Мегера | Megaera | One of the Erinyes (ch. 076) |
+| Пифон | Python | Monstrous serpent slain by Apollo at Delphi, who then founded the oracle there (ch. 076) |
+| Аполлон-Стреловержец | Apollo the Far-Shooter | Paired epithet combining Аполлон with the established Стреловержец/Far-Shooter epithet (ch. 076) |
+| Гера-Мачеха | Hera the Stepmother | Paired epithet of Hera, as Heracles's persecutor (ch. 076) |
+| Кастальский источник | Castalian Spring | Sacred spring at Delphi, its water used for pilgrims' ritual washing (ch. 076) |
+| Агамед | Agamedes | Legendary architect; with Trophonius, built parts of the Delphic temple, favorite of Apollo (ch. 076) |
+| Трофоний | Trophonius | Legendary architect; with Agamedes, favorite of Apollo (ch. 076) |
+| Феб-Сверкающий | Phoebus the Radiant | Paired epithet of Phoebus/Apollo (ch. 076) |
+| Кассотида | Cassotis | Delphi's second sacred spring, near the oracle's inner sanctum (ch. 076) |
+| Пифийские игры | the Pythian Games | Athletic and artistic contests held at Delphi (ch. 076) |
+| Артемида-девственница | Artemis the virgin | Paired epithet of Artemis, second word lowercase to match the original; cf. Артемида-охотница/Artemis the huntress (ch. 076) |
+| Женишок | Bridegroom | Mocking nickname the Delphic priestesses give Heracles during his madness, before "Геракл" settles as his name; used without an article, cf. Пустышка/Dummy (ch. 076). For now we choose to ignore the diminutive of the original, since it's hard to translate to English without resorting to an epithet "little" which is already overused. |
+| Любимчик Геры | Hera's Favorite | Paired nickname alongside Женишок/Bridegroom (ch. 076) |
+| Златообутая Гера | Gold-Sandaled Hera | Homeric-style epithet of Hera; capitalized to match the original (ch. 076) |
+| Отмеченный Герой | the Marked Hero | Epithet used for Heracles at Delphi, playing on the folk etymology of his name as "marked"/claimed by Hera (ch. 076) |
+| Фрасибул | Thrasybulus | Elderly Delphic temple worker (ch. 076) |
+| Сфенелид | Sthenelid | Patronymic epithet, "son of Sthenelus," applied to Eurystheus ("Эврисфей Сфенелид"); elsewhere rendered descriptively as "Eurystheus, Sthenelus's son" (ch. 075) (ch. 076) |
+| Медуза | Medusa | Gorgon slain by Perseus; cf. Пегас/Pegasus, Хрисаор/Chrysaor, her children, and Горгоноубийца/Gorgon-Slayer, Perseus's epithet (ch. 076) |
+| Олимп | Olympus | Home of the Olympian gods (ch. 076) |
