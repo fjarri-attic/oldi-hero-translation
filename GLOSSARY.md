@@ -426,3 +426,4 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | дискобол (мн. дискоболы) | discobolos (pl. discoboloi) | A discus thrower. We use this word because on first occurrence (072) "disc thrower" clashed with another "throw" in the sentence |
 | Радужная Ирида | Rainbow Iris | Paired epithet of Iris, messenger goddess; here specifically "Hera's own messenger" (ch. 073) |
 | Век Златой | the Golden Age | The era of Kronus/the Titans' reign, invoked as the age presided over by the Fallen (ch. 073) |
+| Алкид-сумасброд | Alcides the Madcap | Paired epithet of Alcides, used mockingly by a bystander (ch. 074) |
