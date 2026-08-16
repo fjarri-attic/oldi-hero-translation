@@ -66,7 +66,7 @@ Mother flinched and fell silent for a while. Too rarely did her firstborn, helm-
 
 "What are you getting at, mom?"
 
-"Don't play the fool, Ares! The whole Family knows that only I, Middle, and you dare raise our voices in the Thunderer's presence! Why, why is it that of all my offspring, only you are capable of making decisions?! The lame Hephaestus cares for nothing but his ridiculous trinkets, and flighty Hebe is fit for nothing but pouring nectar for the guests!"
+"Don't play the fool, Ares! The whole Family knows that only I, Middle, and you dare raise our voices in the Thunderer's presence! Why, why is it that of all my offspring, only you are capable of making decisions?! The lame Hephaestus cares for nothing but his ridiculous contraptions, and flighty Hebe is fit for nothing but pouring nectar for the guests!"
 
 "Get to the point, mom," Ares's voice rang out, dangerous.
 

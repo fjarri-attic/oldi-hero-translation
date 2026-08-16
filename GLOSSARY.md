@@ -480,3 +480,18 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Сиддхартха Гаутама | Siddhartha Gautama | Historical figure later known as the Buddha, referenced in the narrator's chronological aside (ch. 078) |
 | Иисус из Назарета | Jesus of Nazareth | Referenced in the narrator's chronological aside (ch. 078) |
 | Магомет | Muhammad | Referenced in the narrator's chronological aside, credited with the declaration "There is no god but Allah" (ch. 078) |
+| семивратные Фивы | seven-gated Thebes | Homeric-style epithet of Thebes; not a personal epithet, so not capitalized (ch. 080) |
+| гиксосы | the Hyksos | Historical Semitic-Asiatic people who ruled the Egyptian delta; invoked in a variation on the "uninvited guest" proverb (ch. 080) |
+| Флегрейские поля / Флегры | the Phlegraean Fields / Phlegrae | Battlefield of the Gigantomachy; footnoted on first occurrence with the author's own endnote definition (locates it in western Chalcidice, on Pallene) (ch. 080) |
+| Пожарища | the Burning Grounds | Poetic doublet for Флегры/Phlegra, echoing the literal meaning given in the footnote to Флегрейские поля (ch. 080) |
+| Мать-Гея | Mother Gaia | Paired epithet/invocation, order preserved from the original (cf. Гея-Земля/Gaia the Earth, which pairs the terms in reverse order) (ch. 080) |
+| Танат-Убийца | Thanatos the Killer | Paired epithet, dative "Танату-Убийце"; cf. Танат-Смерть/Thanatos the Death, Танат-Железносердый/Thanatos the Iron-Hearted (ch. 080) |
+| Нерей-Морской | Nereus of the Sea | Paired epithet, dative "Нерею-Морскому" (ch. 080) |
+| Океан | Oceanus | The Titan of the world-river, referred to as "grandfather Oceanus" (ch. 080) |
+| Керинейская лань | the Cerynian Hind | The hind Heracles was sent to capture in one of his Labors (ch. 080) |
+| Трудяга Гефест | Hephaestus the toiler | Paired epithet/descriptor of Hephaestus; not a personal name-epithet in the usual sense, so not capitalized (ch. 080) |
+| Зевс-самодур | Zeus the despot | Paired epithet, mocking/insulting; "самодур" implies a petty, willful tyrant (ch. 080) |
+| Стрелок | the Archer | Standalone epithet of Apollo; distinct from the established Стреловержец/Far-Shooter (cf. Аполлон-Стреловержец/Apollo the Far-Shooter) (ch. 080) |
+| Гермий-Простак | Hermeias the Simpleton | Jesting paired epithet Ares coins for Hermeias (ch. 080) |
+| Арей-Боязливый | Ares the Frightful | Jesting paired epithet Ares coins for himself, paired with Гермий-Простак/Hermeias the Simpleton (ch. 080). Note that "fright" was chosen specifically because he mentioned Phobos the Fright in the previouos sentence. |
+| Совет Семьи / Семейный Совет | the Family Council | The Olympians' governing council; cf. Семья/Family (ch. 080) |
