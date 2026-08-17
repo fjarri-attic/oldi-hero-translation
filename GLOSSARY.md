@@ -495,3 +495,17 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Гермий-Простак | Hermeias the Simpleton | Jesting paired epithet Ares coins for Hermeias (ch. 080) |
 | Арей-Боязливый | Ares the Frightful | Jesting paired epithet Ares coins for himself, paired with Гермий-Простак/Hermeias the Simpleton (ch. 080). Note that "fright" was chosen specifically because he mentioned Phobos the Fright in the previouos sentence. |
 | Совет Семьи / Семейный Совет | the Family Council | The Olympians' governing council; cf. Семья/Family (ch. 080) |
+| Телем-Никакой / Никакой | Thelem the Nobody / Nobody | Grandson of Телем Гундосый (see Телем/Гундосый); "Никакой" is a nickname from colloquial "никакой" (characterless, nondescript, unremarkable) --- the backstory implies his wife's friends asked what he was like in bed and she answered with this word. The name is a deliberate pun sustained through the chapter (playing on "no man should be nobody"), resolved when he asks to be renamed "Гундосый"/Nasal like his grandfather instead (ch. 081) |
+| Кранай-Злюка | Kranai the Grouch | Thelem-Nobody's father, third-generation gate-guard of Thebes; "Злюка" = a grouchy, short-tempered person (ch. 081) |
+| Лихас | Lichas | Talkative traveling boy who claims to be one of Heracles's companions; standard mythological name (later Heracles's actual herald) (ch. 081) |
+| Лик-буян / Лик Фиванский | Lycus the Brawler / Lycus of Thebes | Usurping basileus of Thebes who banished Alcmene and Megara; "буян" = a rowdy troublemaker. "Лик Фиванский" is footnoted by the author as meaning "the Theban Wolf" (Greek "лик" = "wolf") (ch. 081) |
+| Ликаон | Lycaon | Legendary Arcadian king turned into a wolf by Zeus and then incinerated; invoked as a rumored ancestor of Lycus of Thebes (ch. 081) |
+| Аполлон Ликейский | Apollo Lyceius | Epithet of Apollo ("of the wolf" / "of the Lyceum"), invoked as a rumored ancestor of Lycus of Thebes (ch. 081) |
+| Диомед-бистон | Diomedes the Bistonian | Thracian king who owned the man-eating mares Heracles was sent to capture (ch. 081) |
+| Фемискира | Themiscyra | Capital city of the Amazons (ch. 081) |
+| Ипполита | Hippolyta | Amazon queen who owned the belt Heracles was sent to fetch (ch. 081) |
+| Антиопа | Antiope | Amazon queen Hippolyta's advisor/councillor (ch. 081) |
+| Адмета | Admete | Eurystheus's daughter, the actual intended recipient of Hippolyta's belt per Lichas's account (ch. 081) |
+| Иолай-возничий | Iolaus the driver | Descriptive epithet for Iolaus in his role driving Heracles's chariot (ch. 081) |
+| Иолайчик | Iolie | A term of endearment for Iolaus used by Lichas |
+| Тезей-афинянин | Theseus the Athenian | Descriptive epithet for Theseus (ch. 081) |
