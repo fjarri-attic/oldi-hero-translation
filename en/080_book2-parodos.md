@@ -84,7 +84,7 @@ Worn out.
 
 "You and Apollo?!" Hermeias couldn't believe his ears, forgetting the heat and his weariness at once.
 
-"What would you have me do? Even Artemis turns up her nose --- she can't forgive the hunt for the Cerynian Hind. And ever since their little meeting with Heracles, the whole Family's taken an interest in Artemis's virginity, too..."
+"What would you have me do? Even Artemis turns up her nose --- she can't forgive the hunt for the Ceryneian Hind. And ever since their little meeting with Heracles, the whole Family's inquiring about Artemis's virginity..."
 
 Ares didn't finish.
 

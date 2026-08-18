@@ -469,7 +469,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Мегамеда | Megamede | Daughter of Arneus; mother, by Thespius, of his fifty daughters (ch. 078) |
 | Арней | Arneus | Father of Megamede (ch. 078) |
 | Немейский лев | the Nemean lion | Invulnerable lion slain by Heracles in the first of his official Labors, per the rhapsodes' account (ch. 078) |
-| Стимфал / Стимфалийские птицы | Stymphalus / the Stymphalian birds | Region and its man-eating, bronze-beaked, arrow-feathered birds, driven off by Heracles with bronze tympana in one of his Labors (ch. 078) |
+| Стимфал / Стимфалийские птицы | Stymphalos / the Stymphalian birds | Region and its man-eating, bronze-beaked, arrow-feathered birds, driven off by Heracles with bronze tympana in one of his Labors (ch. 078) |
 | Лернейская Гидра | the Lernaean Hydra | Many-headed monster slain by Heracles with Iolaus's help, per the rhapsodes' account; one of the two labors Eurystheus later refused to count (ch. 078) |
 | Авгиевы конюшни | the Augean stables | The stables cleaned by Heracles as one of his Labors; the other of the two labors Eurystheus later refused to count, since Heracles demanded payment for it (ch. 078) |
 | Гомер | Homer | The legendary blind poet, author of the Iliad and Odyssey; quoted in the exodos on Heracles's shade in Hades (ch. 078) |
@@ -488,7 +488,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Танат-Убийца | Thanatos the Killer | Paired epithet, dative "Танату-Убийце"; cf. Танат-Смерть/Thanatos the Death, Танат-Железносердый/Thanatos the Iron-Hearted (ch. 080) |
 | Нерей-Морской | Nereus of the Sea | Paired epithet, dative "Нерею-Морскому" (ch. 080) |
 | Океан | Oceanus | The Titan of the world-river, referred to as "grandfather Oceanus" (ch. 080) |
-| Керинейская лань | the Cerynian Hind | The hind Heracles was sent to capture in one of his Labors (ch. 080) |
+| Керинейская лань | the Ceryneian Hind | The hind Heracles was sent to capture in one of his Labors (ch. 080) |
 | Трудяга Гефест | Hephaestus the toiler | Paired epithet/descriptor of Hephaestus; not a personal name-epithet in the usual sense, so not capitalized (ch. 080) |
 | Зевс-самодур | Zeus the despot | Paired epithet, mocking/insulting; "самодур" implies a petty, willful tyrant (ch. 080) |
 | Стрелок | the Archer | Standalone epithet of Apollo; distinct from the established Стреловержец/Far-Shooter (cf. Аполлон-Стреловержец/Apollo the Far-Shooter) (ch. 080) |
@@ -509,3 +509,21 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Иолай-возничий | Iolaus the driver | Descriptive epithet for Iolaus in his role driving Heracles's chariot (ch. 081) |
 | Иолайчик | Iolie | A term of endearment for Iolaus used by Lichas |
 | Тезей-афинянин | Theseus the Athenian | Descriptive epithet for Theseus (ch. 081) |
+| Копрей / Копрей Пелопид | Copreus / Copreus Pelopid | Eurystheus's herald, hypocritical and cowardly, who conveys Eurystheus's commands to Heracles and enjoys lording it over him; "Копрей Пелопид" is the patronymic epithet form (cf. Пелопид/Pelopid, "descendant of Pelops"); footnoted by the author on first occurrence (ch. 082) |
+| Аркадия | Arcadia | Region of the Peloponnese (ch. 082) |
+| Элида | Eleia | Region of the Peloponnese, kingdom of Augeas (ch. 082) |
+| Лакония | Laconia | Region of the Peloponnese (ch. 082) |
+| Ахайя | Achaea | Region/coast of the Peloponnese; cf. Achaeans (ch. 082) |
+| Молорх | Molorchus | Poor Nemean shepherd, one of the Tartarus-Possessed, who obligingly offered to sacrifice his own grandson to Heracles (ch. 082) |
+| Фол | Pholus | Hospitable centaur of Pholoe, one of the Tartarus-Possessed, who tried to get Alcides drunk and then set his kinsmen on the twins (ch. 082) |
+| Фолоя | Pholoe | Region/mountain, home of the centaur Pholus (ch. 082) |
+| Псофида | Psophis | Arcadian city at the foot of Mount Erymanthus (ch. 082) |
+| Эриманф | Erymanthos | Mountain, home of the Erymanthian Boar (ch. 082) |
+| Эриманфский вепрь | the Erymanthian Boar | The boar Heracles was sent to capture in one of his Labors (ch. 082) |
+| Герион | Geryon | Three-bodied monster whose cattle Heracles was sent to fetch in one of his Labors (ch. 082) |
+| Геспериды | the Hesperides | Nymphs guarding the golden apples fetched by Heracles in one of his Labors; cf. the established phrase "apples of the Hesperides" (ch. 081) (ch. 082) |
+| Ороп / Оропская гавань | Oropus | Harbor town in Attica, facing Euboea (ch. 082) |
+| Элеунт | Elaious | Place named south of Mycenae, near Lerna, in Iolaus's sketch of the Peloponnese; not to be confused with a similarly named city in Thrace. |
+| орхоменские щитоносцы | the Orchomenian shield-bearers | Simile describing the Stymphalian birds' metal plumage; cf. established Orchomenus/Orchomenian (ch. 082) |
+| Лик-волчина | Lycus the wolf-cur | Colloquial, derogatory variant epithet for Lycus of Thebes, used by Lichas; "волчина" is an augmentative/pejorative form of "wolf" (ch. 082) |
+| мегера Мегара | megaera Megara | Wordplay: "мегера" (shrew, ultimately from the Fury Мегера/Megaera) puns on the name Мегара/Megara; preserved in English since "megaera" is also an established English common noun for a shrewish woman, spelled like Megaera the Fury (cf. Megaera, ch. 076) (ch. 082) |
