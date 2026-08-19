@@ -530,3 +530,12 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | пифос (мн. пифосы) | pithos (pl. pithoi) | Large Greek storage jar for wine, oil, grain, etc.; kept transliterated like хитон/chiton, гиматий/himation, etc.; no footnote in the original at first occurrence, so none added (ch. 083) |
 | Зевс-Бротолойгос | Zeus Brotoloigos | Paired epithet, used by a comic minor character invoking Zeus; "Бротолойгос" ("manslaying"/"destroyer of mortals") is a genuine Homeric epithet, elsewhere applied to Ares --- its use for Zeus here is the character's own (mis)appropriation; kept transliterated rather than translated, cf. Зевс Додонский/Zeus Dodonaios (ch. 083) |
 | Навплион | Nauplia | Port city in the Argolid; standard English rendering of the ancient name (also "Nauplion"); mentioned in passing as the site of a dice game (ch. 083) |
+| дамат (мн. даматы) | damates | Oechalian courtiers, trusted men of the basileus; kept transliterated like басилей/basileus, ванакт/wanax, лавагет/lawagetas; no footnote in the original at first occurrence, so none added (ch. 084) |
+| Ифит-лучник | Iphitus the archer | Paired epithet of Iphitus, cf. Эврит-лучник/Eurytus the archer; lowercase "the archer" (ch. 084) |
+| Амфитрион-лавагет | Amphitryon the lawagetas | Paired epithet of Amphitryon; cf. лавагет/lawagetas (ch. 084) |
+| Гиппокоонт | Hippocoon | Spartan basileus, one of Iole's suitors; brought nine or ten sons to Oechalia (ch. 084) |
+| Нелей | Neleus | Wanax of Pylos, one of Iole's suitors; brought a dozen sons to Oechalia (ch. 084) |
+| Пилос | Pylos | City/kingdom on the Peloponnese, ruled by Neleus (ch. 084) |
+| Лаомедонт | Laomedon | Ruler of Troy; whose daughter Hesione Heracles saved from a sea monster, and who then drove Heracles out rather than pay him; one of Iole's suitors (ch. 084) |
+| Троя | Troy | City ruled by Laomedon (ch. 084) |
+| Гесиона | Hesione | Laomedon's daughter, saved by Heracles from a sea monster (ch. 084) |
