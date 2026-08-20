@@ -539,3 +539,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Лаомедонт | Laomedon | Ruler of Troy; whose daughter Hesione Heracles saved from a sea monster, and who then drove Heracles out rather than pay him; one of Iole's suitors (ch. 084) |
 | Троя | Troy | City ruled by Laomedon (ch. 084) |
 | Гесиона | Hesione | Laomedon's daughter, saved by Heracles from a sea monster (ch. 084) |
+| Илион | Ilion | Alternate name of Troy, named for Ilus (Laomedon's father), as Troy was named for Tros (Ilus's father, Laomedon's grandfather); footnoted on first occurrence (ch. 085) |
+| илионец | Ilian | Demonym for a native of Ilion, i.e. Troy; used alongside троянец/Trojan as a (pointless, since Ilion = Troy) distinction in Lichas's joke (ch. 085) |
+| Ифит-Ойхаллиец | Iphitus the Oechalian | Paired epithet of Iphitus, cf. Ифит-лучник/Iphitus the archer; capitalized "the Oechalian" as a proper demonym (ch. 085) |
