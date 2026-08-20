@@ -30,7 +30,7 @@ Two hazy silhouettes, two shades... no, shades have no place here --- they shoul
 
 "Then why not ask them?"
 
-"Ask them?" A strange amusement sounds in the voice of the Anax of the Underworld. "Well, go ahead and try. And if they don't answer --- don't take offense. Most likely they simply won't notice you... even if you shout at the top of your voice, stamp your feet, and throw stones at them. Have you ever seen the Hundred-Handed?"
+"Ask them?" A strange amusement sounds in the voice of the Lord of the Underworld. "Well, go ahead and try. And if they don't answer --- don't take offense. Most likely they simply won't notice you... even if you shout at the top of your voice, stamp your feet, and throw stones at them. Have you ever seen the Hundred-Handed?"
 
 "No."
 
@@ -77,7 +77,7 @@ Two hazy silhouettes, two shades... no, shades have no place here --- they shoul
 
 "Don't change the subject, uncle," Hermeias said sharply. "What happened next?"
 
-"Next?" the Anax fell silent for a moment, as though gathering his thoughts. "Very well. Listen on.
+"Next?" the Lord fell silent for a moment, as though gathering his thoughts. "Very well. Listen on.
 
 "Kronus the Timekeeper had just then overthrown his father Uranus, gelding him, and the Fallen quickly understood whom to bet on. They began giving Kronus wise counsel --- the kind Momus the Mocker gives..."
 
@@ -183,7 +183,7 @@ Hades did not answer at once, but the Trickster did not hurry him, understanding
 
 "You're right. Only the Cleaners themselves know just this much --- that they exterminate monsters --- and that is enough."
 
-"Yes, uncle. Enough for them. Not for us. It's my turn now, Anax. I'll tell you about young Alcides, son of Zeus and Alcmene, the future Lone Cleaner, equal to the gods --- and about the true cause of his madness..."
+"Yes, uncle. Enough for them. Not for us. It's my turn now, Lord. I'll tell you about young Alcides, son of Zeus and Alcmene, the future Lone Cleaner, equal to the gods --- and about the true cause of his madness..."
 
 
 #### Epode[^33]
@@ -198,4 +198,4 @@ Hermeias flinched. He had heard those same words (though on a different occasion
 
 "And after that? You know as well as I do, uncle --- a lot can be read any number of ways!"
 
-"Precisely," from the sound of his voice, one might guess that the stern Anax of the Realm of Shadows had finally smiled, for the first time in this long conversation. "Precisely! And we simply must make a certain effort to ensure that the interpretation which suits us best turns out to be the correct one!"
+"Precisely," from the sound of his voice, one might guess that the stern Lord of the Realm of Shades had finally smiled, for the first time in this long conversation. "Precisely! And we simply must make a certain effort to ensure that the interpretation which suits us best turns out to be the correct one!"

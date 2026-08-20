@@ -8,7 +8,7 @@ The man's voice is supple and taut, like a leather sling ready at any moment to 
 
 The woman's voice is calm and assured, full of a restrained authority unaccustomed to either whispering or shouting.
 
-Though Anax Hades could attest that this is not always so.
+Though Lord Hades could attest that this is not always so.
 
 "Of course, Mother. Who else in the Family, besides you, would come to visit Ares Enyalius, Ares the Blood-Drinker, Ares the Untamable?!"
 

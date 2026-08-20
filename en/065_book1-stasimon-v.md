@@ -16,7 +16,7 @@ The answer lies coiled inside the question.
 
 And a hint of anger, ready to break loose.
 
-"Yes... Anax."
+"Yes... Lord."
 
 "And didn't let him drink from Lethe?"
 
@@ -52,9 +52,9 @@ Greedily.
 
 The darkness thickens, gathers itself into folds, and falls silent.
 
-And when Hermeias Psychopompos had tiptoed away, leading behind him the silent shade of the one so recently called Amphitryon --- Anax Hades sat a long while yet, lost in thought.
+And when Hermeias Psychopompos had tiptoed away, leading behind him the silent shade of the one so recently called Amphitryon --- Lord Hades sat a long while yet, lost in thought.
 
-Today he and Hermeias had broken an ancient law, one the Anax himself had established. That was why it had been so terribly hard for Senior to bring himself to such a step.
+Today he and Hermeias had broken an ancient law, one the Lord himself had established. That was why it had been so terribly hard for Senior to bring himself to such a step.
 
 And yet he had.
 
@@ -74,7 +74,7 @@ To finish building, to finish loving... to avenge!
 
 That is why Charon the Ferryman --- a child of Erebus born old --- never carries anyone back; that is why the three-headed, dragon-tailed hound Cerberus keeps ceaseless watch over the exit of Hades --- the *exit*, mind you, not the *entrance*, for who would willingly come to the kingdom of the dead, and having come, manage to lose himself in it?
 
-The Anax sees all there is to see, in Erebus.
+The Lord sees all there is to see, in Erebus.
 
 Cerberus is not needed for guests. He is needed so that shades do not go running toward the light, guided by the very best of intentions --- and everyone knows where that road leads.
 
@@ -86,7 +86,7 @@ That is why the souls of the dead are led past the White Rock of Oblivion, why t
 
 Only sacrificial blood can, for a time, return memory to the shades; but Charon cannot be bribed, Cerberus cannot be swayed, and the shades forget their past, and once more trudge obediently back into the gloom...
 
-Still, today the Anax broke his own law for the first time.
+Still, today the Lord broke his own law for the first time.
 
 He sensed that he would need Amphitryon the Exile, along with the whole of his hard fate.
 
@@ -94,7 +94,7 @@ Only Hades did not know --- When, How, and What for.
 
 That was something to be thought through.
 
-Well, thinking was something the Anax was accustomed to. Thinking long, thoroughly, without counting the time, of which he had plenty.
+Well, thinking was something the Lord was accustomed to. Thinking long, thoroughly, without counting the time, of which he had plenty.
 
 
 #### Antistrophe
@@ -109,7 +109,7 @@ Well, thinking was something the Anax was accustomed to. Thinking long, thorough
 
 "What choice does he have, when half the Family now stands with Middle and Stepmother Hera: Artemis, and grubby Hephaestus, and that vixen Hestia, and even thick-skulled Apollo, who used to back dad in every scheme of his, out of sheer natural dullness! Only Athena is holding on, more or less..."
 
-"Interesting... don't keep me waiting, tell your old uncle the Family's secrets," --- a barely perceptible mockery lurked in the Anax's voice. "Who's to blame this time?"
+"Interesting... don't keep me waiting, tell your old uncle the Family's secrets," --- a barely perceptible mockery lurked in the Lord's voice. "Who's to blame this time?"
 
 Hermeias pretended not to notice, and went on:
 
@@ -119,7 +119,7 @@ Hermeias pretended not to notice, and went on:
 
 "Nothing!" Trickster burst out. "That's just it --- nothing! Five years, and not-a-sin-gle-thing! In Iolcus, Argus the shipwright has laid the keel of a ship, and all the heroes of Hellas are gathering for Colchis, after the Golden Fleece; even seventeen-year-old Theseus, Poseidon's Cleaner, is going with them... And not just Theseus --- among Middle's other sons there's Euphemus, and Erginus; then Boreas's sons Zetes and Calais, Dionysus's Cleaners Phanus and Staphylus, Augeas Heliad, Ialmenus and Ascalaphus Areads, Palaemon Hephaestid, the Dioscuri, divine Orpheus, and my own Autolycus, and---"
 
-"Stop!" the Anax barked. "How many of them are there in all?!"
+"Stop!" the Lord barked. "How many of them are there in all?!"
 
 "Fifty, uncle! If not more by now..."
 
@@ -131,7 +131,7 @@ Hermeias pretended not to notice, and went on:
 
 "Just so, uncle! The Family's abuzz: what kind of Cleaner is this, who performs no feats, wages no wars, moves no mountains --- they send him invitations, they practically bow at his feet --- and nothing! Trains striplings in the palaestra in Thebes, our godlike one! That's all. People have started saying that it isn't Alcides who is the Lone Cleaner after all, but rather Theseus of Troezen, Poseidon's boy."
 
-"And from there it's one step to another thought," the Anax said musingly. "Middle's son-Cleaner is a true hero, unlike Junior's son-Cleaner. Zeus has grown weak, worn thin --- perhaps it isn't Junior who ought to rule, but Middle?"
+"And from there it's one step to another thought," the Lord said musingly. "Middle's son-Cleaner is a true hero, unlike Junior's son-Cleaner. Zeus has grown weak, worn thin --- perhaps it isn't Junior who ought to rule, but Middle?"
 
 "Yes, uncle. No one says it aloud yet, but they think it. Those who know how to think. Which means soon they'll be saying it --- those who know how to talk."
 
@@ -145,7 +145,7 @@ Hermeias pretended not to notice, and went on:
 
 "The same thing all over again. I've thought long on this, Trickster, I've turned the puzzle this way and that, I've talked with the shades of Cleaners, returning their memory for a time with sacrificial blood --- and I think I've understood something."
 
-"What, Anax?"
+"What, Lord?"
 
 "We, and the Fallen, and the Titans --- we're all immortal. We know this. We're convinced we cannot kill one another for good. Those whom men call monsters are kin to us. But... Bellerophon killed the Chimera, and Perseus killed Medusa. Why? Why could a mortal Cleaner destroy a creature sure of its own immortality?! Have you ever seriously thought about that, Hermeias?"
 
@@ -163,7 +163,7 @@ For a while, both were silent.
 
 "Yes, Hermeias. It means that if a Cleaner is capable of killing a monster, he's capable of killing a god as well. It's a double-edged weapon, and we must understand that, if we mean to use it."
 
-"But the mortal Cleaners are our children, Anax!"
+"But the mortal Cleaners are our children, Lord!"
 
 "Yes. And the Fallen in Tartarus could have thought their way to the very same conclusion! There's time enough down there for reflection, and Kronus the Timekeeper is no fool, no less than I or Junior. So, having learned the truth behind the deaths of Medusa and the Chimera, it might well have occurred to the Fallen to breed a race of mortal heroes of their own in Tartarus --- let's call them, say, Gigantes --- who would know themselves to be mortal, and would call the two of us monsters!"
 
@@ -179,7 +179,7 @@ For a while, both were silent.
 
 "Anything's possible, Hermeias. And it's also possible that I'm wrong. A child can also see a bogeyman in a chiton hung out to dry."
 
-"Then we must find out, Anax. We know what Alcides's fits are truly connected to --- which means one of the Tartarus-Possessed is in Thebes, or nearby. If we find him and question him, if we take him alive..."
+"Then we must find out, Lord. We know what Alcides's fits are truly connected to --- which means one of the Tartarus-Possessed is in Thebes, or nearby. If we find him and question him, if we take him alive..."
 
 "Not alive. I prefer to question the dead --- they're more honest. But you're right, Hermeias. I only wanted you to say it aloud yourself. That Alcides has had no fits right now means nothing. If Junior drives his Cleaner toward feats, the Fallen will return the favor."
 
@@ -213,7 +213,7 @@ And in mournful echo:
 
 "Amphitryon... Amphitryon, descendant of Perseus."
 
-"You mean to bring him back to the world of the living, Anax?!"
+"You mean to bring him back to the world of the living, Lord?!"
 
 "Yes. I broke the law once --- I'll break it twice."
 
@@ -233,10 +233,10 @@ And in mournful echo:
 
 "That would suit me perfectly well."
 
-"Anax, I know Amphitryon. Believe me, he's no less... reasonable than you are, and no less proud than Junior, besides."
+"Lord, I know Amphitryon. Believe me, he's no less... reasonable than you are, and no less proud than Junior, besides."
 
-"Don't worry. Proud or reasonable, he's mortal. And he'll know that the Isles" --- a note of mockery crept into the Anax's voice --- "the Isles of the Blessed are always ready to take him back. Besides, our interests largely coincide, so your Amphitryon will work not out of fear, but for conscience's sake."
+"Don't worry. Proud or reasonable, he's mortal. And he'll know that the Isles" --- a note of mockery crept into the Lord's voice --- "the Isles of the Blessed are always ready to take him back. Besides, our interests largely coincide, so your Amphitryon will work not out of fear, but for conscience's sake."
 
 "Out of fear --- I doubt it. But for conscience's sake... Shall I fly off for him, to the Isles, uncle?"
 
-The Anax nodded without a word, and light-footed Hermeias vanished instantly into the thickening crimson gloom.
+The Lord nodded without a word, and light-footed Hermeias vanished instantly into the thickening crimson gloom.

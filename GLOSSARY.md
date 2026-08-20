@@ -9,7 +9,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Средний | Middle | An epithet of Poseidon (used by fellow Olympians). Capitalized. |
 | Младший | Junior | An epithet of Zeus (used by fellow Olympians). Capitalized. |
 | Лукавый | Trickster | An epithet of Hermes (used by fellow Olympians). Capitalized. Use without an article in direct speech addressed to him, with "the" otherwise. |
-| Владыка | Anax | An epithet of Hades (used by fellow Olympians), meaning king or lord (of the dead). Capitalized. Use "the" unless used in a direct speech addressed to him. |
+| Владыка | Lord | An epithet of Hades (used by fellow Olympians), implying lord [of the dead]. Capitalized. Use "the" unless used in a direct speech addressed to him. |
 | Метида-Мысль | Metis the Thought | Paired epithet of Metis |
 | Мойра Атропос | Atropos the Moira | Paired epithet of Atropos. First word capitalized. |
 | Мойры | Moirai | The three Fates collectively. Capitalized. |
@@ -327,7 +327,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Мелампиг (мн. Мелампиги) | Melampygos (pl. Melampygoi) | Mocking nickname for the male Perseids ("Black-Arsed"), from the hair on their thighs/buttocks; glossed in-text by the author |
 | Абдер | Abderus | Hermes's son by a mortal woman; six years old at this point, later dies as a youth guarding Diomedes's man-eating mares (cf. Book 2) |
 | Локрида Опунтская | Opuntian Locris | Abderus's homeland |
-| Персефона | Persephone | Wife of Hades (Владыка/Anax) |
+| Персефона | Persephone | Wife of Hades (Владыка/Lord) |
 | Артемида | Artemis | Also occurs as «Артемида-охотница» → "Artemis the huntress" (paired epithet, second word lowercase to match the original) |
 | локоть (мн. локти) | cubit | Ancient Greek unit of length |
 | Теспий | Thespius | Basileus who hosted Alcides and Iphicles after the lion hunt; father of the fifty daughters (per legend) whom Alcides is rumored to have slept with in one night |
@@ -544,7 +544,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Ифит-Ойхаллиец | Iphitus the Oechalian | Paired epithet of Iphitus, cf. Ифит-лучник/Iphitus the archer; capitalized "the Oechalian" as a proper demonym (ch. 085) |
 | Эврит-стрелок | Eurytus the marksman | Variant paired epithet for Eurytus, distinct from the established Эврит-лучник/Eurytus the archer; both forms occur in the same chapter, so rendered with different English words to preserve the author's lexical variation (ch. 086) |
 | Эврит Ойхаллийский | Eurytus the Oechalian | Paired epithet of Eurytus, cf. Ифит-Ойхаллиец/Iphitus the Oechalian (ch. 086) |
-| владыка (мн. владыки) | lord(s) | Generic address/reference for the assembled basileis and wanaxes in ch. 086; not to be confused with the capitalized epithet Владыка/Anax (Hades's epithet, established earlier) |
+| владыка (мн. владыки) | lord(s) | Generic address/reference for the assembled basileis and wanaxes in ch. 086; not to be confused with the capitalized epithet Владыка/Lord (Hades's epithet, established earlier) |
 | богоравный | god-equal | Standing epithet of Heracles ("богоравный Геракл"/"god-equal Heracles"), distinct from the unrelated "godlike" used elsewhere as a looser descriptor (cf. ch. 081) |
 | Форбант-лапиф | Phorbas the Lapith | Mythical bandit chief, Augeas's true father per rumor; robbed pilgrims on the roads of Phocis and was wounded by an arrow of Apollo for burning the temple of Delphi (ch. 086) |
 | Икарий | Icarius | Brother of Tyndareus; driven out of Sparta by Hippocoon (ch. 086) |
