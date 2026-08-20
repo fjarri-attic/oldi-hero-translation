@@ -543,7 +543,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | илионец | Ilian | Demonym for a native of Ilion, i.e. Troy; used alongside троянец/Trojan as a (pointless, since Ilion = Troy) distinction in Lichas's joke (ch. 085) |
 | Ифит-Ойхаллиец | Iphitus the Oechalian | Paired epithet of Iphitus, cf. Ифит-лучник/Iphitus the archer; capitalized "the Oechalian" as a proper demonym (ch. 085) |
 | Эврит-стрелок | Eurytus the marksman | Variant paired epithet for Eurytus, distinct from the established Эврит-лучник/Eurytus the archer; both forms occur in the same chapter, so rendered with different English words to preserve the author's lexical variation (ch. 086) |
-| Эврит Ойхаллийский | Eurytus the Oechalian | Paired epithet of Eurytus, cf. Ифит-Ойхаллиец/Iphitus the Oechalian (ch. 086) |
+| Эврит Ойхаллийский | Eurytus of Oechalia | Paired epithet of Eurytus (ch. 086) |
 | владыка (мн. владыки) | lord(s) | Generic address/reference for the assembled basileis and wanaxes in ch. 086; not to be confused with the capitalized epithet Владыка/Lord (Hades's epithet, established earlier) |
 | богоравный | god-equal | Standing epithet of Heracles ("богоравный Геракл"/"god-equal Heracles"), distinct from the unrelated "godlike" used elsewhere as a looser descriptor (cf. ch. 081) |
 | Форбант-лапиф | Phorbas the Lapith | Mythical bandit chief, Augeas's true father per rumor; robbed pilgrims on the roads of Phocis and was wounded by an arrow of Apollo for burning the temple of Delphi (ch. 086) |
@@ -552,3 +552,5 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Посейдон | Poseidon | Standard rendering; invoked here as a rumored ancestor of Augeas (ch. 086) |
 | ритон | rhyton | Sacred vessel for pouring libations to the gods; footnoted on first occurrence per the original's endnote 49 (ch. 086) |
 | возница | driver | Cf. established Иолай-возничий/Iolaus the driver; "возница" is a synonym used here for the same role, translated the same way for consistency. Note: the original's closing wordplay ("возница --- тот, кто везет" / "возница --- тот, кому везет," playing on "везёт" meaning both "drives/carries" and "is lucky") is rendered in English as "one who drives" vs. "one whom fortune drives," preserving the repetition of "drive" rather than the Russian pun exactly (ch. 086) |
+| Мнемозина | Mnemosyne | Titaness of Memory, Hermeias's aunt. He calls her "тетка" (aunt) --- literally true, and also echoing the Russian idiom "голод не тётка" ("hunger is no aunt," i.e. no joke/won't be trifled with); Iolaus's rejoinder "мне память --- не тетка" plays on the same idiom. Rendered literally as "aunt" throughout; the idiom's proverbial force doesn't carry over into English (ch. 087) |
+| Эвритид | Eurytides | Patronymic epithet, "son of Eurytus," applied to Iphitus ("Ифит Эвритид"); cf. Ификлид/Iphiclid, Персеид/Perseid, Сфенелид/Sthenelid, Амфитриад/Amphitryad (ch. 087) |
