@@ -1,6 +1,6 @@
 # Glossary
 
-Settled English renderings of names, places, epithets, and terms (including the epithets introduced by the authors). Check here before translating a proper noun that may have appeared earlier --- consistency matters more than any single "better" choice.
+Settled English renderings of names, places, epithets, and terms (including the epithets introduced by the authors), roughly in the order of appearance. Check here before translating a proper noun that may have appeared earlier --- consistency matters more than any single "better" choice.
 
 | Russian | English | Notes |
 |---|---|---|
@@ -554,3 +554,5 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | возница | driver | Cf. established Иолай-возничий/Iolaus the driver; "возница" is a synonym used here for the same role, translated the same way for consistency. Note: the original's closing wordplay ("возница --- тот, кто везет" / "возница --- тот, кому везет," playing on "везёт" meaning both "drives/carries" and "is lucky") is rendered in English as "one who drives" vs. "one whom fortune drives," preserving the repetition of "drive" rather than the Russian pun exactly (ch. 086) |
 | Мнемозина | Mnemosyne | Titaness of Memory, Hermeias's aunt. He calls her "тетка" (aunt) --- literally true, and also echoing the Russian idiom "голод не тётка" ("hunger is no aunt," i.e. no joke/won't be trifled with); Iolaus's rejoinder "мне память --- не тетка" plays on the same idiom. Rendered literally as "aunt" throughout; the idiom's proverbial force doesn't carry over into English (ch. 087) |
 | Эвритид | Eurytides | Patronymic epithet, "son of Eurytus," applied to Iphitus ("Ифит Эвритид"); cf. Ификлид/Iphiclid, Персеид/Perseid, Сфенелид/Sthenelid, Амфитриад/Amphitryad (ch. 087) |
+| абанты | Abantes | Ethnic group, native inhabitants of Euboea (ch. 088) |
+| Орхоменская битва | the battle with Orchomenus | Iolaus's passing comparison ("покажется детским лепетом"); distinct wording from the already-established Орхоменская война/the Orchomenian War (ch. 070), likely referring to the same conflict (ch. 088) |
