@@ -501,7 +501,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Лик-буян / Лик Фиванский | Lycus the Brawler / Lycus of Thebes | Usurping basileus of Thebes who banished Alcmene and Megara; "буян" = a rowdy troublemaker. "Лик Фиванский" is footnoted by the author as meaning "the Theban Wolf" (Greek "лик" = "wolf") (ch. 081) |
 | Ликаон | Lycaon | Legendary Arcadian king turned into a wolf by Zeus and then incinerated; invoked as a rumored ancestor of Lycus of Thebes (ch. 081) |
 | Аполлон Ликейский | Apollo Lyceius | Epithet of Apollo ("of the wolf" / "of the Lyceum"), invoked as a rumored ancestor of Lycus of Thebes (ch. 081) |
-| Диомед-бистон | Diomedes the Bistonian | Thracian king who owned the man-eating mares Heracles was sent to capture (ch. 081) |
+| Диомед-бистон | Diomedes the Biston | Thracian king who owned the man-eating mares Heracles was sent to capture (ch. 081) |
 | Фемискира | Themiscyra | Capital city of the Amazons (ch. 081) |
 | Ипполита | Hippolyta | Amazon queen who owned the belt Heracles was sent to fetch (ch. 081) |
 | Антиопа | Antiope | Amazon queen Hippolyta's advisor/councillor (ch. 081) |
@@ -577,3 +577,4 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Дионис-Лисий | Dionysus Lusios | Paired epithet of Dionysus; "Лисий"/Lusios (Lysius) is the Greek cult epithet meaning "the Loosener," "the Deliverer" (ch. 090) |
 | Иола-ойхаллийка | Iole the Oechalian | Feminine paired epithet for Iole, cf. Ифит-Ойхаллиец/Iphitus the Oechalian (ch. 090) |
 | Эврит-Одержимый | Eurytus the Possessed | Paired epithet of Eurytus, reflecting the archery-obsessed intensity that overtakes him here; cf. Одержимый Тартаром/the Tartarus-Possessed for the established rendering of «одержимый» (ch. 090) |
+| Аполлон-Эглет | Apollo Aigletes | Paired epithet of Apollo (ch. 091) |
