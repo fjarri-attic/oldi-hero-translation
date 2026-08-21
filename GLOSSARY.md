@@ -556,3 +556,19 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Эвритид | Eurytides | Patronymic epithet, "son of Eurytus," applied to Iphitus ("Ифит Эвритид"); cf. Ификлид/Iphiclid, Персеид/Perseid, Сфенелид/Sthenelid, Амфитриад/Amphitryad (ch. 087) |
 | абанты | Abantes | Ethnic group, native inhabitants of Euboea (ch. 088) |
 | Орхоменская битва | the battle with Orchomenus | Iolaus's passing comparison ("покажется детским лепетом"); distinct wording from the already-established Орхоменская война/the Orchomenian War (ch. 070), likely referring to the same conflict (ch. 088) |
+| лекиф | lekythos | A vessel, used here as a ladle for scooping water; footnoted on first occurrence per the original's endnote 50, which the author glosses simply as "a ladle" (ch. 089) |
+| Лаодамия | Laodamia | Daughter of Acastus, one of two girls attending Iolaus's bath at Eurytus's court; later, wife of Protesilaus (ch. 089) |
+| Акаст | Acastus | Argonaut, present basileus of Iolcus; Laodamia's father (ch. 089) |
+| Фессалия | Thessaly | Region of Greece; homeland of Laodamia (ch. 089) |
+| Темпейская долина | the Vale of Tempe | Fertile valley in Thessaly, proverbial for the beauty of its women (ch. 089) |
+| Тиро | Tyro | Thessalian woman; Salmoneus's daughter and Neleus's mother in this text's genealogy (ch. 089) |
+| Салмоней-Безумец | Salmoneus the Madman | Elean ruler who proclaimed himself Zeus and was destroyed, city and all, by the real Zeus; paired epithet (ch. 089) |
+| Салмонеево братство | the Brotherhood of Salmoneus | Secret fellowship of basileis and wanaxes, descended from or devoted to Salmoneus, conspiring against the Olympians (ch. 089) |
+| Миртил-фиванец | Myrtilus the Theban | Epithet distinguishing this Myrtilus's origin; recounts how, after tying an archery contest with Ifitus 28 years earlier, he offered himself in sacrifice/service to the infant Alcides --- apparently the same Myrtilus later established as Alcides and Iphicles's archery teacher (cf. Миртил/Myrtilus) (ch. 089) |
+| Гигантомахия | the Gigantomachy | The war between the Olympian gods and the Gigantes (ch. 089) |
+| Эрифия | Erytheia | The purple island of the Sunset beyond the stream of Ocean, Geryon's home; footnoted on first occurrence per the original's endnote 51 (ch. 089) |
+| Каллироэ | Callirhoe | Oceanid, mother of Geryon by Chrysaor the Golden Bow (ch. 089) |
+| Сфено | Stheno | One of the three Gorgon sisters, still living; cf. Медуза/Medusa (ch. 089) |
+| Эвриала | Euryale | One of the three Gorgon sisters, still living; cf. Медуза/Medusa (ch. 089) |
+| Эвритион | Eurytion | The Gigas who herded Geryon's cattle on Erythia; named in the author's endnote to Эрифия/Erythia, glossed there as "kinsman of Eurytus" (ch. 089) |
+| Орф | Orthrus | The two-headed hound guarding Geryon's cattle on Erythia; named in the author's endnote to Эрифия/Erythia (ch. 089) |
