@@ -591,3 +591,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Лаэрт | Laertes | Basileus of the island of Ithaca; husband of Anticlea, father of Odysseus (ch. 093) |
 | Итака | Ithaca | Island basileia ruled by Laertes (ch. 093) |
 | Аполлончик | Apollie | Diminutive, mocking nickname Hermeias uses for his elder brother Apollo (ch. 093) |
+| Дидимы | Didyma | Sanctuary and oracle of Apollo near Miletus, paired with Delphi in a list of Apollo's attributes and cult centers; footnoted on first occurrence (ch. 094) |
+| навлон | naulon | Charon's ferry-fee, paid to cross the Acheron; footnoted on first occurrence, kept transliterated (ch. 094) |
+| клепсидра | clepsydra | Water-clock; kept transliterated, cf. мегарон/megaron, гинекей/gynaeceum (ch. 094) |
