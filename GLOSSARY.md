@@ -594,3 +594,15 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Дидимы | Didyma | Sanctuary and oracle of Apollo near Miletus, paired with Delphi in a list of Apollo's attributes and cult centers; footnoted on first occurrence (ch. 094) |
 | навлон | naulon | Charon's ferry-fee, paid to cross the Acheron; footnoted on first occurrence, kept transliterated (ch. 094) |
 | клепсидра | clepsydra | Water-clock; kept transliterated, cf. мегарон/megaron, гинекей/gynaeceum (ch. 094) |
+| мессенцы | Messenians | Demonym for Мессения/Messenia (ch. 095) |
+| элидяне | Eleians | Demonym for Элида/Eleia; spelled to match the settled "Eleia," not "Elis" (ch. 095) |
+| арголидцы | Argives | Demonym for Арголида/Argolis; using the standard classical English demonym rather than a literal "Argolians" (ch. 095) |
+| Касталия | Castalia | The nymph who became the Castalian Spring fleeing Apollo's advances; cf. Кастальский источник/Castalian Spring (ch. 095) |
+| Дафна | Daphne | The nymph who became a laurel fleeing Phoebus/Apollo (ch. 095) |
+| Гиацинт | Hyacinthus | Young son of basileus Amyclas, killed by Apollo (ch. 095) |
+| Амикл | Amyclas | Basileus, father of Hyacinthus (ch. 095) |
+| Адмет | Admetus | Basileus of Pherae, an Argonaut, Apollo's favorite; footnoted on first occurrence per the original's endnote 57; not to be confused with Адмета/Admete, Eurystheus's daughter (ch. 095) |
+| Феры | Pherae | City in Thessaly, kingdom of Admetus (ch. 095) |
+| Алкестида | Alcestis | Admetus's wife, who alone agreed to die in his place and was later rescued from Thanatos by Heracles; named in the endnote to Адмет/Admetus (ch. 095) |
+| Зевс-Тучегонитель | Zeus the Cloud-Gatherer | Paired epithet, cf. Тучегонитель/Cloud-Gatherer (ch. 095) |
+| Златолукий Аполлон | golden-bowed Apollo | Paired epithet of Apollo, cf. Сребролукий Аполлон/silver-bowed Apollo (ch. 095) |
