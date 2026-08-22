@@ -587,3 +587,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Попрыгунья | the Leaper | Nickname for Euryale, playing on the meaning of her name (ch. 092) |
 | Полиб-лаконец | Polybus the Laconian | Minor figure; killed by Stheno in the throes of passion (ch. 092) |
 | Аполлон-Тюрайос | Apollo Thyraios | Paired epithet of Apollo, transliterating Greek "of the door/threshold"; ominous closing line of the chapter, left untranslated per convention for Apollo's cult epithets (ch. 092) |
+| Антиклея | Anticlea | Autolycus's sharp-tongued daughter; wife of Laertes, mother of Odysseus (ch. 093) |
+| Лаэрт | Laertes | Basileus of the island of Ithaca; husband of Anticlea, father of Odysseus (ch. 093) |
+| Итака | Ithaca | Island basileia ruled by Laertes (ch. 093) |
+| Аполлончик | Apollie | Diminutive, mocking nickname Hermeias uses for his elder brother Apollo (ch. 093) |
