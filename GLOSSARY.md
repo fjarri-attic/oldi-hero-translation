@@ -578,3 +578,12 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Иола-ойхаллийка | Iole the Oechalian | Feminine paired epithet for Iole, cf. Ифит-Ойхаллиец/Iphitus the Oechalian (ch. 090) |
 | Эврит-Одержимый | Eurytus the Possessed | Paired epithet of Eurytus, reflecting the archery-obsessed intensity that overtakes him here; cf. Одержимый Тартаром/the Tartarus-Possessed for the established rendering of «одержимый» (ch. 090) |
 | Аполлон-Эглет | Apollo Aigletes | Paired epithet of Apollo (ch. 091) |
+| Асклепий | Asclepius | Son of Apollo, earthly god of healing; said to be currently staying in Athens (ch. 092) |
+| Молиона | Molione | Augeas's sister; bears the Three-Bodied Geryon's conjoined twins, who survive and are raised in Eleia by Augeas (ch. 092) |
+| Нестор | Nestor | Son of Neleus of Pylos; here revealed as one of the fathers among the Possessed (ch. 092) |
+| Подарг | Podarces | Son of Laomedon; identified with the figure later known in myth as Priam (ch. 092) |
+| Филей Авгиад | Phyleus Augeiad | Patronymic epithet, "son of Augeas," applied to Phyleus; cf. Авгий Гелиад/Augeas Heliad, Эвритид/Eurytides (ch. 092) |
+| Трехтелый (Герион) | the Three-Bodied | Standalone capitalized nickname for Geryon, used without his name (ch. 092) |
+| Попрыгунья | the Leaper | Nickname for Euryale, playing on the meaning of her name (ch. 092) |
+| Полиб-лаконец | Polybus the Laconian | Minor figure; killed by Stheno in the throes of passion (ch. 092) |
+| Аполлон-Тюрайос | Apollo Thyraios | Paired epithet of Apollo, transliterating Greek "of the door/threshold"; ominous closing line of the chapter, left untranslated per convention for Apollo's cult epithets (ch. 092) |
