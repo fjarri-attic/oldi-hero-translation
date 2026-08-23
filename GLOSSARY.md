@@ -617,3 +617,21 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Филей | Phyleus | A son of Augeas (ch. 096) |
 | Трехтелый Герион | Three-Bodied Geryon | Combined form of Герион/Geryon + the Трехтелый/the Three-Bodied epithet (ch. 096) |
 | Молиона | Molione | Referenced again as a kinswoman of the "younger kinsmen" who fathered the Gigantes; cf. established entry (ch. 092), recurring (ch. 096) |
+| Таларии | Talaria | Hermes's winged sandals; kept as the established English loanword for the mythological item, lowercase (ch. 097) |
+| Тмол | Tmolus | Deceased former husband of Omphale, king of Maeonia before her (ch. 097) |
+| Тмол Танталид | Tmolus Tantalid | Patronymic epithet, "son of Tantalus"; cf. Амфитриад/Amphitryad, Ификлид/Iphiclid, Персеид/Perseid, Сфенелид/Sthenelid (ch. 097) |
+| Кайстр | the Cayster | River in Lydia/Maeonia, near which this chapter is set (ch. 097) |
+| Пелей-Эакид | Peleus Aeacid | Peleus, with the patronymic epithet "Aeacid" (son of Aeacus); one of the heroes gathered for the Calydonian Hunt; cf. Ификл Амфитриад/Iphicles Amphitryad for the "Name Patronymic" pattern (ch. 097) |
+| Мелеагр-Неуязвимый | Meleager the Invulnerable | Paired epithet of Meleager, one of the heroes gathered for the Calydonian Hunt (ch. 097) |
+| Амфиарай-прорицатель | Amphiaraus the Seer | Paired epithet of Amphiaraus of Argos, one of the heroes gathered for the Calydonian Hunt (ch. 097) |
+| Пиритой | Pirithous | One of the heroes gathered for the Calydonian Hunt, mockingly called "the fop" (ch. 097) |
+| Аталанта-девственница | Atalanta the Virgin | Paired epithet of Atalanta, one of the heroes gathered for the Calydonian Hunt (ch. 097) |
+| Калидон / Калидонская охота | Calydon / the Calydonian Hunt | The town and the mythological boar hunt taking place there (ch. 097) |
+| Эпиона | Epione | Wife of Asclepius; mother of Machaon, Podalirius, Hygieia, and Panacea (ch. 097) |
+| Махаон | Machaon | Son of Asclepius and Epione (ch. 097) |
+| Подалирий | Podalirius | Son of Asclepius and Epione (ch. 097) |
+| Гигея | Hygieia | Daughter of Asclepius and Epione (ch. 097) |
+| Панацея | Panacea | Daughter of Asclepius and Epione (ch. 097) |
+| Пергам | Pergamon | One of the future centers of the cult of Asclepius, named in the endnote to this chapter's reference to Iphicles's vow; footnoted per the original's endnote 60 (ch. 097) |
+| Эпидавр | Epidaurus | One of the future centers of the cult of Asclepius, named in the same endnote as Пергам/Pergamon and Кос/Kos (ch. 097) |
+| Кос | Kos | Island, one of the future centers of the cult of Asclepius, named in the same endnote as Пергам/Pergamon and Эпидавр/Epidaurus (ch. 097) |
