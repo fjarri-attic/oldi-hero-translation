@@ -606,3 +606,14 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Алкестида | Alcestis | Admetus's wife, who alone agreed to die in his place and was later rescued from Thanatos by Heracles; named in the endnote to Адмет/Admetus (ch. 095) |
 | Зевс-Тучегонитель | Zeus the Cloud-Gatherer | Paired epithet, cf. Тучегонитель/Cloud-Gatherer (ch. 095) |
 | Златолукий Аполлон | golden-bowed Apollo | Paired epithet of Apollo, cf. Сребролукий Аполлон/silver-bowed Apollo (ch. 095) |
+| Великая Река | the Great River | Capitalized epithet for the underworld river heard rumbling through Erebus in this chapter's frame narrative (likely Acheron, cf. Ахерон/Acheron, though not named as such here) (ch. 096) |
+| Менет | Menoetes | Herdsman of the cattle belonging personally to Hades; footnoted on first occurrence per the original's endnote 58 (ch. 096) |
+| Кевтоним | Ceuthonymus | Menoetes's father; named in the endnote to Менет/Menoetes (ch. 096) |
+| Меония | Maeonia | Ancient name for Lydia; footnoted on first occurrence per the original's endnote 59 (ch. 096) |
+| Омфала Лидийская | Omphale of Lydia | Queen of Lydia to whom Alcides is bonded in servitude during the events of this chapter (ch. 096) |
+| Ифит Ойхаллийский | Iphitus of Oechalia | Paired epithet of Iphitus, cf. Эврит Ойхаллийский/Eurytus of Oechalia; distinct from Ифит-Ойхаллиец/Iphitus the Oechalian (ch. 096) |
+| Одержимые (стандартная форма) | the Possessed | Standalone/shortened form of Одержимый Тартаром/the Tartarus-Possessed, used without "Тартаром" when context makes the referent clear (ch. 096) |
+| Салмонеевы братья | Salmoneus's brethren | Refers to the same cult as Салмонеево братство/the Brotherhood of Salmoneus (ch. 096) |
+| Филей | Phyleus | A son of Augeas (ch. 096) |
+| Трехтелый Герион | Three-Bodied Geryon | Combined form of Герион/Geryon + the Трехтелый/the Three-Bodied epithet (ch. 096) |
+| Молиона | Molione | Referenced again as a kinswoman of the "younger kinsmen" who fathered the Gigantes; cf. established entry (ch. 092), recurring (ch. 096) |
