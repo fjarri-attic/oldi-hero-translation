@@ -50,6 +50,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Парнас | Parnassus |  |
 | Фокида | Phocis |  |
 | Дельфы | Delphi |  |
+| Аполлон Дельфийский | Apollo Delphinios | Paired epithet of Apollo |
 | Крисы | Kirra | Original says «Крисы» (Crisa), an inland town near Delphi; used "Kirra" instead, since Kirra was the actual seaside harbor town serving Delphi, matching the narrative's description of a seaside location. The two were distinct but related places, easily conflated. |
 | Гекатомбеон | Hecatombeon | Summer month name |
 | басилей | basileus | Kept transliterated (Mycenaean king/ruler title), not translated as "king" |
