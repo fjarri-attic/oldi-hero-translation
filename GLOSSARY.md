@@ -636,3 +636,16 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Пергам | Pergamon | One of the future centers of the cult of Asclepius, named in the endnote to this chapter's reference to Iphicles's vow; footnoted per the original's endnote 60 (ch. 097) |
 | Эпидавр | Epidaurus | One of the future centers of the cult of Asclepius, named in the same endnote as Пергам/Pergamon and Кос/Kos (ch. 097) |
 | Кос | Kos | Island, one of the future centers of the cult of Asclepius, named in the same endnote as Пергам/Pergamon and Эпидавр/Epidaurus (ch. 097) |
+| Теламон | Telamon | Peleus's brother, Argonaut, second in strength only to Heracles; called "Теламон-здоровяк"/Telamon the Strongman (ch. 098) |
+| Теламон-здоровяк | Telamon the Strongman | Paired epithet of Telamon (ch. 098) |
+| Язон | Jason | Leader of the Argonauts, described here as "несчастный скиталец" / "the wretched wanderer" who lost wife, children, and homeland (ch. 098) |
+| Тезей-изгнанник | Theseus the Exile | Paired epithet of Theseus, referring to his banishment from Athens by Menestheus; cf. Тезей-афинянин/Theseus the Athenian (ch. 081) (ch. 098) |
+| Менестей | Menestheus | Mycenaean-backed demagogue who replaced Theseus as ruler of Athens (ch. 098) |
+| Аталанта-охотница | Atalanta the Huntress | Paired epithet of Atalanta, distinct from Аталанта-девственница/Atalanta the Virgin (ch. 097) --- the authors use both epithets for the same character (ch. 098) |
+| Линкей-остроглаз | Lynceus the Sharp-eyed | Paired epithet of Lynceus, one of the Apharetidae; cf. Идас Афарид/Idas Apharetid (ch. 098) |
+| Афарид (мн. Афариды) | Apharetid (Apharetidae) | Idas and Lynceus, sons of Aphareus; cf. Идас Афарид/Idas Apharetid (ch. 098) |
+| Оиклей | Oicles | Son of Amphiaraus the Seer (ch. 098) |
+| Акаст-аргонавт | Acastus the Argonaut | Paired epithet of Acastus, basileus of Iolcus; cf. established Акаст/Acastus (ch. 089) (ch. 098) |
+| мирмидонцы | Myrmidons | Telamon's three hundred warriors (ch. 098) |
+| ионийцы | Ionians | Theseus's professional soldiers who left Attica (ch. 098) |
+| панахейский | pan-Achaean | Oldi's coinage, "all-Achaean"; kept hyphenated per standard English usage (ch. 098) |
