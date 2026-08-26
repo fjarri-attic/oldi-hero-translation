@@ -657,3 +657,15 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Ватиея | Batieia | Hill near Troy from which Trojan reinforcements come (ch. 099) |
 | Амфиарай-Вещий | Amphiaraus the Soothsayer | Paired epithet variant, distinct from Амфиарай-прорицатель/Amphiaraus the seer; rendered with a different English word per the established practice of varying translation for the author's distinct epithet variants (cf. Эврит-лучник/Эврит-стрелок) (ch. 099) |
 | Оиклей-арголидец | Oicles the Argolidian | Paired epithet of Oicles, demonym from Argolis (ch. 099) |
+| Троада | the Troad | Region around Troy (ch. 100) |
+| Абидос | Abydos | Trojan-allied city named among reinforcements the dekarchos imagines (ch. 100) |
+| Арисба | Arisbe | Trojan-allied city named among reinforcements the dekarchos imagines (ch. 100) |
+| Зелия | Zeleia | Trojan-allied city at the foot of Ida (ch. 100) |
+| Ида | Ida | Mountain range east of Troy; footnoted on first occurrence per the original's endnote 62 (ch. 100) |
+| Килла | Cilla | Small Trojan-allied city named among reinforcements the dekarchos imagines (ch. 100) |
+| Лариса | Larisa | Trojan-allied city named among reinforcements the dekarchos imagines (ch. 100) |
+| Лирнесс | Lyrnessus | Trojan-allied city named among reinforcements the dekarchos imagines (ch. 100) |
+| Гигейское озеро | Lake Gygaea | Lake in Lydia/Maeonia; the Thracian disguise's claimed starting point (ch. 100) |
+| Лесбос | Lesbos | Island whose headland screened the six ships of Heracles's men before the raid (ch. 100) |
+| агора | agora | Kept transliterated like басилей/basileus, ванакт/wanax, лавагет/lawagetas; footnoted on first occurrence per the original's endnote 63 (ch. 100) |
+| Эндеида | Endeis | Telamon's mother, wife of Aeacus; mentioned in the author's endnote on Telamon's ancestry (ch. 100) |
