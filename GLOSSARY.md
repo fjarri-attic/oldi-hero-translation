@@ -624,7 +624,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Кайстр | the Cayster | River in Lydia/Maeonia, near which this chapter is set (ch. 097) |
 | Пелей-Эакид | Peleus Aeacid | Peleus, with the patronymic epithet "Aeacid" (son of Aeacus); one of the heroes gathered for the Calydonian Hunt; cf. Ификл Амфитриад/Iphicles Amphitryad for the "Name Patronymic" pattern (ch. 097) |
 | Мелеагр-Неуязвимый | Meleager the Invulnerable | Paired epithet of Meleager, one of the heroes gathered for the Calydonian Hunt (ch. 097) |
-| Амфиарай-прорицатель | Amphiaraus the Seer | Paired epithet of Amphiaraus of Argos, one of the heroes gathered for the Calydonian Hunt (ch. 097) |
+| Амфиарай-прорицатель | Amphiaraus the seer | Paired epithet of Amphiaraus of Argos, one of the heroes gathered for the Calydonian Hunt (ch. 097) |
 | Пиритой | Pirithous | One of the heroes gathered for the Calydonian Hunt, mockingly called "the fop" (ch. 097) |
 | Аталанта-девственница | Atalanta the Virgin | Paired epithet of Atalanta, one of the heroes gathered for the Calydonian Hunt (ch. 097) |
 | Калидон / Калидонская охота | Calydon / the Calydonian Hunt | The town and the mythological boar hunt taking place there (ch. 097) |
@@ -644,8 +644,16 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Аталанта-охотница | Atalanta the Huntress | Paired epithet of Atalanta, distinct from Аталанта-девственница/Atalanta the Virgin (ch. 097) --- the authors use both epithets for the same character (ch. 098) |
 | Линкей-остроглаз | Lynceus the Sharp-eyed | Paired epithet of Lynceus, one of the Apharetidae; cf. Идас Афарид/Idas Apharetid (ch. 098) |
 | Афарид (мн. Афариды) | Apharetid (Apharetidae) | Idas and Lynceus, sons of Aphareus; cf. Идас Афарид/Idas Apharetid (ch. 098) |
-| Оиклей | Oicles | Son of Amphiaraus the Seer (ch. 098) |
+| Оиклей | Oicles | Son of Amphiaraus the seer (ch. 098) |
 | Акаст-аргонавт | Acastus the Argonaut | Paired epithet of Acastus, basileus of Iolcus; cf. established Акаст/Acastus (ch. 089) (ch. 098) |
 | мирмидонцы | Myrmidons | Telamon's three hundred warriors (ch. 098) |
 | ионийцы | Ionians | Theseus's professional soldiers who left Attica (ch. 098) |
 | панахейский | pan-Achaean | Oldi's coinage, "all-Achaean"; kept hyphenated per standard English usage (ch. 098) |
+| Скамандр | Scamander | River flowing past Troy, site of the fair the pirates raid (ch. 099) |
+| Тенедос | Tenedos | Island west of Troy, visible on the horizon (ch. 099) |
+| сикль | shekel | Hittite unit of currency, ~10 g of silver, 1/60 of a silver mina; footnoted in the original (ch. 099) |
+| Понт Эвксинский | the Euxine Pontus | Ancient Greek name for the Black Sea; kept transliterated rather than rendered as "Black Sea" (ch. 099) |
+| Скейские ворота | the Scaean Gates | Western entrance to Troy (ch. 099) |
+| Ватиея | Batieia | Hill near Troy from which Trojan reinforcements come (ch. 099) |
+| Амфиарай-Вещий | Amphiaraus the Soothsayer | Paired epithet variant, distinct from Амфиарай-прорицатель/Amphiaraus the seer; rendered with a different English word per the established practice of varying translation for the author's distinct epithet variants (cf. Эврит-лучник/Эврит-стрелок) (ch. 099) |
+| Оиклей-арголидец | Oicles the Argolidian | Paired epithet of Oicles, demonym from Argolis (ch. 099) |
