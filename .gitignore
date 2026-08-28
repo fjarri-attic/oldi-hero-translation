@@ -4,3 +4,4 @@ ru/*
 .DS_STORE
 *.sublime-project
 *.sublime-workspace
+html/*
