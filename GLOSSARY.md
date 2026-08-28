@@ -669,3 +669,5 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Лесбос | Lesbos | Island whose headland screened the six ships of Heracles's men before the raid (ch. 100) |
 | агора | agora | Kept transliterated like басилей/basileus, ванакт/wanax, лавагет/lawagetas; footnoted on first occurrence per the original's endnote 63 (ch. 100) |
 | Эндеида | Endeis | Telamon's mother, wife of Aeacus; mentioned in the author's endnote on Telamon's ancestry (ch. 100) |
+| мыс Лект | Cape Lectum | Headland near Troy at the southwestern foot of Mount Ida, where Heracles's men land and Alcides rides to meet them in disguise (ch. 101) |
+| Геракл-Победитель | Heracles the Victor | Cultic title Laomedon gives the altar where he plans to sacrifice his son; paired epithet (ch. 101) |
