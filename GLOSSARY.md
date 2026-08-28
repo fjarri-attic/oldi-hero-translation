@@ -671,3 +671,12 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Эндеида | Endeis | Telamon's mother, wife of Aeacus; mentioned in the author's endnote on Telamon's ancestry (ch. 100) |
 | мыс Лект | Cape Lectum | Headland near Troy at the southwestern foot of Mount Ida, where Heracles's men land and Alcides rides to meet them in disguise (ch. 101) |
 | Геракл-Победитель | Heracles the Victor | Cultic title Laomedon gives the altar where he plans to sacrifice his son; paired epithet (ch. 101) |
+| Миконос | Mykonos | Island in the Aegean |
+| Родос | Rhodes | Island in the Aegean |
+| солнцеликий Аполлон | sun-faced Apollo | Paired epithet of Apollo, distinct from the other established Apollo epithets (Сребролукий/silver-bowed, Златолукий/golden-bowed, etc.) (ch. 102) |
+| златообутая Гера | gold-sandaled Hera | Epithet of Hera, used by Momus (ch. 102) |
+| Горгона Медуза | Medusa the Gorgon | Paired name-epithet form, order flipped per the established Name+epithet convention (cf. Мойра Атропос/Atropos the Moira); distinct from the plain Медуза/Medusa entry (ch. 102) |
+| Флегрейский Дромос | the Phlegraean Dromos | A Dromos (see Дромос/Dromos) leading to Phlegrae |
+| высокогремящий | High-Thunderer | Vocative epithet Momus uses addressing Zeus directly; cf. the established Дий Высокогремящий/Dias the High-Thundering (ch. 102) |
+| Скипетродержец | Scepter-Bearer | Epithet of Zeus, used by Momus (ch. 102) |
+| Ника-Победа | Nike the Victory | Paired epithet, cf. Танат-Смерть/Thanatos the Death, Нюкта-Ночь/Nyx the Night for the Name+abstract-concept pairing pattern (ch. 102) |
