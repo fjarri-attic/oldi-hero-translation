@@ -680,3 +680,8 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | высокогремящий | High-Thunderer | Vocative epithet Momus uses addressing Zeus directly; cf. the established Дий Высокогремящий/Dias the High-Thundering (ch. 102) |
 | Скипетродержец | Scepter-Bearer | Epithet of Zeus, used by Momus (ch. 102) |
 | Ника-Победа | Nike the Victory | Paired epithet, cf. Танат-Смерть/Thanatos the Death, Нюкта-Ночь/Nyx the Night for the Name+abstract-concept pairing pattern (ch. 102) |
+| Халкодонт | Chalcodon | Red-haired goatherd on Kos, son of Antisthenes; leads the islanders' ambush against Heracles's landing party (ch. 103) |
+| Антисфен | Antisthenes | Chalcodon's father, also red-haired ("рыжий Антисфен") (ch. 103) |
+| Эврипил | Eurypylus | Basileus of Kos, believes himself a son of Poseidon; killed in the battle (ch. 103) |
+| Мом-Эвбулей | Momus Eubuleus | Paired name-epithet for Momus; rendered without a hyphen or "the," cf. Арей-Эниалий/Ares Enyalius, since Эвбулей (like Эниалий) is a transliterated Greek epithet-name rather than a translated common noun; footnoted on first occurrence per the original's endnote 69 (ch. 103) |
+| Аластор | Alastor | Demon of corruption and the evil eye dwelling in Hades; shouted as an epithet/insult at Lichas by Eurypylus's soldiers; footnoted on first occurrence per the original's endnote 70 (ch. 103) |
