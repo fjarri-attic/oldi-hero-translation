@@ -685,3 +685,5 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Эврипил | Eurypylus | Basileus of Kos, believes himself a son of Poseidon; killed in the battle (ch. 103) |
 | Мом-Эвбулей | Momus Eubuleus | Paired name-epithet for Momus; rendered without a hyphen or "the," cf. Арей-Эниалий/Ares Enyalius, since Эвбулей (like Эниалий) is a transliterated Greek epithet-name rather than a translated common noun; footnoted on first occurrence per the original's endnote 69 (ch. 103) |
 | Аластор | Alastor | Demon of corruption and the evil eye dwelling in Hades; shouted as an epithet/insult at Lichas by Eurypylus's soldiers; footnoted on first occurrence per the original's endnote 70 (ch. 103) |
+| Промахос | Promachos | Epithet of Athena ("the Warrior"/"front-line fighter"); footnoted on first occurrence per the original's endnote 71 (ch. 104) |
+| Воительница | the Warrior | Athena referred to by the translated sense of Промахос/Promachos, used as a capitalized epithet in narration (ch. 104) |
