@@ -687,3 +687,5 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Аластор | Alastor | Demon of corruption and the evil eye dwelling in Hades; shouted as an epithet/insult at Lichas by Eurypylus's soldiers; footnoted on first occurrence per the original's endnote 70 (ch. 103) |
 | Промахос | Promachos | Epithet of Athena ("the Warrior"/"front-line fighter"); footnoted on first occurrence per the original's endnote 71 (ch. 104) |
 | Воительница | the Warrior | Athena referred to by the translated sense of Промахос/Promachos, used as a capitalized epithet in narration (ch. 104) |
+| Дикте | Dikti | One of the Uranids/Titans, in disguise as an old crone; hides the unconscious Alcides in her cave on Crete after the Kos battle; footnoted on first occurrence per the original's endnote 72 (ch. 105) |
+| Зевс-Высокогремящий | Zeus the High-Thundering | Paired epithet of Zeus, spoken by Dikte; cf. the established Дий Высокогремящий/Dias the High-Thundering (ch. 105) |
