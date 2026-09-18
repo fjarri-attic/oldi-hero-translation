@@ -700,3 +700,16 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Гера-Аргея | Hera Argeia | Paired epithet of Hera, "of Argos" (patroness of the city); kept transliterated, cf. Арей-Эниалий/Ares Enyalius, Аполлон-Эглет/Apollo Aigletes (ch. 108) |
 | Паллант | Pallas | The Gigas slain by Athena in the Gigantomachy; per the author's endnote 73, the source of Athena's own byname Паллада/Pallas --- both rendered identically in English, preserving the naming pun (ch. 108) |
 | Паллада | Pallas | Byname Athena receives after slaying the Gigas Паллант/Pallas and flaying his skin for her shield; footnoted on first occurrence with the author's own endnote 73 definition; deliberately homonymous with Паллант/Pallas, cf. that entry (ch. 108) |
+| Полибот | Polybotes | The Gigas felled when Poseidon broke off part of the island of Kos and hurled it onto him, in the catalog of the Gigantomachy's slain (ch. 109) |
+| Энкелад | Enceladus | The Gigas Athena crushed beneath the island of Sicily as he fled (ch. 109) |
+| Агрий | Agrius | One of the Gigantes, fought with a bronze club; slain by the Moirai alongside Фоон/Thoon (ch. 109) |
+| Фоон | Thoon | One of the Gigantes, fought with a bronze club; slain by the Moirai alongside Агрий/Agrius (ch. 109) |
+| Клитий | Clytius | The Gigas Hephaestus killed by hurling red-hot stones at him (ch. 109) |
+| Мимант | Mimas | The Gigas Hecate burned to death with her torch (ch. 109) |
+| Ипполит | Hippolytus | The Gigas slain by an unseen Hermes (presumably while wearing the Lord's/Hades's helm, cf. ch. 108); distinct from the Amazon queen Ипполита/Hippolyta (ch. 109) |
+| Эврит (Гигант) | Eurytus | One of the Gigantes at Phlegrae, killed by Dionysus with a thyrsus; shares the established rendering of Эврит/Eurytus (cf. Эврит Ойхаллийский/Eurytus of Oechalia) --- the corpse Iolaus finds and asks about by this name in ch. 108 is presumably this same Gigas, per the novel's device of doubling mythic figures among the Family's giant-children (ch. 108/109) |
+| Порфирион | Porphyrion | King of the Gigantes, struck down into the dust by the Thunderer/Zeus (ch. 109) |
+| Сицилия | Sicily | Island Athena hurled onto the fleeing Enceladus; also named among the lands the Olympians "heaped upon their enemies" (ch. 109) |
+| Пергамский алтарь | the Pergamon Altar | Hellenistic altar at Pergamon, famed for its sculpted Gigantomachy frieze; cf. established Пергам/Pergamon (ch. 109) |
+| сифнийцы / сокровищница сифнийцев | the Siphnians / the Treasury of the Siphnians | The Siphnian Treasury at Delphi, whose north frieze depicts the Gigantomachy (ch. 109) |
+| Парфенон | the Parthenon | Temple of Athena in Athens; the shield of her cult statue there depicted the Gigantomachy (ch. 109) |
