@@ -713,3 +713,9 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Пергамский алтарь | the Pergamon Altar | Hellenistic altar at Pergamon, famed for its sculpted Gigantomachy frieze; cf. established Пергам/Pergamon (ch. 109) |
 | сифнийцы / сокровищница сифнийцев | the Siphnians / the Treasury of the Siphnians | The Siphnian Treasury at Delphi, whose north frieze depicts the Gigantomachy (ch. 109) |
 | Парфенон | the Parthenon | Temple of Athena in Athens; the shield of her cult statue there depicted the Gigantomachy (ch. 109) |
+| Повелитель Времени | Master of Time | Epithet Kronus uses of himself in his own voice; cf. established Крон-Временщик/Kronus the Timekeeper (glossed as echoing "Хозяин Времени"/Master of Time) and Крон-Павший/Kronus the Fallen, his name after losing this title (ch. 110) |
+| Аттам | Attam | The Greek pronunciation of "Abraham" in this world's mythology; per the author's endnote, Heracles, journeying for the apples of the Hesperides, passed through Palestine and stopped Attam from sacrificing his son Akab to a god; footnoted on first occurrence (ch. 110) |
+| Акаб | Akab | Attam's son, glossed by the author's endnote as "Jacob"; the son Heracles stopped Attam from sacrificing (ch. 110) |
+| киввеус | Achivite | Term the author's endnote glosses as what the Achaeans were called in Palestine (ch. 110) |
+| Деус | Deus | Latin word for "god," introduced by Kronus alongside Дий/Dias to draw out their phonetic kinship while explaining that Attam's god is not Zeus; footnoted (endnote 75) with the author's aside that "Zeus" itself is pronounced closer to "Dzeus" (ch. 110) |
+| Преисподняя | the Netherworld | General term for the underworld, used alongside the established Тартар/Tartarus and Аид/Hades (ch. 110) |
