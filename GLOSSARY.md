@@ -696,3 +696,4 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Дионис-Пьяница | Dionysus the Drunkard | Paired epithet of Dionysus; "Пьяница" is an ordinary translated word, so rendered with "the" + lowercase, cf. Артемида-охотница/Artemis the huntress (ch. 106) |
 | Арей-Убийца | Ares the Killer | Paired epithet of Ares; "Убийца" is an ordinary translated word, so rendered with "the" + lowercase, cf. Алкид-безумец/Alcides the madman (ch. 106) |
 | Амфитрион-Иолай | Amphitryon-Iolaus | Paired form indicating Amphitryon's soul occupying Iolaus's body; hyphen retained since both elements are proper names rather than a name+epithet pair; established since ch. 072 but not previously logged here (ch. 072/106) |
+| косцы | Koans | Demonym for the inhabitants of Kos; distinct from "жители Коса"/"the people of Kos" (more literally "islanders"); established in narration since ch. 103 but not previously logged here (ch. 103/107) |
