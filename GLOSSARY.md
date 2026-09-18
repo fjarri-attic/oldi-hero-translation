@@ -689,3 +689,10 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Воительница | the Warrior | Athena referred to by the translated sense of Промахос/Promachos, used as a capitalized epithet in narration (ch. 104) |
 | Дикте | Dikti | One of the Uranids/Titans, in disguise as an old crone; hides the unconscious Alcides in her cave on Crete after the Kos battle; footnoted on first occurrence per the original's endnote 72 (ch. 105) |
 | Зевс-Высокогремящий | Zeus the High-Thundering | Paired epithet of Zeus, spoken by Dikte; cf. the established Дий Высокогремящий/Dias the High-Thundering (ch. 105) |
+| Флегрейские Пустоши | the Phlegraean Wastes | Variant name for the Gigantomachy's battlefield, alongside the established Флегрейские поля/Флегры (the Phlegraean Fields/Phlegrae); both forms occur within this chapter and are kept distinct per the author's lexical variation (ch. 106) |
+| Одержимые-няньки | the Possessed nurses | The Possessed serving as caretakers/wet-nurses to the infant Gigantes on Phlegrae; also occurs reordered as няньки-Одержимые, translated the same way for consistency (ch. 106) |
+| Феб-Аполлон | Phoebus-Apollo | Paired name form of Apollo, combining Феб/Phoebus with Аполлон/Apollo; recurring since ch. 060 but not previously logged here; kept hyphenated per established usage (ch. 106) |
+| Эфиальт | Ephialtes | One of the child-Gigantes at Phlegrae; struck in the eye by the toy Apollo's arrow during the Family's diminishment (ch. 106) |
+| Дионис-Пьяница | Dionysus the Drunkard | Paired epithet of Dionysus; "Пьяница" is an ordinary translated word, so rendered with "the" + lowercase, cf. Артемида-охотница/Artemis the huntress (ch. 106) |
+| Арей-Убийца | Ares the Killer | Paired epithet of Ares; "Убийца" is an ordinary translated word, so rendered with "the" + lowercase, cf. Алкид-безумец/Alcides the madman (ch. 106) |
+| Амфитрион-Иолай | Amphitryon-Iolaus | Paired form indicating Amphitryon's soul occupying Iolaus's body; hyphen retained since both elements are proper names rather than a name+epithet pair; established since ch. 072 but not previously logged here (ch. 072/106) |
