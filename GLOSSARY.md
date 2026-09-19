@@ -247,7 +247,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Гера | Hera | Zeus's wife; blamed for Alcides's madness |
 | Гея | Gaia | Goddess of Earth |
 | фарос | pharos | A type of mantle |
-| Ликомед | Lycomedes |  |
+| Ликомед | Lycomedes | Iphicles and Alcides's childhood acquaintance in Thebes (chs. 043--044); not to be confused with the unrelated Ликомед (Скирос)/Lycomedes of Scyros introduced in ch. 111 |
 | Павсаний | Pausanias |  |
 | подес | pous (pl. podes) | A unit of measurement, a foot |
 | Акрисий | Acrisius | Perseus's grandfather |
@@ -719,3 +719,12 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | киввеус | Achivite | Term the author's endnote glosses as what the Achaeans were called in Palestine (ch. 110) |
 | Деус | Deus | Latin word for "god," introduced by Kronus alongside Дий/Dias to draw out their phonetic kinship while explaining that Attam's god is not Zeus; footnoted (endnote 75) with the author's aside that "Zeus" itself is pronounced closer to "Dzeus" (ch. 110) |
 | Преисподняя | the Netherworld | General term for the underworld, used alongside the established Тартар/Tartarus and Аид/Hades (ch. 110) |
+| Ликомед (Скирос) | Lycomedes of Scyros | Basileus of Scyros; sheltered the exiled Theseus; distinct from the unrelated boyhood acquaintance also named Ликомед/Lycomedes (chs. 043--044) (ch. 111) |
+| Скирос | Scyros | Small island northeast of Euboea; refuge of the exiled Theseus, ruled by basileus Lycomedes; classicizing spelling, cf. Эвбея/Euboea (ch. 111) |
+| Марсий | Marsyas | Satyr who dared to challenge Apollo/Musagetes to a musical contest and was flayed alive for it (ch. 111) |
+| Арахна-лидиянка | Arachne the Lydian | Athena's rival in weaving, turned into a spider; Name+demonym epithet, cf. Тезей-афинянин/Theseus the Athenian for the pattern (ch. 111) |
+| Тифий | Tiphys | Helmsman of the Argo; established as "Tiphys the helmsman" (ch. 067) |
+| Кефей | Cepheus | Arcadian ruler and former Argonaut who offers his lands and troops for the campaign against Augeas (ch. 111) |
+| Аттика | Attica | Region of mainland Greece, crossed by Iolaus en route from the Isthmos to a harbor town (ch. 111) |
+| Дедал | Daedalus | Legendary inventor, creator of the Cretan Labyrinth; not himself an Argonaut (ch. 111) |
+| олимпионик | olympionikes | Olympic victor; kept transliterated like басилей/basileus, лавагет/lawagetas, агора/agora; footnoted on first occurrence with the author's own endnote (ch. 111) |
