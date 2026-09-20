@@ -745,3 +745,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Молиониды | Molionids | Conjoined twin sons of Molione and Geryon, raised by Augeas in Eleia; named after their mother rather than their father (cf. Молиона/Molione); the English follows the Amphitryads/Iphiclid pattern rather than the classical "Molionides" (ch. 115) |
 | Ктеат | Cteatus | One of the two Molionids, together with Эврит/Eurytus; the author's hint that the Molionid Eurytus may be the same as the Gigas Эврит (Гигант)/Eurytus (ch. 115) |
 | Актор | Actor | Augeas's brother, named among the people's guesses at the Molionids' true father (ch. 115) |
+| Писы / Пис | Pisa | City in Eleia near Olympia, where the fighting against Augeas is taking place; the soldier says he comes "из-под Пис" ("from near Pisa"); standard English form of the name (ch. 116) |
+| Алфей | Alpheus | River in Eleia, dammed by Heracles to clean the Augean stables; footnoted on first occurrence with the author's own endnote 81 (ch. 116) |
+| Пеней | Peneus | River in Eleia, dammed together with the Alpheus in the author's endnote 81; not to be confused with the Thessalian river of the same name (ch. 116) |
