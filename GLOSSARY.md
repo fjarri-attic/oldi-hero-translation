@@ -736,3 +736,12 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Тюхэ-Удача | Tyche the Luck | Paired epithet of the goddess Tyche (Fortune); "Luck" translates "Удача", following the Metis the Thought pattern; Heracles is said to have "the wings of Tyche the Luck" always beating behind him (ch. 114) |
 | Перст Судьбы | the Finger of Fate | Iolaus's half-ironic name for the ominous dead finger in the sky (cf. "the dead finger" in ch. 111, 113); capitalized as a quoted thought (ch. 114) |
 | Истм | the Isthmos | Short form of Истмийский перешеек/the Isthmos; the Isthmus of Corinth (ch. 114) |
+| Коринф | Corinth | City on the Isthmos; cf. Коринфский залив/Gulf of Corinth (ch. 115) |
+| Тараксипп | Taraxippos | "Horse-frightener"; a demon among Hades's subjects; footnoted on first occurrence with the author's own endnote 79 (ch. 115) |
+| Адраст | Adrastus | Warlike Achaean, cousin of Amphiaraus and half-brother of Eriphyle; pushes Argos into the campaign against Thebes (ch. 115) |
+| Эрифила | Eriphyle | Wife of Amphiaraus and half-sister of Adrastus; Amphiaraus swore to obey her in everything, and she blessed the war against Thebes after being bribed with the Necklace of Harmonia (ch. 115) |
+| ожерелье Гармонии | the Necklace of Harmonia | Cursed wedding gift of Aphrodite to Harmonia, wife of Cadmus; footnoted on first occurrence with the author's own endnote 80 (ch. 115) |
+| Гармония | Harmonia | Wife of Cadmus, the founder of Thebes; appears only in the name of the necklace (ch. 115) |
+| Молиониды | Molionids | Conjoined twin sons of Molione and Geryon, raised by Augeas in Eleia; named after their mother rather than their father (cf. Молиона/Molione); the English follows the Amphitryads/Iphiclid pattern rather than the classical "Molionides" (ch. 115) |
+| Ктеат | Cteatus | One of the two Molionids, together with Эврит/Eurytus; the author's hint that the Molionid Eurytus may be the same as the Gigas Эврит (Гигант)/Eurytus (ch. 115) |
+| Актор | Actor | Augeas's brother, named among the people's guesses at the Molionids' true father (ch. 115) |
