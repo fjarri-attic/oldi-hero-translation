@@ -728,3 +728,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Аттика | Attica | Region of mainland Greece, crossed by Iolaus en route from the Isthmos to a harbor town (ch. 111) |
 | Дедал | Daedalus | Legendary inventor, creator of the Cretan Labyrinth; not himself an Argonaut (ch. 111) |
 | олимпионик | olympionikes | Olympic victor; kept transliterated like басилей/basileus, лавагет/lawagetas, агора/agora; footnoted on first occurrence with the author's own endnote (ch. 111) |
+| Пелей | Peleus | Slender, light-haired northerner; Telamon's brother, son of Endeis, daughter of Chiron; grandson of Chiron on his mother's side; cf. Пелей-Эакид/Peleus Aeacid (ch. 112) |
+| лаконец | Laconian | Demonym, used of Castor; cf. Лакония/Laconia and Полиб-лаконец/Polybus the Laconian (ch. 112) |
+| кулачный боец | fist-fighter | Descriptive term for Polydeuces, the famed boxer, in the fight with Iolaus; used with "the" as a narrative epithet, before he is named (ch. 112) |
