@@ -733,3 +733,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | кулачный боец | fist-fighter | Descriptive term for Polydeuces, the famed boxer, in the fight with Iolaus; used with "the" as a narrative epithet, before he is named (ch. 112) |
 | Филака | Phylace | Thessalian city ruled by Laodamia's uncle, a second Acastus (her father's namesake), where Iolaus takes her; later Iolaus's home as Protesilaus of Phylace (ch. 113) |
 | Авгий | Augeas | Basileus of Eleia; plain form of Авгий Гелиад/Augeas Heliad (ch. 113) |
+| Тюхэ-Удача | Tyche the Luck | Paired epithet of the goddess Tyche (Fortune); "Luck" translates "Удача", following the Metis the Thought pattern; Heracles is said to have "the wings of Tyche the Luck" always beating behind him (ch. 114) |
+| Перст Судьбы | the Finger of Fate | Iolaus's half-ironic name for the ominous dead finger in the sky (cf. "the dead finger" in ch. 111, 113); capitalized as a quoted thought (ch. 114) |
+| Истм | the Isthmos | Short form of Истмийский перешеек/the Isthmos; the Isthmus of Corinth (ch. 114) |
