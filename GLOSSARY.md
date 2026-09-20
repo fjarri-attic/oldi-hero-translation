@@ -731,3 +731,5 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Пелей | Peleus | Slender, light-haired northerner; Telamon's brother, son of Endeis, daughter of Chiron; grandson of Chiron on his mother's side; cf. Пелей-Эакид/Peleus Aeacid (ch. 112) |
 | лаконец | Laconian | Demonym, used of Castor; cf. Лакония/Laconia and Полиб-лаконец/Polybus the Laconian (ch. 112) |
 | кулачный боец | fist-fighter | Descriptive term for Polydeuces, the famed boxer, in the fight with Iolaus; used with "the" as a narrative epithet, before he is named (ch. 112) |
+| Филака | Phylace | Thessalian city ruled by Laodamia's uncle, a second Acastus (her father's namesake), where Iolaus takes her; later Iolaus's home as Protesilaus of Phylace (ch. 113) |
+| Авгий | Augeas | Basileus of Eleia; plain form of Авгий Гелиад/Augeas Heliad (ch. 113) |
