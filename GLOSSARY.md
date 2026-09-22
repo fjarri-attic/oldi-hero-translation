@@ -748,3 +748,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Писы / Пис | Pisa | City in Eleia near Olympia, where the fighting against Augeas is taking place; the soldier says he comes "из-под Пис" ("from near Pisa"); standard English form of the name (ch. 116) |
 | Алфей | Alpheus | River in Eleia, dammed by Heracles to clean the Augean stables; footnoted on first occurrence with the author's own endnote 81 (ch. 116) |
 | Пеней | Peneus | River in Eleia, dammed together with the Alpheus in the author's endnote 81; not to be confused with the Thessalian river of the same name (ch. 116) |
+| Владыка теней | the Lord of the Shades | Epithet of Hades used by a soldier; cf. Владыка/Lord (ch. 117) |
+| Кефей Аркадский | Cepheus of Arcadia | Cf. established Кефей/Cepheus (ch. 111) (ch. 117) |
+| Феней | Pheneus | Small Arcadian town near the scene of the fighting, where the survivors retreat; standard English form (ch. 117) |
+| Саламин | Salamis | Island, Telamon's home (ch. 117) |
