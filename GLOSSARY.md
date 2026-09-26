@@ -760,8 +760,11 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Ойон | Oeonus | Son of Licymnius, killed by Hippocoon and his sons in Sparta after defending himself against a palace dog (ch. 120) |
 | Пелопов остров | the Island of Pelops | Poetic name for the Peloponnese; footnoted on first occurrence per the original's endnote 82 (ch. 120) |
 | златообильные Микены | gold-rich Mycenae | Homeric-style epithet of Mycenae; established since ch. 016, not previously logged here (ch. 016/082/120) |
-| Гераклова тень | Heracles's shadow | Used of Iphicles; "shadow" (not "shade"), since it is a metaphor for his being overshadowed, not a ghost (ch. 120) |
 | Истмийские игры | the Isthmian Games | Sacred contests at the Isthmos; cf. Истм/the Isthmos (ch. 120) |
 | феор (мн. феоры) | theoros (pl. theoroi) | Sacred envoy, inviolable on the road; glossed in-text by the author ("священные посланцы"/"sacred envoys"); kept transliterated (ch. 120) |
 | Клеоны | Cleonae | Town on the road from Eleia to the Isthmos, where Heracles waylays the Molionids (ch. 120) |
 | львиная шкура | lionskin | Heracles's signature garment |
+| омфал | omphalos | The sacred stone at Delphi, "the navel of the earth"; glossed in-text by the author ("омфал, пуп земли"/"the omphalos, the navel of the earth") (ch. 122) |
+| Эврисфей-Микенец | Eurystheus the Mycenaean | Paired epithet of Eurystheus, cf. Эврисфей Сфенелид/Eurystheus Sthenelid; demonym capitalized, cf. Ифит-Ойхаллиец/Iphitus the Oechalian (ch. 122) |
+| Деянира | Deianira | Sister of Meleager, whom Heracles intends to marry (ch. 122) |
+| Линкей | Lynceus | Plain form, one of the Apharetidae with his brother Idas; cf. Линкей-остроглаз/Lynceus the Sharp-eyed (ch. 122) |
