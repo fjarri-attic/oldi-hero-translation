@@ -44,21 +44,25 @@ This tale is a fib...[^pushkin]?
 
 And even the wisest of the rhapsodes, the great blind Homer, speaking in Odysseus's voice, will say of the dark kingdom of the dead:
 
-"Then I beheld the mighty Hercules, --- /
-The hero's image, --- for he sits himself /
-Among the deathless gods, well pleased to share /
-Their feasts, and Hebe of the dainty feet --- /
-A daughter of the mighty Jupiter /
-And golden-sandalled Juno --- is his wife."
+::: verse
+Then I beheld the mighty Hercules, ---[]{.linebreak}
+The hero's image, --- for he sits himself[]{.linebreak}
+Among the deathless gods, well pleased to share[]{.linebreak}
+Their feasts, and Hebe of the dainty feet ---[]{.linebreak}
+A daughter of the mighty Jupiter[]{.linebreak}
+And golden-sandalled Juno --- is his wife.
+:::
 
 Only Homer will not trouble to explain how Heracles could be present among the shades in Hades and among the gods on Olympus at one and the same time; nor why malicious Hera should suddenly grow so generous as to give her beloved daughter to the very man she persecuted his whole life long?!
 
 The shade of Heracles, however, will answer his guest, a man named Odysseus --- which means "The one who angers the gods":
 
-"Son of Laertes, nobly born and wise, /
-And yet unhappy; surely thou dost bear /
-A cruel fate, like that which I endured /
-While yet I saw the brightness of the sun."[^odyssey]
+::: verse
+Son of Laertes, nobly born and wise,[]{.linebreak}
+And yet unhappy; surely thou dost bear[]{.linebreak}
+A cruel fate, like that which I endured[]{.linebreak}
+While yet I saw the brightness of the sun.[^odyssey]
+:::
 
 [^odyssey]: This and the previous stanza quoted from Homer, *Odyssey*, translation by William Cullen Bryant (1873). [TN]
 

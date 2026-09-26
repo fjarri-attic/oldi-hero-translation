@@ -753,3 +753,15 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Феней | Pheneus | Small Arcadian town near the scene of the fighting, where the survivors retreat; standard English form (ch. 117) |
 | Саламин | Salamis | Island, Telamon's home (ch. 117) |
 | Буфаг | Buphagus | Elderly man of Pheneus ("фенеец") in whose house the dead Heracles/Iphicles lies before the funeral pyre; standard English form of the name (ch. 119) |
+| Олимпия | Olympia | Sanctuary in Eleia; "священная роща Олимпия" → "the sacred grove of Olympia" (ch. 120) |
+| Нелей Пилосский | Neleus of Pylos | Paired epithet of Neleus; cf. Нелей/Neleus, Пилос/Pylos (ch. 120) |
+| Тайгет | Taygetus | Mountain ridge between Messenia and Laconia (ch. 120) |
+| молосская порода | Molossian (breed) | Breed of fierce hounds (here wolfhounds) guarding Hippocoon's palace (ch. 120) |
+| Ойон | Oeonus | Son of Licymnius, killed by Hippocoon and his sons in Sparta after defending himself against a palace dog (ch. 120) |
+| Пелопов остров | the Island of Pelops | Poetic name for the Peloponnese; footnoted on first occurrence per the original's endnote 82 (ch. 120) |
+| златообильные Микены | gold-rich Mycenae | Homeric-style epithet of Mycenae; established since ch. 016, not previously logged here (ch. 016/082/120) |
+| Гераклова тень | Heracles's shadow | Used of Iphicles; "shadow" (not "shade"), since it is a metaphor for his being overshadowed, not a ghost (ch. 120) |
+| Истмийские игры | the Isthmian Games | Sacred contests at the Isthmos; cf. Истм/the Isthmos (ch. 120) |
+| феор (мн. феоры) | theoros (pl. theoroi) | Sacred envoy, inviolable on the road; glossed in-text by the author ("священные посланцы"/"sacred envoys"); kept transliterated (ch. 120) |
+| Клеоны | Cleonae | Town on the road from Eleia to the Isthmos, where Heracles waylays the Molionids (ch. 120) |
+| львиная шкура | lionskin | Heracles's signature garment |
