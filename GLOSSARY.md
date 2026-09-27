@@ -780,3 +780,14 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Талос | Talos | Bronze giant of Crete with a single vein stopped by a nail in his ankle (ch. 124) |
 | Сфинкс | the Sphinx | Monster, depicted on one of the seven Argive shields (ch. 124) |
 | аргонавт-прорицатель | the Argonaut-seer | Descriptive epithet of Amphiaraus; "прорицатель" → "seer" as in Амфиарай-прорицатель/Amphiaraus the seer (ch. 125) |
+| Сардиния | Sardinia | Island where Iolaus trades and finds a temple built in his own honor (ch. 126) |
+| Эвном | Eunomus | Boy, son of Architeles, accidentally killed by Heracles in Calydon (ch. 126) |
+| Архител | Architeles | Father of Eunomus, kinsman of Oeneus (ch. 126) |
+| Ойней | Oeneus | Ruler of Calydon, Deianira's father (ch. 126) |
+| Трахины | Trachis | Town neighboring Phylace, ruled by Ceyx; singular in English per standard usage (ch. 126) |
+| Кеик | Ceyx | Basileus of Trachis, old ally of the twins and Iolaus (ch. 126) |
+| Эвен | Evenus | River in the east of Aetolia (ch. 126) |
+| Несс / Несс-перевозчик / кентавр-перевозчик | Nessus / Nessus the ferryman / the centaur-ferryman | Centaur ferrying travelers across the Evenus, killed by Heracles (ch. 126) |
+| конечеловек | horse-man | Descriptive term for a centaur (ch. 126) |
+| лернейская желчь | Lernaean bile | The Hydra's venom on Heracles's arrows (ch. 126) |
+| Эрот | Eros | "Клянусь малюткой Эротом" → "By little Eros" (ch. 126) |
