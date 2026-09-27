@@ -776,7 +776,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Телем-Фиванец | Thelem the Theban | Posthumous name of Thelem the Nobody, who died holding the Neitan Gates against the Argives; cf. Телем-Никакой/Thelem the Nobody (ch. 124) |
 | Дионисик | Dionysie | Hermeias's mocking diminutive for Dionysus; cf. Аполлончик/Apollie (ch. 124) |
 | Мусор | the Mess | Capitalized; the Olympians' term for what the Cleaners (Мусорщики) clean up --- the Fallen's offspring, the Gigantes, etc. |
-| Мачеха | the Stepmother | Standalone form of Гера-Мачеха/Hera the Stepmother (ch. 124) |
+| Мачеха | Stepmother | Standalone form of Гера-Мачеха/Hera the Stepmother (ch. 124) |
 | Талос | Talos | Bronze giant of Crete with a single vein stopped by a nail in his ankle (ch. 124) |
 | Сфинкс | the Sphinx | Monster, depicted on one of the seven Argive shields (ch. 124) |
 | аргонавт-прорицатель | the Argonaut-seer | Descriptive epithet of Amphiaraus; "прорицатель" → "seer" as in Амфиарай-прорицатель/Amphiaraus the seer (ch. 125) |
@@ -806,3 +806,12 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Афина Промахос | Athena Promachos | Combined form of Афина/Athena + Промахос/Promachos (ch. 129) |
 | Дий-отец | Dias the father | Paired epithet of Zeus/Dias, used in direct address in Iolaus's thoughts (ch. 060, 086, 129) |
 | Архемор | Archemorus | Nickname Ceyx's men give Philoctetes, glossed in-text by the authors as "Ведущий к смерти" → "the Beginner of Doom" (ch. 129) |
+| возвышение | ascension | The Family's own euphemism for the gods' withdrawal from the world of men, as opposed to Hades's "уход"/"departure"; cf. "мы возвысились"/"we rose up" (ch. 057) (ch. 130) |
+| Ксенофан | Xenophanes | Poet-philosopher whose elegy mocking the old myths Hermeias quotes (ch. 130) |
+| свинопас богоравный | god-equal swineherd | Homeric formula for Eumaeus in the *Odyssey*, cited as a mockery of the gods; reuses богоравный/god-equal to keep the jab (ch. 130) |
+| Аникет | Anicetus | Son of Heracles and Hebe (ch. 130) |
+| Алексиарес | Alexiares | Son of Heracles and Hebe (ch. 130) |
+| Великая битва | the Great Battle | What the Olympian Heracles calls the Gigantomachy (ch. 130) |
+| темные века | the Dark Ages | Hades's prophetic name for the time after the Trojan War (ch. 130) |
+| Белый Утес | the White Rock | Short form of Белый Утес Забвения/White Rock of Oblivion (ch. 130) |
+| мыс Тенар | Cape Taenarum | Traditional entrance to the underworld, in the southern Peloponnese (ch. 130) |

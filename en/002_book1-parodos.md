@@ -16,7 +16,7 @@ A rumble.
 
 A distant subterranean rumble --- like the breathing of a sleeping giant, like the murmur of a gigantic heart, like the hopeless and endless moan of myriad shades in the gloom of Erebus...
 
-A steady rustle of waves. Yes, that is it. It is the river by which the gods swear that rolls its black waters --- the eternal river, unseen and inescapable, without end or beginning; and along its banks the pale blossoms of asphodel sway.
+A steady rustle of waves. Yes, that is it. That is the river the gods swear by, rolling its black waters --- the eternal river, unseen and inescapable, without end or beginning; and along its banks the pale blossoms of asphodel sway.
 
 Darkness.
 
