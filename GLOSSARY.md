@@ -791,3 +791,8 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | конечеловек | horse-man | Descriptive term for a centaur (ch. 126) |
 | лернейская желчь | Lernaean bile | The Hydra's venom on Heracles's arrows (ch. 126) |
 | Эрот | Eros | "Клянусь малюткой Эротом" → "By little Eros" (ch. 126) |
+| Гилл, Ктесипп, Глен, Онит | Hyllus, Ctesippus, Glenus, Onites | Deianira's four sons by Heracles; standard mythological names (ch. 127) |
+| Макария | Macaria | Deianira's daughter by Heracles (ch. 127) |
+| многомудрый | much-wise | Ironic epithet ("многомудрый Иолай"/"much-wise Iolaus"); established for Iobates in ch. 049, not previously logged (ch. 049/127) |
+| сын Быка | son of the Bull | Said of Heracles in Thessalian gossip; capitalized as in the original (ch. 127) |
+| горе-невеста | would-be bride | Lichas's term for Iole, the bride Heracles won but was never given (ch. 127) |
