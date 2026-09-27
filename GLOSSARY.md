@@ -779,3 +779,4 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Мачеха | the Stepmother | Standalone form of Гера-Мачеха/Hera the Stepmother (ch. 124) |
 | Талос | Talos | Bronze giant of Crete with a single vein stopped by a nail in his ankle (ch. 124) |
 | Сфинкс | the Sphinx | Monster, depicted on one of the seven Argive shields (ch. 124) |
+| аргонавт-прорицатель | the Argonaut-seer | Descriptive epithet of Amphiaraus; "прорицатель" → "seer" as in Амфиарай-прорицатель/Amphiaraus the seer (ch. 125) |
