@@ -796,3 +796,5 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | многомудрый | much-wise | Ironic epithet ("многомудрый Иолай"/"much-wise Iolaus"); established for Iobates in ch. 049, not previously logged (ch. 049/127) |
 | сын Быка | son of the Bull | Said of Heracles in Thessalian gossip; capitalized as in the original (ch. 127) |
 | горе-невеста | would-be bride | Lichas's term for Iole, the bride Heracles won but was never given (ch. 127) |
+| Филоктет | Philoctetes | One of the rulers of Thessaly; comes to Acastus over a land dispute, then tags along with Iolaus to Heracles's camp (ch. 128) |
+| Оэта | Oeta | Mountain ridge at whose foot Heracles's camp is pitched after the taking of Oechalia (ch. 128) |
