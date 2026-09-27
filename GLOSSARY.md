@@ -770,3 +770,12 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Линкей | Lynceus | Plain form, one of the Apharetidae with his brother Idas; cf. Линкей-остроглаз/Lynceus the Sharp-eyed (ch. 122) |
 | Иолай-Бешеный | Iolaus the Mad | Paired epithet of Iolaus from his years as Heracles's driver, "бешеный" = mad, frenzied, reckless; cf. Иолай-возничий/Iolaus the driver, Амфитрион-Изгнанник/Amphitryon the Exile (ch. 123) |
 | Ахелой | Achelous | Aetolian river god whom Heracles defeats in a wrestling contest for Deianira; footnoted on first occurrence per the original's endnote 83 (ch. 123) |
+| Приап | Priapus | Son of Dionysus and the nymph Chione (or Aphrodite); footnoted on first occurrence per the original's endnote 84 (ch. 124) |
+| кенотаф | cenotaph | "Empty grave" raised for those who died abroad, went missing, or lie unburied; glossed in-text by the author (ch. 124) |
+| Пройтидские / Электрийские / Нейские / Афинские / Бореадские / Гомолоидские ворота | the Proetid / Electran / Neitan / Athenian / Borraean / Homoloid Gates | Gates of seven-gated Thebes; standard English forms where they exist ("Athenian" is the authors' own, in place of the usual Ogygian). Plural "Gates," cf. Скейские ворота/the Scaean Gates (ch. 124) |
+| Телем-Фиванец | Thelem the Theban | Posthumous name of Thelem the Nobody, who died holding the Neitan Gates against the Argives; cf. Телем-Никакой/Thelem the Nobody (ch. 124) |
+| Дионисик | Dionysie | Hermeias's mocking diminutive for Dionysus; cf. Аполлончик/Apollie (ch. 124) |
+| Мусор | the Mess | Capitalized; the Olympians' term for what the Cleaners (Мусорщики) clean up --- the Fallen's offspring, the Gigantes, etc. |
+| Мачеха | the Stepmother | Standalone form of Гера-Мачеха/Hera the Stepmother (ch. 124) |
+| Талос | Talos | Bronze giant of Crete with a single vein stopped by a nail in his ankle (ch. 124) |
+| Сфинкс | the Sphinx | Monster, depicted on one of the seven Argive shields (ch. 124) |
