@@ -768,3 +768,5 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Эврисфей-Микенец | Eurystheus the Mycenaean | Paired epithet of Eurystheus, cf. Эврисфей Сфенелид/Eurystheus Sthenelid; demonym capitalized, cf. Ифит-Ойхаллиец/Iphitus the Oechalian (ch. 122) |
 | Деянира | Deianira | Sister of Meleager, whom Heracles intends to marry (ch. 122) |
 | Линкей | Lynceus | Plain form, one of the Apharetidae with his brother Idas; cf. Линкей-остроглаз/Lynceus the Sharp-eyed (ch. 122) |
+| Иолай-Бешеный | Iolaus the Mad | Paired epithet of Iolaus from his years as Heracles's driver, "бешеный" = mad, frenzied, reckless; cf. Иолай-возничий/Iolaus the driver, Амфитрион-Изгнанник/Amphitryon the Exile (ch. 123) |
+| Ахелой | Achelous | Aetolian river god whom Heracles defeats in a wrestling contest for Deianira; footnoted on first occurrence per the original's endnote 83 (ch. 123) |
