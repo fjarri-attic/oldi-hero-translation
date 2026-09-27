@@ -141,7 +141,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Арголида | Argolis | Region where Argos is located |
 | Родос | Rhodes |  |
 | Истмийский перешеек | the Isthmos | The Isthmus of Corinth |
-| Дий | Dias | Alternate/archaic name for Zeus, used interchangeably with Зевс and paired with epithets (Dias the Father, Dias the Cloud-Gatherer, etc.); recurs frequently later in the book |
+| Дий | Dias | Alternate/archaic name for Zeus, used interchangeably with Зевс and paired with epithets (Dias the father, Dias the Cloud-Gatherer, etc.); recurs frequently later in the book |
 | Бронтей-громовник | Brontes the Thunder-Wielder | Epithet of Zeus used once alongside "Дий" and "Зевс-Отец"; distinct from Громовержец (Thunderer) |
 | Мусагет | Musagetes | "Leader of the Muses," an epithet of Apollo; footnoted on first occurrence with the author's own endnote definition |
 | Радуйся | "Rejoice" | Standard Greek greeting (chaire); footnoted on first occurrence with the author's own endnote definition. Recurring reciprocal response «И ты радуйся» ("and you, rejoice") → "Rejoice as well" --- avoid "rejoice to you," which reads as ironic/mocking rather than a plain formulaic reply. |
@@ -798,3 +798,11 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | горе-невеста | would-be bride | Lichas's term for Iole, the bride Heracles won but was never given (ch. 127) |
 | Филоктет | Philoctetes | One of the rulers of Thessaly; comes to Acastus over a land dispute, then tags along with Iolaus to Heracles's camp (ch. 128) |
 | Оэта | Oeta | Mountain ridge at whose foot Heracles's camp is pitched after the taking of Oechalia (ch. 128) |
+| Фермопилы / Фермопильский проход | Thermopylae / the pass of Thermopylae | The pass by Oeta, mentioned in the authors' forward-looking aside about Leonidas (ch. 129) |
+| Леонид | Leonidas | Spartan king who fell at Thermopylae; mentioned in the authors' aside (ch. 129) |
+| Филоктет-фессалиец | Philoctetes the Thessalian | Name+demonym epithet, cf. Тезей-афинянин/Theseus the Athenian (ch. 129) |
+| Филоктет-падальщик | Philoctetes the scavenger | Mocking paired epithet in Iolaus's thoughts, following his "стервятник"/"vulture"; lowercase like Зевс-самодур/Zeus the despot (ch. 129) |
+| Психопомп-Душеводитель | Psychopompos the Soul-Guide | Paired epithet combining Психопомп/Psychopompos and Душеводитель/Soul-Guide (ch. 129) |
+| Афина Промахос | Athena Promachos | Combined form of Афина/Athena + Промахос/Promachos (ch. 129) |
+| Дий-отец | Dias the father | Paired epithet of Zeus/Dias, used in direct address in Iolaus's thoughts (ch. 060, 086, 129) |
+| Архемор | Archemorus | Nickname Ceyx's men give Philoctetes, glossed in-text by the authors as "Ведущий к смерти" → "the Beginner of Doom" (ch. 129) |
