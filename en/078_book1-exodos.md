@@ -35,7 +35,7 @@ Without a shadow of doubt they will repeat, one after another, how Heracles drov
 
 Shaking their grey beards, they will tell how the hero beat on bronze tympana to drive the bronze-beaked, arrow-feathered birds out of Stymphalos, shooting down the flock with his bow --- and for some reason it will trouble no one whether a man can shoot a bow while simultaneously beating a drum?!
 
-Their bald heads gleaming, they will report that Iolaus Iphiclid took part in the slaying of the Lernaean Hydra --- forgetting to mention that Iolaus was not yet ten years old at the time, and never wondering how Iphicles Amphitryad could have let his underage son go on a deadly errand together with an uncle prone to fits, and after everything Alcides had done in Thebes, no less!
+Their bald pates gleaming, they will report that Iolaus Iphiclid took part in the slaying of the Lernaean Hydra --- forgetting to mention that Iolaus was not yet ten years old at the time, and never wondering how Iphicles Amphitryad could have let his underage son go on a deadly errand together with an uncle prone to fits, and after everything Alcides had done in Thebes, no less!
 
 This tale is a fib...[^pushkin]?
 
