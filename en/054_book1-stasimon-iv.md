@@ -70,7 +70,7 @@ Mother flinched and fell silent for a while. Too rarely did her firstborn, helm-
 
 "Get to the point, mom," Ares's voice rang out, dangerous.
 
-"To the point? Very well. So: Junior doesn't care for objections; I, Poseidon, and you don't care for the Lone Cleaner; and the Cleaner himself, seized by a fit of madness ('Who sent it?'---Hera, of course!), is perfectly capable, say, of desecrating Junior's temple or that of his favorite, Apollo, killing a dozen priests in the process! What then? Why, of course, my Spouse and your Father will punish the blasphemer---what else is left him but his thunderbolts?!---you and Poseidon will fade into the shadows, and that is when my turn will come! Who wove the plots? Who sent the madness? Who is to blame for the death of the great hero, the hope of Olympus? Sic her!"
+"To the point? Very well. So: Junior doesn't care for objections; I, Poseidon, and you don't care for the Lone Cleaner; and the Cleaner himself, seized by a fit of madness ('Who sent it?'---Hera, of course!), is perfectly capable, say, of defiling Junior's temple or that of his favorite, Apollo, killing a dozen priests in the process! What then? Why, of course, my Spouse and your Father will punish the blasphemer---what else is left him but his thunderbolts?!---you and Poseidon will fade into the shadows, and that is when my turn will come! Who wove the plots? Who sent the madness? Who is to blame for the death of the great hero, the hope of Olympus? Sic her!"
 
 "A great intrigue, mom... no less great than the promised hero. And has Father thought all this through in advance?"
 

@@ -204,7 +204,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Мститель | Avenger | Epithet of Apollo |
 | Водитель Муз | Leader of the Muses | Epithet of Apollo, translated (as opposed to "Мусагет" / Musagetes, which is transliterated) |
 | Несущий чуму | Plague-Bringer | Epithet of Apollo |
-| Очищающий от скверны | Cleanser | Epithet of Apollo |
+| Очищающий от скверны | Purifier | Epithet of Apollo |
 | Феб | Phoebus | Epithet/alternate name of Apollo |
 | Аполлон | Apollo | Choosing this in favor of Apollon; Apollon is the original spelling, but there is no difference in Russian as it is with Hermeias/Hermes, so we pick the more common one |
 | Кадм-Фивостроитель | Cadmus the Thebes-Builder | Paired epithet of Cadmus, founder of Thebes, who slew a dragon and later turned into a serpent himself |
@@ -440,7 +440,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Дий Высокогремящий | Dias the High-Thundering | Epithet of Zeus/Dias, distinct from Громовержец/Thunderer and Бронтей-громовник/Brontes the Thunder-Wielder (ch. 075) |
 | Гермий-Лукавый | Hermeias the Trickster | Combined form of Гермий + the Лукавый epithet (ch. 075) |
 | скверна | miasma | A term used specifically for a "stain" on a person who performed some crime. |
-| очистить | cleanse | A term specifically used for removing the miasma from a person |
+| очистить | purify | A term specifically used for removing the miasma from a person |
 | осквернить (оскверненный) | pollute (polluted) | A term speficially used for someone possessing miasma |
 | юродивый | holy fool | Running epithet for the disguised, seemingly mad Heracles at Delphi, before "Геракл" settles as his name; paired once with оборванец ("ragged holy fool") on first occurrence (ch. 076) |
 | Эринии | Erinyes | The Furies, avenging sisters; collectively invoked (ch. 076) |
