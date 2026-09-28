@@ -449,7 +449,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Мегера | Megaera | One of the Erinyes (ch. 076) |
 | Пифон | Python | Monstrous serpent slain by Apollo at Delphi, who then founded the oracle there (ch. 076) |
 | Аполлон-Стреловержец | Apollo the Far-Shooter | Paired epithet combining Аполлон with the established Стреловержец/Far-Shooter epithet (ch. 076) |
-| Гера-Мачеха | Hera the Stepmother | Paired epithet of Hera, as Heracles's persecutor (ch. 076) |
+| Гера-мачеха/Гера-Мачеха | Hera the stepmother/Hera the Stepmother | Paired epithet of Hera, as Heracles's persecutor (ch. 076) |
 | Кастальский источник | Castalian Spring | Sacred spring at Delphi, its water used for pilgrims' ritual washing (ch. 076) |
 | Агамед | Agamedes | Legendary architect; with Trophonius, built parts of the Delphic temple, favorite of Apollo (ch. 076) |
 | Трофоний | Trophonius | Legendary architect; with Agamedes, favorite of Apollo (ch. 076) |
@@ -804,7 +804,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Филоктет-падальщик | Philoctetes the scavenger | Mocking paired epithet in Iolaus's thoughts, following his "стервятник"/"vulture"; lowercase like Зевс-самодур/Zeus the despot (ch. 129) |
 | Психопомп-Душеводитель | Psychopompos the Soul-Guide | Paired epithet combining Психопомп/Psychopompos and Душеводитель/Soul-Guide (ch. 129) |
 | Афина Промахос | Athena Promachos | Combined form of Афина/Athena + Промахос/Promachos (ch. 129) |
-| Дий-отец | Dias the father | Paired epithet of Zeus/Dias, used in direct address in Iolaus's thoughts (ch. 060, 086, 129) |
+| Дий-отец/Дий-Отец | Dias the father/Dias the Father | Paired epithet of Zeus/Dias, used in direct address in Iolaus's thoughts (ch. 060, 086, 129) |
 | Архемор | Archemorus | Nickname Ceyx's men give Philoctetes, glossed in-text by the authors as "Ведущий к смерти" → "the Beginner of Doom" (ch. 129) |
 | возвышение | ascension | The Family's own euphemism for the gods' withdrawal from the world of men, as opposed to Hades's "уход"/"departure"; cf. "мы возвысились"/"we rose up" (ch. 057) (ch. 130) |
 | Ксенофан | Xenophanes | Poet-philosopher whose elegy mocking the old myths Hermeias quotes (ch. 130) |
