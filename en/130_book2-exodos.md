@@ -2,7 +2,7 @@
 
 Darkness.
 
-A viscous, dense darkness with shimmering reflections somewhere there, on the very edge, in the suffocating dampness of the local air---cloyingly warm and at the same time causing chills.
+A viscous, dense darkness with shimmering reflections somewhere there, on the very edge, in the suffocating dampness of the air here---cloyingly warm and at the same time causing chills.
 
 Crimson flashes.
 
@@ -16,7 +16,7 @@ A distant subterranean rumble---like the breathing of a sleeping giant, like the
 
 A steady rustle of waves. Yes, that is it. That is the river the gods swear by, rolling its black waters---the eternal river, unseen and inescapable, without end or beginning; and along its banks the pale blossoms of asphodel sway.
 
-Darkness. Flashes. A chilling mugginess. A rumble of water.
+Darkness. Flashes. A chill-inducing mugginess. A rumble of water.
 
 That is all.
 
