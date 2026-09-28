@@ -53,7 +53,7 @@ Something stirred in the gloom, and the earth shuddered.
 
 The speaker's face (assuming, of course, that he has one) cannot be seen, but the tone of the reply leaves no doubt that Senior is smirking sarcastically right now.
 
-"Then you must understand how dangerous this idea is, should it be realized! Junior is afraid of losing power, he's always afraid of losing power, and he frantically dreams up a new... new weapon, while we keep quiet as always and close our eyes to the possible consequences! Before, that was permissible---the scale wasn't the same, the power wasn't the same, and besides, without us, without the Family..."
+"Then you must understand how dangerous this idea is, should it be realized! Junior is afraid of losing power, he's always afraid of losing power, and he frantically dreams up a new... new weapon, while we keep quiet as always and close our eyes to the possible consequences! Before, that was permissible---the scale wasn't the same, the power wasn't the same, and besides, without us, without the Family---"
 
 "Exactly, Middle---without us! By themselves, the Half-Men are capable of nothing more than destroying their own kind... But with us---oh, with us, as it turns out, they're capable of a great deal! They turned out to be great Cleaners! And you, Middle, you yourself have sired bastard heroes with tremendous relish, without troubling yourself over any considerations whatsoever! Isn't that so, Sea Stallion?! Go on, say it again---you're right, brother!"
 
@@ -69,7 +69,7 @@ A chilling mugginess.
 
 That is all.
 
-"Don't anger me, Senior. That's not why I came here. And I don't want to quarrel with you. We've always found common ground---all of us: you, and I, and the Sisters. All except Junior. And now, look---without listening to anyone, he intends to father a Lone Cleaner! Thunderbolts are not enough for him---he wants a living one! And if Junior succeeds at this..."
+"Don't anger me, Senior. That's not why I came here. And I don't want to quarrel with you. We've always found common ground---all of us: you, and I, and the Sisters. All except Junior. And now, look---without listening to anyone, he intends to father a Lone Cleaner! Thunderbolts are not enough for him---he wants a living one! And if Junior succeeds at this---"
 
 "I hope he succeeds," mutters Senior, but Middle pretends not to hear.
 
@@ -83,7 +83,7 @@ Senior is silent for a long time.
 
 Middle does not answer.
 
-"You loved her," Senior continues confidently, and the flashes wink from afar, curling and pulsing. "Only from great love could Medusa have borne children like Pegasus and Chrysaor the Golden Bow. You loved her, Black-Maned! And that's why you came to hate Perseus and all his descendants! Perhaps, if Junior had gone tonight not to a woman of the Perseid line, but to any other, you would have..."
+"You loved her," Senior continues confidently, and the flashes wink from afar, curling and pulsing. "Only from great love could Medusa have borne children like Pegasus and Chrysaor the Golden Bow. You loved her, Black-Maned! And that's why you came to hate Perseus and all his descendants! Perhaps, if Junior had gone tonight not to a woman of the Perseid line, but to any other, you would have---"
 
 "Don't talk nonsense, Senior! I'm far from settling personal scores---farther than you think! Though I forget nothing and forgive no offense. But you, do you remember what a shock it was for the whole Family---to learn that even beings like us can be killed for good?! That a Cleaner, a piece of trash, a Half-Man, is capable of something that not one of the Family can do?! Do you remember that?!"
 
@@ -133,9 +133,9 @@ Darkness.
 
 [^5]: The Hundred-Handed, firstborn of Uranus the Sky and Gaia the Earth: Briareus, Gyges, and Cottus.
 
-"Thanks for that much, at least," Middle grumbles discontentedly. "Oh, Senior, you'll come to your senses---but it will be too late. Mind you don't regret it later..."
+"Thanks for that much, at least," Middle grumbles discontentedly. "Oh, Senior, you'll come to your senses---but it will be too late. Watch out you don't regret it later..."
 
-"I mind, I mind. And you mind you don't hurt yourself---I can see here, but you... Ah, I did warn you! This is Erebus here, it's dangerous to shake the earth in this place..."
+"I will, I will. And you watch out, don't hurt yourself: I can see here, but you---Ah, I did warn you! This is Erebus here, it's dangerous to shake the earth in this place..."
 
 ::: {.big-scene-break}
 :::

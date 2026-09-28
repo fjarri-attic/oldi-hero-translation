@@ -86,7 +86,7 @@ Something in between.
 
 "Yes. I remember. I must. And I will tell it. And then I'll forget everything again, and that will be for the best. For me, at least."
 
-"Perhaps I..."
+"Perhaps I---"
 
 "You can't. I know you have a kind heart, Iphicles, and I grant that you might be able to beg something out of Hades for me. But I don't want that. I want peace and oblivion."
 

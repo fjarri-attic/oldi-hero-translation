@@ -27,7 +27,6 @@ Don't make commits - I will handle it. Change files only when specifically instr
 
 - Register: literary, matching Oldi's long, clause-heavy sentences, semicolons, ellipses, and mid-sentence dashes. Translate fluently rather than word-for-word, but preserve sentence rhythm and structure where possible.
 - Dialogue: Russian em-dash dialogue markers (`— ...`) become standard English quotation marks in translation.
-- Internal thoughts (rendered in quotes in Russian) are rendered in quotes like the direct speech in English.
 - All-caps words/sentences are italicized in the translation (using the Markdown syntax enclosing them in single asterisks)
 - Chapter/section structure borrows Greek tragedy vocabulary from the original (Parodos, epeisodion, etc.)---keep these terms transliterated, not translated.
 - Character epithets that pair a name with a descriptive word (e.g. «Мойра Атропос» → "Atropos the Moira", «Метида-Мысль» → "Metis-Thought") should preserve that paired/disambiguating presentation---this is a deliberate authorial device, not decoration to be dropped.

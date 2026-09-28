@@ -46,7 +46,7 @@ Greedily.
 
 "Don't worry. Your charge has been dozing since the moment I laid eyes on the two of you. Easier on him this way, and on us too. Heroes have no place in Erebus. Now hold your tongue and take him off to the Empty Territories for the time being!"
 
-"To the Isles? But surely you..."
+"To the Isles? But surely you---"
 
 "Never you mind what I intend to do. Amphitryon is better off spending some time on the Isles. Alone. Tell the Keres to keep watch on him. That way he won't meet anyone, and won't stumble by accident into Lethe or up against the Rock."
 
@@ -187,7 +187,7 @@ For a while, both were silent.
 
 "You disappoint me, Trickster. Even if Alcides picks up the trail of the cult of the Fallen, the Possessed need only make him a human sacrifice and the search will be the last thing on Alcides's mind."
 
-"Well, then I could try..."
+"Well, then I could try---"
 
 "You can't. Your Father's called you back from Thebes, and there's no sense provoking Junior over nothing."
 

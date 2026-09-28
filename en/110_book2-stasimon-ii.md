@@ -26,7 +26,7 @@ No, not old---ancient.
 
 But the dweller of that side does not show himself---either he cannot fit through the doorway, or he has no intention of doing so...
 
-"Or maybe he's ashamed of how he looks," the man suddenly thought. And this guess seemed to him closer to the truth than all the others. Though, perhaps, some other word would fit better here than "ashamed," but the man is no great hand at choosing words.
+[Or maybe he's ashamed of how he looks,]{.thoughts} the man suddenly thought. And this guess seemed to him closer to the truth than all the others. Though, perhaps, some other word would fit better here than "ashamed," but the man is no great hand at choosing words.
 
 And then, from behind the door, a voice sounded. A quiet, weary voice belonging to a lord who had renounced his throne of his own will, worn down by rebellions and intrigues, by victories and defeats, who would have liked to be born again as someone else---but that was beyond his power.
 

@@ -61,7 +61,7 @@ In reply---a sarcastic chuckle.
 
 "I don't think that."
 
-"And rightly so! Because that's not all. Our dear nephew..."
+"And rightly so! Because that's not all. Our dear nephew---"
 
 "Which one? You and I have more of them than we can count."
 

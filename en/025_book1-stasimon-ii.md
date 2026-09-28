@@ -82,7 +82,7 @@ He smiled faintly, as though apologizing, and lowered himself onto the grass.
 
 "So you say, Hermeias. So they say in the Family. I say it differently. Perhaps because to some in the Family, I myself---Chiron of Pelion---am a half-horse."
 
-"Then why 'at best'? Alcides is my half-brother by our father, which means..."
+"Then why 'at best'? Alcides is my half-brother by our father, which means---"
 
 "Which means, or doesn't. Has Junior had children after Alcides?"
 
@@ -100,7 +100,7 @@ He smiled faintly, as though apologizing, and lowered himself onto the grass.
 
 Chiron fell silent.
 
-"You do not remember the strangers, Hermeias---you were born after the Titanomachy[^24]---but I remember. They were beautiful, and..."
+"You do not remember the strangers, Hermeias---you were born after the Titanomachy[^24]---but I remember. They were beautiful, and---"
 
 [^24]: The war between the gods and the Titans, as a result of which most of the defeated Titans were cast down into Tartarus.
 

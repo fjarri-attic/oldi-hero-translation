@@ -60,7 +60,7 @@ Not even in his worst nightmare had Hermeias imagined that plain-spoken Enyalius
 
 "Better late than never. Have you heard about the Family Council?"
 
-"What, has it already started? Mother Gaia..."
+"What, has it already started? Mother Gaia---"
 
 "It's already over. You're late, Cyllenian---seems you've got matters more pressing than Family Councils!"
 
@@ -78,7 +78,7 @@ Worn out.
 
 "Over the Gigantes?"
 
-"Over Heracles. Better ask which of the Family this Lone Cleaner hasn't managed to offend! Father tells them: we take Heracles and go to Phlegrae to beat the Gigantes, and they tell Father: who knows whom your favorite will decide to beat first---the Gigantes or us! Father tells them: he's a hero, one labor after another, twelve years of blameless service; and they tell Father: that much is certain! And off they go, competing to remember it all: grandfather Oceanus, whacked with an oar; Thanatos the Killer, both wings wrenched clean out of their sockets; Nereus of the Sea, his back mauled so badly he still swims sideways to this day; Helios, threatened to shoot dead..."
+"Over Heracles. Better ask which of the Family this Lone Cleaner hasn't managed to offend! Father tells them: we take Heracles and go to Phlegrae to beat the Gigantes, and they tell Father: who knows whom your favorite will decide to beat first---the Gigantes or us! Father tells them: he's a hero, one labor after another, twelve years of blameless service; and they tell Father: that much is certain! And off they go, competing to remember it all: grandfather Oceanus, whacked with an oar; Thanatos the Killer, both wings wrenched clean out of their sockets; Nereus of the Sea, his back mauled so badly he still swims sideways to this day; Helios, threatened to shoot dead---"
 
 "He should have!" Hermeias put in, glaring with hatred at the white disk of the sun.
 
@@ -86,7 +86,7 @@ Worn out.
 
 "You and Apollo?!" Hermeias couldn't believe his ears, forgetting the heat and his weariness at once.
 
-"What would you have me do? Even Artemis turns up her nose---she can't forgive the hunt for the Ceryneian Hind. And ever since their little meeting with Heracles, the whole Family's inquiring about Artemis's virginity..."
+"What would you have me do? Even Artemis turns up her nose---she can't forgive the hunt for the Ceryneian Hind. And ever since their little meeting with Heracles, the whole Family's inquiring about Artemis's virginity---"
 
 Ares didn't finish.
 
