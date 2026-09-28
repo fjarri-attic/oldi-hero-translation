@@ -91,15 +91,15 @@ Middle does not answer.
 
 "Then can you guess what that same Cleaner Perseus began to ponder in his old age?"
 
-"Can I guess?" the darkness laughs, and its laughter is joyless. "I *know!* I asked him about it myself, when he came to me. The blood of the sacrificial cow had stirred Perseus's memory, and he had nothing left to lose---he'd already lost it all. 'I regret nothing,' he said, and I flinched when I saw his smile, 'nothing except for one thing... I shouldn't have given Alalcomeneis[^2] Medusa's head. And if I was going to give it to her, they might at least have looked each other in the eye. Kin, after all... Answer me, Lord---would you have dared to send Thanatos[^3] after me, then?' And I answered him nothing, Middle! I stayed silent, and he was smiling..."
+"Can I guess?" the darkness laughs, and its laughter is joyless. "I *know!* I asked him about it myself, when he came to me. The blood of the sacrificial cow had stirred Perseus's memory, and he had nothing left to lose---he'd already lost it all. 'I regret nothing,' he said, and I flinched when I saw his smile, 'nothing except for one thing... I shouldn't have given Alalcomeneis[^2] Medusa's head. And if I was going to give it to her, they might at least have looked each other in the eye. Kin, after all... Answer me, Sovereign---would you have dared to send Thanatos[^3] after me, then?' And I answered him nothing, Middle! I stayed silent, and he was smiling..."
 
 [^2]: One of the epithets of Athena, daughter of Zeus and Metis; she will later earn the epithet Pallas, after defeating the giant Pallas and stretching his skin over her shield.
 
 [^3]: Thanatos the Death, the twin brother of Hypnos the Sleep, son of Nyx the Night.
 
-Silence. And only the black water of the Styx laps at the foot of the White Rock of Oblivion, invisible in the gloom, as though washing away the bitterness of the Lord's last words.
+Silence. And only the black water of the Styx laps at the foot of the White Rock of Oblivion, invisible in the gloom, as though washing away the bitterness of the Sovereign's last words.
 
-"And he was smiling," repeats Middle. "He was smiling. Here. And after that you don't want to prevent the birth of the Lone Cleaner? Strange... very strange. Growing old, Lord?"
+"And he was smiling," repeats Middle. "He was smiling. Here. And after that you don't want to prevent the birth of the Lone Cleaner? Strange... very strange. Growing old, Sovereign?"
 
 "What do you propose, Middle?"
 
@@ -174,7 +174,7 @@ For a while Senior digested what he had heard.
 
 "You know what, Hermeias---fly on over to the Moirai! Find out what dowry they've spun for the newborn-to-be. We're not able to change fate, but to know it... it wouldn't hurt to know it. Just in case..."
 
-"Yes, Lord!" the Trickster cried out with mock enthusiasm in a squeaky little voice, at which Senior most likely winced---because the dusk instantly darkened, turning back into gloom.
+"Yes, Sovereign!" the Trickster cried out with mock enthusiasm in a squeaky little voice, at which Senior most likely winced---because the dusk instantly darkened, turning back into gloom.
 
 "Joker... I've told you a hundred times---clown around in front of strangers, if you like. Or your father. But not with me. I don't like it. All right---fly along, little one."
 
@@ -183,18 +183,18 @@ For a while Senior digested what he had heard.
 
 Hermeias was gone for quite a while, and Senior had already begun to wonder where the rascal had disappeared to---when at last the rustling sounded again, and the slightly out-of-breath messenger flopped down on the bank of the Styx beside Senior.
 
-"Strange doings, Lord," the Trickster was unusually serious, and this time it didn't occur to Senior to interrupt his nephew. "So I fly to the Moirai, I ask them---and they just throw up their hands. Nothing yet, they say, the thread hasn't been spun, the lot hasn't been drawn, let alone recorded. Naturally, I start pressing them---I'm thinking, the old women are hiding something!---and then, look, the thread starts moving on Clotho's spindle! And not just a thread, but a double, twisted one..."
+"Strange doings, Sovereign," the Trickster was unusually serious, and this time it didn't occur to Senior to interrupt his nephew. "So I fly to the Moirai, I ask them---and they just throw up their hands. Nothing yet, they say, the thread hasn't been spun, the lot hasn't been drawn, let alone recorded. Naturally, I start pressing them---I'm thinking, the old women are hiding something!---and then, look, the thread starts moving on Clotho's spindle! And not just a thread, but a double, twisted one..."
 
 "Twins," whispered Senior.
 
 "Twins," the Trickster agreed at once. "But a twisted thread---even the Moirai themselves don't remember anything like it! Anyway, we untwisted it somehow..."
 
-"We?" the Lord all but jumped up.
+"We?" the Sovereign all but jumped up.
 
 "We," Hermeias confirmed with dignity. "I helped too! Only it was all for nothing---in the end it twisted back up again. So when the two lots were drawn, we couldn't work out which was which. Though, what was there to work out---the shards were almost identical anyway..."
 
 "But the lot, what was the lot?!" Senior all but shouted.
 
-And then the Trickster leaned close to the Lord's very ear and whispered something.
+And then the Trickster leaned close to the Sovereign's very ear and whispered something.
 
 The flashes blinked in bewilderment, and went out.

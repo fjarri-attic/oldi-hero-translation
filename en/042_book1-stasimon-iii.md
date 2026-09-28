@@ -77,7 +77,7 @@ Two hazy silhouettes, two shades... no, shades have no place here---they should 
 
 "Don't change the subject, uncle," Hermeias said sharply. "What happened next?"
 
-"Next?" the Lord fell silent for a moment, as though gathering his thoughts. "Very well. Listen on.
+"Next?" the Sovereign fell silent for a moment, as though gathering his thoughts. "Very well. Listen on.
 
 "Kronus the Timekeeper had just then overthrown his father Uranus, gelding him, and the Fallen quickly understood whom to bet on. They began giving Kronus wise counsel---the kind Momus the Mocker gives..."
 
@@ -183,7 +183,7 @@ Hades did not answer at once, but the Trickster did not hurry him, understanding
 
 "You're right. Only the Cleaners themselves know just this much---that they exterminate monsters---and that is enough."
 
-"Yes, uncle. Enough for them. Not for us. It's my turn now, Lord. I'll tell you about young Alcides, son of Zeus and Alcmene, the future Lone Cleaner, equal to the gods---and about the true cause of his madness..."
+"Yes, uncle. Enough for them. Not for us. It's my turn now, Sovereign. I'll tell you about young Alcides, son of Zeus and Alcmene, the future Lone Cleaner, equal to the gods---and about the true cause of his madness..."
 
 
 #### Epode[^33]

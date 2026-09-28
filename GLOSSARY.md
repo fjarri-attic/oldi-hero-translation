@@ -9,7 +9,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Средний | Middle | An epithet of Poseidon (used by fellow Olympians). Capitalized. |
 | Младший | Junior | An epithet of Zeus (used by fellow Olympians). Capitalized. |
 | Лукавый | Trickster | An epithet of Hermes (used by fellow Olympians). Capitalized. Use without an article in direct speech addressed to him, with "the" otherwise. |
-| Владыка | Lord | An epithet of Hades (used by fellow Olympians), implying lord [of the dead]. Capitalized. Use "the" unless used in a direct speech addressed to him. |
+| Владыка | Sovereign | An epithet of Hades (used by fellow Olympians). Use only when Владыка stands by itself, if it's Владыка [of something], use Lord. |
 | Метида-Мысль | Metis the Thought | Paired epithet of Metis |
 | Мойра Атропос | Atropos the Moira | Paired epithet of Atropos. First word capitalized. |
 | Мойры | Moirai | The three Fates collectively. Capitalized. |
@@ -328,7 +328,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Мелампиг (мн. Мелампиги) | Melampygos (pl. Melampygoi) | Mocking nickname for the male Perseids ("Black-Arsed"), from the hair on their thighs/buttocks; glossed in-text by the author |
 | Абдер | Abderus | Hermes's son by a mortal woman; six years old at this point, later dies as a youth guarding Diomedes's man-eating mares (cf. Book 2) |
 | Локрида Опунтская | Opuntian Locris | Abderus's homeland |
-| Персефона | Persephone | Wife of Hades (Владыка/Lord) |
+| Персефона | Persephone | Wife of Hades |
 | Артемида | Artemis | Also occurs as «Артемида-охотница» → "Artemis the huntress" (paired epithet, second word lowercase to match the original) |
 | локоть (мн. локти) | cubit | Ancient Greek unit of length |
 | Теспий | Thespius | Basileus who hosted Alcides and Iphicles after the lion hunt; father of the fifty daughters (per legend) whom Alcides is rumored to have slept with in one night |
@@ -706,7 +706,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Фоон | Thoon | One of the Gigantes, fought with a bronze club; slain by the Moirai alongside Агрий/Agrius (ch. 109) |
 | Клитий | Clytius | The Gigas Hephaestus killed by hurling red-hot stones at him (ch. 109) |
 | Мимант | Mimas | The Gigas Hecate burned to death with her torch (ch. 109) |
-| Ипполит | Hippolytus | The Gigas slain by an unseen Hermes (presumably while wearing the Lord's/Hades's helm, cf. ch. 108); distinct from the Amazon queen Ипполита/Hippolyta (ch. 109) |
+| Ипполит | Hippolytus | The Gigas slain by an unseen Hermes (presumably while wearing the Hades's helm, cf. ch. 108); distinct from the Amazon queen Ипполита/Hippolyta (ch. 109) |
 | Эврит (Гигант) | Eurytus | One of the Gigantes at Phlegrae, killed by Dionysus with a thyrsus; shares the established rendering of Эврит/Eurytus (cf. Эврит Ойхаллийский/Eurytus of Oechalia)---the corpse Iolaus finds and asks about by this name in ch. 108 is presumably this same Gigas, per the novel's device of doubling mythic figures among the Family's giant-children (ch. 108/109) |
 | Порфирион | Porphyrion | King of the Gigantes, struck down into the dust by the Thunderer/Zeus (ch. 109) |
 | Сицилия | Sicily | Island Athena hurled onto the fleeing Enceladus; also named among the lands the Olympians "heaped upon their enemies" (ch. 109) |
@@ -748,7 +748,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Писы / Пис | Pisa | City in Eleia near Olympia, where the fighting against Augeas is taking place; the soldier says he comes "из-под Пис" ("from near Pisa"); standard English form of the name (ch. 116) |
 | Алфей | Alpheus | River in Eleia, dammed by Heracles to clean the Augean stables; footnoted on first occurrence with the author's own endnote 81 (ch. 116) |
 | Пеней | Peneus | River in Eleia, dammed together with the Alpheus in the author's endnote 81; not to be confused with the Thessalian river of the same name (ch. 116) |
-| Владыка теней | the Lord of the Shades | Epithet of Hades used by a soldier; cf. Владыка/Lord (ch. 117) |
+| Владыка теней | Lord of the Shades | Epithet of Hades used by a soldier |
 | Кефей Аркадский | Cepheus of Arcadia | Cf. established Кефей/Cepheus (ch. 111) (ch. 117) |
 | Феней | Pheneus | Small Arcadian town near the scene of the fighting, where the survivors retreat; standard English form (ch. 117) |
 | Саламин | Salamis | Island, Telamon's home (ch. 117) |

@@ -25,7 +25,7 @@ That is all.
 
 "...are you there, Trickster?"
 
-"Yes, Lord."
+"Yes, Sovereign."
 
 "Were you up there again?"
 
@@ -54,9 +54,9 @@ Figments of ancient times, mere pleasing trifles...[^banquet]
 
 [^banquet]: Quoted from Athenaeus of Naucratis, *The Deipnosophists; or, Banquet of the Learned of Athenaeus* (who in turn quotes Xenophanes), translation by Charles Duke Yonge (1854). [TN]
 
-"Figments of ancient times," the Lord repeated thoughtfully. "We're becoming figments, Trickster."
+"Figments of ancient times," the Sovereign repeated thoughtfully. "We're becoming figments, Trickster."
 
-"If only figments, Lord!" Hermeias said, with bitterness in his voice. "It isn't enough that the scoundrel Xenophanes, the author of these vile lines, doesn't even think of hiding his name---in the *Odyssey*, which the rhapsodes sing in every city, the words 'godlike swineherd' come up eighteen times! Eighteen times, uncle---and people laugh..."
+"If only figments, Sovereign!" Hermeias said, with bitterness in his voice. "It isn't enough that the scoundrel Xenophanes, the author of these vile lines, doesn't even think of hiding his name---in the *Odyssey*, which the rhapsodes sing in every city, the words 'godlike swineherd' come up eighteen times! Eighteen times, uncle---and people laugh..."
 
 "...and people laugh," Hades echoed. "Yes, laughter is a terrible weapon. More terrible than a thunderbolt or poisoned arrows... it seems we really were too hasty. By getting rid of the Cleaners and their descendants, we got rid of the danger lurking in them---but we also destroyed the bridge between ourselves and people. Do you remember, Hermeias, what contrivances we had to resort to in order to gather the Cleaners' children beneath Troy? The effort we spent on that deserved a better cause... And even then we had to keep steering the course of events, and as a result Ares and Aphrodite were wounded---people were no longer afraid of us! Perhaps because we were afraid of them."
 
@@ -112,7 +112,7 @@ Lately he was always cold.
 
 "What do you take me for, uncle?" the Trickster said, offended.
 
-"Just as well. There's no need. No need at all for the Family to know that I no longer feel like the sole master here. Like the Lord."
+"Just as well. There's no need. No need at all for the Family to know that I no longer feel like the sole master here. Like the Sovereign."
 
 "You?!"
 
@@ -142,7 +142,7 @@ Silence.
 
 Then they sat for a long time without uttering a word.
 
-"And still I can't understand why Heracles kept his memory!" The Trickster suddenly struck his knee with his fist. "I don't know what would have been better for him; but understand it---I can't! Why did it turn out this way, Lord?! Because there are two of them? Or because he is the shade of a god?!"
+"And still I can't understand why Heracles kept his memory!" The Trickster suddenly struck his knee with his fist. "I don't know what would have been better for him; but understand it---I can't! Why did it turn out this way, Sovereign?! Because there are two of them? Or because he is the shade of a god?!"
 
 "Perhaps, Hermeias. Anything is possible. But you put it well---the shade of a god... Do we have shades, Trickster? Nothing to say?"
 

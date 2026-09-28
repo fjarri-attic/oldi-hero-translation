@@ -8,7 +8,7 @@ Closer, ever closer come the crimson glimmers, and the eternal gloom of the path
 
 "Wait for me here. I'll bring him myself."
 
-"What will the Lord say?"
+"What will the Sovereign say?"
 
 "Everything's arranged with uncle. Just wait..."
 
@@ -18,7 +18,7 @@ The second traveler remains alone; he looks around. Here the walls, radiating a 
 
 The traveler approaches the altar---low, as all altars of the underworld gods are---peers into the web of cracks that look like secret signs, and furrows his brow...
 
-"You needn't trouble yourself. Even the Lord doesn't know these symbols. No one has seen the hand that carved them; no one has grasped their meaning. In the Family they joke that this is where the secret name of Ananke the Inevitability is written; only I've never heard anyone laugh in answer to that joke."
+"You needn't trouble yourself. Even the Sovereign doesn't know these symbols. No one has seen the hand that carved them; no one has grasped their meaning. In the Family they joke that this is where the secret name of Ananke the Inevitability is written; only I've never heard anyone laugh in answer to that joke."
 
 "But this is a sacrificial altar?" the traveler asks, without turning around.
 
