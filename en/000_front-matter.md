@@ -1,4 +1,4 @@
-# The hero stands alone
+# A Hero Stands Alone
 
 And then Serpent's voice rang out:
 
