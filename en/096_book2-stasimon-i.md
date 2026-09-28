@@ -100,7 +100,7 @@ A shade, a ghost of a sigh.
 
 #### Antistrophe
 
-"You know from Alcides how we --- the younger kinsmen of Salmoneus's brethren --- fathered the Gigantes. But for us, and for *them,* the very word 'Gigantes' seemed like an unfunny joke. For these were children --- helpless, squalling infants, strange in some ways, great in others, flawed in still others --- but children. *Our children.* I remember those days well, when the ones born on Phlegrae survived; days of some impossible, unreal happiness, when even the blackness of doom that had always lived in the eyes of Stheno and Euryale vanished, when Chrysaor the Golden Bow, son of Medusa, was not ashamed of his tears; while I, Phyleus, son of Augeas, Podarces the Trojan, and Three-Bodied Geryon danced a mad, furious, divine dance... I remember those days well.
+"You know from Alcides how we --- the younger kinsmen of Salmoneus's brethren --- fathered the Gigantes. But for us, and for *them*, the very word 'Gigantes' seemed like an unfunny joke. For these were children --- helpless, squalling infants, strange in some ways, great in others, flawed in still others --- but children. *Our children*. I remember those days well, when the ones born on Phlegrae survived; days of some impossible, unreal happiness, when even the blackness of doom that had always lived in the eyes of Stheno and Euryale vanished, when Chrysaor the Golden Bow, son of Medusa, was not ashamed of his tears; while I, Phyleus, son of Augeas, Podarces the Trojan, and Three-Bodied Geryon danced a mad, furious, divine dance... I remember those days well.
 
 I remember them even here, where I remember nothing.
 
@@ -128,11 +128,13 @@ Only their sacrifices were not human in the full sense of the word; though somet
 
 The sacrifices of the Gigantes are gods! Or those of the same tribe as the gods: nymphs, dryads, satyrs, minor Titans... The Gigantes will not make war on the Olympians, because they don't know how to make war and don't know what the Olympians even are. The Gigantes will eat them, devour them, sacrifice them to themselves! To the Gigantes, gods are food --- the way a child puts a toy in its mouth!
 
-* * *
+::: {.small-scene-break}
+:::
 
 ...The shade of Iphitus was weeping, though there were no tears, and soundless sobs shook the phantom's chest. Taking the proffered rhyton, the shade drained the rest of it in one gulp, and the sacrificial blood mixed with honey and barley once more filled the bodiless creature with some semblance of life.
 
-* * *
+::: {.small-scene-break}
+:::
 
 "I saw the Gigantes devour two of their own mothers, Stheno and Euryale! I had already all but entered the Dromos leading home, when the Gorgon sisters appeared in the children's quarter of Phlegrae. Against the prohibition, they had resolved to visit their own offspring, and the Possessed had no strength to bar their way. Scattering the priests of Tartarus like kittens --- I saw it myself, from a distance --- the Gorgons drew near to the children. I could clearly make out both the sisters and the children; but when no more than a step remained between them, it seemed to me that I was losing my mind: for an instant the helpless infants appeared to me as gigantic, shaggy creatures with a mindlessly burning gaze, and the mighty Gorgons as helpless little figures, shying back in fright.
 

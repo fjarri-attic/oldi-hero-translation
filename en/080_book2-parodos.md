@@ -26,7 +26,8 @@ The youth started and stared at the speaker with undisguised astonishment.
 
 Ares rose abruptly and walked over to the Trickster. The Dromos had not yet closed, and the god of war pushed the viscous strands apart with his shoulder, peering into the scene visible at its far end.
 
-* * *
+::: {.small-scene-break}
+:::
 
 ...The Phlegraean Fields[^44], burned to the ground, a table-flat, slate-coal black plain --- and it truly was coal, smoldering and smoking in patches, over which the low-hung shroud of the night sky gathered in folds, with its rare, sickly reddened eyes of star-titans.
 
@@ -34,7 +35,8 @@ Ares rose abruptly and walked over to the Trickster. The Dromos had not yet clos
 
 Dark columns stirred on the horizon, making the blind sores of the stars ooze filthy ichor, and began to move, raising the ash of the conflagration off the body of Mother Gaia...
 
-* * *
+::: {.small-scene-break}
+:::
 
 Hermeias gave a sharp whistle, clapping his hands, and the Dromos closed.
 
@@ -92,11 +94,13 @@ He spat bitterly, brushed a glint of sunlight off the polished metal of his helm
 
 He looked past Hermeias to where the web of the Dromos had lately shimmered --- and froze, unblinking, as though he saw something there.
 
-* * *
+::: {.small-scene-break}
+:::
 
 ...a table-flat, slate-coal black plain; the blinded, torn eye-sockets of stars above Phlegrae --- and slowly moving columns, living mountains on the horizon...
 
-* * *
+::: {.small-scene-break}
+:::
 
 "Family," Ares muttered like a curse, turning away. "Kinfolk! Well, I don't love Father --- but at least I understand that no one but Zeus the despot is capable of grabbing us by the scruff and driving us into battle! But those others... if they knew what you and I know, Trickster, they'd eat the Heracleses alive. Both of them."
 
@@ -132,11 +136,13 @@ The air around him trembled, as though the god were hesitating: open a Dromos, o
 
 "Tell me, brother," came from behind the visor, and two dark flames kindled in the eye-slits of the helmet, "tell me... the Gigantes --- who are they?"
 
-* * *
+::: {.small-scene-break}
+:::
 
 ...Phlegrae, the Burning Grounds, the charred flesh of Gaia the Earth, the torn eye-sockets of the sky --- and a Strength, a mortal Strength, come to kill forever... heroes of Tartarus.
 
-* * *
+::: {.small-scene-break}
+:::
 
 "Doomed killers." The right words came at once.
 

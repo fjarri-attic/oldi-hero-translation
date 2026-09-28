@@ -2,8 +2,7 @@
 
 [^42]: The concluding song performed as the chorus withdraws from the stage.
 
-* * *
-
+::: {.quote}
 "[...] before Amphitryon reached Thebes, Zeus came by night and prolonging the one night threefold he assumed the likeness of Amphitryon and bedded with Alcmena [...] But when Amphitryon arrived and saw that he was not welcomed by his wife, he inquired the cause; and when she told him that he had come the night before and slept with her, he learned from Tiresias how Zeus had enjoyed her.
 
 And Alcmena bore two sons [twins, according to Pindar's Ninth Pythian Ode], to wit, Hercules, whom she had by Zeus and who was the elder by one night, and Iphicles, whom she had by Amphitryon. When the child was eight months old, Hera desired the destruction of the babe and sent two huge serpents to the bed. [...] but Hercules arose and killed the serpents by strangling them with both his hands. However, Pherecydes says that it was Amphitryon who put the serpents in the bed, because he would know which of the two children was his, and that when Iphicles fled, and Hercules stood his ground, he knew that Iphicles was begotten of his body.
@@ -16,17 +15,17 @@ As he was returning from the hunt, there met him heralds sent by Erginus to rece
 
 Indignant at this outrage, Erginus marched against Thebes. But Hercules, having [...] taken the command, killed Erginus, put the Minyans to flight, and compelled them to pay double the tribute to the Thebans. And it chanced that in the fight Amphitryon fell fighting bravely. And Hercules received from Creon his eldest daughter Megara as a prize of valor, and by her he had three sons [...] But Creon gave his younger daughter to Iphicles, who already had a son Iolaus by Automedusa, daughter of Alcathus. [...]
 
-Now it came to pass that after the battle with the Minyans Hercules was driven mad through the jealousy of Hera and flung his own children, whom he had by Megara, and two children of Iphicles into the fire; wherefore he condemned himself to exile, and was purified by Thespius, and repairing to Delphi he inquired of the god where he should dwell. The Pythian priestess then first called him Hercules, for hitherto he was called Alcides. And she told him to dwell in Tiryns, serving Eurystheus for twelve years and to perform the ten labours imposed on him[^43], and so, she said, when the tasks were accomplished, he would be immortal.[^apollodorus]
+Now it came to pass that after the battle with the Minyans Hercules was driven mad through the jealousy of Hera and flung his own children, whom he had by Megara, and two children of Iphicles into the fire; wherefore he condemned himself to exile, and was purified by Thespius, and repairing to Delphi he inquired of the god where he should dwell. The Pythian priestess then first called him Hercules, for hitherto he was called Alcides. And she told him to dwell in Tiryns, serving Eurystheus for twelve years and to perform the ten labours imposed on him[^43], and so, she said, when the tasks were accomplished, he would be immortal.
 
-But some say that Hercules, having quitted Thebes because of the burning of his children, joined himself to the Argonauts in their voyage, and was left behind by them in Mysia; for it was fated that the great son of Zeus should return to Tiryns and accomplish the labours appointed him. And Glaucus, the sea-god, declared this to the Argonauts; and Hermes escorted Hercules to the service of Eurystheus...[^apollonius]"
+But some say that Hercules, having quitted Thebes because of the burning of his children, joined himself to the Argonauts in their voyage, and was left behind by them in Mysia; for it was fated that the great son of Zeus should return to Tiryns and accomplish the labours appointed him. And Glaucus, the sea-god, declared this to the Argonauts; and Hermes escorted Hercules to the service of Eurystheus..."[^apollodorus]
+:::
 
 [^43]: Eurystheus refused to count two of Heracles's labors --- the Lernaean Hydra and the Augean stables --- since Heracles had not performed them alone, and for the stables he had even demanded payment; thus the ten labors became twelve, and their completion took twelve years.
 
-[^apollodorus]: Quoted from Apollodorus, *The Library*, translation by James G. Frazer (1921). [TN]
+[^apollodorus]: All but the last paragraph are quoted from Apollodorus, *The Library*, translation by James G. Frazer (1921). The last paragraph is paraphrased from Apollonius, *The Argonautica*. [TN]
 
-[^apollonius]: Paraphrased from Apollonius, *The Argonautica*. [TN]
-
-* * *
+::: {.small-scene-break}
+:::
 
 This is what remained of twenty-three years of Heracles's life a mere thousand years later; and what will remain of it three and a half millennia from now will be fit only to serve as a rattle in the hands of overgrown children!
 

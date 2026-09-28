@@ -28,7 +28,8 @@ A rumble of water.
 
 That is all.
 
-* * *
+::: {.big-scene-break}
+:::
 
 "We have arrived, Middle. Sit down. There's no need to go any further --- there are no ears here that could overhear us."
 
@@ -136,7 +137,8 @@ Darkness.
 
 "I mind, I mind. And you mind you don't hurt yourself --- I can see here, but you... Ah, I did warn you! This is Erebus here, it's dangerous to shake the earth in this place..."
 
-* * *
+::: {.big-scene-break}
+:::
 
 When Middle's heavy footsteps died away in the distance, Senior spat in vexation and muttered:
 
@@ -176,7 +178,8 @@ For a while Senior digested what he had heard.
 
 "Joker... I've told you a hundred times --- clown around in front of strangers, if you like. Or your father. But not with me. I don't like it. All right --- fly along, little one."
 
-* * *
+::: {.big-scene-break}
+:::
 
 Hermeias was gone for quite a while, and Senior had already begun to wonder where the rascal had disappeared to --- when at last the rustling sounded again, and the slightly out-of-breath messenger flopped down on the bank of the Styx beside Senior.
 

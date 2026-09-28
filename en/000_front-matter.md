@@ -1,5 +1,14 @@
 # A Hero Stands Alone
 
+::: {.authors}
+Henry Lion Oldie
+:::
+
+::: {.translator}
+Translated by Bogdan Opanchuk
+:::
+
+::: {.epigraph}
 And then Serpent's voice rang out:
 
 "A mortal holds up the sky with the gods. What of the titans then?"
@@ -15,5 +24,8 @@ And he heard:
 And the Serpent rasped grimly:
 
 "Yes, now I know Heracles..."
+:::
 
-*--- Y. Golosovker, "The Legend of Heracles"*
+::: {.epigraph-source}
+Y. Golosovker, *The Legend of Heracles*
+:::

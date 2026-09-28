@@ -20,7 +20,8 @@ That is all.
 
 And it had always been this way. Only this way.
 
-* * *
+::: {.big-scene-break}
+:::
 
 "Here we are, Sister. You may speak."
 
@@ -112,7 +113,8 @@ The one they called Sister suddenly fell silent. When she spoke again, her voice
 
 "There now, I did warn you! It's so easy to stumble --- especially when the road is hard to see..."
 
-* * *
+::: {.big-scene-break}
+:::
 
 ...When the light footsteps and the rustle of crumbling pebbles died away in the distance, and the crimson gloom had noticeably thinned, the one they called Senior turned and pointed unerringly at one of the niches in the rugged body of the cliff.
 

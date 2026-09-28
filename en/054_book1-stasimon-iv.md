@@ -138,7 +138,8 @@ Ares was alone. He was so alone that at times he began to hate his Mother (Fathe
 
 "You're right, that I don't need to be taught," Ares's voice cracked like a whip. "Soon... though, allow me to keep my intentions to myself."
 
-* * *
+::: {.small-scene-break}
+:::
 
 Left alone, Ares returned to the balustrade encircling the marble portico and stood looking down into the drop, where the wind played with the bluish sand and the ruins of the inhuman fortresses.
 

@@ -15,11 +15,11 @@ Ignore other files unless specifically instructed.
 
 Don't make commits - I will handle it. Change files only when specifically instructed. When we are working on a chapter, avoid looking into files other than the chapter itself, the glossary, and the conventions, unless necessary to check for consistency.
 
-## Footnotes
+## Formatting
 
-- **Footnotes** (explanatory content that should actually accompany the word): Markdown style --- a reference anchor near the word (without a space), and the actual footnote under the paragpaph. E.g. `... lawagetas[^9] ...` in a paragraph, and `[^9]: A Mycenaean military title --- leader of the host, second in rank only to the wanax]` after the paragraph.
-- The original book has its own numbered endnote system: markers like `[13]`, `[14]` in the running text correspond to a "Примечания" (Notes) section (placed in `ru/131_footnotes.md`). These will be translated and converted to footnotes.
-- Don't add new footnotes yourself. If some term is used by the authors without a footnote, we will keep at as is.
+- **Footnotes** (explanatory content that should actually accompany the word): Markdown style --- a reference anchor near the word (without a space), and the actual footnote under the paragpaph. E.g. `... lawagetas[^9] ...` in a paragraph, and `[^9]: A Mycenaean military title --- leader of the host, second in rank only to the wanax.` after the paragraph.
+- Thoughts are rendered as `[Character thoughts go here]{.thoughts}`.
+
 
 ## Style notes
 
