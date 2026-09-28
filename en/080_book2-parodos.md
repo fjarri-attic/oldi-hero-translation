@@ -4,7 +4,7 @@ White-hot Helios crept slowly westward across the faded sky.
 
 "The old man's gone completely soft in the head." A tall, stately warrior squinted sidelong at the sun and reluctantly began tugging off his head a close helmet with a lush plume and narrow eye-slits.
 
-Then he brushed back the single gray streak in his hair --- pitch-black otherwise --- and sat down on the threshold of a half-ruined hovel near the northeastern outskirts of seven-gated Thebes.
+Then he brushed back the single gray streak in his hair---pitch-black otherwise---and sat down on the threshold of a half-ruined hovel near the northeastern outskirts of seven-gated Thebes.
 
 Setting the helmet down beside him, he stroked the plume with his hand as though it were a living creature, and glanced upward again.
 
@@ -14,7 +14,7 @@ A blinding lash struck him crosswise across the face, forcing him to squeeze his
 
 Strangely enough, the threat had an effect. It grew noticeably cooler around the decrepit building.
 
-"That's better," the warrior grunted with satisfaction, not even bothering to be surprised at so strange a whim of the weather --- one that, incidentally, had no effect whatsoever on nearby Thebes.
+"That's better," the warrior grunted with satisfaction, not even bothering to be surprised at so strange a whim of the weather---one that, incidentally, had no effect whatsoever on nearby Thebes.
 
 The next moment the air five paces from the house grew hazy, weaving glassy cobweb threads into a shimmering haze; and a weary, gaunt youth stepped out through the opening of a newly opened Dromos.
 
@@ -29,9 +29,9 @@ Ares rose abruptly and walked over to the Trickster. The Dromos had not yet clos
 ::: {.small-scene-break}
 :::
 
-...The Phlegraean Fields[^44], burned to the ground, a table-flat, slate-coal black plain --- and it truly was coal, smoldering and smoking in patches, over which the low-hung shroud of the night sky gathered in folds, with its rare, sickly reddened eyes of star-titans.
+...The Phlegraean Fields[^44], burned to the ground, a table-flat, slate-coal black plain---and it truly was coal, smoldering and smoking in patches, over which the low-hung shroud of the night sky gathered in folds, with its rare, sickly reddened eyes of star-titans.
 
-[^44]: The Phlegraean Fields --- literally "the burning grounds" (Greek); located on the Chalkidiki peninsula, on its westernmost prong, Pallene. [Note that today's Phlegraean Fields are located near Naples. The Pallene location follows the classical sources (Herodotus, Strabo, Pindar) who placed the site of Gigantomachy there, and mentioned that the Italian region got its name after the Gigantomachy myth due to its fiery geology. --- TN]
+[^44]: The Phlegraean Fields---literally "the burning grounds" (Greek); located on the Chalkidiki peninsula, on its westernmost prong, Pallene. [Note that today's Phlegraean Fields are located near Naples. The Pallene location follows the classical sources (Herodotus, Strabo, Pindar) who placed the site of Gigantomachy there, and mentioned that the Italian region got its name after the Gigantomachy myth due to its fiery geology.---TN]
 
 Dark columns stirred on the horizon, making the blind sores of the stars ooze filthy ichor, and began to move, raising the ash of the conflagration off the body of Mother Gaia...
 
@@ -52,9 +52,9 @@ Not even in his worst nightmare had Hermeias imagined that plain-spoken Enyalius
 
 "To see how you're doing," Ares smirked. "To make sure you're well. It's been a while since I paid you a visit."
 
-"You --- to see me?"
+"You---to see me?"
 
-"Me --- to see you."
+"Me---to see you."
 
 "Are you mocking me, Enyalius? You've never once been to see me," the Trickster said, noting almost mechanically that he was repeating, nearly word for word, a phrase the centaur Chiron had said thirty years before.
 
@@ -62,9 +62,9 @@ Not even in his worst nightmare had Hermeias imagined that plain-spoken Enyalius
 
 "What, has it already started? Mother Gaia..."
 
-"It's already over. You're late, Cyllenian --- seems you've got matters more pressing than Family Councils!"
+"It's already over. You're late, Cyllenian---seems you've got matters more pressing than Family Councils!"
 
-"Maybe. Still --- why are you here?"
+"Maybe. Still---why are you here?"
 
 "For help," the god of war answered simply, wiping his damp brow with the back of his hand.
 
@@ -78,39 +78,39 @@ Worn out.
 
 "Over the Gigantes?"
 
-"Over Heracles. Better ask which of the Family this Lone Cleaner hasn't managed to offend! Father tells them: we take Heracles and go to Phlegrae to beat the Gigantes, and they tell Father: who knows whom your favorite will decide to beat first --- the Gigantes or us! Father tells them: he's a hero, one labor after another, twelve years of blameless service; and they tell Father: that much is certain! And off they go, competing to remember it all: grandfather Oceanus, whacked with an oar; Thanatos the Killer, both wings wrenched clean out of their sockets; Nereus of the Sea, his back mauled so badly he still swims sideways to this day; Helios, threatened to shoot dead..."
+"Over Heracles. Better ask which of the Family this Lone Cleaner hasn't managed to offend! Father tells them: we take Heracles and go to Phlegrae to beat the Gigantes, and they tell Father: who knows whom your favorite will decide to beat first---the Gigantes or us! Father tells them: he's a hero, one labor after another, twelve years of blameless service; and they tell Father: that much is certain! And off they go, competing to remember it all: grandfather Oceanus, whacked with an oar; Thanatos the Killer, both wings wrenched clean out of their sockets; Nereus of the Sea, his back mauled so badly he still swims sideways to this day; Helios, threatened to shoot dead..."
 
 "He should have!" Hermeias put in, glaring with hatred at the white disk of the sun.
 
-"...Poseidon can't bury his children fast enough --- as of today he's lost six sons and two grandsons! Who killed them? Heracles! In short, only Apollo and I spoke up for Father. Hephaestus the toiler abstained."
+"...Poseidon can't bury his children fast enough---as of today he's lost six sons and two grandsons! Who killed them? Heracles! In short, only Apollo and I spoke up for Father. Hephaestus the toiler abstained."
 
 "You and Apollo?!" Hermeias couldn't believe his ears, forgetting the heat and his weariness at once.
 
-"What would you have me do? Even Artemis turns up her nose --- she can't forgive the hunt for the Ceryneian Hind. And ever since their little meeting with Heracles, the whole Family's inquiring about Artemis's virginity..."
+"What would you have me do? Even Artemis turns up her nose---she can't forgive the hunt for the Ceryneian Hind. And ever since their little meeting with Heracles, the whole Family's inquiring about Artemis's virginity..."
 
 Ares didn't finish.
 
 He spat bitterly, brushed a glint of sunlight off the polished metal of his helmet, and stood up.
 
-He looked past Hermeias to where the web of the Dromos had lately shimmered --- and froze, unblinking, as though he saw something there.
+He looked past Hermeias to where the web of the Dromos had lately shimmered---and froze, unblinking, as though he saw something there.
 
 ::: {.small-scene-break}
 :::
 
-...a table-flat, slate-coal black plain; the blinded, torn eye-sockets of stars above Phlegrae --- and slowly moving columns, living mountains on the horizon...
+...a table-flat, slate-coal black plain; the blinded, torn eye-sockets of stars above Phlegrae---and slowly moving columns, living mountains on the horizon...
 
 ::: {.small-scene-break}
 :::
 
-"Family," Ares muttered like a curse, turning away. "Kinfolk! Well, I don't love Father --- but at least I understand that no one but Zeus the despot is capable of grabbing us by the scruff and driving us into battle! But those others... if they knew what you and I know, Trickster, they'd eat the Heracleses alive. Both of them."
+"Family," Ares muttered like a curse, turning away. "Kinfolk! Well, I don't love Father---but at least I understand that no one but Zeus the despot is capable of grabbing us by the scruff and driving us into battle! But those others... if they knew what you and I know, Trickster, they'd eat the Heracleses alive. Both of them."
 
 "What?!" The Trickster nearly jumped. "What did you say?!"
 
 "What you heard! I figured it out seventeen years ago. At Orchomenus."
 
-"And you kept quiet? All this time --- quiet?!"
+"And you kept quiet? All this time---quiet?!"
 
-"I kept quiet. And I'll go on keeping quiet --- at least until the Gigantes are wiped out. Father, mind you, has been holding his tongue for nigh on a third of a century! And he's right to. Should Zeus let slip who's whose son here, and the Family would start a war --- not with the Gigantes, not with Heracles, but Zeus himself. Was a bull, became an ox, and still reaches for the throne! Eunuch of gods and men..."
+"I kept quiet. And I'll go on keeping quiet---at least until the Gigantes are wiped out. Father, mind you, has been holding his tongue for nigh on a third of a century! And he's right to. Should Zeus let slip who's whose son here, and the Family would start a war---not with the Gigantes, not with Heracles, but Zeus himself. Was a bull, became an ox, and still reaches for the throne! Eunuch of gods and men..."
 
 Such a long pause set in that even Helios in the sky seemed to rein in his horses and listen.
 
@@ -118,9 +118,9 @@ Such a long pause set in that even Helios in the sky seemed to rein in his horse
 
 "Were badly mistaken," Ares finished with a bitter smile. "Never mind, Trickster, now we're even! I always believed I knew no fright except my own son Phobos... but you went scouting to Phlegra, and I didn't have the nerve. So I expect Hermeias the Simpleton and Ares the Frightful can come to terms! At least for a while."
 
-"And do we have that --- time? What do you say, Ares?"
+"And do we have that---time? What do you say, Ares?"
 
-"I don't know," the god of war answered seriously. "All I know is the Council didn't end in a brawl only because Apollo took it upon himself to keep a secret watch over Heracles for half a year. His term of service to Eurystheus is up, the hero's a free man --- so Apollo will observe what he does with his freedom! The Archer's offer stunned the Family so badly (you understand, with Apollo's pride and temper, volunteering as a secret watcher!) that everyone unanimously agreed to put off the final verdict. And they swore by the Styx that for these six months --- no personal interference."
+"I don't know," the god of war answered seriously. "All I know is the Council didn't end in a brawl only because Apollo took it upon himself to keep a secret watch over Heracles for half a year. His term of service to Eurystheus is up, the hero's a free man---so Apollo will observe what he does with his freedom! The Archer's offer stunned the Family so badly (you understand, with Apollo's pride and temper, volunteering as a secret watcher!) that everyone unanimously agreed to put off the final verdict. And they swore by the Styx that for these six months---no personal interference."
 
 The gray streak of hair fell across Enyalius's brow again, but this time he didn't brush it back.
 
@@ -134,12 +134,12 @@ Ares put on his helmet and stepped forward.
 
 The air around him trembled, as though the god were hesitating: open a Dromos, or not?
 
-"Tell me, brother," came from behind the visor, and two dark flames kindled in the eye-slits of the helmet, "tell me... the Gigantes --- who are they?"
+"Tell me, brother," came from behind the visor, and two dark flames kindled in the eye-slits of the helmet, "tell me... the Gigantes---who are they?"
 
 ::: {.small-scene-break}
 :::
 
-...Phlegrae, the Burning Grounds, the charred flesh of Gaia the Earth, the torn eye-sockets of the sky --- and a Strength, a mortal Strength, come to kill forever... heroes of Tartarus.
+...Phlegrae, the Burning Grounds, the charred flesh of Gaia the Earth, the torn eye-sockets of the sky---and a Strength, a mortal Strength, come to kill forever... heroes of Tartarus.
 
 ::: {.small-scene-break}
 :::

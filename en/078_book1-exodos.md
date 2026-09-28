@@ -20,7 +20,7 @@ Now it came to pass that after the battle with the Minyans Hercules was driven m
 But some say that Hercules, having quitted Thebes because of the burning of his children, joined himself to the Argonauts in their voyage, and was left behind by them in Mysia; for it was fated that the great son of Zeus should return to Tiryns and accomplish the labours appointed him. And Glaucus, the sea-god, declared this to the Argonauts; and Hermes escorted Hercules to the service of Eurystheus..."[^apollodorus]
 :::
 
-[^43]: Eurystheus refused to count two of Heracles's labors --- the Lernaean Hydra and the Augean stables --- since Heracles had not performed them alone, and for the stables he had even demanded payment; thus the ten labors became twelve, and their completion took twelve years.
+[^43]: Eurystheus refused to count two of Heracles's labors---the Lernaean Hydra and the Augean stables---since Heracles had not performed them alone, and for the stables he had even demanded payment; thus the ten labors became twelve, and their completion took twelve years.
 
 [^apollodorus]: All but the last paragraph are quoted from Apollodorus, *The Library*, translation by James G. Frazer (1921). The last paragraph is paraphrased from Apollonius, *The Argonautica*. [TN]
 
@@ -31,11 +31,11 @@ This is what remained of twenty-three years of Heracles's life a mere thousand y
 
 O wise rhapsodes!
 
-Without a shadow of doubt they will repeat, one after another, how Heracles drove the invulnerable Nemean lion into a cave with two exits, blocked one of them with stones, then entered through the other and strangled the monster --- and not one of them will wonder why the lion didn't simply leave through the spare exit while the hero was busy hauling stones to the first one?!
+Without a shadow of doubt they will repeat, one after another, how Heracles drove the invulnerable Nemean lion into a cave with two exits, blocked one of them with stones, then entered through the other and strangled the monster---and not one of them will wonder why the lion didn't simply leave through the spare exit while the hero was busy hauling stones to the first one?!
 
-Shaking their grey beards, they will tell how the hero beat on bronze tympana to drive the bronze-beaked, arrow-feathered birds out of Stymphalos, shooting down the flock with his bow --- and for some reason it will trouble no one whether a man can shoot a bow while simultaneously beating a drum?!
+Shaking their grey beards, they will tell how the hero beat on bronze tympana to drive the bronze-beaked, arrow-feathered birds out of Stymphalos, shooting down the flock with his bow---and for some reason it will trouble no one whether a man can shoot a bow while simultaneously beating a drum?!
 
-Their bald pates gleaming, they will report that Iolaus Iphiclid took part in the slaying of the Lernaean Hydra --- forgetting to mention that Iolaus was not yet ten years old at the time, and never wondering how Iphicles Amphitryad could have let his underage son go on a deadly errand together with an uncle prone to fits, and after everything Alcides had done in Thebes, no less!
+Their bald pates gleaming, they will report that Iolaus Iphiclid took part in the slaying of the Lernaean Hydra---forgetting to mention that Iolaus was not yet ten years old at the time, and never wondering how Iphicles Amphitryad could have let his underage son go on a deadly errand together with an uncle prone to fits, and after everything Alcides had done in Thebes, no less!
 
 This tale is a fib...[^pushkin]?
 
@@ -44,17 +44,17 @@ This tale is a fib...[^pushkin]?
 And even the wisest of the rhapsodes, the great blind Homer, speaking in Odysseus's voice, will say of the dark kingdom of the dead:
 
 ::: verse
-Then I beheld the mighty Hercules, ---[]{.linebreak}
-The hero's image, --- for he sits himself[]{.linebreak}
+Then I beheld the mighty Hercules,---[]{.linebreak}
+The hero's image,---for he sits himself[]{.linebreak}
 Among the deathless gods, well pleased to share[]{.linebreak}
-Their feasts, and Hebe of the dainty feet ---[]{.linebreak}
+Their feasts, and Hebe of the dainty feet---[]{.linebreak}
 A daughter of the mighty Jupiter[]{.linebreak}
-And golden-sandalled Juno --- is his wife.
+And golden-sandalled Juno---is his wife.
 :::
 
 Only Homer will not trouble to explain how Heracles could be present among the shades in Hades and among the gods on Olympus at one and the same time; nor why malicious Hera should suddenly grow so generous as to give her beloved daughter to the very man she persecuted his whole life long?!
 
-The shade of Heracles, however, will answer his guest, a man named Odysseus --- which means "The one who angers the gods":
+The shade of Heracles, however, will answer his guest, a man named Odysseus---which means "The one who angers the gods":
 
 ::: verse
 Son of Laertes, nobly born and wise,[]{.linebreak}
@@ -69,17 +69,17 @@ Homer was blind; Homer's successors will be blind twice over.
 
 Well, whom the gods would destroy... but for now, Heracles rides on to Mycenae.
 
-Iphicles Amphitryad, Alcides --- the last son of Zeus --- and young Iolaus Iphiclid ride on to Mycenae.
+Iphicles Amphitryad, Alcides---the last son of Zeus---and young Iolaus Iphiclid ride on to Mycenae.
 
 Let's allow them to make the journey in peace.
 
 For ahead of Heracles lie twelve years of labors, though he himself believes there will be only ten.
 
-And roughly as many years of earthly life again after the labors are done --- something the wise rhapsodes of every era likewise prefer not to dwell on.
+And roughly as many years of earthly life again after the labors are done---something the wise rhapsodes of every era likewise prefer not to dwell on.
 
 But... let's not run ahead of the chariot.
 
-Otherwise we'd have to stop and consider that, still within the lifetimes of the Amphitryad brothers, a certain chosen people out of Palestine (where Achaean colonies have already stood for a hundred years) will come, once and for all, to believe in the One --- not knowing that exactly six centuries have passed since the Fallen were cast down onto Gaia the Earth; that six centuries after that a prince named Siddhartha Gautama will be born, later to be called the Buddha; that six hundred years after the Buddha's birth, Jesus of Nazareth will be crucified on a cross --- and that another six centuries will pass before the fierce Muhammad proclaims: "There is no god but Allah!.."
+Otherwise we'd have to stop and consider that, still within the lifetimes of the Amphitryad brothers, a certain chosen people out of Palestine (where Achaean colonies have already stood for a hundred years) will come, once and for all, to believe in the One---not knowing that exactly six centuries have passed since the Fallen were cast down onto Gaia the Earth; that six centuries after that a prince named Siddhartha Gautama will be born, later to be called the Buddha; that six hundred years after the Buddha's birth, Jesus of Nazareth will be crucified on a cross---and that another six centuries will pass before the fierce Muhammad proclaims: "There is no god but Allah!.."
 
 No.
 
