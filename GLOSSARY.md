@@ -5,10 +5,16 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Russian | English | Notes |
 |---|---|---|
 | герой должен быть один | a hero stands alone | This is the name of the book, and the phrase is repeated multiple time in the text---we should use the same translation in those places. |
-| Старший | Senior | An epithet of Hades (used by fellow Olympians). Capitalized. |
-| Средний | Middle | An epithet of Poseidon (used by fellow Olympians). Capitalized. |
-| Младший | Junior | An epithet of Zeus (used by fellow Olympians). Capitalized. |
-| Лукавый | Trickster | An epithet of Hermes (used by fellow Olympians). Capitalized. Use without an article in direct speech addressed to him, with "the" otherwise. |
+| Старший | Senior | A nickname of Hades (used by fellow Olympians). |
+| Средний | Middle | A nickname of Poseidon (used by fellow Olympians). |
+| Младший | Junior | A nickname of Zeus (used by fellow Olympians). |
+| Гермес | Hermes |  |
+| Гермий | Hermeias | An alternate/poetic form of Hermes's name (Homeric variant), used interchangeably with Гермес (Hermes) in the book. We want to use the matching translation every time. |
+| Киллений | Cyllenios | An epithet of Hermes. |
+| Килленец | Cyllenian | An epithet of Hermes. |
+| Лукавый | Trickster | An epithet of Hermes. |
+| Душеводитель | Soul-Guide | An epithet of Hermes. |
+| Крон | Kronus | Father of Zeus |
 | Владыка | Sovereign | An epithet of Hades (used by fellow Olympians). Use only when Владыка stands by itself, if it's Владыка [of something], use Lord. |
 | Метида-Мысль | Metis the Thought | Paired epithet of Metis |
 | Мойра Атропос | Atropos the Moira | Paired epithet of Atropos. First word capitalized. |
@@ -81,7 +87,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Пифия | Pythia | Oracle priestess at Delphi |
 | аэд (множ. аэды) | aoidos (pl. aoidoi) |
 | стасим | stasimon |  |
-| Душеводитель | Soul-Guide | An epithet of Hermes |
 | Эгина | Aegina |  |
 | Навсикая | Nausicaa |  |
 | Галинтиада | Galinthias | Old crone, secret servant of Hecate, daughter of Proetus (myth. Galanthis/Galinthias, who tricked Eileithyia into letting Alcmene give birth) |
@@ -120,12 +125,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Борей-воитель | Boreas the Warrior | Paired epithet |
 | Гиперборея | Hyperborea |  |
 | Эвритея | Eurythea | Heracles's childhood nurse |
-| Крон | Kronus | Father of Zeus |
 | Бездна Вихрей | Abyss of Whirlwinds | Poetic/authorial term (from Y. Golosovker), not a standard classical name |
-| Гермес | Hermes |  |
-| Гермий | Hermeias | Alternate/poetic form of Hermes's name (Homeric variant), used interchangeably with Гермес (Hermes) in the book. We want to use the matching translation every time. |
-| Гермий-Киллений / Киллений | Hermeias Cyllenios / Cyllenios | Epithet of Hermes, "the Cyllenian" (born on Mount Cyllene in Arcadia); footnoted on first occurrence with the author's own endnote definition |
-| Гермес-Килленец | Hermes Cyllenios |  |
 | Харикло | Chariclo | Nymph, mother of Tiresias |
 | Тучегонитель | Cloud-Gatherer | An epithet of Zeus |
 | Эниалий | Enyalius | An epithet of Ares |
@@ -141,7 +141,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Арголида | Argolis | Region where Argos is located |
 | Родос | Rhodes |  |
 | Истмийский перешеек | the Isthmos | The Isthmus of Corinth |
-| Дий | Dias | Alternate/archaic name for Zeus, used interchangeably with Зевс and paired with epithets (Dias the father, Dias the Cloud-Gatherer, etc.); recurs frequently later in the book |
+| Дий | Dias | Alternate/archaic name for Zeus, used interchangeably with Зевс and paired with epithets (Dias the Father, Dias the Cloud-Gatherer, etc.); recurs frequently later in the book |
 | Бронтей-громовник | Brontes the Thunder-Wielder | Epithet of Zeus used once alongside "Дий" and "Зевс-Отец"; distinct from Громовержец (Thunderer) |
 | Мусагет | Musagetes | "Leader of the Muses," an epithet of Apollo; footnoted on first occurrence with the author's own endnote definition |
 | Радуйся | "Rejoice" | Standard Greek greeting (chaire); footnoted on first occurrence with the author's own endnote definition. Recurring reciprocal response «И ты радуйся» ("and you, rejoice") → "Rejoice as well"---avoid "rejoice to you," which reads as ironic/mocking rather than a plain formulaic reply. |
@@ -372,7 +372,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Строфа | Strophe | Greek tragedy structural term (a stanza-pair unit within a stasimon), kept transliterated as a section heading, like пародос/эписодий/стасим (ch. 065) |
 | Антистрофа | Antistrophe | Greek tragedy structural term, part of a stasimon; kept transliterated as a section heading (ch. 065) |
 | Эпод | Epode | Greek tragedy structural term, the concluding part of a stasimon; kept transliterated as a section heading (ch. 065) |
-| Белый Утес Забвения | White Rock of Oblivion | Underworld landmark shades are led past to strip their memory (ch. 065) |
+| Белый Утес [Забвения] | White Rock [of Oblivion] | Underworld landmark shades are led past to strip their memory. |
 | Лета | Lethe | River of forgetfulness in the underworld (ch. 065) |
 | Харон / Харон-Перевозчик | Charon / Charon the Ferryman | Ferryman of the dead (ch. 065) |
 | Гермий-Психопомп | Hermeias Psychopompos | Combined form of Гермий + the Психопомп epithet (ch. 065) |
@@ -449,7 +449,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Мегера | Megaera | One of the Erinyes (ch. 076) |
 | Пифон | Python | Monstrous serpent slain by Apollo at Delphi, who then founded the oracle there (ch. 076) |
 | Аполлон-Стреловержец | Apollo the Far-Shooter | Paired epithet combining Аполлон with the established Стреловержец/Far-Shooter epithet (ch. 076) |
-| Гера-мачеха/Гера-Мачеха | Hera the stepmother/Hera the Stepmother | Paired epithet of Hera, as Heracles's persecutor (ch. 076) |
+| Гера-мачеха/Гера-Мачеха | Hera the Stepmother | Paired epithet of Hera, as Heracles's persecutor (ch. 076) |
 | Кастальский источник | Castalian Spring | Sacred spring at Delphi, its water used for pilgrims' ritual washing (ch. 076) |
 | Агамед | Agamedes | Legendary architect; with Trophonius, built parts of the Delphic temple, favorite of Apollo (ch. 076) |
 | Трофоний | Trophonius | Legendary architect; with Agamedes, favorite of Apollo (ch. 076) |
@@ -804,7 +804,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Филоктет-падальщик | Philoctetes the scavenger | Mocking paired epithet in Iolaus's thoughts, following his "стервятник"/"vulture"; lowercase like Зевс-самодур/Zeus the despot (ch. 129) |
 | Психопомп-Душеводитель | Psychopompos the Soul-Guide | Paired epithet combining Психопомп/Psychopompos and Душеводитель/Soul-Guide (ch. 129) |
 | Афина Промахос | Athena Promachos | Combined form of Афина/Athena + Промахос/Promachos (ch. 129) |
-| Дий-отец/Дий-Отец | Dias the father/Dias the Father | Paired epithet of Zeus/Dias, used in direct address in Iolaus's thoughts (ch. 060, 086, 129) |
+| Дий-отец/Дий-Отец | Dias the Father | Paired epithet of Zeus/Dias, used in direct address in Iolaus's thoughts (ch. 060, 086, 129) |
 | Архемор | Archemorus | Nickname Ceyx's men give Philoctetes, glossed in-text by the authors as "Ведущий к смерти" → "the Beginner of Doom" (ch. 129) |
 | возвышение | ascension | The Family's own euphemism for the gods' withdrawal from the world of men, as opposed to Hades's "уход"/"departure"; cf. "мы возвысились"/"we rose up" (ch. 057) (ch. 130) |
 | Ксенофан | Xenophanes | Poet-philosopher whose elegy mocking the old myths Hermeias quotes (ch. 130) |
@@ -813,5 +813,4 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Алексиарес | Alexiares | Son of Heracles and Hebe (ch. 130) |
 | Великая битва | the Great Battle | What the Olympian Heracles calls the Gigantomachy (ch. 130) |
 | темные века | the Dark Ages | Hades's prophetic name for the time after the Trojan War (ch. 130) |
-| Белый Утес | the White Rock | Short form of Белый Утес Забвения/White Rock of Oblivion (ch. 130) |
 | мыс Тенар | Cape Taenarum | Traditional entrance to the underworld, in the southern Peloponnese (ch. 130) |

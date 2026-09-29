@@ -22,12 +22,16 @@ Don't make commits - I will handle it. Change files only when specifically instr
 - Em-dashes use `---` instead of a single unicode symbol. En-dashes use `--`. Ellipsis uses `...`.
 - Em-dashes and en-dashes are closed (not separated with spaces from the surrounding text).
 - Interrupted speech uses an em-dash and not an ellipsis ("rejoice, thou marked by Zeus, for---").
+- Dialogue: Russian em-dash dialogue markers (`— ...`) become standard English quotation marks in translation.
 
 ## Style notes
 
 - Register: literary, matching Oldi's long, clause-heavy sentences, semicolons, ellipses, and mid-sentence dashes. Translate fluently rather than word-for-word, but preserve sentence rhythm and structure where possible.
-- Dialogue: Russian em-dash dialogue markers (`— ...`) become standard English quotation marks in translation.
 - All-caps words/sentences are italicized in the translation (using the Markdown syntax enclosing them in single asterisks)
 - Chapter/section structure borrows Greek tragedy vocabulary from the original (Parodos, epeisodion, etc.)---keep these terms transliterated, not translated.
-- Character epithets that pair a name with a descriptive word (e.g. «Мойра Атропос» → "Atropos the Moira", «Метида-Мысль» → "Metis-Thought") should preserve that paired/disambiguating presentation---this is a deliberate authorial device, not decoration to be dropped.
+- Character epithets (in the original usually attached to a name with a hyphen, occasionally preceding it):
+  * An epithet denoting a group the character belongs to is written in the end with the definite artice: "Мойра Атропос" -> "Atropos the Moira", "Медуза Горгона"/"Горгона Медуза" -> "Medusa the Gorgon".
+  * An epithet denoting the geographical origin is written in the end with the definite article, and translated: "Ифит-Ойхаллиец"/"Ифит-ойхаллиец" -> "Iphitus the Oechalian", "Миртил-фиванец" -> "Myrtilus the Theban".
+  * An epithet that is a common English word is written in the end with the definite article, capitalized, and translated: "Метида-мысль" -> "Metis the Thought", "Зевс-отец"/"Зевс-Отец" -> "Zeus the Father".
+  * An epithet that is a transliterated Greek word is written in the end, transliterated in English, without an article: "Гермес-Киллений" -> "Hermes Cyllenios", "Зевс-Бротолойгос" -> "Zeus Brotoloigos".
 - See `GLOSSARY.md` for settled names, places, and terms. Check it before translating a proper noun that may have appeared before.
