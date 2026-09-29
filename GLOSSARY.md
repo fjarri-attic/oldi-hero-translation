@@ -10,15 +10,16 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Младший | Junior | A nickname of Zeus (used by fellow Olympians). |
 | Гермес | Hermes |  |
 | Гермий | Hermeias | An alternate/poetic form of Hermes's name (Homeric variant), used interchangeably with Гермес (Hermes) in the book. We want to use the matching translation every time. |
-| Киллений | Cyllenios | An epithet of Hermes. |
-| Килленец | Cyllenian | An epithet of Hermes. |
+| гора Киллена | Mount Cyllene |  |
+| Киллений | Cyllenios | An epithet of Hermes. The spelling should match "Cyllene". |
+| Килленец | Cyllenian | An epithet of Hermes. The spelling should match "Cyllene". |
 | Лукавый | Trickster | An epithet of Hermes. |
 | Душеводитель | Soul-Guide | An epithet of Hermes. |
 | Крон | Kronus | Father of Zeus |
 | Владыка | Sovereign | An epithet of Hades (used by fellow Olympians). Use only when Владыка stands by itself, if it's Владыка [of something], use Lord. |
 | Метида-Мысль | Metis the Thought | Paired epithet of Metis |
-| Мойра Атропос | Atropos the Moira | Paired epithet of Atropos. First word capitalized. |
-| Мойры | Moirai | The three Fates collectively. Capitalized. |
+| Мойра Атропос | Atropos the Moira | Atropos (name) + Moira (group). |
+| Мойра (мн. Мойры) | Moira (pl. Moirai) | One of the three Fates/The three Fates collectively. |
 | Клото | Clotho | One of the Moirai |
 | Семья | Family | Collective term for the Olympian dynasty/gods, used internally. Capitalized. |
 | полубог | half-god | Demigod. We use "half-god" instead because in the text it is often juxtaposed with "half-man". If capitalized in the original, capitalize both parts ("Half-God"). If not, don't capitalize. |
@@ -33,7 +34,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Тартар | Tartarus |  |
 | Нот | Notus | South wind |
 | Гелиос | Helios |  |
-| Алалкомена | Alalcomeneis | Epithet of Athena |
+| Алалкомена | Alalcomeneis | Epithet of Athena. Transliterated Greek. |
 | Пегас | Pegasus | One of Medusa's children |
 | Хрисаор Золотой Лук | Chrysaor the Golden Bow | One of Medusa's children |
 | Горгоны | Gorgons |  |
@@ -409,17 +410,17 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | тафосец (мн. тафосцы) | Taphian | Inhabitant of Taphos, cf. Тафос/Taphos (ch. 069) |
 | кумар | khumar | Slang term used by the Taphians for a craving/withdrawal-like state; kept transliterated, introduced in quotes in the original (ch. 069) |
 | Орхоменская война | the Orchomenian War | The war against Orchomenus, five years prior to ch. 070; cf. Орхомен/Orchomenus |
-| Луна-Селена | Selene the Moon | Paired epithet of Selene, common-noun-plus-name order reversed as elsewhere (cf. Мойра Атропос/Atropos the Moira); Селена alone = Selene (ch. 070) |
+| Луна-Селена | Selene the Moon | Paired epithet of Selene, common-noun-plus-name order reversed as elsewhere; Селена alone = Selene (ch. 070) |
 | Алкей Микенский | Alcaeus of Mycenae | Paired epithet form for Amphitryon's father |
 | Геката | Hecate | Goddess Galinthias secretly serves; cf. Трехтелая/Three-Formed, Хозяйка Перекрестков/Mistress of the Crossroads (ch. 071) |
-| Трехтелая Геката | Hecate the Three-Formed | Paired epithet, name-plus-epithet order as elsewhere (cf. Мойра Атропос/Atropos the Moira) (ch. 071) |
+| Трехтелая Геката | Hecate the Three-Formed | Paired epithet (ch. 071) |
 | Ификлид | Iphiclid | Patronymic epithet, "son of Iphicles"; used once of young Iolaus, echoing Амфитриад/Amphitryad, Персеид/Perseid, etc. (ch. 072) |
 | Поликлей | Polycles | Fellow palaestra student; not to be confused with Поликтор/Polyctor, Iphicles's assistant, who also appears in ch. 072 |
 | Фок | Phocus | Town drunkard who frequents the market (ch. 072) |
 | Триптолем | Triptolemus | Legendary hero of Eleusis, associated with Demeter and agriculture (ch. 072) |
 | Элевсин | Eleusis | City, cult center of Demeter; Triptolemus's home (ch. 072) |
 | Эгина | Aegina | Island, home of Aeacus (ch. 072) |
-| Радамант-законник | Rhadamanthys the Lawgiver | Paired epithet of Rhadamanthys, name-plus-epithet order as elsewhere (cf. Мойра Атропос/Atropos the Moira) (ch. 072) |
+| Радамант-законник | Rhadamanthys the Lawgiver | Paired epithet of Rhadamanthys (ch. 072) |
 | Одиссей | Odysseus | Autolycus's foretold grandson; name glossed in-text by the narrator as meaning "The one who angers the gods" (ch. 072) |
 | Маленьких обижают! | "They're picking on the little ones!" | Recurring childhood battle cry of Alcides and Iphicles (established ch. 027, 050, 069, etc.); settled translation, used again by young Iolaus/Amphitryon in ch. 072 |
 | дискобол (мн. дискоболы) | discobolos (pl. discoboloi) | A discus thrower. We use this word because on first occurrence (072) "disc thrower" clashed with another "throw" in the sentence |
@@ -675,7 +676,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Родос | Rhodes | Island in the Aegean |
 | солнцеликий Аполлон | sun-faced Apollo | Paired epithet of Apollo, distinct from the other established Apollo epithets (Сребролукий/silver-bowed, Златолукий/golden-bowed, etc.) (ch. 102) |
 | златообутая Гера | gold-sandaled Hera | Epithet of Hera, used by Momus (ch. 102) |
-| Горгона Медуза | Medusa the Gorgon | Paired name-epithet form, order flipped per the established Name+epithet convention (cf. Мойра Атропос/Atropos the Moira); distinct from the plain Медуза/Medusa entry (ch. 102) |
+| Горгона Медуза | Medusa the Gorgon | Name + group epithet, used the form established in English. |
 | Флегрейский Дромос | the Phlegraean Dromos | A Dromos (see Дромос/Dromos) leading to Phlegrae |
 | высокогремящий | High-Thunderer | Vocative epithet Momus uses addressing Zeus directly; cf. the established Дий Высокогремящий/Dias the High-Thundering (ch. 102) |
 | Скипетродержец | Scepter-Bearer | Epithet of Zeus, used by Momus (ch. 102) |
