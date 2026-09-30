@@ -11,7 +11,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Гермес | Hermes |  |
 | Гермий | Hermeias | An alternate/poetic form of Hermes's name (Homeric variant), used interchangeably with Гермес (Hermes) in the book. We want to use the matching translation every time. |
 | гора Киллена | Mount Cyllene |  |
-| Киллений | Cyllenios | An epithet of Hermes. The spelling should match "Cyllene". |
+| Киллений | Cyllenius | An epithet of Hermes. The spelling should match "Cyllene". |
 | Килленец | Cyllenian | An epithet of Hermes. The spelling should match "Cyllene". |
 | Лукавый | Trickster | An epithet of Hermes. |
 | Душеводитель | Soul-Guide | An epithet of Hermes. |
