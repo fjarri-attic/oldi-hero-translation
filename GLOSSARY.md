@@ -15,7 +15,13 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Килленец | Cyllenian | An epithet of Hermes. The spelling should match "Cyllene". |
 | Лукавый | Trickster | An epithet of Hermes. |
 | Душеводитель | Soul-Guide | An epithet of Hermes. |
-| Крон | Kronus | Father of Zeus |
+| Крон | Cronus | Father of Zeus |
+| Кронид (множ. Крониды) | Cronid (pl. Cronids) | Patronymic epithet, "son of Cronus," |
+| Крон-Павший | Cronus the Fallen | An epithet of Cronus. |
+| Крон-Временщик | Cronus the Timekeeper | An epithet of Cronus. |
+| Повелитель Времени | Master of Time | An epithet of Cronus. |
+| Праотец Крон | Cronus the Forefather | Paired epithet of Cronus, used of him as the eldest of the Titans |
+| Кронион | Cronion | An epithet of Zeus |
 | Владыка | Sovereign | An epithet of Hades (used by fellow Olympians). Use only when Владыка stands by itself, if it's Владыка [of something], use Lord. |
 | Метида-Мысль | Metis the Thought | Paired epithet of Metis |
 | Мойра Атропос | Atropos the Moira | Atropos (name) + Moira (group). |
@@ -152,11 +158,9 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Кастор Диоскур | Castor Dioscurus | Castor introduced with the "Dioscurus" epithet, recurring; elsewhere referred to plainly as Castor, one of the Dioscuri |
 | кифаред (мн. кифареды) | kitharode (pl. kitharodes) | A kithara player |
 | Тефия | Tephia | Phoenician slave woman in Alcmene's household |
-| Хирон | Chiron | Centaur, son of Kronus; lives on Pelion, apart from the Family |
+| Хирон | Chiron | Centaur, son of Cronus; lives on Pelion, apart from the Family |
 | Пелион | Pelion | Mountain, Chiron's home |
 | Колебатель Земли | Earth-Shaker | Epithet of Poseidon |
-| Крон-Павший | Kronus the Fallen | Paired epithet of Kronus |
-| Крон-Временщик | Kronus the Timekeeper | Paired epithet of Kronus, echoing his epithet "Хозяин Времени" (Master of Time) |
 | Титаномахия | Titanomachy | War between the gods and the Titans; footnoted on first occurrence with the author's own endnote definition |
 | Бриарей | Briareus | One of the three Hecatoncheires |
 | Гий | Gyges | One of the three Hecatoncheires |
@@ -236,7 +240,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Мом | Momus | God of mockery and slander; footnoted on first occurrence with the author's own endnote definition |
 | Вакх-Дионис | Bacchus-Dionysus | Paired epithet of Dionysus |
 | Гермий-Рогач | Hermeias the Cuckold |  |
-| Кронид (множ. Крониды) | Kronid (pl. Kronids) | Patronymic epithet, "son of Kronus," |
 | Химера | the Chimera | Monster; referenced in a simile ("howled like a wounded Chimera") |
 | Сериф | Seriphos | Island where Perseus grew up |
 | жезл-кадуцей | the caduceus rod |  |
@@ -317,8 +320,8 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Черногривый | Black-Maned | Epithet of Poseidon |
 | Амфитрита | Amphitrite | Poseidon's wife |
 | лилейнобедрая | lily-thighed | an epithet of Amphitrite |
-| Рея | Rhea | Mother of Zeus, Hera, Poseidon, Hades, etc.; wife of Kronus |
-| Ураниды | Uranids | Descendants of Uranus (broader than Крониды/Kronids); used of the gods/Titans collectively in a threat about being cast down |
+| Рея | Rhea | Mother of Zeus, Hera, Poseidon, Hades, etc.; wife of Cronus |
+| Ураниды | Uranids | Descendants of Uranus |
 | Геба | Hebe | Goddess of youth, cupbearer to the gods; daughter of Zeus and Hera, called "вертихвостка" (flighty) here |
 | Хромец (Гефест) | the lame (Hephaestus) | Descriptive epithet applied to Hephaestus |
 | Мом-насмешник | Momus the Mocker | Paired epithet of Momus (cf. plain Мом / Momus) |
@@ -338,7 +341,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Тень Фив | Shadow of Thebes | Self-given nickname of Galinthias, reflecting her intimate knowledge of and merging with the city |
 | Одержимая/Одержимый Тартаром | the Tartarus-Possessed | Title/epithet for members of the cult of the Fallen. |
 | Хозяйка Перекрестков | Mistress of the Crossroads | Epithet of Hecate |
-| Праотец Крон | Kronus the Forefather | Paired epithet of Kronus, used of him as the eldest of the Titans |
 | Орхомен | Orchomenus | City of the Minyans, rival to Thebes; its envoys arrive to collect tribute in ch. 058 |
 | Эргин | Erginus | Basileus of Orchomenus, to whom the Minyan envoys belong |
 | Амфином | Amphinomus | Minyan envoy/guide from Orchomenus, "son of Lycius" |
@@ -365,7 +367,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Арей-Неистовый | Ares the Furious | Epithet of Ares (ch. 062); recurs later (ch. 080) |
 | Арей-изгой | Ares the outcast | Epithet of Ares (ch. 063) (not a personal one, so not capitalized) |
 | талант | talent | Ancient unit of weight, roughly 26 kg; footnoted on first occurrence (ch. 063) |
-| Уран | Uranus | Father of Kronus, grandfather of Zeus (ch. 064) |
+| Уран | Uranus | Father of Cronus, grandfather of Zeus (ch. 064) |
 | Ио | Io | One of Zeus's mortal/divine lovers, named alongside Leda, Europa, Danae, Semele (ch. 064) |
 | Леда | Leda | Mother of the Dioscuri by Zeus; named directly in ch. 064 (cf. Диоскуры/Dioscuri) |
 | Олимпиец | Olympian | Epithet of Zeus, used in direct address (ch. 064) |
@@ -425,7 +427,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Маленьких обижают! | "They're picking on the little ones!" | Recurring childhood battle cry of Alcides and Iphicles (established ch. 027, 050, 069, etc.); settled translation, used again by young Iolaus/Amphitryon in ch. 072 |
 | дискобол (мн. дискоболы) | discobolos (pl. discoboloi) | A discus thrower. We use this word because on first occurrence (072) "disc thrower" clashed with another "throw" in the sentence |
 | Радужная Ирида | Rainbow Iris | Paired epithet of Iris, messenger goddess; here specifically "Hera's own messenger" (ch. 073) |
-| Век Златой | the Golden Age | The era of Kronus/the Titans' reign, invoked as the age presided over by the Fallen (ch. 073) |
+| Век Златой | the Golden Age | The era of Cronus/the Titans' reign, invoked as the age presided over by the Fallen (ch. 073) |
 | Алкид-сумасброд | Alcides the madcap | Paired epithet of Alcides, used mockingly by a bystander (ch. 074) |
 | Алкид-безумец | Alcides the madman | Paired epithet of Alcides, used during his period of madness/exile; lowercase "the madman," cf. Алкид-сумасброд/Alcides the madcap (established ch. 072, recurring ch. 075) |
 | пеплос | peplos | Ancient Greek women's mantle/garment; kept transliterated, cf. хитон/chiton, гиматий/himation, фарос/pharos, эксомида/exomis (established ch. 006, footnoted there; not previously in glossary) |
@@ -714,11 +716,10 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Пергамский алтарь | the Pergamon Altar | Hellenistic altar at Pergamon, famed for its sculpted Gigantomachy frieze; cf. established Пергам/Pergamon (ch. 109) |
 | сифнийцы / сокровищница сифнийцев | the Siphnians / the Treasury of the Siphnians | The Siphnian Treasury at Delphi, whose north frieze depicts the Gigantomachy (ch. 109) |
 | Парфенон | the Parthenon | Temple of Athena in Athens; the shield of her cult statue there depicted the Gigantomachy (ch. 109) |
-| Повелитель Времени | Master of Time | Epithet Kronus uses of himself in his own voice; cf. established Крон-Временщик/Kronus the Timekeeper (glossed as echoing "Хозяин Времени"/Master of Time) and Крон-Павший/Kronus the Fallen, his name after losing this title (ch. 110) |
 | Аттам | Attam | The Greek pronunciation of "Abraham" in this world's mythology; per the author's endnote, Heracles, journeying for the apples of the Hesperides, passed through Palestine and stopped Attam from sacrificing his son Akab to a god; footnoted on first occurrence (ch. 110) |
 | Акаб | Akab | Attam's son, glossed by the author's endnote as "Jacob"; the son Heracles stopped Attam from sacrificing (ch. 110) |
 | киввеус | Achivite | Term the author's endnote glosses as what the Achaeans were called in Palestine (ch. 110) |
-| Деус | Deus | Latin word for "god," introduced by Kronus alongside Дий/Dias to draw out their phonetic kinship while explaining that Attam's god is not Zeus; footnoted (endnote 75) with the author's aside that "Zeus" itself is pronounced closer to "Dzeus" (ch. 110) |
+| Деус | Deus | Latin word for "god," introduced by Cronus alongside Дий/Dias to draw out their phonetic kinship while explaining that Attam's god is not Zeus; footnoted (endnote 75) with the author's aside that "Zeus" itself is pronounced closer to "Dzeus" (ch. 110) |
 | Преисподняя | the Netherworld | General term for the underworld, used alongside the established Тартар/Tartarus and Аид/Hades (ch. 110) |
 | Ликомед (Скирос) | Lycomedes of Scyros | Basileus of Scyros; sheltered the exiled Theseus; distinct from the unrelated boyhood acquaintance also named Ликомед/Lycomedes (chs. 043--044) (ch. 111) |
 | Скирос | Scyros | Small island northeast of Euboea; refuge of the exiled Theseus, ruled by basileus Lycomedes; classicizing spelling, cf. Эвбея/Euboea (ch. 111) |

@@ -80,7 +80,7 @@ Mother flinched and fell silent for a while. Too rarely did her firstborn, helm-
 
 Yes, he knew.
 
-Since childhood, Mother had impressed upon him that he, the firstborn of Zeus and Hera, was the best, the bravest, the mostest... And, most importantly, the sole legitimate heir of the Thunderer (for surely one couldn't count that limping wretch Hephaestus as a rival?!), a pure-blooded Olympian, since his Father and Mother were brother and sister by blood, of the first generation of Kronus and Rhea's children.
+Since childhood, Mother had impressed upon him that he, the firstborn of Zeus and Hera, was the best, the bravest, the mostest... And, most importantly, the sole legitimate heir of the Thunderer (for surely one couldn't count that limping wretch Hephaestus as a rival?!), a pure-blooded Olympian, since his Father and Mother were brother and sister by blood, of the first generation of Cronus and Rhea's children.
 
 And that was true.
 

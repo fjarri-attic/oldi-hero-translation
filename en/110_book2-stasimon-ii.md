@@ -46,7 +46,7 @@ The man named Heracles understands: yes, it is true. The voice from *that* side 
 
 "Then who are you?" Heracles asks.
 
-"I am your distant forefather. Once I was called Kronus, Master of Time; now I am called Kronus the Fallen."
+"I am your distant forefather. Once I was called Cronus, Master of Time; now I am called Cronus the Fallen."
 
 "Master of Time?"
 
@@ -70,11 +70,11 @@ Walk in, to take the Fallen by the throat.
 
 "Human sacrifices," Heracles adds quietly.
 
-"Human ones too," Kronus agrees. "But understand: we never considered you our equals! After all, do men torment themselves with pangs of conscience when they cut down stalks of wheat, or slaughter a ram?! It has nothing to do with us; it is so, and will remain so, whether we wish it or not."
+"Human ones too," Cronus agrees. "But understand: we never considered you our equals! After all, do men torment themselves with pangs of conscience when they cut down stalks of wheat, or slaughter a ram?! It has nothing to do with us; it is so, and will remain so, whether we wish it or not."
 
 Heracles is silent.
 
-"Well then," he says at last, "if it has nothing to do with you, then it has everything to do with us, with mortals. For it is we, not the gods and the Fallen, who sacrifice one another. But the stream of sacrificial blood flowing from our veins has run far shallower these last years---do you feel it, Kronus the Fallen, my forefather?! I tried very hard... And I hope that a day will come when mortals stop dying on the altars."
+"Well then," he says at last, "if it has nothing to do with you, then it has everything to do with us, with mortals. For it is we, not the gods and the Fallen, who sacrifice one another. But the stream of sacrificial blood flowing from our veins has run far shallower these last years---do you feel it, Cronus the Fallen, my forefather?! I tried very hard... And I hope that a day will come when mortals stop dying on the altars."
 
 "Perhaps. Or perhaps not. In any case, I will hope along with you."
 
@@ -100,9 +100,9 @@ A pause.
 
 "Grateful? For leaving you in Tartarus?!"
 
-"Yes. I, Kronus the Fallen, am grateful to Heracles. I have understood a great deal in this recent time---time that does not exist here, but that has not yet forgotten the days when I ruled over it... Do you remember, I told you that we regarded you the way you regard a wheat field, or a herd being fattened for slaughter? But would you ever speak with an ear of wheat, or a witless ram?! Would I have spoken with you at all, if I had not changed my opinion?"
+"Yes. I, Cronus the Fallen, am grateful to Heracles. I have understood a great deal in this recent time---time that does not exist here, but that has not yet forgotten the days when I ruled over it... Do you remember, I told you that we regarded you the way you regard a wheat field, or a herd being fattened for slaughter? But would you ever speak with an ear of wheat, or a witless ram?! Would I have spoken with you at all, if I had not changed my opinion?"
 
-"And what is it now, your opinion?" Heracles's voice sounds faintly mocking, but Kronus does not notice it.
+"And what is it now, your opinion?" Heracles's voice sounds faintly mocking, but Cronus does not notice it.
 
 Or pretends not to.
 
@@ -114,17 +114,17 @@ Or pretends not to.
 
 The door creaked, trembled... and stayed where it was.
 
-"Let everything remain as it is," Kronus goes on. "We will wait. We know how to wait. Tell me, Heracles---do you remember a certain Attam[^74], whom you kept from sacrificing his own son to a god?"
+"Let everything remain as it is," Cronus goes on. "We will wait. We know how to wait. Tell me, Heracles---do you remember a certain Attam[^74], whom you kept from sacrificing his own son to a god?"
 
 [^74]: The Greek pronunciation of the name "Abraham." On his way for the apples of the Hesperides, Heracles passed through Palestine, where he stopped Attam (Abraham) from sacrificing his own son Akab (Jacob) to a god. Heracles's companions explained to Attam that the mighty "Achivite" (as the Achaeans were called in Palestine) was a son of a god, and his messenger. [This is the authors' intentional mystification. Translated as is. [TN]]
 
 "I remember," Heracles smiles. "I had to give the long-bearded stubborn old fool a good pounding before he agreed to replace the boy with a ram."
 
-"And which god did this stubborn Attam worship?" Kronus asks, insinuatingly.
+"And which god did this stubborn Attam worship?" Cronus asks, insinuatingly.
 
 "Did I have time to ask?!" Heracles is puzzled. "Dias, I suppose, Zeus... who else would it be?!"
 
-"Dias," Kronus pronounces slowly and distinctly, stressing every sound, "Deus[^75]... no, my child, this Attam did not worship Zeus, but an altogether different god. Attam's people call this God by many names, but that is not what matters."
+"Dias," Cronus pronounces slowly and distinctly, stressing every sound, "Deus[^75]... no, my child, this Attam did not worship Zeus, but an altogether different god. Attam's people call this God by many names, but that is not what matters."
 
 [^75]: The name Zeus actually sounds more like "Dzeus."
 
@@ -142,17 +142,17 @@ The door creaked, trembled... and stayed where it was.
 
 [^76]: The word "Hell" derives from "Hades." [in Russian; while Hell also means "a concealed place", it is not related to "Hades." [TN]]
 
-"Isn't it a bit early to be counting mortals among your allies, Kronus the Fallen?"
+"Isn't it a bit early to be counting mortals among your allies, Cronus the Fallen?"
 
 "Perhaps. Perhaps mortals will find yet another path, where there will be room for neither us, nor the Family, nor the One... And the earnest of that is the myth of Heracles. Of the mortal who crushed monsters and Gigantes; of the one who gave way to no god, and without whom the Olympians would have been powerless before those who came from the Netherworld. Whether you ascend to Olympus or simply die---I wish this myth a long and happy life. And now..."
 
-Kronus falls silent for a long while.
+Cronus falls silent for a long while.
 
 "And now, the last thing. Your life will not end tomorrow, and there will surely be days in it when it becomes a burden, when you will want not to live, not to know, not to remember..."
 
 "There have already been not a few such days in my life," Heracles grinds out through his teeth.
 
-"Well then, I, Kronus the Fallen, your forefather, wish to give you a parting gift. I have nothing material to give you; I cannot increase your strength, or lengthen your life, or grant you glory or riches... My element is time. It's true that, being in Tartarus, and partly within you, I have no power over time outside. But I can give you dominion over your own time, over the moments of your memory. And when the black day comes---choose any moment from your past life, and you will be able, in your mind, to return to it, to live it again, to feel it in its fullness...
+"Well then, I, Cronus the Fallen, your forefather, wish to give you a parting gift. I have nothing material to give you; I cannot increase your strength, or lengthen your life, or grant you glory or riches... My element is time. It's true that, being in Tartarus, and partly within you, I have no power over time outside. But I can give you dominion over your own time, over the moments of your memory. And when the black day comes---choose any moment from your past life, and you will be able, in your mind, to return to it, to live it again, to feel it in its fullness...
 
 "No doubt those around you will take you for a madman. But would that be new to you? All the more so since this madness will be harmless. My gift will from now on always be within you, and you will be able to use it whenever you wish.
 

@@ -165,7 +165,7 @@ For a while, both were silent.
 
 "But the mortal Cleaners are our children, Sovereign!"
 
-"Yes. And the Fallen in Tartarus could have thought their way to the very same conclusion! There's time enough down there for reflection, and Kronus the Timekeeper is no fool, no less than I or Junior. So, having learned the truth behind the deaths of Medusa and the Chimera, it might well have occurred to the Fallen to breed a race of mortal heroes of their own in Tartarus---let's call them, say, Gigantes---who would know themselves to be mortal, and would call the two of us monsters!"
+"Yes. And the Fallen in Tartarus could have thought their way to the very same conclusion! There's time enough down there for reflection, and Cronus the Timekeeper is no fool, no less than I or Junior. So, having learned the truth behind the deaths of Medusa and the Chimera, it might well have occurred to the Fallen to breed a race of mortal heroes of their own in Tartarus---let's call them, say, Gigantes---who would know themselves to be mortal, and would call the two of us monsters!"
 
 "Meaning?..."
 

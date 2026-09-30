@@ -17,7 +17,7 @@ And he heard:
 
 "We are not needed. Never will the titans rise again. Their world is over. On one shoulder alone he holds the sky."
 
-"Are only the gods needed then? The Kronids?"
+"Are only the gods needed then? The Cronids?"
 
 "Neither are the gods needed. Gods too he overcomes. Unshackled he holds the sky, because he is Strength."
 

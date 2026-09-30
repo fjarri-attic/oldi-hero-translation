@@ -44,9 +44,9 @@ And it seems that everything around---the pines, the juniper bushes, the cave ne
 
 "Are you joking, Hermeias? You have been to see me exactly once in your life---the day the Family swore by the black waters of the Styx that Pelion was mine, and that none of you would set foot on this mountain without my leave."
 
-"None of *us*, Chiron. Of *us*. You too are a son of Kronus the Fallen, Master of Time, and time holds no power over you. Why do you so stubbornly set yourself apart from the Family?"
+"None of *us*, Chiron. Of *us*. You too are a son of Cronus the Fallen, Master of Time, and time holds no power over you. Why do you so stubbornly set yourself apart from the Family?"
 
-"It is not my Family, Hermeias. In my time I held my tongue, and the Fallen became the Fallen, and the Family became the Family. Perhaps it would have happened even if I had not held my tongue, and I would now be in Tartarus, and you would call me Chiron the Fallen. Yes, I am a son of Kronus, younger than Hades but older than the Earth-Shaker, and everyone believes my place is in the Family. Only I know that my place is here, on Pelion."
+"It is not my Family, Hermeias. In my time I held my tongue, and the Fallen became the Fallen, and the Family became the Family. Perhaps it would have happened even if I had not held my tongue, and I would now be in Tartarus, and you would call me Chiron the Fallen. Yes, I am a son of Cronus, younger than Hades but older than the Earth-Shaker, and everyone believes my place is in the Family. Only I know that my place is here, on Pelion."
 
 "Perhaps you were right to withdraw to this blessed mountain, away from the Family's squabbles... I wonder, do gossip and rumor also arrive on Pelion only after Chiron grants them leave?"
 
@@ -96,7 +96,7 @@ He smiled faintly, as though apologizing, and lowered himself onto the grass.
 
 "Of course. It is not so difficult."
 
-"For you. But not for an infant. I knew my father well, better than most did, the way only bastard children, born of a moment's passion, know their fathers---and I am certain that Kronus the Master of Time himself would never have thought of such a thing on his own. Others put it into his head---strangers, those who appeared in our world unbidden, who smiled politely when men called us gods; those who called themselves the Fallen even before the great battle in which they sided with Kronus the Timekeeper and were cast down into Tartarus together with him. Yes, Junior is a great fighter, for only a great fighter would dare call the elder kin to his aid as allies---the Hundred-Handed, Briareus, Gyges, and Cottus... Only strength could summon strength."
+"For you. But not for an infant. I knew my father well, better than most did, the way only bastard children, born of a moment's passion, know their fathers---and I am certain that Cronus the Master of Time himself would never have thought of such a thing on his own. Others put it into his head---strangers, those who appeared in our world unbidden, who smiled politely when men called us gods; those who called themselves the Fallen even before the great battle in which they sided with Cronus the Timekeeper and were cast down into Tartarus together with him. Yes, Junior is a great fighter, for only a great fighter would dare call the elder kin to his aid as allies---the Hundred-Handed, Briareus, Gyges, and Cottus... Only strength could summon strength."
 
 Chiron fell silent.
 
