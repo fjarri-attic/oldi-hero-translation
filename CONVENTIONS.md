@@ -32,6 +32,7 @@ Don't make commits - I will handle it. Change files only when specifically instr
 - Character epithets (in the original usually attached to a name with a hyphen, occasionally preceding it):
   * An epithet denoting a group the character belongs to is written in the end with the definite artice: "Мойра Атропос" -> "Atropos the Moira", "Медуза Горгона"/"Горгона Медуза" -> "Medusa the Gorgon".
   * An epithet denoting the geographical origin is written in the end with the definite article, and translated: "Ифит-Ойхаллиец"/"Ифит-ойхаллиец" -> "Iphitus the Oechalian", "Миртил-фиванец" -> "Myrtilus the Theban".
-  * An epithet that is a common English word is written in the end with the definite article, capitalized, and translated: "Метида-мысль" -> "Metis the Thought", "Зевс-отец"/"Зевс-Отец" -> "Zeus the Father".
+  * An epithet that is a common word and in the original is hyphenated, is written in the end with the definite article, capitalized, and translated: "Метида-мысль" -> "Metis the Thought", "Зевс-отец"/"Зевс-Отец" -> "Zeus the Father".
+  * An epithet that is an adjective and in the original is written before the name, is written before the name in English as well: "Трехтелая Геката" -> "Three-Formed Hecate".
   * An epithet that is a transliterated Greek word is written in the end, transliterated in English, without an article: "Гермес-Киллений" -> "Hermes Cyllenius", "Зевс-Бротолойгос" -> "Zeus Brotoloigos".
 - See `GLOSSARY.md` for settled names, places, and terms. Check it before translating a proper noun that may have appeared before.
