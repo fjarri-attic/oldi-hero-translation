@@ -26,9 +26,9 @@ The traveler approaches the altar---low, as all altars of the underworld gods ar
 
 "And the sacrifice?"
 
-"Here she is. I had to trouble Menoetes[^58]..."
+"Here she is. I had to trouble Menoites[^58]..."
 
-[^58]: Menoetes, son of Ceuthonymus---herdsman of the cattle belonging personally to Hades. It was Menoetes the herdsman who once reported to Three-Bodied Geryon that Heracles was stealing his cattle, and later reported to Hades that Heracles had killed Geryon.
+[^58]: Menoites, son of Keuthonymos---herdsman of the cattle belonging personally to Hades. It was Menoites the herdsman who once reported to Three-Bodied Geryon that Heracles was stealing his cattle, and later reported to Hades that Heracles had killed Geryon.
 
 A black cow with a white patch on her forehead and empty, expressionless eyes stands beside the guide. The cow's flanks rise and fall steadily; she chews her cud indifferently, staring dully at the traveler and the pentagonal altar.
 
