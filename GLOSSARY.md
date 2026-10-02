@@ -543,7 +543,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | ритон | rhyton | Sacred vessel for pouring libations to the gods; footnoted on first occurrence per the original's endnote 49 (ch. 086) |
 | возница | driver | Cf. established Иолай-возничий/Iolaus the driver; "возница" is a synonym used here for the same role, translated the same way for consistency. Note: the original's closing wordplay ("возница---тот, кто везет" / "возница---тот, кому везет," playing on "везёт" meaning both "drives/carries" and "is lucky") is rendered in English as "one who drives" vs. "one whom fortune drives," preserving the repetition of "drive" rather than the Russian pun exactly (ch. 086) |
 | Мнемозина | Mnemosyne | Titaness of Memory, Hermeias's aunt. He calls her "тетка" (aunt)---literally true, and also echoing the Russian idiom "голод не тётка" ("hunger is no aunt," i.e. no joke/won't be trifled with); Iolaus's rejoinder "мне память---не тетка" plays on the same idiom. Rendered literally as "aunt" throughout; the idiom's proverbial force doesn't carry over into English (ch. 087) |
-| Эвритид | Eurytides | Patronymic epithet, "son of Eurytus". |
+| Эвритид | Eurytid | Patronymic epithet, "son of Eurytus". |
 | абанты | Abantes | Ethnic group, native inhabitants of Euboea (ch. 088) |
 | Орхоменская битва | the battle with Orchomenus | Iolaus's passing comparison ("покажется детским лепетом"); distinct wording from the already-established Орхоменская война/the Orchomenian War (ch. 070), likely referring to the same conflict (ch. 088) |
 | лекиф | lekythos | A vessel, used here as a ladle for scooping water; footnoted on first occurrence per the original's endnote 50, which the author glosses simply as "a ladle" (ch. 089) |
@@ -570,7 +570,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Молиона | Molione | Augeas's sister; bears the Three-Bodied Geryon's conjoined twins, who survive and are raised in Eleia by Augeas (ch. 092) |
 | Нестор | Nestor | Son of Neleus of Pylos; here revealed as one of the fathers among the Possessed (ch. 092) |
 | Подарг | Podarces | Son of Laomedon; identified with the figure later known in myth as Priam (ch. 092) |
-| Филей Авгиад | Phyleus Augeiad | Patronymic epithet, "son of Augeas," applied to Phyleus; cf. Авгий Гелиад/Augeas Heliad, Эвритид/Eurytides (ch. 092) |
+| Филей Авгиад | Phyleus Augeiad | Patronymic epithet, "son of Augeas". |
 | Трехтелый (Герион) | the Three-Bodied | Standalone capitalized nickname for Geryon, used without his name (ch. 092) |
 | Попрыгунья | the Leaper | Nickname for Euryale, playing on the meaning of her name (ch. 092) |
 | Полиб-лаконец | Polybus the Laconian | Minor figure; killed by Stheno in the throes of passion (ch. 092) |
@@ -624,8 +624,8 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Тезей-изгнанник | Theseus the Exile | Paired epithet of Theseus, referring to his banishment from Athens by Menestheus; cf. Тезей-афинянин/Theseus the Athenian (ch. 081) (ch. 098) |
 | Менестей | Menestheus | Mycenaean-backed demagogue who replaced Theseus as ruler of Athens (ch. 098) |
 | Аталанта-охотница | Atalanta the Huntress | Paired epithet of Atalanta, distinct from Аталанта-девственница/Atalanta the Virgin (ch. 097)---the authors use both epithets for the same character (ch. 098) |
-| Линкей-остроглаз | Lynceus the Sharp-eyed | Paired epithet of Lynceus, one of the Apharetidae; cf. Идас Афарид/Idas Apharetid (ch. 098) |
-| Афарид (мн. Афариды) | Apharetid (Apharetidae) | Idas and Lynceus, sons of Aphareus; cf. Идас Афарид/Idas Apharetid (ch. 098) |
+| Линкей-остроглаз | Lynceus the Sharp-eyed | Paired epithet of Lynceus, one of the Apharetids; cf. Идас Афарид/Idas Apharetid (ch. 098) |
+| Афарид (мн. Афариды) | Apharetid (Apharetids) | Idas and Lynceus, sons of Aphareus; cf. Идас Афарид/Idas Apharetid (ch. 098) |
 | Оиклей | Oicles | Son of Amphiaraus the seer (ch. 098) |
 | Акаст-аргонавт | Acastus the Argonaut | Paired epithet of Acastus, basileus of Iolcus; cf. established Акаст/Acastus (ch. 089) (ch. 098) |
 | мирмидонцы | Myrmidons | Telamon's three hundred warriors (ch. 098) |
@@ -736,7 +736,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | омфал | omphalos | The sacred stone at Delphi, "the navel of the earth"; glossed in-text by the author ("омфал, пуп земли"/"the omphalos, the navel of the earth") (ch. 122) |
 | Эврисфей-Микенец | Eurystheus the Mycenaean | Paired epithet of Eurystheus, cf. Эврисфей Сфенелид/Eurystheus Sthenelid; demonym capitalized, cf. Ифит-Ойхаллиец/Iphitus the Oechalian (ch. 122) |
 | Деянира | Deianira | Sister of Meleager, whom Heracles intends to marry (ch. 122) |
-| Линкей | Lynceus | Plain form, one of the Apharetidae with his brother Idas; cf. Линкей-остроглаз/Lynceus the Sharp-eyed (ch. 122) |
+| Линкей | Lynceus | Plain form, one of the Apharetids with his brother Idas; cf. Линкей-остроглаз/Lynceus the Sharp-eyed (ch. 122) |
 | Иолай-Бешеный | Iolaus the Mad | Paired epithet of Iolaus from his years as Heracles's driver, "бешеный" = mad, frenzied, reckless; cf. Иолай-возничий/Iolaus the driver, Амфитрион-Изгнанник/Amphitryon the Exile (ch. 123) |
 | Ахелой | Achelous | Aetolian river god whom Heracles defeats in a wrestling contest for Deianira; footnoted on first occurrence per the original's endnote 83 (ch. 123) |
 | Приап | Priapus | Son of Dionysus and the nymph Chione (or Aphrodite); footnoted on first occurrence per the original's endnote 84 (ch. 124) |
