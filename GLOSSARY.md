@@ -507,7 +507,8 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Тезей-афинянин | Theseus the Athenian | Descriptive epithet for Theseus (ch. 081) |
 | Копрей | Copreus | Eurystheus's herald. |
 | Аркадия | Arcadia | Region of the Peloponnese (ch. 082) |
-| Элида | Eleia | Region of the Peloponnese, kingdom of Augeas (ch. 082) |
+| Элида | Elis | Region of the Peloponnese, kingdom of Augeas (ch. 082) |
+| элидяне | Eleans | Demonym for Элида/Elis. |
 | Лакония | Laconia | Region of the Peloponnese (ch. 082) |
 | Ахайя | Achaea | Region/coast of the Peloponnese; cf. Achaeans (ch. 082) |
 | Молорх | Molorchus | Poor Nemean shepherd, one of the Tartarus-Possessed, who obligingly offered to sacrifice his own grandson to Heracles (ch. 082) |
@@ -572,7 +573,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Иола-ойхаллийка | Iole the Oechalian | Feminine paired epithet for Iole, cf. Ифит-Ойхаллиец/Iphitus the Oechalian (ch. 090) |
 | Эврит-Одержимый | Eurytus the Possessed | Paired epithet of Eurytus, reflecting the archery-obsessed intensity that overtakes him here; cf. Одержимый Тартаром/the Tartarus-Possessed for the established rendering of «одержимый» (ch. 090) |
 | Асклепий | Asclepius | Son of Apollo, earthly god of healing; said to be currently staying in Athens (ch. 092) |
-| Молиона | Molione | Augeas's sister; bears the Three-Bodied Geryon's conjoined twins, who survive and are raised in Eleia by Augeas (ch. 092) |
+| Молиона | Molione | Augeas's sister; bears the Three-Bodied Geryon's conjoined twins, who survive and are raised in Elis by Augeas (ch. 092) |
 | Нестор | Nestor | Son of Neleus of Pylos; here revealed as one of the fathers among the Possessed (ch. 092) |
 | Подарг | Podarces | Son of Laomedon; identified with the figure later known in myth as Priam (ch. 092) |
 | Филей Авгиад | Phyleus Augeiad | Patronymic epithet, "son of Augeas". |
@@ -586,7 +587,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | навлон | naulon | Charon's ferry-fee, paid to cross the Acheron; footnoted on first occurrence, kept transliterated (ch. 094) |
 | клепсидра | clepsydra | Water-clock; kept transliterated, cf. мегарон/megaron, гинекей/gynaeceum (ch. 094) |
 | мессенцы | Messenians | Demonym for Мессения/Messenia (ch. 095) |
-| элидяне | Eleians | Demonym for Элида/Eleia; spelled to match the settled "Eleia," not "Elis" (ch. 095) |
 | арголидцы | Argives | Demonym for Арголида/Argolis; using the standard classical English demonym rather than a literal "Argolians" (ch. 095) |
 | Касталия | Castalia | The nymph who became the Castalian Spring fleeing Apollo's advances; cf. Кастальский источник/Castalian Spring (ch. 095) |
 | Дафна | Daphne | The nymph who became a laurel fleeing Phoebus/Apollo (ch. 095) |
@@ -708,7 +708,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | лаконец | Laconian | Demonym, used of Castor; cf. Лакония/Laconia and Полиб-лаконец/Polybus the Laconian (ch. 112) |
 | кулачный боец | fist-fighter | Descriptive term for Polydeuces, the famed boxer, in the fight with Iolaus; used with "the" as a narrative epithet, before he is named (ch. 112) |
 | Филака | Phylace | Thessalian city ruled by Laodamia's uncle, a second Acastus (her father's namesake), where Iolaus takes her; later Iolaus's home as Protesilaus of Phylace (ch. 113) |
-| Авгий | Augeas | Basileus of Eleia; plain form of Авгий Гелиад/Augeas Heliad (ch. 113) |
+| Авгий | Augeas | Basileus of Elis; plain form of Авгий Гелиад/Augeas Heliad (ch. 113) |
 | Тюхэ-Удача | Tyche the Luck | Paired epithet of the goddess Tyche (Fortune); "Luck" translates "Удача", following the Metis the Thought pattern; Heracles is said to have "the wings of Tyche the Luck" always beating behind him (ch. 114) |
 | Перст Судьбы | the Finger of Fate | Iolaus's half-ironic name for the ominous dead finger in the sky (cf. "the dead finger" in ch. 111, 113); capitalized as a quoted thought (ch. 114) |
 | Истм | the Isthmos | Short form of Истмийский перешеек/the Isthmos; the Isthmus of Corinth (ch. 114) |
@@ -720,14 +720,14 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Гармония | Harmonia | Wife of Cadmus, the founder of Thebes; appears only in the name of the necklace (ch. 115) |
 | Ктеат | Cteatus | One of the two Molionids, together with Эврит/Eurytus; the author's hint that the Molionid Eurytus may be the same as the Gigas Эврит (Гигант)/Eurytus (ch. 115) |
 | Актор | Actor | Augeas's brother, named among the people's guesses at the Molionids' true father (ch. 115) |
-| Писы / Пис | Pisa | City in Eleia near Olympia, where the fighting against Augeas is taking place; the soldier says he comes "из-под Пис" ("from near Pisa"); standard English form of the name (ch. 116) |
-| Алфей | Alpheus | River in Eleia, dammed by Heracles to clean the Augean stables; footnoted on first occurrence with the author's own endnote 81 (ch. 116) |
-| Пеней | Peneus | River in Eleia, dammed together with the Alpheus in the author's endnote 81; not to be confused with the Thessalian river of the same name (ch. 116) |
+| Писы / Пис | Pisa | City in Elis near Olympia, where the fighting against Augeas is taking place; the soldier says he comes "из-под Пис" ("from near Pisa"); standard English form of the name (ch. 116) |
+| Алфей | Alpheus | River in Elis, dammed by Heracles to clean the Augean stables; footnoted on first occurrence with the author's own endnote 81 (ch. 116) |
+| Пеней | Peneus | River in Elis, dammed together with the Alpheus in the author's endnote 81; not to be confused with the Thessalian river of the same name (ch. 116) |
 | Кефей Аркадский | Cepheus of Arcadia | Cf. established Кефей/Cepheus (ch. 111) (ch. 117) |
 | Феней | Pheneus | Small Arcadian town near the scene of the fighting, where the survivors retreat; standard English form (ch. 117) |
 | Саламин | Salamis | Island, Telamon's home (ch. 117) |
 | Буфаг | Buphagus | Elderly man of Pheneus ("фенеец") in whose house the dead Heracles/Iphicles lies before the funeral pyre; standard English form of the name (ch. 119) |
-| Олимпия | Olympia | Sanctuary in Eleia; "священная роща Олимпия" → "the sacred grove of Olympia" (ch. 120) |
+| Олимпия | Olympia | Sanctuary in Elis; "священная роща Олимпия" → "the sacred grove of Olympia" (ch. 120) |
 | Нелей Пилосский | Neleus of Pylos | Paired epithet of Neleus; cf. Нелей/Neleus, Пилос/Pylos (ch. 120) |
 | Тайгет | Taygetus | Mountain ridge between Messenia and Laconia (ch. 120) |
 | молосская порода | Molossian (breed) | Breed of fierce hounds (here wolfhounds) guarding Hippocoon's palace (ch. 120) |
@@ -736,7 +736,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | златообильные Микены | gold-rich Mycenae | Homeric-style epithet of Mycenae; established since ch. 016, not previously logged here (ch. 016/082/120) |
 | Истмийские игры | the Isthmian Games | Sacred contests at the Isthmos; cf. Истм/the Isthmos (ch. 120) |
 | феор (мн. феоры) | theoros (pl. theoroi) | Sacred envoy, inviolable on the road; glossed in-text by the author ("священные посланцы"/"sacred envoys"); kept transliterated (ch. 120) |
-| Клеоны | Cleonae | Town on the road from Eleia to the Isthmos, where Heracles waylays the Molionids (ch. 120) |
+| Клеоны | Cleonae | Town on the road from Elis to the Isthmos, where Heracles waylays the Molionids (ch. 120) |
 | львиная шкура | lionskin | Heracles's signature garment |
 | омфал | omphalos | The sacred stone at Delphi, "the navel of the earth"; glossed in-text by the author ("омфал, пуп земли"/"the omphalos, the navel of the earth") (ch. 122) |
 | Эврисфей-Микенец | Eurystheus the Mycenaean | Paired epithet of Eurystheus, cf. Эврисфей Сфенелид/Eurystheus Sthenelid; demonym capitalized, cf. Ифит-Ойхаллиец/Iphitus the Oechalian (ch. 122) |
