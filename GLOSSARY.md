@@ -305,7 +305,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Фороней | Phoroneus | A young satyrisk in Dionysus's retinue, wounded in the ear by Iphitus. Later called "колчеухий" ("notch-eared"), referring to this old wound. |
 | бассариды | bassarids | Female followers of Dionysus (= maenads/bacchantes), named for the "bassaris" garment; kept transliterated, lowercase |
 | напея (мн. напеи) | napaea (pl. napaeae) | Nymphs of glens/valleys (as opposed to лимнады, meadow nymphs) |
-| Майя-Плеяда | Maia Pleiades | Paired epithet of Maia, mother of Hermes by Zeus |
+| Майя-Плеяда | Maia the Pleiad | Paired epithet of Maia, mother of Hermes by Zeus |
 | Семела | Semele | Daughter of Cadmus, mother of Dionysus by Zeus |
 | Единый | the One | Mysterious, unnamed singular deity hinted at in Hermeias's/the narrator's reflections; capitalized |
 | пентесилейские (лошадки) | Peneia (ponies) | An Ancient Greek horse breed. "Penthesilea" is not even a region, so we assume that's what Oldie meant. |
