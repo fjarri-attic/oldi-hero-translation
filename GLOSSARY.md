@@ -488,7 +488,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Керинейская лань | the Ceryneian Hind | The hind Heracles was sent to capture in one of his Labors (ch. 080) |
 | Совет Семьи / Семейный Совет | the Family Council | The Olympians' governing council; cf. Семья/Family (ch. 080) |
 | Телем-Никакой / Никакой | Telemos the Nobody / Nobody | Grandson of Телем Гундосый (see Телем/Гундосый); "Никакой" is a nickname from colloquial "никакой" (characterless, nondescript, unremarkable)---the backstory implies his wife's friends asked what he was like in bed and she answered with this word. The name is a deliberate pun sustained through the chapter (playing on "no man should be nobody"), resolved when he asks to be renamed "Гундосый"/Nasal like his grandfather instead (ch. 081) |
-| Кранай-Злюка | Kranai the Grouch | Telemos-Nobody's father, third-generation gate-guard of Thebes; "Злюка" = a grouchy, short-tempered person (ch. 081) |
+| Кранай-Злюка | Kranaos the Grouch | Telemos-Nobody's father, third-generation gate-guard of Thebes; "Злюка" = a grouchy, short-tempered person (ch. 081) |
 | Лихас | Lichas | Talkative traveling boy who claims to be one of Heracles's companions; standard mythological name (later Heracles's actual herald) (ch. 081) |
 | Лик-буян / Лик Фиванский | Lycus the Brawler / Lycus of Thebes | Usurping basileus of Thebes who banished Alcmene and Megara; "буян" = a rowdy troublemaker. "Лик Фиванский" is footnoted by the author as meaning "the Theban Wolf" (Greek "лик" = "wolf") (ch. 081) |
 | Ликаон | Lycaon | Legendary Arcadian king turned into a wolf by Zeus and then incinerated; invoked as a rumored ancestor of Lycus of Thebes (ch. 081) |
