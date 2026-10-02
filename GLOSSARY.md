@@ -113,7 +113,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Амфитрион | Amphitryon |  |
 | Алкмена | Alcmene |  |
 | Ликимний | Licymnius | Alcmene's half-brother |
-| Телем / Гундосый | Thelem / Nasal | "Nasal" is Thelem's nickname, from his nasal voice, used alone or as "Thelem the Nasal" for "Телем-Гундосый" |
+| Телем / Гундосый | Telemos / Nasal | "Nasal" is Telemos's nickname, from his nasal voice, used alone or as "Telemos the Nasal" for "Телем-Гундосый" |
 | Филид | Philid |  |
 | Электрион | Electryon | Father of Alcmene and Licymnius |
 | Персей | Perseus |  |
@@ -487,8 +487,8 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Океан | Oceanus | The Titan of the world-river, referred to as "grandfather Oceanus" (ch. 080) |
 | Керинейская лань | the Ceryneian Hind | The hind Heracles was sent to capture in one of his Labors (ch. 080) |
 | Совет Семьи / Семейный Совет | the Family Council | The Olympians' governing council; cf. Семья/Family (ch. 080) |
-| Телем-Никакой / Никакой | Thelem the Nobody / Nobody | Grandson of Телем Гундосый (see Телем/Гундосый); "Никакой" is a nickname from colloquial "никакой" (characterless, nondescript, unremarkable)---the backstory implies his wife's friends asked what he was like in bed and she answered with this word. The name is a deliberate pun sustained through the chapter (playing on "no man should be nobody"), resolved when he asks to be renamed "Гундосый"/Nasal like his grandfather instead (ch. 081) |
-| Кранай-Злюка | Kranai the Grouch | Thelem-Nobody's father, third-generation gate-guard of Thebes; "Злюка" = a grouchy, short-tempered person (ch. 081) |
+| Телем-Никакой / Никакой | Telemos the Nobody / Nobody | Grandson of Телем Гундосый (see Телем/Гундосый); "Никакой" is a nickname from colloquial "никакой" (characterless, nondescript, unremarkable)---the backstory implies his wife's friends asked what he was like in bed and she answered with this word. The name is a deliberate pun sustained through the chapter (playing on "no man should be nobody"), resolved when he asks to be renamed "Гундосый"/Nasal like his grandfather instead (ch. 081) |
+| Кранай-Злюка | Kranai the Grouch | Telemos-Nobody's father, third-generation gate-guard of Thebes; "Злюка" = a grouchy, short-tempered person (ch. 081) |
 | Лихас | Lichas | Talkative traveling boy who claims to be one of Heracles's companions; standard mythological name (later Heracles's actual herald) (ch. 081) |
 | Лик-буян / Лик Фиванский | Lycus the Brawler / Lycus of Thebes | Usurping basileus of Thebes who banished Alcmene and Megara; "буян" = a rowdy troublemaker. "Лик Фиванский" is footnoted by the author as meaning "the Theban Wolf" (Greek "лик" = "wolf") (ch. 081) |
 | Ликаон | Lycaon | Legendary Arcadian king turned into a wolf by Zeus and then incinerated; invoked as a rumored ancestor of Lycus of Thebes (ch. 081) |
@@ -742,7 +742,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Приап | Priapus | Son of Dionysus and the nymph Chione (or Aphrodite); footnoted on first occurrence per the original's endnote 84 (ch. 124) |
 | кенотаф | cenotaph | "Empty grave" raised for those who died abroad, went missing, or lie unburied; glossed in-text by the author (ch. 124) |
 | Пройтидские / Электрийские / Нейские / Афинские / Бореадские / Гомолоидские ворота | the Proetid / Electran / Neitan / Athenian / Borraean / Homoloid Gates | Gates of seven-gated Thebes; standard English forms where they exist ("Athenian" is the authors' own, in place of the usual Ogygian). Plural "Gates," cf. Скейские ворота/the Scaean Gates (ch. 124) |
-| Телем-Фиванец | Thelem the Theban | Posthumous name of Thelem the Nobody, who died holding the Neitan Gates against the Argives; cf. Телем-Никакой/Thelem the Nobody (ch. 124) |
+| Телем-Фиванец | Telemos the Theban | Posthumous name of Telemos the Nobody, who died holding the Neitan Gates against the Argives; cf. Телем-Никакой/Telemos the Nobody (ch. 124) |
 | Мусор | the Mess | Capitalized; the Olympians' term for what the Cleaners (Мусорщики) clean up---the Fallen's offspring, the Gigantes, etc. |
 | Мачеха | Stepmother | Standalone form of Гера-Мачеха/Hera the Stepmother (ch. 124) |
 | Талос | Talos | Bronze giant of Crete with a single vein stopped by a nail in his ankle (ch. 124) |
