@@ -44,7 +44,7 @@ Greedily.
 
 "Uncle! Not in front of outsiders..."
 
-"Don't worry. Your charge has been dozing since the moment I laid eyes on the two of you. Easier on him this way, and on us too. Heroes have no place in Erebus. Now hold your tongue and take him off to the Empty Territories for the time being!"
+"Don't worry. Your charge has been dozing since the moment I laid eyes on the two of you. Easier on him this way, and on us too. Heroes have no place in Erebos. Now hold your tongue and take him off to the Empty Territories for the time being!"
 
 "To the Isles? But surely you---"
 
@@ -58,23 +58,23 @@ Today he and Hermeias had broken an ancient law, one the Sovereign himself had e
 
 And yet he had.
 
-Shades, once they reach Erebus, lose their earthly memory. Everyone knows this. But few have ever stopped to wonder: who needs this, and why?
+Shades, once they reach Erebos, lose their earthly memory. Everyone knows this. But few have ever stopped to wonder: who needs this, and why?
 
 Senior had never stopped to wonder either.
 
 Because he knew.
 
-If the dead were left their memory, they would strain to return to the living---to finish loving, to finish warring, to finish building, to avenge their own death, even!---there is always something a man never had time to complete. But once torn free of Erebus, a shade is no longer capable of acting as a man does. It is a shade.
+If the dead were left their memory, they would strain to return to the living---to finish loving, to finish warring, to finish building, to avenge their own death, even!---there is always something a man never had time to complete. But once torn free of Erebos, a shade is no longer capable of acting as a man does. It is a shade.
 
 It wants to live, without being alive in the earthly sense of the word.
 
-And so shades would seize the bodies of the living, trying to bend them to their will. They would grapple to the death, two souls locked in the prison of a single flesh, and those around would be seized with horror, and soon enough the two souls would return to Erebus, hating one another---only to strain toward the world once more.
+And so shades would seize the bodies of the living, trying to bend them to their will. They would grapple to the death, two souls locked in the prison of a single flesh, and those around would be seized with horror, and soon enough the two souls would return to Erebos, hating one another---only to strain toward the world once more.
 
 To finish building, to finish loving... to avenge!
 
-That is why Charon the Ferryman---a child of Erebus born old---never carries anyone back; that is why the three-headed, dragon-tailed hound Kerberos keeps ceaseless watch over the exit of Hades---the *exit*, mind you, not the *entrance*, for who would willingly come to the kingdom of the dead, and having come, manage to lose himself in it?
+That is why Charon the Ferryman---a child of Erebos born old---never carries anyone back; that is why the three-headed, dragon-tailed hound Kerberos keeps ceaseless watch over the exit of Hades---the *exit*, mind you, not the *entrance*, for who would willingly come to the kingdom of the dead, and having come, manage to lose himself in it?
 
-The Sovereign sees all there is to see, in Erebus.
+The Sovereign sees all there is to see, in Erebos.
 
 Kerberos is not needed for guests. He is needed so that shades do not go running toward the light, guided by the very best of intentions---and everyone knows where that road leads.
 
@@ -107,7 +107,7 @@ Well, thinking was something the Sovereign was accustomed to. Thinking long, tho
 
 "Don't make me laugh, Hermeias. Since when does your father pay any mind to Middle?"
 
-"What choice does he have, when half the Family now stands with Middle and Stepmother Hera: Artemis, and grubby Hephaestus, and that vixen Hestia, and even thick-skulled Apollo, who used to back dad in every scheme of his, out of sheer natural dullness! Only Athena is holding on, more or less..."
+"What choice does he have, when half the Family now stands with Middle and Stepmother Hera: Artemis, and grubby Hephaistos, and that vixen Hestia, and even thick-skulled Apollo, who used to back dad in every scheme of his, out of sheer natural dullness! Only Athena is holding on, more or less..."
 
 "Interesting... don't keep me waiting, tell your old uncle the Family's secrets,"---a barely perceptible mockery lurked in the Sovereign's voice. "Who's to blame this time?"
 
@@ -117,7 +117,7 @@ Hermeias pretended not to notice, and went on:
 
 "And what has he done this time?"
 
-"Nothing!" Trickster burst out. "That's just it---nothing! Five years, and not-a-sin-gle-thing! In Iolkos, Argus the shipwright has laid the keel of a ship, and all the heroes of Hellas are gathering for Colchis, after the Golden Fleece; even seventeen-year-old Theseus, Poseidon's Cleaner, is going with them... And not just Theseus---among Middle's other sons there's Euphemos, and Erginos; then Boreas's sons Zetes and Kalais, Dionysus's Cleaners Phanos and Staphylos, Augeias Heliad, Ialmenos and Askalaphos Areads, Palaimon Hephaestid, the Dioskouroi, divine Orpheus, and my own Autolykos, and---"
+"Nothing!" Trickster burst out. "That's just it---nothing! Five years, and not-a-sin-gle-thing! In Iolkos, Argos the shipwright has laid the keel of a ship, and all the heroes of Hellas are gathering for Colchis, after the Golden Fleece; even seventeen-year-old Theseus, Poseidon's Cleaner, is going with them... And not just Theseus---among Middle's other sons there's Euphemos, and Erginos; then Boreas's sons Zetes and Kalais, Dionysos's Cleaners Phanos and Staphylos, Augeias Heliad, Ialmenos and Askalaphos Areads, Palaimon Hephaistid, the Dioskouroi, divine Orpheus, and my own Autolykos, and---"
 
 "Stop!" the Sovereign barked. "How many of them are there in all?!"
 
@@ -139,7 +139,7 @@ Hermeias pretended not to notice, and went on:
 
 "Not worry, exactly, but I decided you ought to know. What does worry me is something else: Alkeides hasn't had a single fit in five years."
 
-"Now there you're right---that looks entirely too much like the calm before the storm. And Tartarus has gone quiet too, of late... could the Fallen have found some new way out of their situation? Eh, Hermeias? Here we sit waiting for a breakout, a war, a great crash---while they..."
+"Now there you're right---that looks entirely too much like the calm before the storm. And Tartaros has gone quiet too, of late... could the Fallen have found some new way out of their situation? Eh, Hermeias? Here we sit waiting for a breakout, a war, a great crash---while they..."
 
 "What do you mean, uncle?"
 
@@ -165,21 +165,21 @@ For a while, both were silent.
 
 "But the mortal Cleaners are our children, Sovereign!"
 
-"Yes. And the Fallen in Tartarus could have thought their way to the very same conclusion! There's time enough down there for reflection, and Cronus the Timekeeper is no fool, no less than I or Junior. So, having learned the truth behind the deaths of Medusa and the Chimera, it might well have occurred to the Fallen to breed a race of mortal heroes of their own in Tartarus---let's call them, say, Gigantes---who would know themselves to be mortal, and would call the two of us monsters!"
+"Yes. And the Fallen in Tartaros could have thought their way to the very same conclusion! There's time enough down there for reflection, and Kronos the Timekeeper is no fool, no less than I or Junior. So, having learned the truth behind the deaths of Medusa and the Chimera, it might well have occurred to the Fallen to breed a race of mortal heroes of their own in Tartaros---let's call them, say, Gigantes---who would know themselves to be mortal, and would call the two of us monsters!"
 
 "Meaning?..."
 
 "Meaning they would be capable of killing us for good."
 
-"But the Fallen, or the Gigantes---they're in Tartarus, uncle, guarded by the Hundred-Handed!"
+"But the Fallen, or the Gigantes---they're in Tartaros, uncle, guarded by the Hundred-Handed!"
 
-"Mortal Gigantes would simply walk out of Tartarus. The Hecatoncheires wouldn't even notice them, because mortals supposedly cannot threaten the order the Hundred-Handed guard. And besides, would you undertake to predict what the Hecatoncheires will do? I wouldn't. So the Family could well be dragged into war again, and even if Gaia the Earth can't withstand a fresh slaughter---the Hundred-Handed, this time, won't be able to step in and abandon the Tartarus they guard. And then the question for the Family will stand like this: not victory or defeat, but life or death. As it was for Medusa and the Chimera. But then again..."
+"Mortal Gigantes would simply walk out of Tartaros. The Hekatoncheires wouldn't even notice them, because mortals supposedly cannot threaten the order the Hundred-Handed guard. And besides, would you undertake to predict what the Hekatoncheires will do? I wouldn't. So the Family could well be dragged into war again, and even if Gaia the Earth can't withstand a fresh slaughter---the Hundred-Handed, this time, won't be able to step in and abandon the Tartaros they guard. And then the question for the Family will stand like this: not victory or defeat, but life or death. As it was for Medusa and the Chimera. But then again..."
 
 "Then again, what?"
 
 "Anything's possible, Hermeias. And it's also possible that I'm wrong. A child can also see a bogeyman in a chiton hung out to dry."
 
-"Then we must find out, Sovereign. We know what Alkeides's fits are truly connected to---which means one of the Tartarus-Possessed is in Thebes, or nearby. If we find him and question him, if we take him alive..."
+"Then we must find out, Sovereign. We know what Alkeides's fits are truly connected to---which means one of the Tartaros-Possessed is in Thebes, or nearby. If we find him and question him, if we take him alive..."
 
 "Not alive. I prefer to question the dead---they're more honest. But you're right, Hermeias. I only wanted you to say it aloud yourself. That Alkeides has had no fits right now means nothing. If Junior drives his Cleaner toward feats, the Fallen will return the favor."
 

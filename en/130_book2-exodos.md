@@ -12,7 +12,7 @@ Though from the initiated it guards its secrets no less reliably, deceiving fool
 
 A rumble.
 
-A distant subterranean rumble---like the breathing of a sleeping giant, like the murmur of a gigantic heart, like the hopeless and endless moan of myriad shades in the gloom of Erebus...
+A distant subterranean rumble---like the breathing of a sleeping giant, like the murmur of a gigantic heart, like the hopeless and endless moan of myriad shades in the gloom of Erebos...
 
 A steady rustle of waves. Yes, that is it. That is the river the gods swear by, rolling its black waters---the eternal river, unseen and inescapable, without end or beginning; and along its banks the pale blossoms of asphodel sway.
 
@@ -86,7 +86,7 @@ Lately he was always cold.
 
 "To that one?" Hades asked, to be sure. "Or..."
 
-"That one," Hermeias nodded. "The one on Olympus."
+"That one," Hermeias nodded. "The one on Olympos."
 
 "Is he still the same?"
 
@@ -148,11 +148,11 @@ Then they sat for a long time without uttering a word.
 
 "Nothing."
 
-"Wise of you. For if the Herakles who now drinks nectar on Olympus and sleeps with Hebe remembers only what has been preserved of him in people's memory, in myths and legends---and that is all he remembers!---then perhaps it was people who made him that way?! And the real memory of the two twin brothers, Alkeides and Iphikles---is it here, in Erebus? And is that exactly why his shade forgets nothing?! But then I ask myself a question: people made a new god named Herakles; their memory raised him to Olympus. And I ask myself a second question, Hermeias: who made us?!"
+"Wise of you. For if the Herakles who now drinks nectar on Olympos and sleeps with Hebe remembers only what has been preserved of him in people's memory, in myths and legends---and that is all he remembers!---then perhaps it was people who made him that way?! And the real memory of the two twin brothers, Alkeides and Iphikles---is it here, in Erebos? And is that exactly why his shade forgets nothing?! But then I ask myself a question: people made a new god named Herakles; their memory raised him to Olympos. And I ask myself a second question, Hermeias: who made us?!"
 
-"What do you mean, who?!" The Trickster nearly fell off the stone he was sitting on. "Really, uncle, the things you say! Had a few gulps too many from Lethe?! Uranus and Gaia, the Titans, Cronus, then you, the elder generation, then us, your children..."
+"What do you mean, who?!" The Trickster nearly fell off the stone he was sitting on. "Really, uncle, the things you say! Had a few gulps too many from Lethe?! Ouranos and Gaia, the Titans, Kronos, then you, the elder generation, then us, your children..."
 
-"That I remember," Hades said very seriously. "But what if there were no Uranus and Gaia, no Cronus and his wife Rhea, no cave on Crete and no Titanomachy... nothing at all! What if people invented all of it, what if they made us---such as we are, as we remember ourselves! What if they *created* us?! What if that is the truth, and not what we remember?!"
+"That I remember," Hades said very seriously. "But what if there were no Ouranos and Gaia, no Kronos and his wife Rhea, no cave on Crete and no Titanomachy... nothing at all! What if people invented all of it, what if they made us---such as we are, as we remember ourselves! What if they *created* us?! What if that is the truth, and not what we remember?!"
 
 Hermeias was silent, stunned.
 

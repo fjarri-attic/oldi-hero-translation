@@ -85,7 +85,7 @@ In reply---a sarcastic chuckle.
 
 "It seems to me, Sister, that you're simply jealous. As usual. As you have been a hundred times before. Jealous of a mortal woman whom Junior has once again preferred to you. And---again, as usual---you're about to take out your anger on her and her son. First you chase poor Io across the whole world, then you torment Aegina, and now it's Alkmene... It's time to calm down, Sister."
 
-"I? I'm jealous of a mortal?! A mere instant will pass---for us---and her body will turn to dust, and her shade will pass to you. To me she is already dust! How can I be jealous of dust? What concerns me, first of all, is the discord in the Family; then, I simply do not like the very idea of a Lone Cleaner... And finally---my Spouse intends to raise the son of this... this woman, at the end of his life, to Olympus, making him our equal! Can you imagine it, Hades?! I did not sleep all night when Zeus announced it!"
+"I? I'm jealous of a mortal?! A mere instant will pass---for us---and her body will turn to dust, and her shade will pass to you. To me she is already dust! How can I be jealous of dust? What concerns me, first of all, is the discord in the Family; then, I simply do not like the very idea of a Lone Cleaner... And finally---my Spouse intends to raise the son of this... this woman, at the end of his life, to Olympos, making him our equal! Can you imagine it, Hades?! I did not sleep all night when Zeus announced it!"
 
 "That is impossible, Sister. Either he is our equal from the start---in which case Junior's intentions are meaningless; or he is not our equal---and he will not become one, whatever Junior thinks on the matter!"
 
@@ -152,7 +152,7 @@ The Trickster snorted scornfully.
 
 "Human sacrifices. Again. Where they used to be made, they're being made more often. Where people had begun to forget about them, they've remembered again. And even where there were never any before... And you know, uncle, who they go to, even when they're made to you and me," the Trickster jabbed a finger at the ground beneath his feet.
 
-"I know. Even when they're made to you and me, even when they're made to the Thunderer---they go down. Into Tartarus. And feed the Fallen."
+"I know. Even when they're made to you and me, even when they're made to the Thunderer---they go down. Into Tartaros. And feed the Fallen."
 
 "Exactly. So raise your voice at Kerberos, uncle---he's guarding badly, too busy chasing fleas! And tell Charon---he'd better check his ferry more carefully... he'll miss a runaway shade!"
 

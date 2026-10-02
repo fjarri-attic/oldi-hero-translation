@@ -52,7 +52,7 @@ A daughter of the mighty Jupiter[]{.linebreak}
 And golden-sandalled Juno---is his wife.
 :::
 
-Only Homer will not trouble to explain how Herakles could be present among the shades in Hades and among the gods on Olympus at one and the same time; nor why malicious Hera should suddenly grow so generous as to give her beloved daughter to the very man she persecuted his whole life long?!
+Only Homer will not trouble to explain how Herakles could be present among the shades in Hades and among the gods on Olympos at one and the same time; nor why malicious Hera should suddenly grow so generous as to give her beloved daughter to the very man she persecuted his whole life long?!
 
 The shade of Herakles, however, will answer his guest, a man named Odysseus---which means "The one who angers the gods":
 

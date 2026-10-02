@@ -4,7 +4,7 @@
 
 ...The heavy, oppressive rumble of the Great River kept receding, and something like astonishment seemed to stir within it---as though some passing thing had been reflected in its ancient waters that they had never seen before. And even if they had seen it, they still would not have believed the reflection that appeared.
 
-Closer, ever closer come the crimson glimmers, and the eternal gloom of the path of grieving shades begins, little by little, to retreat before these ominous flares; one turn, then another---and the ghostly tongues of lifeless flame, shot through with blackness at their very core, hurl themselves toward the two travelers, only to shy back in fright and vanish into walls that glow with an uneasy crimson, as though built of embers just faintly filmed with ash; and the travelers walk on, descending ever deeper into the depths of Erebus forbidden to mortals.
+Closer, ever closer come the crimson glimmers, and the eternal gloom of the path of grieving shades begins, little by little, to retreat before these ominous flares; one turn, then another---and the ghostly tongues of lifeless flame, shot through with blackness at their very core, hurl themselves toward the two travelers, only to shy back in fright and vanish into walls that glow with an uneasy crimson, as though built of embers just faintly filmed with ash; and the travelers walk on, descending ever deeper into the depths of Erebos forbidden to mortals.
 
 "Wait for me here. I'll bring him myself."
 
@@ -72,7 +72,7 @@ The one called Iphitos the archer falls upon the rhyton greedily---yet, for all 
 
 "You want to know what I didn't have time to finish telling you then, on the wall of Tiryns?" A quiet, rustling voice comes from nowhere and from every side at once.
 
-The traveler gives an involuntary start and, with a strange, pained expression, peers into the shade's now-living eyes. The shade's? No---before him stands no man of flesh and blood, yet neither is it the same phantom the light-footed guide brought up from the depths of Erebus.
+The traveler gives an involuntary start and, with a strange, pained expression, peers into the shade's now-living eyes. The shade's? No---before him stands no man of flesh and blood, yet neither is it the same phantom the light-footed guide brought up from the depths of Erebos.
 
 Something in between.
 
@@ -110,7 +110,7 @@ No.
 
 We didn't know that.
 
-But the men, the Tartarus-Possessed, claimed that they knew. And we believed them. Foolishly! Foolishly!.. If only we hadn't been willing to hand our children over to those quiet priests with their oily voices, if only we had resisted... there was no force that could have stopped us! Heavens, Stheno alone would have been enough to leave dozens of corpses lying at the feet of a Gorgon in fury! And my bow was at my side, and there were arrows enough in my quiver---how blind we turned out to be, children of the Possessed and descendants of the Fallen!
+But the men, the Tartaros-Possessed, claimed that they knew. And we believed them. Foolishly! Foolishly!.. If only we hadn't been willing to hand our children over to those quiet priests with their oily voices, if only we had resisted... there was no force that could have stopped us! Heavens, Stheno alone would have been enough to leave dozens of corpses lying at the feet of a Gorgon in fury! And my bow was at my side, and there were arrows enough in my quiver---how blind we turned out to be, children of the Possessed and descendants of the Fallen!
 
 I'll never forgive myself for it... though by now, that's just fine words.
 
@@ -118,7 +118,7 @@ Without the children, everything at once turned empty. Many of us went home from
 
 Sometimes we---only the mortals among us!---were allowed to see the children. The children didn't recognize us; with every visit they grew stranger still (we consoled ourselves that this was only as it should be), and these meetings were more of a burden than anything else... But we could no longer stop ourselves, we came again and again, until the fateful day arrived.
 
-Now I understand it all! It's nonsense that the Gigantes are the serpent-legged offspring of Gaia and Tartarus, that their fate is to fight the Olympians and either win or fall. There is no fate! And even if there is, it doesn't matter. What the Possessed needed was precisely children, because children feel heat and cold, want to eat and drink, laugh and cry, but they know no difference between men and gods. Children are the only mortals for whom there are no gods; children are the potential killers of gods. And now I think that every half-god hero is, in some way, a child...
+Now I understand it all! It's nonsense that the Gigantes are the serpent-legged offspring of Gaia and Tartaros, that their fate is to fight the Olympians and either win or fall. There is no fate! And even if there is, it doesn't matter. What the Possessed needed was precisely children, because children feel heat and cold, want to eat and drink, laugh and cry, but they know no difference between men and gods. Children are the only mortals for whom there are no gods; children are the potential killers of gods. And now I think that every half-god hero is, in some way, a child...
 
 From the moment of birth, the Possessed fed the infants sacrifices. Only, unlike Herakles---the first, failed attempt---the moment of making a sacrifice to the newborn was invariably tied to sensations pleasant to the child: it was fed, changed into something dry, caressed... Before long, the children were themselves demanding sacrifices, having bound them fast to pleasure.
 
@@ -136,7 +136,7 @@ The sacrifices of the Gigantes are gods! Or those of the same tribe as the gods:
 ::: {.small-scene-break}
 :::
 
-"I saw the Gigantes devour two of their own mothers, Stheno and Euryale! I had already all but entered the Dromos leading home, when the Gorgon sisters appeared in the children's quarter of Phlegrae. Against the prohibition, they had resolved to visit their own offspring, and the Possessed had no strength to bar their way. Scattering the priests of Tartarus like kittens---I saw it myself, from a distance---the Gorgons drew near to the children. I could clearly make out both the sisters and the children; but when no more than a step remained between them, it seemed to me that I was losing my mind: for an instant the helpless infants appeared to me as gigantic, shaggy creatures with a mindlessly burning gaze, and the mighty Gorgons as helpless little figures, shying back in fright.
+"I saw the Gigantes devour two of their own mothers, Stheno and Euryale! I had already all but entered the Dromos leading home, when the Gorgon sisters appeared in the children's quarter of Phlegrae. Against the prohibition, they had resolved to visit their own offspring, and the Possessed had no strength to bar their way. Scattering the priests of Tartaros like kittens---I saw it myself, from a distance---the Gorgons drew near to the children. I could clearly make out both the sisters and the children; but when no more than a step remained between them, it seemed to me that I was losing my mind: for an instant the helpless infants appeared to me as gigantic, shaggy creatures with a mindlessly burning gaze, and the mighty Gorgons as helpless little figures, shying back in fright.
 
 It lasted only an instant, and when I came back to myself, the mutilated corpses of Stheno and Euryale already lay upon the altar, and around their dead mothers the little children danced clumsily, pulling faces and muttering unintelligibly.
 
@@ -150,4 +150,4 @@ And now I want oblivion---because otherwise I will have to go on seeing, forever
 
 "Yes," Iphikles answered, barely audible. "I promise you that. A god would swear by the Styx; Herakles simply promises."
 
-And the waters of the Great River splashed in astonishment in the darkness of Erebus.
+And the waters of the Great River splashed in astonishment in the darkness of Erebos.

@@ -56,7 +56,7 @@ Not even in his worst nightmare had Hermeias imagined that plain-spoken Enyalios
 
 "Me---to see you."
 
-"Are you mocking me, Enyalios? You've never once been to see me," the Trickster said, noting almost mechanically that he was repeating, nearly word for word, a phrase the centaur Chiron had said thirty years before.
+"Are you mocking me, Enyalios? You've never once been to see me," the Trickster said, noting almost mechanically that he was repeating, nearly word for word, a phrase the centaur Cheiron had said thirty years before.
 
 "Better late than never. Have you heard about the Family Council?"
 
@@ -78,11 +78,11 @@ Worn out.
 
 "Over the Gigantes?"
 
-"Over Herakles. Better ask which of the Family this Lone Cleaner hasn't managed to offend! Father tells them: we take Herakles and go to Phlegrae to beat the Gigantes, and they tell Father: who knows whom your favorite will decide to beat first---the Gigantes or us! Father tells them: he's a hero, one labor after another, twelve years of blameless service; and they tell Father: that much is certain! And off they go, competing to remember it all: grandfather Oceanus, whacked with an oar; Thanatos the Killer, both wings wrenched clean out of their sockets; Nereus of the Sea, his back mauled so badly he still swims sideways to this day; Helios, threatened to shoot dead---"
+"Over Herakles. Better ask which of the Family this Lone Cleaner hasn't managed to offend! Father tells them: we take Herakles and go to Phlegrae to beat the Gigantes, and they tell Father: who knows whom your favorite will decide to beat first---the Gigantes or us! Father tells them: he's a hero, one labor after another, twelve years of blameless service; and they tell Father: that much is certain! And off they go, competing to remember it all: grandfather Okeanos, whacked with an oar; Thanatos the Killer, both wings wrenched clean out of their sockets; Nereus of the Sea, his back mauled so badly he still swims sideways to this day; Helios, threatened to shoot dead---"
 
 "He should have!" Hermeias put in, glaring with hatred at the white disk of the sun.
 
-"...Poseidon can't bury his children fast enough---as of today he's lost six sons and two grandsons! Who killed them? Herakles! In short, only Apollo and I spoke up for Father. Hephaestus the toiler abstained."
+"...Poseidon can't bury his children fast enough---as of today he's lost six sons and two grandsons! Who killed them? Herakles! In short, only Apollo and I spoke up for Father. Hephaistos the toiler abstained."
 
 "You and Apollo?!" Hermeias couldn't believe his ears, forgetting the heat and his weariness at once.
 
@@ -139,7 +139,7 @@ The air around him trembled, as though the god were hesitating: open a Dromos, o
 ::: {.small-scene-break}
 :::
 
-...Phlegrae, the Burning Grounds, the charred flesh of Gaia the Earth, the torn eye-sockets of the sky---and a Strength, a mortal Strength, come to kill forever... heroes of Tartarus.
+...Phlegrae, the Burning Grounds, the charred flesh of Gaia the Earth, the torn eye-sockets of the sky---and a Strength, a mortal Strength, come to kill forever... heroes of Tartaros.
 
 ::: {.small-scene-break}
 :::

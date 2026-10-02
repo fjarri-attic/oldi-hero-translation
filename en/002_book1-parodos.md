@@ -14,7 +14,7 @@ Though from the initiated it guards its secrets no less reliably, deceiving fool
 
 A rumble.
 
-A distant subterranean rumble---like the breathing of a sleeping giant, like the murmur of a gigantic heart, like the hopeless and endless moan of myriad shades in the gloom of Erebus...
+A distant subterranean rumble---like the breathing of a sleeping giant, like the murmur of a gigantic heart, like the hopeless and endless moan of myriad shades in the gloom of Erebos...
 
 A steady rustle of waves. Yes, that is it. That is the river the gods swear by, rolling its black waters---the eternal river, unseen and inescapable, without end or beginning; and along its banks the pale blossoms of asphodel sway.
 
@@ -83,7 +83,7 @@ Senior is silent for a long time.
 
 Middle does not answer.
 
-"You loved her," Senior continues confidently, and the flashes wink from afar, curling and pulsing. "Only from great love could Medusa have borne children like Pegasus and Chrysaor the Golden Bow. You loved her, Black-Maned! And that's why you came to hate Perseus and all his descendants! Perhaps, if Junior had gone tonight not to a woman of the Perseid line, but to any other, you would have---"
+"You loved her," Senior continues confidently, and the flashes wink from afar, curling and pulsing. "Only from great love could Medusa have borne children like Pegasos and Chrysaor the Golden Bow. You loved her, Black-Maned! And that's why you came to hate Perseus and all his descendants! Perhaps, if Junior had gone tonight not to a woman of the Perseid line, but to any other, you would have---"
 
 "Don't talk nonsense, Senior! I’m not one for settling personal scores---far less so than you think! Though I forget nothing and forgive no offense. But you, do you remember what a shock it was for the whole Family---to learn that even beings like us can be killed for good?! That a Cleaner, a piece of trash, a Half-Man, is capable of something that not one of the Family can do?! Do you remember that?!"
 
@@ -105,7 +105,7 @@ Silence. And only the black water of the Styx laps at the foot of the White Rock
 
 "For a start---to talk to Junior. To convince him not to do this. The Moirai[^4] haven't spun the thread yet---which means everything is still reversible. Junior might listen to the two of us..."
 
-[^4]: The three goddesses of fate: Clotho the Spinner, Atropos the Inevitable, Lachesis the Allotter. Literally, "moira" means "lot."
+[^4]: The three goddesses of fate: Klotho the Spinner, Atropos the Inevitable, Lachesis the Allotter. Literally, "moira" means "lot."
 
 "Evidently, he wouldn’t listen to you alone. Don't be naive, Middle---you know Zeus as well as I do! Once he's decided something, you can't talk him out of it, not even if you turn the world inside out."
 
@@ -129,13 +129,13 @@ Flashes.
 
 Darkness.
 
-"You rarely come down to see me, Middle," the darkness answers, almost soundlessly. "Very rarely. Otherwise you'd know that the Hecatoncheires[^5] are finding it harder and harder to hold back the pressure from Tartarus. And sooner or later, the Hundred-Handed may not be able to hold them back. On that day I'll be glad of any ally: one of the Family, a Half-Man, even a Lone Cleaner---so long as he knows how to kill for good. Junior is a tyrant and a despot, but on that day he'll be the foremost warrior. And you, Middle---won't you want to sit it out in your depths? Don't take offense, I'm just saying... In short, I wouldn't advise you to worry too much about the future fate of the Lone Cleaner. He's mortal---and that says it all, at least to me. What you should worry about are the ones gathering their strength down there, in Tartarus. As for your claims to power, they're none of my concern. I'm not reaching for power myself---I have enough as it is. And I won't report our conversation to Junior."
+"You rarely come down to see me, Middle," the darkness answers, almost soundlessly. "Very rarely. Otherwise you'd know that the Hekatoncheires[^5] are finding it harder and harder to hold back the pressure from Tartaros. And sooner or later, the Hundred-Handed may not be able to hold them back. On that day I'll be glad of any ally: one of the Family, a Half-Man, even a Lone Cleaner---so long as he knows how to kill for good. Junior is a tyrant and a despot, but on that day he'll be the foremost warrior. And you, Middle---won't you want to sit it out in your depths? Don't take offense, I'm just saying... In short, I wouldn't advise you to worry too much about the future fate of the Lone Cleaner. He's mortal---and that says it all, at least to me. What you should worry about are the ones gathering their strength down there, in Tartaros. As for your claims to power, they're none of my concern. I'm not reaching for power myself---I have enough as it is. And I won't report our conversation to Junior."
 
-[^5]: The Hundred-Handed, firstborn of Uranus the Sky and Gaia the Earth: Briareos, Gyges, and Kottos.
+[^5]: The Hundred-Handed, firstborn of Ouranos the Sky and Gaia the Earth: Briareos, Gyges, and Kottos.
 
 "At least there's that---thanks," Middle grumbles discontentedly. "Oh, Senior, you'll come to your senses---but it will be too late. Watch out you don't regret it later..."
 
-"I will, I will. And you watch out---don't hurt yourself: I can see here, but you---Ah, I did warn you! This is Erebus here, it's dangerous to shake the earth in this place..."
+"I will, I will. And you watch out---don't hurt yourself: I can see here, but you---Ah, I did warn you! This is Erebos here, it's dangerous to shake the earth in this place..."
 
 ::: {.big-scene-break}
 :::
@@ -183,7 +183,7 @@ For a while, Senior mulled over what he had heard.
 
 Hermeias was gone for quite a while, and Senior was beginning to wonder where the rascal had got to when, at last, the rustling sounded again, and the slightly out-of-breath messenger flopped down on the bank of the Styx beside Senior.
 
-"Strange doings, Sovereign," the Trickster was unusually serious, and this time it didn't occur to Senior to interrupt his nephew. "So I fly to the Moirai, I ask them---and they just throw up their hands. Nothing yet, they say, the thread hasn't been spun, the lot hasn't been drawn, let alone recorded. Naturally, I start pressing them---I'm thinking, the old women are hiding something!---and then, look, the thread starts moving on Clotho's spindle! And not just a thread, but a doubled, twisted one..."
+"Strange doings, Sovereign," the Trickster was unusually serious, and this time it didn't occur to Senior to interrupt his nephew. "So I fly to the Moirai, I ask them---and they just throw up their hands. Nothing yet, they say, the thread hasn't been spun, the lot hasn't been drawn, let alone recorded. Naturally, I start pressing them---I'm thinking, the old women are hiding something!---and then, look, the thread starts moving on Klotho's spindle! And not just a thread, but a doubled, twisted one..."
 
 "Twins," whispered Senior.
 

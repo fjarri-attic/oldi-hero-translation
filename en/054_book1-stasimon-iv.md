@@ -22,7 +22,7 @@ In the distance, arching the weary horizon, a sunset the color of clotted blood 
 
 Mother knows that this sunset always blazes here, yielding its place neither to night nor to dawn, for who knows how many hundred years now, if one counts time by mortal reckoning. The same sunset, the same ruins, the same wind burying them in pale blue sand; and the bronze-and-stone cliff, lifting the Son's dwelling on high---any moment now he will draw back the heavy velvet of the curtain, deep red, fringed with gilded threads...
 
-He drew back the heavy velvet of the curtain, deep red, fringed with gilded threads, he made a welcoming gesture, and Mother obediently stepped into chambers with coal-black walls, studded with scatterings of precious stones that shimmered in the torchlight like a thousand constellation-eyes of the ancient titan Argus, once Mother's servant.
+He drew back the heavy velvet of the curtain, deep red, fringed with gilded threads, he made a welcoming gesture, and Mother obediently stepped into chambers with coal-black walls, studded with scatterings of precious stones that shimmered in the torchlight like a thousand constellation-eyes of the ancient titan Argos, once Mother's servant.
 
 For a moment, the glints of light off the gems and the weapons hung along the walls dazzled her as she entered.
 
@@ -52,11 +52,11 @@ He himself sat down opposite, on the carved edge of the oaken one---also as alwa
 
 "And why should he interest me, if the much-vaunted hero has never once gone to war?"
 
-"Precisely, Ares! 'The greatest hero, equal to the Family, for whom Olympus waits at the end of his life'---he has not yet, by any deed, borne out the Thunderer's words! He's already eighteen---others at his age..."
+"Precisely, Ares! 'The greatest hero, equal to the Family, for whom Olympos waits at the end of his life'---he has not yet, by any deed, borne out the Thunderer's words! He's already eighteen---others at his age..."
 
 "You think Father's attempt has failed?"
 
-"Not necessarily. It may simply be that my Spouse and your Father has proven far cleverer and more practiced in intrigue than any of us believed. Perhaps he never meant to father a Lone Cleaner equal to the Family at all---Junior simply needed, for reasons of his own, for the Family to believe it. And the Family did believe it! And then the future hero, the hope of Olympus, began to suffer these strange fits. Who is to blame? I am, treacherous Hera; and everyone believes that too!"
+"Not necessarily. It may simply be that my Spouse and your Father has proven far cleverer and more practiced in intrigue than any of us believed. Perhaps he never meant to father a Lone Cleaner equal to the Family at all---Junior simply needed, for reasons of his own, for the Family to believe it. And the Family did believe it! And then the future hero, the hope of Olympos, began to suffer these strange fits. Who is to blame? I am, treacherous Hera; and everyone believes that too!"
 
 "Not everyone, mom," Son said quietly.
 
@@ -66,21 +66,21 @@ Mother flinched and fell silent for a while. Too rarely did her firstborn, helm-
 
 "What are you getting at, mom?"
 
-"Don't play the fool, Ares! The whole Family knows that only I, Middle, and you dare raise our voices in the Thunderer's presence! Why, why is it that of all my offspring, only you are capable of making decisions?! The lame Hephaestus cares for nothing but his ridiculous contraptions, and flighty Hebe is fit for nothing but pouring nectar for the guests!"
+"Don't play the fool, Ares! The whole Family knows that only I, Middle, and you dare raise our voices in the Thunderer's presence! Why, why is it that of all my offspring, only you are capable of making decisions?! The lame Hephaistos cares for nothing but his ridiculous contraptions, and flighty Hebe is fit for nothing but pouring nectar for the guests!"
 
 "Get to the point, mom," Ares's voice rang out, dangerous.
 
-"To the point? Very well. So: Junior doesn't care for objections; I, Poseidon, and you don't care for the Lone Cleaner; and the Cleaner himself, seized by a fit of madness ('Who sent it?'---Hera, of course!), is perfectly capable, say, of defiling Junior's temple or that of his favorite, Apollo, killing a dozen priests in the process! What then? Why, of course, my Spouse and your Father will punish the blasphemer---what else is left him but his thunderbolts?!---you and Poseidon will fade into the shadows, and that is when my turn will come! Who wove the plots? Who sent the madness? Who is to blame for the death of the great hero, the hope of Olympus? Sic her!"
+"To the point? Very well. So: Junior doesn't care for objections; I, Poseidon, and you don't care for the Lone Cleaner; and the Cleaner himself, seized by a fit of madness ('Who sent it?'---Hera, of course!), is perfectly capable, say, of defiling Junior's temple or that of his favorite, Apollo, killing a dozen priests in the process! What then? Why, of course, my Spouse and your Father will punish the blasphemer---what else is left him but his thunderbolts?!---you and Poseidon will fade into the shadows, and that is when my turn will come! Who wove the plots? Who sent the madness? Who is to blame for the death of the great hero, the hope of Olympos? Sic her!"
 
 "A great intrigue, mom... no less great than the promised hero. And has Father thought all this through in advance?"
 
-"Never underestimate your Father, my boy! You are a warrior, you ought to know what happens when you underestimate an opponent. And I have no wish to share the fate of Junior's first two wives---Metis and Leto! I have no wish to be reduced to some petty deity of three shabby little villages on the outskirts of the Peloponnese! Still less do I wish to end up in Tartarus... Don't forget, Son: once he's finished with me, Zeus will turn to you next! How many times has Junior said that if you weren't his son, you'd be flung down deeper than every Uranid?! So we'll meet down below, my boy, among the Fallen---you know yourself how Father feels about you, quite differently than about me..."
+"Never underestimate your Father, my boy! You are a warrior, you ought to know what happens when you underestimate an opponent. And I have no wish to share the fate of Junior's first two wives---Metis and Leto! I have no wish to be reduced to some petty deity of three shabby little villages on the outskirts of the Peloponnese! Still less do I wish to end up in Tartaros... Don't forget, Son: once he's finished with me, Zeus will turn to you next! How many times has Junior said that if you weren't his son, you'd be flung down deeper than every Ouranid?! So we'll meet down below, my boy, among the Fallen---you know yourself how Father feels about you, quite differently than about me..."
 
 "I know," Ares answered, his voice hollow.
 
 Yes, he knew.
 
-Since childhood, Mother had impressed upon him that he, the firstborn of Zeus and Hera, was the best, the bravest, the mostest... And, most importantly, the sole legitimate heir of the Thunderer (for surely one couldn't count that limping wretch Hephaestus as a rival?!), a pure-blooded Olympian, since his Father and Mother were brother and sister by blood, of the first generation of Cronus and Rhea's children.
+Since childhood, Mother had impressed upon him that he, the firstborn of Zeus and Hera, was the best, the bravest, the mostest... And, most importantly, the sole legitimate heir of the Thunderer (for surely one couldn't count that limping wretch Hephaistos as a rival?!), a pure-blooded Olympian, since his Father and Mother were brother and sister by blood, of the first generation of Kronos and Rhea's children.
 
 And that was true.
 
@@ -100,7 +100,7 @@ Alas, Ares Enyalios was nowhere near as dull-witted as Hermeias, or that same Mo
 
 Momos thought Ares couldn't hear.
 
-He heard. He understood that war was, in its own way, also a human sacrifice, and that the other beast at his puddle were the Fallen, cast down into Tartarus. Only the Fallen fed on the death of the particles of the Family's "I" dwelling in the minds of the dying; the Fallen got the defeated, while he, Ares, got the victors.
+He heard. He understood that war was, in its own way, also a human sacrifice, and that the other beast at his puddle were the Fallen, cast down into Tartaros. Only the Fallen fed on the death of the particles of the Family's "I" dwelling in the minds of the dying; the Fallen got the defeated, while he, Ares, got the victors.
 
 Though for the Family, that distinction seemed to make no difference.
 
@@ -143,6 +143,6 @@ Ares was alone. He was so alone that at times he began to hate his Mother (Fathe
 
 Left alone, Ares returned to the balustrade encircling the marble portico and stood looking down into the drop, where the wind played with the bluish sand and the ruins of the inhuman fortresses.
 
-"I grew up long ago, mom," he whispered quietly, smiling, "I grew up, and you never noticed... So let me have plans of my own for my life; even if they happen to coincide with yours in places. The Lone Cleaner and Ares the Lonely, brothers by their Father, the hope of Olympus and the outcast of the Family---might it not turn out that we find common ground sooner than anyone else even thinks to?.."
+"I grew up long ago, mom," he whispered quietly, smiling, "I grew up, and you never noticed... So let me have plans of my own for my life; even if they happen to coincide with yours in places. The Lone Cleaner and Ares the Lonely, brothers by their Father, the hope of Olympos and the outcast of the Family---might it not turn out that we find common ground sooner than anyone else even thinks to?.."
 
 The wind, gusting up to the portico, timidly touched a lock of hair on his bare head---only at home did Ares ever remove his famous horsehair-crested helmet, which hid almost his whole face.
