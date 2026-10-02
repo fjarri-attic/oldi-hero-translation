@@ -368,7 +368,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Фестиклей | Thesticles | Red-bearded/red-haired Orchomenian war-commander serving basileus Erginus, leads the militia; killed by Amphitryon's spear at the battle of ch. 061 |
 | Амфитрион-Изгнанник | Amphitryon the Exile | Settled since ch. 008; recurring epithet/nickname for Amphitryon |
 | лабрисса | labrys | Two-handed, double-bladed ceremonial/battle axe; kept transliterated |
-| сандалии-крепиды | crepidae sandals | A type of Greek sandal/boot; kept transliterated. Established since ch. 007/031 |
+| сандалии-крепиды | krepides sandals | A type of Greek sandal/boot; kept transliterated. Established since ch. 007/031 |
 | Нефела | Nephele | Goddess of clouds; drives her heavenly cattle across the sky (ch. 062, recurring ch. 072 as "богиня туч") |
 | талант | talent | Ancient unit of weight, roughly 26 kg; footnoted on first occurrence (ch. 063) |
 | Уран | Uranus | Father of Cronus, grandfather of Zeus (ch. 064) |
