@@ -275,7 +275,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Полидект | Polydektes | King of Seriphos who mocked Perseus |
 | Беллерофонт | Bellerophon | Hero who slew the Chimera |
 | Иобат-ликиец | Iobates from Lykia | King of Lykia who tried to send Bellerophon to Hades |
-| солимы | Solymi | Warlike people defeated by Bellerophon |
+| солимы | Solymoi | Warlike people defeated by Bellerophon |
 | Гея | Gaia | Goddess of Earth |
 | фарос | pharos | A type of mantle |
 | Ликомед | Lykomedes | Iphikles and Alkeides's childhood acquaintance in Thebes (chs. 043--044); not to be confused with the unrelated Ликомед (Скирос)/Lykomedes of Skyros introduced in ch. 111 |
@@ -421,7 +421,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | кумар | khumar | Slang term used by the Taphians for a craving/withdrawal-like state; kept transliterated, introduced in quotes in the original (ch. 069) |
 | Орхоменская война | the Orchomenian War | The war against Orchomenos, five years prior to ch. 070; cf. Орхомен/Orchomenos |
 | Луна-Селена | Selene the Moon | Paired epithet of Selene, common-noun-plus-name order reversed as elsewhere; Селена alone = Selene (ch. 070) |
-| Алкей Микенский | Alcaeus of Mycenae | Paired epithet form for Amphitryon's father |
+| Алкей Микенский | Alkaios of Mycenae | Paired epithet form for Amphitryon's father |
 | Ификлид | Iphiklid | Patronymic epithet, "son of Iphikles" |
 | Поликлей | Polykles | Fellow palaestra student. |
 | Фок | Phokos | Town drunkard who frequents the market (ch. 072) |
@@ -474,7 +474,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Арней | Arneus | Father of Megamede (ch. 078) |
 | Немейский лев | the Nemean lion | Invulnerable lion slain by Herakles in the first of his official Labors, per the rhapsodes' account (ch. 078) |
 | Стимфал / Стимфалийские птицы | Stymphalos / the Stymphalian birds | Region and its man-eating, bronze-beaked, arrow-feathered birds, driven off by Herakles with bronze tympana in one of his Labors (ch. 078) |
-| Лернейская Гидра | the Lernaean Hydra | Many-headed monster slain by Herakles with Iolaos's help, per the rhapsodes' account; one of the two labors Eurystheus later refused to count (ch. 078) |
+| Лернейская Гидра | the Lernaian Hydra | Many-headed monster slain by Herakles with Iolaos's help, per the rhapsodes' account; one of the two labors Eurystheus later refused to count (ch. 078) |
 | Авгиевы конюшни | the Augean stables | The stables cleaned by Herakles as one of his Labors; the other of the two labors Eurystheus later refused to count, since Herakles demanded payment for it (ch. 078) |
 | Гомер | Homer | The legendary blind poet, author of the Iliad and Odyssey; quoted in the exodos on Herakles's shade in Hades (ch. 078) |
 | Гебея | Hebe | Alternate/poetic form of Геба (Hebe), used in the Homeric quotation; cf. Гермий/Hermeias used interchangeably with Гермес/Hermes (ch. 078) |
@@ -485,7 +485,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Магомет | Muhammad | Referenced in the narrator's chronological aside, credited with the declaration "There is no god but Allah" (ch. 078) |
 | семивратные Фивы | seven-gated Thebes | Homeric-style epithet of Thebes; not a personal epithet, so not capitalized (ch. 080) |
 | гиксосы | the Hyksos | Historical Semitic-Asiatic people who ruled the Egyptian delta; invoked in a variation on the "uninvited guest" proverb (ch. 080) |
-| Флегры/Флегрейские Пустоши/Флегрейские Поля | the Phlegra/the Phlegraian Wastes/the Phlegraian Fields | The Gigantomachy's battlefield. |
+| Флегры/Флегрейские Пустоши/Флегрейские Поля | Phlegra/the Phlegraian Wastes/the Phlegraian Fields | The Gigantomachy's battlefield. |
 | Пожарища | the Burning Grounds | Poetic doublet for Флегры/Phlegra, echoing the literal meaning given in the footnote to Флегрейские поля (ch. 080) |
 | Мать-Гея | Mother Gaia | Paired epithet/invocation, order preserved from the original (cf. Гея-Земля/Gaia the Earth, which pairs the terms in reverse order) (ch. 080) |
 | Танат-Убийца | Thanatos the Killer | Paired epithet, dative "Танату-Убийце"; cf. Танат-Смерть/Thanatos the Death, Танат-Железносердый/Thanatos the Iron-Hearted (ch. 080) |
@@ -641,7 +641,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Тенедос | Tenedos | Island west of Troy, visible on the horizon (ch. 099) |
 | сикль | shekel | Hittite unit of currency, ~10 g of silver, 1/60 of a silver mina; footnoted in the original (ch. 099) |
 | Понт Эвксинский | the Euxine Pontus | Ancient Greek name for the Black Sea; kept transliterated rather than rendered as "Black Sea" (ch. 099) |
-| Скейские ворота | the Scaian Gates | Western entrance to Troy (ch. 099) |
+| Скейские ворота | the Skaian Gates | Western entrance to Troy (ch. 099) |
 | Ватиея | Batieia | Hill near Troy from which Trojan reinforcements come (ch. 099) |
 | Амфиарай-Вещий | Amphiaraos the Soothsayer | Paired epithet variant, distinct from Амфиарай-прорицатель/Amphiaraos the seer; rendered with a different English word per the established practice of varying translation for the author's distinct epithet variants (cf. Эврит-лучник/Эврит-стрелок) (ch. 099) |
 | Оиклей-арголидец | Oikles the Argolidian | Paired epithet of Oikles, demonym from Argolis (ch. 099) |
@@ -746,7 +746,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Ахелой | Acheloos | Aitolian river god whom Herakles defeats in a wrestling contest for Deianeira; footnoted on first occurrence per the original's endnote 83 (ch. 123) |
 | Приап | Priapos | Son of Dionysos and the nymph Chione (or Aphrodite); footnoted on first occurrence per the original's endnote 84 (ch. 124) |
 | кенотаф | cenotaph | "Empty grave" raised for those who died abroad, went missing, or lie unburied; glossed in-text by the author (ch. 124) |
-| Пройтидские / Электрийские / Нейские / Афинские / Бореадские / Гомолоидские ворота | the Proitid / Electran / Neitan / Athenian / Borraean / Homoloid Gates | Gates of seven-gated Thebes; standard English forms where they exist ("Athenian" is the authors' own, in place of the usual Ogygian). Plural "Gates," cf. Скейские ворота/the Scaian Gates (ch. 124) |
+| Пройтидские / Электрийские / Нейские / Афинские / Бореадские / Гомолоидские ворота | the Proitid / Elektran / Neitan / Athenian / Borraian / Homoloid Gates | Gates of seven-gated Thebes; standard English forms where they exist ("Athenian" is the authors' own, in place of the usual Ogygian). Plural "Gates," cf. Скейские ворота/the Skaian Gates (ch. 124) |
 | Телем-Фиванец | Telemos the Theban | Posthumous name of Telemos the Nobody, who died holding the Neitan Gates against the Argives; cf. Телем-Никакой/Telemos the Nobody (ch. 124) |
 | Мусор | the Mess | Capitalized; the Olympians' term for what the Cleaners (Мусорщики) clean up---the Fallen's offspring, the Gigantes, etc. |
 | Мачеха | Stepmother | Standalone form of Гера-Мачеха/Hera the Stepmother (ch. 124) |
@@ -762,7 +762,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Эвен | Euenos | River in the east of Aitolia (ch. 126) |
 | Несс / Несс-перевозчик / кентавр-перевозчик | Nessos / Nessos the ferryman / the centaur-ferryman | Centaur ferrying travelers across the Euenos, killed by Herakles (ch. 126) |
 | конечеловек | horse-man | Descriptive term for a centaur (ch. 126) |
-| лернейская желчь | Lernaean bile | The Hydra's venom on Herakles's arrows (ch. 126) |
+| лернейская желчь | Lernaian bile | The Hydra's venom on Herakles's arrows (ch. 126) |
 | Эрот | Eros | "Клянусь малюткой Эротом" → "By little Eros" (ch. 126) |
 | Гилл, Ктесипп, Глен, Онит | Hyllos, Ktesippos, Glenos, Onites | Deianeira's four sons by Herakles; standard mythological names (ch. 127) |
 | Макария | Makaria | Deianeira's daughter by Herakles (ch. 127) |
@@ -799,7 +799,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Крисы | Kirra | Original says «Крисы» (Crisa), an inland town near Delphi; used "Kirra" instead, since Kirra was the actual seaside harbor town serving Delphi, matching the narrative's description of a seaside location. The two were distinct but related places, easily conflated. |
 | Кадм | Kadmos |  |
 | Кадмея | Kadmeia | The inner fortress/citadel of Thebes |
-| Алкей | Alcaeus | Son of Perseus, father of Amphitryon |
+| Алкей | Alkaios | Son of Perseus, father of Amphitryon |
 | Алкид | Alkeides | The name Amphitryon gives the newborn Herakles ("Strong One"); used until he later takes the name Herakles |
 | Ификл | Iphikles | Alkeides/Herakles's twin brother, son of Amphitryon |
 | Диоскур (мн. Диоскуры) | Dioskouros (pl. Dioskouroi) | Kastor and Polydeukes, twin sons of Leda |

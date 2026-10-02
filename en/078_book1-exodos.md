@@ -20,7 +20,7 @@ Now it came to pass that after the battle with the Minyans Hercules was driven m
 But some say that Hercules, having quitted Thebes because of the burning of his children, joined himself to the Argonauts in their voyage, and was left behind by them in Mysia; for it was fated that the great son of Zeus should return to Tiryns and accomplish the labours appointed him. And Glaukos, the sea-god, declared this to the Argonauts; and Hermes escorted Hercules to the service of Eurystheus..."[^apollodorus]
 :::
 
-[^43]: Eurystheus refused to count two of Herakles's labors---the Lernaean Hydra and the Augean stables---since Herakles had not performed them alone, and for the stables he had even demanded payment; thus the ten labors became twelve, and their completion took twelve years.
+[^43]: Eurystheus refused to count two of Herakles's labors---the Lernaian Hydra and the Augean stables---since Herakles had not performed them alone, and for the stables he had even demanded payment; thus the ten labors became twelve, and their completion took twelve years.
 
 [^apollodorus]: All but the last paragraph are quoted from Apollodorus, *The Library*, translation by James G. Frazer (1921). The last paragraph is paraphrased from Apollonius, *The Argonautica*. [TN]
 
@@ -35,7 +35,7 @@ Without a shadow of doubt they will repeat, one after another, how Herakles drov
 
 Shaking their grey beards, they will tell how the hero beat on bronze tympana to drive the bronze-beaked, arrow-feathered birds out of Stymphalos, shooting down the flock with his bow---and for some reason it will trouble no one whether a man can shoot a bow while simultaneously beating a drum?!
 
-Their bald pates gleaming, they will report that Iolaos Iphiklid took part in the slaying of the Lernaean Hydra---forgetting to mention that Iolaos was not yet ten years old at the time, and never wondering how Iphikles Amphitryad could have let his underage son go on a deadly errand together with an uncle prone to fits, and after everything Alkeides had done in Thebes, no less!
+Their bald pates gleaming, they will report that Iolaos Iphiklid took part in the slaying of the Lernaian Hydra---forgetting to mention that Iolaos was not yet ten years old at the time, and never wondering how Iphikles Amphitryad could have let his underage son go on a deadly errand together with an uncle prone to fits, and after everything Alkeides had done in Thebes, no less!
 
 This tale is a fib...[^pushkin]?
 
