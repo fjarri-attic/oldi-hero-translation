@@ -114,7 +114,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Алкмена | Alcmene |  |
 | Ликимний | Licymnius | Alcmene's half-brother |
 | Телем / Гундосый | Telemos / Nasal | "Nasal" is Telemos's nickname, from his nasal voice, used alone or as "Telemos the Nasal" for "Телем-Гундосый" |
-| Филид | Philid |  |
+| Филид | Philides |  |
 | Электрион | Electryon | Father of Alcmene and Licymnius |
 | Персей | Perseus |  |
 | Панопей Фокидский | Panopeus of Phocis |  |
