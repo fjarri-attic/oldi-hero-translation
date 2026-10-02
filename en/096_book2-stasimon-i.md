@@ -96,7 +96,7 @@ The shade had grown pale, and Iphicles hastily held out the half-emptied rhyton 
 
 A shade, a ghost of a sigh.
 
-"Now listen," said the one once called Iphitos of Oechalia.
+"Now listen," said the one once called Iphitos of Oichalia.
 
 #### Antistrophe
 

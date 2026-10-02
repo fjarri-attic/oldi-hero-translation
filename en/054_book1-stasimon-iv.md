@@ -62,7 +62,7 @@ He himself sat down opposite, on the carved edge of the oaken one---also as alwa
 
 Mother flinched and fell silent for a while. Too rarely did her firstborn, helm-flashing Ares, the god of war, call her that: mom...
 
-"Then the hero's fits of madness seem to pass," she went on, gathering her thoughts, "the Cleaner grows up quite peacefully on that Cithaeron of his, under the guardianship of Junior's cronies, grows up---and then what? Nothing! Where are the promised feats, where are the slain monsters, where the felled giants and defeated enemies?! There are none! Isn't it because he isn't a hero at all, this half-man?! Isn't it because Junior needs him for something else entirely?!"
+"Then the hero's fits of madness seem to pass," she went on, gathering her thoughts, "the Cleaner grows up quite peacefully on that Kithairon of his, under the guardianship of Junior's cronies, grows up---and then what? Nothing! Where are the promised feats, where are the slain monsters, where the felled giants and defeated enemies?! There are none! Isn't it because he isn't a hero at all, this half-man?! Isn't it because Junior needs him for something else entirely?!"
 
 "What are you getting at, mom?"
 
@@ -120,7 +120,7 @@ Ares was alone. He was so alone that at times he began to hate his Mother (Fathe
 
 "War."
 
-"I thought as much. Otherwise you wouldn't have come to me. And I even understand why it must be war. There are no monsters near Cithaeron, and dragging the Half-Man across the whole of Boeotia... he'll be recognized. So---war."
+"I thought as much. Otherwise you wouldn't have come to me. And I even understand why it must be war. There are no monsters near Kithairon, and dragging the Half-Man across the whole of Boeotia... he'll be recognized. So---war."
 
 "So---war."
 

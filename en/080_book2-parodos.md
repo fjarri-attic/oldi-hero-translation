@@ -106,7 +106,7 @@ He looked past Hermeias to where the web of the Dromos had lately shimmered---an
 
 "What?!" The Trickster nearly jumped. "What did you say?!"
 
-"What you heard! I figured it out seventeen years ago. At Orchomenus."
+"What you heard! I figured it out seventeen years ago. At Orchomenos."
 
 "And you kept quiet? All this time---quiet?!"
 

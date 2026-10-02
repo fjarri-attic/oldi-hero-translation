@@ -162,7 +162,7 @@ Hermeias was silent, stunned.
 
 "Hope?" Hades smiled bitterly. "You speak like a mortal. And that is why for you there is still hope. As for the rest... I don't know. Perhaps our last hope is he. Heracles. The one who is here. The one who kept the real memory. That means someone remembers the real Heracles, too. And along with him---us. The real us. There's a reason they say Heracles held up the sky with the gods on his shoulders. He's holding it even now, Hermeias."
 
-"If he wants to leave, Kerberos will let him out," the Trickster said, his voice trembling. "And, wagging the snake that serves the foolish dog for a tail, will see him off as far as Cape Taenarum."
+"If he wants to leave, Kerberos will let him out," the Trickster said, his voice trembling. "And, wagging the snake that serves the foolish dog for a tail, will see him off as far as Cape Tainaron."
 
 "He will," Hades nodded. "Only he won't leave. Have you seen them?"
 
