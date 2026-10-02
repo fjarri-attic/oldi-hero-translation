@@ -134,9 +134,9 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | эписодий | epeisodion | Greek tragedy structural term, kept transliterated as section heading |
 | Геракл | Heracles | Using the Greek and not the Roman version of the name |
 | Сила | Strength | The capitalized version, as something Heracles is a personification of. |
-| Эльпистик | Elphistic |  |
-| Трезенец | Troezenian | An epithet of Elphistic ("from Troezen", used with "the"). |
-| Энония | Oenonia | The wife of Elphistic. Not to be confused with Oenona, the wife of Paris |
+| Эльпистик | Elpisticos |  |
+| Трезенец | Troezenian | An epithet of Elpisticos ("from Troezen", used with "the"). |
+| Энония | Oenonia | The wife of Elpisticos. Not to be confused with Oenona, the wife of Paris |
 | Пантифлей-Речной | Pantelis the River-God |  |
 | Птерелай | Pterelaos | Taphos king; not to be confused with the unrelated one-eyed Orchomenian war-commander of the same name. |
 | Птерелай-Циклоп / Циклоп-Птерелай | Pterelaos the Cyclops / Cyclops Pterelaos | One-eyed Orchomenian war-commander serving basileus Erginus. |
@@ -389,7 +389,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Гея-Земля | Gaia the Earth | Paired epithet of Gaia (ch. 065) |
 | Тезей | Theseus | Young hero, son of Poseidon; called "Мусорщик Посейдона" / "Poseidon's Cleaner" (ch. 065) |
 | Трезен | Troezen | A city |
-| трезенец | from Troezen | Theseus's epithet, standard "from which city" denominator. Not to be confused with Эльпистик Трезенец/Elphistic the Troezenian, whose epithet is capitalized in the original and is most likely a patronymic or a nickname. |
+| трезенец | from Troezen | Theseus's epithet, standard "from which city" denominator. Not to be confused with Эльпистик Трезенец/Elpisticos the Troezenian, whose epithet is capitalized in the original and is most likely a patronymic or a nickname. |
 | Арг-корабел | Argus the shipwright | Builder of the Argo in Iolcus; not to be confused with Аргус Панопт/Argus Panoptes (ch. 065) |
 | Колхида | Colchis | Destination of the Argonauts' voyage (ch. 065) |
 | Золотое Руно | the Golden Fleece | Object of the Argonauts' quest (ch. 065) |
