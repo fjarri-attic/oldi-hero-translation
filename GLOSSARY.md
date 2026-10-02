@@ -560,8 +560,8 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Каллироэ | Callirhoe | Oceanid, mother of Geryon by Chrysaor the Golden Bow (ch. 089) |
 | Сфено | Stheno | One of the three Gorgon sisters, still living; cf. Медуза/Medusa (ch. 089) |
 | Эвриала | Euryale | One of the three Gorgon sisters, still living; cf. Медуза/Medusa (ch. 089) |
-| Эвритион | Eurytion | The Gigas who herded Geryon's cattle on Erythia; named in the author's endnote to Эрифия/Erythia, glossed there as "kinsman of Eurytus" (ch. 089) |
-| Орф | Orthrus | The two-headed hound guarding Geryon's cattle on Erythia; named in the author's endnote to Эрифия/Erythia (ch. 089) |
+| Эвритион | Eurytion | The Gigas who herded Geryon's cattle on Erytheia |
+| Орф | Orthrus | The two-headed hound guarding Geryon's cattle on Erytheia |
 | Проной | Pronous | Spartan suitor of Iole, peer of the twins; face monstrously burned, apparently a distant kinsman of Hippocoon (ch. 090) |
 | Лейод | Leodes | Cretan suitor of Iole; handsome and sly, somewhat girlish in manner (ch. 090) |
 | Иола-ойхаллийка | Iole the Oechalian | Feminine paired epithet for Iole, cf. Ифит-Ойхаллиец/Iphitus the Oechalian (ch. 090) |
