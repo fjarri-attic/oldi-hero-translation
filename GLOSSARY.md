@@ -126,7 +126,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Парнас | Parnassus |  |
 | Фокида | Phocis |  |
 | Дельфы | Delphi |  |
-| Гекатомбеон | Hecatombeon | Summer month name |
 | басилей | basileus | Mycenaean petty king/ruler title. |
 | лавагет | lawagetas | A war commander. |
 | порны | pornai | Greek term for prostitutes (πόρναι). |
@@ -819,3 +818,4 @@ This section contains the terms with another possible spelling (generally a choi
 | Эакид | Aeacid | Aiakid | Patronymic epithet, "son of Aeacus" |
 | Кербер | Cerberus | Kerberos | Hound of Hades; used here in a simile |
 | Главк | Glaucus | Glaukos | A sea-god. |
+| Гекатомбеон | Hecatombaeon | Hekatombaion | Summer month name |
