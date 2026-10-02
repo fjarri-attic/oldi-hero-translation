@@ -117,7 +117,7 @@ Hermeias pretended not to notice, and went on:
 
 "And what has he done this time?"
 
-"Nothing!" Trickster burst out. "That's just it---nothing! Five years, and not-a-sin-gle-thing! In Iolkos, Argus the shipwright has laid the keel of a ship, and all the heroes of Hellas are gathering for Colchis, after the Golden Fleece; even seventeen-year-old Theseus, Poseidon's Cleaner, is going with them... And not just Theseus---among Middle's other sons there's Euphemus, and Erginos; then Boreas's sons Zetes and Calais, Dionysus's Cleaners Phanos and Staphylos, Augeas Heliad, Ialmenos and Askalaphos Areads, Palaemon Hephaestid, the Dioscuri, divine Orpheus, and my own Autolycus, and---"
+"Nothing!" Trickster burst out. "That's just it---nothing! Five years, and not-a-sin-gle-thing! In Iolkos, Argus the shipwright has laid the keel of a ship, and all the heroes of Hellas are gathering for Colchis, after the Golden Fleece; even seventeen-year-old Theseus, Poseidon's Cleaner, is going with them... And not just Theseus---among Middle's other sons there's Euphemos, and Erginos; then Boreas's sons Zetes and Kalais, Dionysus's Cleaners Phanos and Staphylos, Augeas Heliad, Ialmenos and Askalaphos Areads, Palaimon Hephaestid, the Dioscuri, divine Orpheus, and my own Autolycus, and---"
 
 "Stop!" the Sovereign barked. "How many of them are there in all?!"
 
@@ -223,7 +223,7 @@ And in mournful echo:
 
 "Which child?"
 
-"Iolaus. His grandson, son of Iphicles and Automedusa. That way Amphitryon will be in Thebes, close to the twins, and yet---beyond suspicion."
+"Iolaus. His grandson, son of Iphicles and Automedousa. That way Amphitryon will be in Thebes, close to the twins, and yet---beyond suspicion."
 
 "You're cruel, uncle."
 

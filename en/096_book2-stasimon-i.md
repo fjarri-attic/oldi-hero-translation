@@ -76,9 +76,9 @@ The traveler gives an involuntary start and, with a strange, pained expression, 
 
 Something in between.
 
-"Yes, I want to know, teacher. Only it wasn't I who stood with you on the wall of Tiryns. I am Iphicles, not Alcides. Alcides is in Maeonia[^59] now, with Omphale of Lydia---men and gods believe that Heracles is atoning for the sin of unintentionally killing you, Iphitos the archer; I, though, hope that he's atoning for his madness... and that he'll atone for it once and for all. But let's not speak of that aloud, even here..."
+"Yes, I want to know, teacher. Only it wasn't I who stood with you on the wall of Tiryns. I am Iphicles, not Alcides. Alcides is in Maionia[^59] now, with Omphale of Lydia---men and gods believe that Heracles is atoning for the sin of unintentionally killing you, Iphitos the archer; I, though, hope that he's atoning for his madness... and that he'll atone for it once and for all. But let's not speak of that aloud, even here..."
 
-[^59]: The ancient name for Lydia; the "Maeonians" were the local tribes, its native population.
+[^59]: The ancient name for Lydia; the "Maionians" were the local tribes, its native population.
 
 "I don't blame Alcides,"---a sorrowful rustle, an echo, a reverberation---"I saw Lyssa the Rage in his eyes when he stepped toward me, not understanding who stood before him, or whether anyone stood before him at all... no, I don't blame your brother."
 
@@ -100,7 +100,7 @@ A shade, a ghost of a sigh.
 
 #### Antistrophe
 
-"You know from Alcides how we---the younger kinsmen of Salmoneus's brethren---fathered the Gigantes. But for us, and for *them*, the very word 'Gigantes' seemed like an unfunny joke. For these were children---helpless, squalling infants, strange in some ways, great in others, flawed in still others---but children. *Our children*. I remember those days well, when the ones born on Phlegrae survived; days of some impossible, unreal happiness, when even the blackness of doom that had always lived in the eyes of Stheno and Euryale vanished, when Chrysaor the Golden Bow, son of Medusa, was not ashamed of his tears; while I, Phyleus, son of Augeas, Podarces the Trojan, and Three-Bodied Geryon danced a mad, furious, divine dance... I remember those days well.
+"You know from Alcides how we---the younger kinsmen of Salmoneus's brethren---fathered the Gigantes. But for us, and for *them*, the very word 'Gigantes' seemed like an unfunny joke. For these were children---helpless, squalling infants, strange in some ways, great in others, flawed in still others---but children. *Our children*. I remember those days well, when the ones born on Phlegrae survived; days of some impossible, unreal happiness, when even the blackness of doom that had always lived in the eyes of Stheno and Euryale vanished, when Chrysaor the Golden Bow, son of Medusa, was not ashamed of his tears; while I, Phyleus, son of Augeas, Podarkes the Trojan, and Three-Bodied Geryon danced a mad, furious, divine dance... I remember those days well.
 
 I remember them even here, where I remember nothing.
 
