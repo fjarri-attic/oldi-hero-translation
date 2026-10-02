@@ -96,9 +96,9 @@ A burning torch, a spear, and a predatory kite became his attributes.
 
 His "I" absorbed all of it, forging it into strength---*his strength*!---but the Family turned silently away from Ares. He became an outcast, a degenerate one was forced to reckon with. To his face, true, no one dared say so---people avoided even looking him in the eye.
 
-Alas, Ares Enyalios was nowhere near as dull-witted as Hermeias, or that same Momus the Mocker, supposed. He saw the disgust on the faces of his kin and grew hardened, plunging headlong into war, into the whirlpool of destruction; he came to find in it a peculiar, grim pleasure. Once, sharp-tongued Momus compared him to a beast of prey that laps greedily at blood from a puddle, not noticing that another beast crouches at the puddle's far edge.
+Alas, Ares Enyalios was nowhere near as dull-witted as Hermeias, or that same Momos the Mocker, supposed. He saw the disgust on the faces of his kin and grew hardened, plunging headlong into war, into the whirlpool of destruction; he came to find in it a peculiar, grim pleasure. Once, sharp-tongued Momos compared him to a beast of prey that laps greedily at blood from a puddle, not noticing that another beast crouches at the puddle's far edge.
 
-Momus thought Ares couldn't hear.
+Momos thought Ares couldn't hear.
 
 He heard. He understood that war was, in its own way, also a human sacrifice, and that the other beast at his puddle were the Fallen, cast down into Tartarus. Only the Fallen fed on the death of the particles of the Family's "I" dwelling in the minds of the dying; the Fallen got the defeated, while he, Ares, got the victors.
 
@@ -124,7 +124,7 @@ Ares was alone. He was so alone that at times he began to hate his Mother (Fathe
 
 "So---war."
 
-"Wait, mom, I'm not finished. You're truly stepping out from under the blow, putting me in its path instead. I have no love for Momus, but when they tried to marry him off, he refused, adding: 'I've always wondered why the most quarrelsome woman in the Family is patroness of marriage and hearth?!'"
+"Wait, mom, I'm not finished. You're truly stepping out from under the blow, putting me in its path instead. I have no love for Momos, but when they tried to marry him off, he refused, adding: 'I've always wondered why the most quarrelsome woman in the Family is patroness of marriage and hearth?!'"
 
 "And you forgave him for that?!"
 

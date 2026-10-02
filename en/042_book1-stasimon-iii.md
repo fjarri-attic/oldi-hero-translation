@@ -79,9 +79,9 @@ Two hazy silhouettes, two shades... no, shades have no place here---they should 
 
 "Next?" the Sovereign fell silent for a moment, as though gathering his thoughts. "Very well. Listen on.
 
-"Cronus the Timekeeper had just then overthrown his father Uranus, gelding him, and the Fallen quickly understood whom to bet on. They began giving Cronus wise counsel---the kind Momus the Mocker gives..."
+"Cronus the Timekeeper had just then overthrown his father Uranus, gelding him, and the Fallen quickly understood whom to bet on. They began giving Cronus wise counsel---the kind Momos the Mocker gives..."
 
-"I know, uncle, where following the counsel of Momus, truthful through lies, leads."
+"I know, uncle, where following the counsel of Momos, truthful through lies, leads."
 
 "So do I. So do others. But that's now. Back then, Cronus took a great liking to the Fallen's idea: to become lord of the titans, Gaia's children! To give credit where it's due---the titans themselves hardly objected. After all, great, if young in years, Cronus was Gaia's favorite, the conqueror of Uranus...
 

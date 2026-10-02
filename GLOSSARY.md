@@ -111,7 +111,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Стикс | Styx |  |
 | Тифон | Typhon |  |
 | Тартар | Tartarus |  |
-| Нот | Notus | South wind |
+| Нот | Notos | South wind |
 | Гелиос | Helios |  |
 | Пегас | Pegasus | One of Medusa's children |
 | Хрисаор Золотой Лук | Chrysaor the Golden Bow | One of Medusa's children |
@@ -175,7 +175,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Танат-Смерть | Thanatos the Death | Paired epithet (elsewhere plain "Танат" = "Thanatos") |
 | Ахерон | Acheron | River of the underworld |
 | Эол | Aeolus | God/lord of the winds |
-| Зефир | Zephyrus | West wind |
+| Зефир | Zephyros | West wind |
 | Борей | Boreas | North wind |
 | Борей-воитель | [...] the Warrior | An epithet of Boreus. |
 | Гиперборея | Hyperborea |  |
@@ -267,7 +267,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Ата-Обман | Ate the Deception | Paired epithet, personification of delusion/ruin |
 | Лисса-Безумие | Lyssa the Rage | Paired epithet, personification of rage/madness |
 | Дика-Правда | Dike the Justice | Paired epithet, personification of justice |
-| Мом | Momus | God of mockery and slander; footnoted on first occurrence with the author's own endnote definition |
+| Мом | Momos | God of mockery and slander; footnoted on first occurrence with the author's own endnote definition |
 | Гермий-Рогач | Hermeias the Cuckold |  |
 | Химера | the Chimera | Monster; referenced in a simile ("howled like a wounded Chimera") |
 | Сериф | Seriphos | Island where Perseus grew up |
@@ -341,7 +341,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Рея | Rhea | Mother of Zeus, Hera, Poseidon, Hades, etc.; wife of Cronus |
 | Ураниды | Uranids | Descendants of Uranus |
 | Геба | Hebe | Goddess of youth, cupbearer to the gods; daughter of Zeus and Hera, called "вертихвостка" (flighty) here |
-| Мом-насмешник | Momus the Mocker | Paired epithet of Momus (cf. plain Мом / Momus) |
+| Мом-насмешник | Momos the Mocker | Paired epithet of Momos (cf. plain Мом / Momos) |
 | Беотия | Boeotia | Region of Greece where Thebes and Cithaeron lie |
 | Пелопоннес | Peloponnese |  |
 | Киферонский Людоед | the Man-Eater of Cithaeron | The lion hunted and killed by Alcides and Iphicles; capitalized as a proper epithet-name. Recurs in later chapters, including a mocking feminine coinage "Киферонская Людоедка" applied to a field mouse. |
@@ -437,7 +437,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Алкид-безумец | Alcides the madman | Paired epithet of Alcides, used during his period of madness/exile; lowercase "the madman," cf. Алкид-сумасброд/Alcides the madcap (established ch. 072, recurring ch. 075) |
 | пеплос | peplos | Ancient Greek women's mantle/garment; kept transliterated, cf. хитон/chiton, гиматий/himation, фарос/pharos, эксомида/exomis (established ch. 006, footnoted there; not previously in glossary) |
 | хламида | chlamys | Ancient Greek short cloak; kept transliterated, cf. пеплос/peplos (ch. 075) |
-| Эвр | Eurus | East(-southeast) wind, brother of Zephyrus, Notus, and Boreas; footnoted on first occurrence (ch. 075) |
+| Эвр | Euros | East(-southeast) wind, brother of Zephyros, Notos, and Boreas; footnoted on first occurrence (ch. 075) |
 | Крит | Crete | Island, Rhadamanthys's homeland before his exile (ch. 075) |
 | Мизия | Mysia | Region of Anatolia, near which the *Argo* is sailing (ch. 075) |
 | Лемнос | Lemnos | Island where the *Argo* makes a stop (ch. 075) |
@@ -662,13 +662,13 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Родос | Rhodes | Island in the Aegean |
 | Горгона Медуза | Medusa the Gorgon | Name + group epithet, used the form established in English. |
 | Флегрейский Дромос | the Phlegraean Dromos | A Dromos (see Дромос/Dromos) leading to Phlegrae |
-| высокогремящий | High-Thunderer | Vocative epithet Momus uses addressing Zeus directly; cf. the established Дий Высокогремящий/Dias the High-Thundering (ch. 102) |
-| Скипетродержец | Scepter-Bearer | Epithet of Zeus, used by Momus (ch. 102) |
+| высокогремящий | High-Thunderer | Vocative epithet Momos uses addressing Zeus directly; cf. the established Дий Высокогремящий/Dias the High-Thundering (ch. 102) |
+| Скипетродержец | Scepter-Bearer | Epithet of Zeus, used by Momos (ch. 102) |
 | Ника-Победа | Nike the Victory | An epithet of Nike. |
 | Халкодонт | Chalcodon | Red-haired goatherd on Kos, son of Antisthenes; leads the islanders' ambush against Heracles's landing party (ch. 103) |
 | Антисфен | Antisthenes | Chalcodon's father, also red-haired ("рыжий Антисфен") (ch. 103) |
 | Эврипил | Eurypylus | Basileus of Kos. |
-| Мом-Эвбулей | Momus Eubouleus | An epithet of Momus (transliterated). |
+| Мом-Эвбулей | Momos Eubouleus | An epithet of Momos (transliterated). |
 | Аластор | Alastor | Demon of corruption and the evil eye dwelling in Hades. |
 | Дикте | Dikte | One of the Uranids/Titans, in disguise as an old crone. |
 | Флегры/Флегрейские Пустоши/Флегрейские Поля | the Phlegrae/the Phlegraean Wastes/the Phlegraen Fields | The Gigantomachy's battlefield. |
