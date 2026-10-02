@@ -72,11 +72,11 @@ And so shades would seize the bodies of the living, trying to bend them to their
 
 To finish building, to finish loving... to avenge!
 
-That is why Charon the Ferryman---a child of Erebus born old---never carries anyone back; that is why the three-headed, dragon-tailed hound Cerberus keeps ceaseless watch over the exit of Hades---the *exit*, mind you, not the *entrance*, for who would willingly come to the kingdom of the dead, and having come, manage to lose himself in it?
+That is why Charon the Ferryman---a child of Erebus born old---never carries anyone back; that is why the three-headed, dragon-tailed hound Kerberos keeps ceaseless watch over the exit of Hades---the *exit*, mind you, not the *entrance*, for who would willingly come to the kingdom of the dead, and having come, manage to lose himself in it?
 
 The Sovereign sees all there is to see, in Erebus.
 
-Cerberus is not needed for guests. He is needed so that shades do not go running toward the light, guided by the very best of intentions---and everyone knows where that road leads.
+Kerberos is not needed for guests. He is needed so that shades do not go running toward the light, guided by the very best of intentions---and everyone knows where that road leads.
 
 Here.
 
@@ -84,7 +84,7 @@ But old memory burns the shades like swallowed coals, and a longing that finds n
 
 That is why the souls of the dead are led past the White Rock of Oblivion, why they are given to drink from Lethe, so that memory of their former life will leave them, so that they will wander in the gloom, remembering nothing, regretting nothing, and yearning toward nothing.
 
-Only sacrificial blood can, for a time, return memory to the shades; but Charon cannot be bribed, Cerberus cannot be swayed, and the shades forget their past, and once more trudge obediently back into the gloom...
+Only sacrificial blood can, for a time, return memory to the shades; but Charon cannot be bribed, Kerberos cannot be swayed, and the shades forget their past, and once more trudge obediently back into the gloom...
 
 Still, today the Sovereign broke his own law for the first time.
 

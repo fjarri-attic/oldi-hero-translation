@@ -122,7 +122,7 @@ The one they called Sister suddenly fell silent. When she spoke again, her voice
 
 No answer came.
 
-"What, decided to hide from me? Take off the helmet and get over here. Or I'll call Cerberus to chase you around, you fool..."
+"What, decided to hide from me? Take off the helmet and get over here. Or I'll call Kerberos to chase you around, you fool..."
 
 Something stirred in the niche---and in the gloom a face faintly emerged, followed by the dimly glowing outline of the Trickster's slender figure (which appeared somewhat later than the face), and some bulky object in his right hand.
 
@@ -154,7 +154,7 @@ The Trickster snorted scornfully.
 
 "I know. Even when they're made to you and me, even when they're made to the Thunderer---they go down. Into Tartarus. And feed the Fallen."
 
-"Exactly. So raise your voice at Cerberus, uncle---he's guarding badly, too busy chasing fleas! And tell Charon---he'd better check his ferry more carefully... he'll miss a runaway shade!"
+"Exactly. So raise your voice at Kerberos, uncle---he's guarding badly, too busy chasing fleas! And tell Charon---he'd better check his ferry more carefully... he'll miss a runaway shade!"
 
 "You frighten me, Hermeias. And I am not easily frightened... but I am careful. And I have great hopes for the child who is to be born today. If Junior hasn't made a mistake..."
 
