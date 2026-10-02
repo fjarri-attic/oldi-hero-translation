@@ -210,14 +210,14 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Фиест | Thyestes |  |
 | Пелопид | Pelopid | Descendant of Pelops (like Atreus and Thyestes) |
 | Горгоноубийца | Gorgon-Slayer | An epithet of Perseus |
-| Ифит | Iphitus | Eldest son of Eurytus, basileus of Oechalia; an archer |
-| Ойхаллия | Oechalia | City on Euboea, Eurytus's kingdom |
+| Ифит | Iphitos | Eldest son of Eurytos, basileus of Oechalia; an archer |
+| Ойхаллия | Oechalia | City on Euboea, Eurytos's kingdom |
 | Лин | Linus | Legendary kitharode, referenced as a standard of excellence |
 | Эвбея | Euboea |  |
-| Эврит | Eurytus | Basileus of Oechalia, famed archer; father of Iphitus and Iole. Also called "Эврит-лучник" / "Eurytus the archer" |
-| Иола | Iole | Eurytus's foretold future daughter, prophesied to become the future wife of Alcmene's son (Heracles) |
-| Миртил | Myrtilus | Current teacher of Alcides and Iphicles in archery |
-| Мунит | Munit | Eurytus's deliberately dismissive/mocking mangling of "Myrtil" 's name, used twice |
+| Эврит | Eurytos | Basileus of Oechalia, famed archer; father of Iphitos and Iole. Also called "Эврит-лучник" / "Eurytos the archer" |
+| Иола | Iole | Eurytos's foretold future daughter, prophesied to become the future wife of Alcmene's son (Heracles) |
+| Миртил | Myrtilos | Current teacher of Alcides and Iphicles in archery |
+| Мунит | Mounitos | Eurytos's deliberately dismissive/mocking mangling of "Myrtil" 's name, used twice |
 | килик | kylix | Ancient Greek drinking cup; the author's own endnote glosses it simply as "a ladle-shaped drinking cup"---footnoted on first occurrence |
 | вакханка (мн. вакханки) | bacchante (pl. bacchantes) |  |
 | Своя / Свой | Kinswoman / Kinsman | Recognition term used between followers of the Fallen (Titans); gendered address, capitalized like a title |
@@ -308,7 +308,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Арго | *Argo* | The legendary twenty-five-oared ship. Italicized on use. |
 | митаннийский | Mitannian | From Mitanni, a state in Anatolia |
 | сатириск | satyrisk | A young/lesser satyr |
-| Фороней | Phoroneus | A young satyrisk in Dionysus's retinue, wounded in the ear by Iphitus. Later called "колчеухий" ("notch-eared"), referring to this old wound. |
+| Фороней | Phoroneus | A young satyrisk in Dionysus's retinue, wounded in the ear by Iphitos. Later called "колчеухий" ("notch-eared"), referring to this old wound. |
 | бассариды | bassarids | Female followers of Dionysus (= maenads/bacchantes), named for the "bassaris" garment; kept transliterated, lowercase |
 | напея (мн. напеи) | napaea (pl. napaeae) | Nymphs of glens/valleys (as opposed to лимнады, meadow nymphs) |
 | Майя-Плеяда | Maia the Pleiad | Paired epithet of Maia, mother of Hermes by Zeus |
@@ -528,7 +528,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | пифос (мн. пифосы) | pithos (pl. pithoi) | Large Greek storage jar for wine, oil, grain, etc.; kept transliterated like хитон/chiton, гиматий/himation, etc.; no footnote in the original at first occurrence, so none added (ch. 083) |
 | Навплион | Nauplia | Port city in the Argolid; standard English rendering of the ancient name (also "Nauplion"); mentioned in passing as the site of a dice game (ch. 083) |
 | дамат (мн. даматы) | damate (pl. damates) | Oechalian courtiers, trusted men of the basileus; kept transliterated like басилей/basileus, ванакт/wanax, лавагет/lawagetas; no footnote in the original at first occurrence, so none added (ch. 084) |
-| Ифит-лучник | Iphitus the archer | Paired epithet of Iphitus, cf. Эврит-лучник/Eurytus the archer; lowercase "the archer" (ch. 084) |
+| Ифит-лучник | Iphitos the archer | Paired epithet of Iphitos, cf. Эврит-лучник/Eurytos the archer; lowercase "the archer" (ch. 084) |
 | Амфитрион-лавагет | Amphitryon the lawagetas | Paired epithet of Amphitryon; cf. лавагет/lawagetas (ch. 084) |
 | Гиппокоонт | Hippokoon | Spartan basileus, one of Iole's suitors; brought nine or ten sons to Oechalia (ch. 084) |
 | Нелей | Neleus | Wanax of Pylos, one of Iole's suitors; brought a dozen sons to Oechalia (ch. 084) |
@@ -538,9 +538,9 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Гесиона | Hesione | Laomedon's daughter, saved by Heracles from a sea monster (ch. 084) |
 | Илион | Ilion | Alternate name of Troy, named for Ilus (Laomedon's father), as Troy was named for Tros (Ilus's father, Laomedon's grandfather); footnoted on first occurrence (ch. 085) |
 | илионец | Ilian | Demonym for a native of Ilion, i.e. Troy; used alongside троянец/Trojan as a (pointless, since Ilion = Troy) distinction in Lichas's joke (ch. 085) |
-| Ифит-Ойхаллиец | Iphitus the Oechalian | Paired epithet of Iphitus, cf. Ифит-лучник/Iphitus the archer; capitalized "the Oechalian" as a proper demonym (ch. 085) |
-| Эврит-стрелок | Eurytus the marksman | Variant paired epithet for Eurytus, distinct from the established Эврит-лучник/Eurytus the archer; both forms occur in the same chapter, so rendered with different English words to preserve the author's lexical variation (ch. 086) |
-| Эврит Ойхаллийский | Eurytus of Oechalia | Paired epithet of Eurytus (ch. 086) |
+| Ифит-Ойхаллиец | Iphitos the Oechalian | Paired epithet of Iphitos, cf. Ифит-лучник/Iphitos the archer; capitalized "the Oechalian" as a proper demonym (ch. 085) |
+| Эврит-стрелок | Eurytos the marksman | Variant paired epithet for Eurytos, distinct from the established Эврит-лучник/Eurytos the archer; both forms occur in the same chapter, so rendered with different English words to preserve the author's lexical variation (ch. 086) |
+| Эврит Ойхаллийский | Eurytos of Oechalia | Paired epithet of Eurytos (ch. 086) |
 | владыка (мн. владыки) | lord(s) | Generic address/reference for the assembled basileis and wanaxes in ch. 086; not to be confused with the capitalized epithet Владыка/Lord (Hades's epithet, established earlier) |
 | богоравный | god-equal | Standing epithet of Heracles ("богоравный Геракл"/"god-equal Heracles"), distinct from the unrelated "godlike" used elsewhere as a looser descriptor (cf. ch. 081) |
 | Форбант-лапиф | Phorbas the Lapith | Mythical bandit chief, Augeas's true father per rumor; robbed pilgrims on the roads of Phocis and was wounded by an arrow of Apollo for burning the temple of Delphi (ch. 086) |
@@ -550,18 +550,18 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | ритон | rhyton | Sacred vessel for pouring libations to the gods; footnoted on first occurrence per the original's endnote 49 (ch. 086) |
 | возница | driver | Cf. established Иолай-возничий/Iolaus the driver; "возница" is a synonym used here for the same role, translated the same way for consistency. Note: the original's closing wordplay ("возница---тот, кто везет" / "возница---тот, кому везет," playing on "везёт" meaning both "drives/carries" and "is lucky") is rendered in English as "one who drives" vs. "one whom fortune drives," preserving the repetition of "drive" rather than the Russian pun exactly (ch. 086) |
 | Мнемозина | Mnemosyne | Titaness of Memory, Hermeias's aunt. He calls her "тетка" (aunt)---literally true, and also echoing the Russian idiom "голод не тётка" ("hunger is no aunt," i.e. no joke/won't be trifled with); Iolaus's rejoinder "мне память---не тетка" plays on the same idiom. Rendered literally as "aunt" throughout; the idiom's proverbial force doesn't carry over into English (ch. 087) |
-| Эвритид | Eurytid | Patronymic epithet, "son of Eurytus". |
+| Эвритид | Eurytid | Patronymic epithet, "son of Eurytos". |
 | абанты | Abantes | Ethnic group, native inhabitants of Euboea (ch. 088) |
 | Орхоменская битва | the battle with Orchomenus | Iolaus's passing comparison ("покажется детским лепетом"); distinct wording from the already-established Орхоменская война/the Orchomenian War (ch. 070), likely referring to the same conflict (ch. 088) |
 | лекиф | lekythos | A vessel, used here as a ladle for scooping water; footnoted on first occurrence per the original's endnote 50, which the author glosses simply as "a ladle" (ch. 089) |
-| Лаодамия | Laodamia | Daughter of Akastos, one of two girls attending Iolaus's bath at Eurytus's court; later, wife of Protesilaus (ch. 089) |
+| Лаодамия | Laodamia | Daughter of Akastos, one of two girls attending Iolaus's bath at Eurytos's court; later, wife of Protesilaus (ch. 089) |
 | Акаст | Akastos | Argonaut, present basileus of Iolcus; Laodamia's father (ch. 089) |
 | Фессалия | Thessaly | Region of Greece; homeland of Laodamia (ch. 089) |
 | Темпейская долина | the Vale of Tempe | Fertile valley in Thessaly, proverbial for the beauty of its women (ch. 089) |
 | Тиро | Tyro | Thessalian woman; Salmoneus's daughter and Neleus's mother in this text's genealogy (ch. 089) |
 | Салмоней-Безумец | Salmoneus the Madman | Elean ruler who proclaimed himself Zeus and was destroyed, city and all, by the real Zeus; paired epithet (ch. 089) |
 | Салмонеево братство | the Brotherhood of Salmoneus | Secret fellowship of basileis and wanaxes, descended from or devoted to Salmoneus, conspiring against the Olympians (ch. 089) |
-| Миртил-фиванец | Myrtilus the Theban | Epithet distinguishing this Myrtilus's origin; recounts how, after tying an archery contest with Ifitus 28 years earlier, he offered himself in sacrifice/service to the infant Alcides---apparently the same Myrtilus later established as Alcides and Iphicles's archery teacher (cf. Миртил/Myrtilus) (ch. 089) |
+| Миртил-фиванец | Myrtilos the Theban | Epithet distinguishing this Myrtilos's origin; recounts how, after tying an archery contest with Ifitus 28 years earlier, he offered himself in sacrifice/service to the infant Alcides---apparently the same Myrtilos later established as Alcides and Iphicles's archery teacher (cf. Миртил/Myrtilos) (ch. 089) |
 | Гигантомахия | the Gigantomachy | The war between the Olympian gods and the Gigantes (ch. 089) |
 | Эрифия | Erytheia | The purple island of the Sunset beyond the stream of Ocean, Geryon's home; footnoted on first occurrence per the original's endnote 51 (ch. 089) |
 | Каллироэ | Callirhoe | Oceanid, mother of Geryon by Chrysaor the Golden Bow (ch. 089) |
@@ -571,8 +571,8 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Орф | Orthrus | The two-headed hound guarding Geryon's cattle on Erytheia |
 | Проной | Pronous | Spartan suitor of Iole, peer of the twins; face monstrously burned, apparently a distant kinsman of Hippokoon (ch. 090) |
 | Лейод | Leodes | Cretan suitor of Iole; handsome and sly, somewhat girlish in manner (ch. 090) |
-| Иола-ойхаллийка | Iole the Oechalian | Feminine paired epithet for Iole, cf. Ифит-Ойхаллиец/Iphitus the Oechalian (ch. 090) |
-| Эврит-Одержимый | Eurytus the Possessed | Paired epithet of Eurytus, reflecting the archery-obsessed intensity that overtakes him here; cf. Одержимый Тартаром/the Tartarus-Possessed for the established rendering of «одержимый» (ch. 090) |
+| Иола-ойхаллийка | Iole the Oechalian | Feminine paired epithet for Iole, cf. Ифит-Ойхаллиец/Iphitos the Oechalian (ch. 090) |
+| Эврит-Одержимый | Eurytos the Possessed | Paired epithet of Eurytos, reflecting the archery-obsessed intensity that overtakes him here; cf. Одержимый Тартаром/the Tartarus-Possessed for the established rendering of «одержимый» (ch. 090) |
 | Асклепий | Asclepius | Son of Apollo, earthly god of healing; said to be currently staying in Athens (ch. 092) |
 | Молиона | Molione | Augeas's sister; bears the Three-Bodied Geryon's conjoined twins, who survive and are raised in Elis by Augeas (ch. 092) |
 | Нестор | Nestor | Son of Neleus of Pylos; here revealed as one of the fathers among the Possessed (ch. 092) |
@@ -601,7 +601,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Кевтоним | Keuthonymos | Menoites's father; named in the endnote to Менет/Menoites (ch. 096) |
 | Меония | Maeonia | Ancient name for Lydia; footnoted on first occurrence per the original's endnote 59 (ch. 096) |
 | Омфала Лидийская | Omphale of Lydia | Queen of Lydia to whom Alcides is bonded in servitude during the events of this chapter (ch. 096) |
-| Ифит Ойхаллийский | Iphitus of Oechalia | Paired epithet of Iphitus, cf. Эврит Ойхаллийский/Eurytus of Oechalia; distinct from Ифит-Ойхаллиец/Iphitus the Oechalian (ch. 096) |
+| Ифит Ойхаллийский | Iphitos of Oechalia | Paired epithet of Iphitos, cf. Эврит Ойхаллийский/Eurytos of Oechalia; distinct from Ифит-Ойхаллиец/Iphitos the Oechalian (ch. 096) |
 | Одержимые (стандартная форма) | the Possessed | Standalone/shortened form of Одержимый Тартаром/the Tartarus-Possessed, used without "Тартаром" when context makes the referent clear (ch. 096) |
 | Салмонеевы братья | Salmoneus's brethren | Refers to the same cult as Салмонеево братство/the Brotherhood of Salmoneus (ch. 096) |
 | Филей | Phyleus | A son of Augeas (ch. 096) |
@@ -685,7 +685,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Клитий | Klytios | The Gigas Hephaestus killed by hurling red-hot stones at him (ch. 109) |
 | Мимант | Mimas | The Gigas Hecate burned to death with her torch (ch. 109) |
 | Ипполит | Hippolytus | The Gigas slain by an unseen Hermes (presumably while wearing the Hades's helm, cf. ch. 108); distinct from the Amazon queen Ипполита/Hippolyta (ch. 109) |
-| Эврит (Гигант) | Eurytus | One of the Gigantes at Phlegrae, killed by Dionysus with a thyrsus; shares the established rendering of Эврит/Eurytus (cf. Эврит Ойхаллийский/Eurytus of Oechalia)---the corpse Iolaus finds and asks about by this name in ch. 108 is presumably this same Gigas, per the novel's device of doubling mythic figures among the Family's giant-children (ch. 108/109) |
+| Эврит (Гигант) | Eurytos | One of the Gigantes at Phlegrae, killed by Dionysus with a thyrsus; shares the established rendering of Эврит/Eurytos (cf. Эврит Ойхаллийский/Eurytos of Oechalia)---the corpse Iolaus finds and asks about by this name in ch. 108 is presumably this same Gigas, per the novel's device of doubling mythic figures among the Family's giant-children (ch. 108/109) |
 | Порфирион | Porphyrion | King of the Gigantes, struck down into the dust by the Thunderer/Zeus (ch. 109) |
 | Сицилия | Sicily | Island Athena hurled onto the fleeing Enkelados; also named among the lands the Olympians "heaped upon their enemies" (ch. 109) |
 | Пергамский алтарь | the Pergamon Altar | Hellenistic altar at Pergamon, famed for its sculpted Gigantomachy frieze; cf. established Пергам/Pergamon (ch. 109) |
@@ -719,7 +719,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Эрифила | Eriphyle | Wife of Amphiaraus and half-sister of Adrastus; Amphiaraus swore to obey her in everything, and she blessed the war against Thebes after being bribed with the Necklace of Harmonia (ch. 115) |
 | ожерелье Гармонии | the Necklace of Harmonia | Cursed wedding gift of Aphrodite to Harmonia, wife of Cadmus; footnoted on first occurrence with the author's own endnote 80 (ch. 115) |
 | Гармония | Harmonia | Wife of Cadmus, the founder of Thebes; appears only in the name of the necklace (ch. 115) |
-| Ктеат | Kteatos | One of the two Molionids, together with Эврит/Eurytus; the author's hint that the Molionid Eurytus may be the same as the Gigas Эврит (Гигант)/Eurytus (ch. 115) |
+| Ктеат | Kteatos | One of the two Molionids, together with Эврит/Eurytos; the author's hint that the Molionid Eurytos may be the same as the Gigas Эврит (Гигант)/Eurytos (ch. 115) |
 | Актор | Aktor | Augeas's brother, named among the people's guesses at the Molionids' true father (ch. 115) |
 | Писы / Пис | Pisa | City in Elis near Olympia, where the fighting against Augeas is taking place; the soldier says he comes "из-под Пис" ("from near Pisa"); standard English form of the name (ch. 116) |
 | Алфей | Alpheus | River in Elis, dammed by Heracles to clean the Augean stables; footnoted on first occurrence with the author's own endnote 81 (ch. 116) |
@@ -740,7 +740,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Клеоны | Cleonae | Town on the road from Elis to the Isthmos, where Heracles waylays the Molionids (ch. 120) |
 | львиная шкура | lionskin | Heracles's signature garment |
 | омфал | omphalos | The sacred stone at Delphi, "the navel of the earth"; glossed in-text by the author ("омфал, пуп земли"/"the omphalos, the navel of the earth") (ch. 122) |
-| Эврисфей-Микенец | Eurystheus the Mycenaean | Paired epithet of Eurystheus, cf. Эврисфей Сфенелид/Eurystheus Sthenelid; demonym capitalized, cf. Ифит-Ойхаллиец/Iphitus the Oechalian (ch. 122) |
+| Эврисфей-Микенец | Eurystheus the Mycenaean | Paired epithet of Eurystheus, cf. Эврисфей Сфенелид/Eurystheus Sthenelid; demonym capitalized, cf. Ифит-Ойхаллиец/Iphitos the Oechalian (ch. 122) |
 | Деянира | Deianira | Sister of Meleager, whom Heracles intends to marry (ch. 122) |
 | Линкей | Lynceus | Plain form, one of the Apharetids with his brother Idas; cf. Линкей-остроглаз/Lynceus the Sharp-eyed (ch. 122) |
 | Иолай-Бешеный | Iolaus the Mad | Paired epithet of Iolaus from his years as Heracles's driver, "бешеный" = mad, frenzied, reckless; cf. Иолай-возничий/Iolaus the driver, Амфитрион-Изгнанник/Amphitryon the Exile (ch. 123) |

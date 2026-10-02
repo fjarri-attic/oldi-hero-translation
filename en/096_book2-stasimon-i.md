@@ -62,13 +62,13 @@ The black droplets flare up, the hall grows lighter for an instant---and now the
 
 The shade has caught the scent of sacrificial blood.
 
-"Drink, Iphitus the archer," the man says, quietly and sorrowfully. "Drink, and let your memory return to you, if only for a little while."
+"Drink, Iphitos the archer," the man says, quietly and sorrowfully. "Drink, and let your memory return to you, if only for a little while."
 
 And he raises the rhyton with its glistening liquid to the very lips of the shade.
 
-The one called Iphitus the archer falls upon the rhyton greedily---yet, for all his haste, not a drop of the somber drink spills onto the stone floor, and before his eyes the incorporeal shade begins to look like a man; thin, strong fingers close around the wrists of the one offering the sacrifice, not letting him pull back the coveted rhyton; and the traveler, who had at first stepped back, mutters:
+The one called Iphitos the archer falls upon the rhyton greedily---yet, for all his haste, not a drop of the somber drink spills onto the stone floor, and before his eyes the incorporeal shade begins to look like a man; thin, strong fingers close around the wrists of the one offering the sacrifice, not letting him pull back the coveted rhyton; and the traveler, who had at first stepped back, mutters:
 
-"Your hands are cold, Iphitus the archer, but they're growing warm. Drink as much as you want, because I need to know..."
+"Your hands are cold, Iphitos the archer, but they're growing warm. Drink as much as you want, because I need to know..."
 
 "You want to know what I didn't have time to finish telling you then, on the wall of Tiryns?" A quiet, rustling voice comes from nowhere and from every side at once.
 
@@ -76,7 +76,7 @@ The traveler gives an involuntary start and, with a strange, pained expression, 
 
 Something in between.
 
-"Yes, I want to know, teacher. Only it wasn't I who stood with you on the wall of Tiryns. I am Iphicles, not Alcides. Alcides is in Maeonia[^59] now, with Omphale of Lydia---men and gods believe that Heracles is atoning for the sin of unintentionally killing you, Iphitus the archer; I, though, hope that he's atoning for his madness... and that he'll atone for it once and for all. But let's not speak of that aloud, even here..."
+"Yes, I want to know, teacher. Only it wasn't I who stood with you on the wall of Tiryns. I am Iphicles, not Alcides. Alcides is in Maeonia[^59] now, with Omphale of Lydia---men and gods believe that Heracles is atoning for the sin of unintentionally killing you, Iphitos the archer; I, though, hope that he's atoning for his madness... and that he'll atone for it once and for all. But let's not speak of that aloud, even here..."
 
 [^59]: The ancient name for Lydia; the "Maeonians" were the local tribes, its native population.
 
@@ -92,11 +92,11 @@ Something in between.
 
 The shade had grown pale, and Iphicles hastily held out the half-emptied rhyton to his former teacher. This time the shade drank unhurriedly, without greed or pleasure, the way one drinks a bitter but necessary medicine.
 
-"My thanks,"---Iphitus the archer pushed away the rhyton, at the bottom of which something still remained, and Iphicles thought he heard a faint sigh.
+"My thanks,"---Iphitos the archer pushed away the rhyton, at the bottom of which something still remained, and Iphicles thought he heard a faint sigh.
 
 A shade, a ghost of a sigh.
 
-"Now listen," said the one once called Iphitus of Oechalia.
+"Now listen," said the one once called Iphitos of Oechalia.
 
 #### Antistrophe
 
@@ -131,7 +131,7 @@ The sacrifices of the Gigantes are gods! Or those of the same tribe as the gods:
 ::: {.small-scene-break}
 :::
 
-...The shade of Iphitus was weeping, though there were no tears, and soundless sobs shook the phantom's chest. Taking the proffered rhyton, the shade drained the rest of it in one gulp, and the sacrificial blood mixed with honey and barley once more filled the bodiless creature with some semblance of life.
+...The shade of Iphitos was weeping, though there were no tears, and soundless sobs shook the phantom's chest. Taking the proffered rhyton, the shade drained the rest of it in one gulp, and the sacrificial blood mixed with honey and barley once more filled the bodiless creature with some semblance of life.
 
 ::: {.small-scene-break}
 :::

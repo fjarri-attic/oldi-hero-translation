@@ -120,7 +120,7 @@ Lately he was always cold.
 
 "I haven't forgotten."
 
-"And now... now there are two of them. Two---and yet it is one shade. Or two, after all? I can make nothing of it. And you haven't seen, Hermeias, how he gathers them all: Orpheus, Castor, Alcmene, Megara, Linus, others... My herdsman Menoites, son of Keuthonymos, meekly brings yet another black cow, helps make the offering---and then sits for hours in the circle of the revived shades, listening to their talk. I have seen it: behind their backs, next to Iphitus the archer, there always stands one more shade, just as tall, only it never comes near the fire---not even when Medusa comes, or Geryon...
+"And now... now there are two of them. Two---and yet it is one shade. Or two, after all? I can make nothing of it. And you haven't seen, Hermeias, how he gathers them all: Orpheus, Castor, Alcmene, Megara, Linus, others... My herdsman Menoites, son of Keuthonymos, meekly brings yet another black cow, helps make the offering---and then sits for hours in the circle of the revived shades, listening to their talk. I have seen it: behind their backs, next to Iphitos the archer, there always stands one more shade, just as tall, only it never comes near the fire---not even when Medusa comes, or Geryon...
 
 "Believe me, Trickster---not once have I tried to interfere! I cannot. It is astonishing, it is unworthy of a god, but the feeling of guilt is more terrible than any curse known to me!.."
 
