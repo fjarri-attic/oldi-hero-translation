@@ -82,7 +82,7 @@ Lately he was always cold.
 
 "Nothing. Now it no longer matters---the Fallen, the Family, or the One. When you don't know a god but only believe in him, it is easier to believe in One than in many. We forbade ourselves to appear in the world of men, we stopped quarreling with them, loving them and hating them, we escaped many dangers and cares---but the day is near when we simply won't be able to open a Dromos to Gaia, even if we want to."
 
-"And yet people still make sacrifices to Heracles," the Trickster remarked, somewhat out of place.
+"And yet people still make sacrifices to Herakles," the Trickster remarked, somewhat out of place.
 
 "To that one?" Hades asked, to be sure. "Or..."
 
@@ -102,11 +102,11 @@ Lately he was always cold.
 
 "Does he remember his brother?"
 
-"Barely. I had a brother, he says, Iphicles his name was, I think... Here one day, gone the next. And where he got to---I don't know. Died, probably."
+"Barely. I had a brother, he says, Iphikles his name was, I think... Here one day, gone the next. And where he got to---I don't know. Died, probably."
 
 "And his father?"
 
-"He considers Zeus his father! I dropped him a hint---and barely managed to slip away afterwards, out of harm's way! And the Family is happy; a Heracles like that suits them just fine..."
+"He considers Zeus his father! I dropped him a hint---and barely managed to slip away afterwards, out of harm's way! And the Family is happy; a Herakles like that suits them just fine..."
 
 "You didn't tell them about the shade, of course?"
 
@@ -116,11 +116,11 @@ Lately he was always cold.
 
 "You?!"
 
-"I, Hermeias. Because the kingdom of shades is *I*, Lord Hades, Senior. But since the day Heracles's shade appeared here, it is no longer quite *I*. It is *I*---and *He*. Because he does not lose his memory! He drinks from Lethe, walks past the White Rock a hundred times a day---and remembers everything! You haven't forgotten, Trickster, how surprised we were when, after Iphicles died, his shade did not come here, and you couldn't find it on Gaia either?!"
+"I, Hermeias. Because the kingdom of shades is *I*, Lord Hades, Senior. But since the day Herakles's shade appeared here, it is no longer quite *I*. It is *I*---and *He*. Because he does not lose his memory! He drinks from Lethe, walks past the White Rock a hundred times a day---and remembers everything! You haven't forgotten, Trickster, how surprised we were when, after Iphikles died, his shade did not come here, and you couldn't find it on Gaia either?!"
 
 "I haven't forgotten."
 
-"And now... now there are two of them. Two---and yet it is one shade. Or two, after all? I can make nothing of it. And you haven't seen, Hermeias, how he gathers them all: Orpheus, Castor, Alcmene, Megara, Linus, others... My herdsman Menoites, son of Keuthonymos, meekly brings yet another black cow, helps make the offering---and then sits for hours in the circle of the revived shades, listening to their talk. I have seen it: behind their backs, next to Iphitos the archer, there always stands one more shade, just as tall, only it never comes near the fire---not even when Medusa comes, or Geryon...
+"And now... now there are two of them. Two---and yet it is one shade. Or two, after all? I can make nothing of it. And you haven't seen, Hermeias, how he gathers them all: Orpheus, Kastor, Alkmene, Megara, Linos, others... My herdsman Menoites, son of Keuthonymos, meekly brings yet another black cow, helps make the offering---and then sits for hours in the circle of the revived shades, listening to their talk. I have seen it: behind their backs, next to Iphitos the archer, there always stands one more shade, just as tall, only it never comes near the fire---not even when Medusa comes, or Geryon...
 
 "Believe me, Trickster---not once have I tried to interfere! I cannot. It is astonishing, it is unworthy of a god, but the feeling of guilt is more terrible than any curse known to me!.."
 
@@ -134,7 +134,7 @@ Silence.
 
 "Lichas? Why?!"
 
-"I don't know. Perhaps because he never leaves Heracles's side by a single step---just as he never left it there. Perhaps because he loved him more than anyone, forgiving him even his own death."
+"I don't know. Perhaps because he never leaves Herakles's side by a single step---just as he never left it there. Perhaps because he loved him more than anyone, forgiving him even his own death."
 
 "Loved him---more than anyone?"
 
@@ -142,13 +142,13 @@ Silence.
 
 Then they sat for a long time without uttering a word.
 
-"And still I can't understand why Heracles kept his memory!" The Trickster suddenly struck his knee with his fist. "I don't know what would have been better for him; but understand it---I can't! Why did it turn out this way, Sovereign?! Because there are two of them? Or because he is the shade of a god?!"
+"And still I can't understand why Herakles kept his memory!" The Trickster suddenly struck his knee with his fist. "I don't know what would have been better for him; but understand it---I can't! Why did it turn out this way, Sovereign?! Because there are two of them? Or because he is the shade of a god?!"
 
 "Perhaps, Hermeias. Anything is possible. But you put it well---the shade of a god... Do we have shades, Trickster? Nothing to say?"
 
 "Nothing."
 
-"Wise of you. For if the Heracles who now drinks nectar on Olympus and sleeps with Hebe remembers only what has been preserved of him in people's memory, in myths and legends---and that is all he remembers!---then perhaps it was people who made him that way?! And the real memory of the two twin brothers, Alcides and Iphicles---is it here, in Erebus? And is that exactly why his shade forgets nothing?! But then I ask myself a question: people made a new god named Heracles; their memory raised him to Olympus. And I ask myself a second question, Hermeias: who made us?!"
+"Wise of you. For if the Herakles who now drinks nectar on Olympus and sleeps with Hebe remembers only what has been preserved of him in people's memory, in myths and legends---and that is all he remembers!---then perhaps it was people who made him that way?! And the real memory of the two twin brothers, Alkeides and Iphikles---is it here, in Erebus? And is that exactly why his shade forgets nothing?! But then I ask myself a question: people made a new god named Herakles; their memory raised him to Olympus. And I ask myself a second question, Hermeias: who made us?!"
 
 "What do you mean, who?!" The Trickster nearly fell off the stone he was sitting on. "Really, uncle, the things you say! Had a few gulps too many from Lethe?! Uranus and Gaia, the Titans, Cronus, then you, the elder generation, then us, your children..."
 
@@ -160,7 +160,7 @@ Hermeias was silent, stunned.
 
 "And is there no hope at all?" Hermeias asked quietly.
 
-"Hope?" Hades smiled bitterly. "You speak like a mortal. And that is why for you there is still hope. As for the rest... I don't know. Perhaps our last hope is he. Heracles. The one who is here. The one who kept the real memory. That means someone remembers the real Heracles, too. And along with him---us. The real us. There's a reason they say Heracles held up the sky with the gods on his shoulders. He's holding it even now, Hermeias."
+"Hope?" Hades smiled bitterly. "You speak like a mortal. And that is why for you there is still hope. As for the rest... I don't know. Perhaps our last hope is he. Herakles. The one who is here. The one who kept the real memory. That means someone remembers the real Herakles, too. And along with him---us. The real us. There's a reason they say Herakles held up the sky with the gods on his shoulders. He's holding it even now, Hermeias."
 
 "If he wants to leave, Kerberos will let him out," the Trickster said, his voice trembling. "And, wagging the snake that serves the foolish dog for a tail, will see him off as far as Cape Tainaron."
 

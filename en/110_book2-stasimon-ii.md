@@ -40,11 +40,11 @@ That was the kind of voice it was.
 
 "Who am I?" the man asks.
 
-"You? You are Heracles, and today I am speaking to both of you at once."
+"You? You are Herakles, and today I am speaking to both of you at once."
 
-The man named Heracles understands: yes, it is true. The voice from *that* side is speaking today for two, for both twin brothers who, in this moment, are called---Heracles.
+The man named Herakles understands: yes, it is true. The voice from *that* side is speaking today for two, for both twin brothers who, in this moment, are called---Herakles.
 
-"Then who are you?" Heracles asks.
+"Then who are you?" Herakles asks.
 
 "I am your distant forefather. Once I was called Cronus, Master of Time; now I am called Cronus the Fallen."
 
@@ -58,7 +58,7 @@ The man named Heracles understands: yes, it is true. The voice from *that* side 
 
 "And it's you who's been driving me mad for four decades straight, making me kill the innocent?!"
 
-It seems that Heracles will not be able to bear it, that he will kick the plank door off its hinges and walk in there, where there is nothing, not even time, but where, all the same, something exists.
+It seems that Herakles will not be able to bear it, that he will kick the plank door off its hinges and walk in there, where there is nothing, not even time, but where, all the same, something exists.
 
 Walk in, to take the Fallen by the throat.
 
@@ -68,11 +68,11 @@ Walk in, to take the Fallen by the throat.
 
 "Hear me out, and don't interrupt. You turned out to be a failed attempt both for us and for the Olympians. You, as a person, were never taken into account by anyone. In his time, my son Zeus was the first to make a brilliant discovery: he understood that you, mortals, could be used---and he used you. But neither the Family nor the Fallen ever regarded you as an independent force, as a possible ally or opponent... Sacrifices to the Olympian gods, sacrifices to the Fallen in Tartarus---that was all that was ever required of you."
 
-"Human sacrifices," Heracles adds quietly.
+"Human sacrifices," Herakles adds quietly.
 
 "Human ones too," Cronus agrees. "But understand: we never considered you our equals! After all, do men torment themselves with pangs of conscience when they cut down stalks of wheat, or slaughter a ram?! It has nothing to do with us; it is so, and will remain so, whether we wish it or not."
 
-Heracles is silent.
+Herakles is silent.
 
 "Well then," he says at last, "if it has nothing to do with you, then it has everything to do with us, with mortals. For it is we, not the gods and the Fallen, who sacrifice one another. But the stream of sacrificial blood flowing from our veins has run far shallower these last years---do you feel it, Cronus the Fallen, my forefather?! I tried very hard... And I hope that a day will come when mortals stop dying on the altars."
 
@@ -80,13 +80,13 @@ Heracles is silent.
 
 "You?! Together with me?! After you gave the order to create the Gigantes, and I shot them down at Phlegrae?!"
 
-"Answer me, Heracles---do you know what those unfortunate children the Achaeans called the Gigantes were meant for?"
+"Answer me, Herakles---do you know what those unfortunate children the Achaeans called the Gigantes were meant for?"
 
 "They were meant to destroy the Family. To sacrifice it to themselves. I know that."
 
 "But do you know what was supposed to happen *after*? If our attempt had succeeded, and the Gigantes had sacrificed the gods to themselves? Do you know what the Possessed of the Brotherhood of Salmoneus did not know?!"
 
-Heracles is silent.
+Herakles is silent.
 
 "The disintegrating 'I' of the Olympians would have entered the unripened Gigantes---and torn their souls apart, the way a hatching butterfly tears its cocoon, or a fledgling cracks the shell of its egg."
 
@@ -96,39 +96,39 @@ Heracles is silent.
 
 A pause.
 
-"We hoped," rustles out of the murk, "we hoped very much that we would manage to take shape in our descendants, brimming with the power of the great sacrifice. But you, Heracles, our first failed attempt, a mortal, a Cleaner---you kept us from returning and taking the Olympians' place. And I am grateful to you for it."
+"We hoped," rustles out of the murk, "we hoped very much that we would manage to take shape in our descendants, brimming with the power of the great sacrifice. But you, Herakles, our first failed attempt, a mortal, a Cleaner---you kept us from returning and taking the Olympians' place. And I am grateful to you for it."
 
 "Grateful? For leaving you in Tartarus?!"
 
-"Yes. I, Cronus the Fallen, am grateful to Heracles. I have understood a great deal in this recent time---time that does not exist here, but that has not yet forgotten the days when I ruled over it... Do you remember, I told you that we regarded you the way you regard a wheat field, or a herd being fattened for slaughter? But would you ever speak with an ear of wheat, or a witless ram?! Would I have spoken with you at all, if I had not changed my opinion?"
+"Yes. I, Cronus the Fallen, am grateful to Herakles. I have understood a great deal in this recent time---time that does not exist here, but that has not yet forgotten the days when I ruled over it... Do you remember, I told you that we regarded you the way you regard a wheat field, or a herd being fattened for slaughter? But would you ever speak with an ear of wheat, or a witless ram?! Would I have spoken with you at all, if I had not changed my opinion?"
 
-"And what is it now, your opinion?" Heracles's voice sounds faintly mocking, but Cronus does not notice it.
+"And what is it now, your opinion?" Herakles's voice sounds faintly mocking, but Cronus does not notice it.
 
 Or pretends not to.
 
 "I think that you, mortals, are a third force, a new race, worthy of taking your place on Gaia. The Family is on Olympus, the Fallen are in Tartarus, and you live and die on Earth, so that it is you who are its true masters. But even among the Fallen, few agree with me; so what is there to say of the Olympians?! No good comes from the jealous Family..."
 
-"I don't expect any," Heracles throws back menacingly. "Not from the Family, and not from you."
+"I don't expect any," Herakles throws back menacingly. "Not from the Family, and not from you."
 
-"That's right. But we are far away. The Olympians are closer. And they think faster. Not always, but---often enough. It was their idea, after all---mortal Cleaners, half-men capable of killing beings like us for good... In creating the Gigantes, we merely borrowed the Family's idea. What's more, being in Tartarus gives us certain advantages---no Heracles could ever reach us there to put an end to the Fallen! But upon breaking free, we, in whom everything has burned away save the thirst for vengeance and freedom (but vengeance first of all)---oh, we would most certainly upset any balance! I fear that even the Hundred-Handed could do little to help the world then---and I am, after all, a son of Mother Gaia, and I do not wish so savage a fate upon her."
+"That's right. But we are far away. The Olympians are closer. And they think faster. Not always, but---often enough. It was their idea, after all---mortal Cleaners, half-men capable of killing beings like us for good... In creating the Gigantes, we merely borrowed the Family's idea. What's more, being in Tartarus gives us certain advantages---no Herakles could ever reach us there to put an end to the Fallen! But upon breaking free, we, in whom everything has burned away save the thirst for vengeance and freedom (but vengeance first of all)---oh, we would most certainly upset any balance! I fear that even the Hundred-Handed could do little to help the world then---and I am, after all, a son of Mother Gaia, and I do not wish so savage a fate upon her."
 
 The door creaked, trembled... and stayed where it was.
 
-"Let everything remain as it is," Cronus goes on. "We will wait. We know how to wait. Tell me, Heracles---do you remember a certain Attam[^74], whom you kept from sacrificing his own son to a god?"
+"Let everything remain as it is," Cronus goes on. "We will wait. We know how to wait. Tell me, Herakles---do you remember a certain Attam[^74], whom you kept from sacrificing his own son to a god?"
 
-[^74]: The Greek pronunciation of the name "Abraham." On his way for the apples of the Hesperides, Heracles passed through Palestine, where he stopped Attam (Abraham) from sacrificing his own son Akab (Jacob) to a god. Heracles's companions explained to Attam that the mighty "Achivite" (as the Achaeans were called in Palestine) was a son of a god, and his messenger. [This is the authors' intentional mystification. Translated as is. [TN]]
+[^74]: The Greek pronunciation of the name "Abraham." On his way for the apples of the Hesperides, Herakles passed through Palestine, where he stopped Attam (Abraham) from sacrificing his own son Akab (Jacob) to a god. Herakles's companions explained to Attam that the mighty "Achivite" (as the Achaeans were called in Palestine) was a son of a god, and his messenger. [This is the authors' intentional mystification. Translated as is. [TN]]
 
-"I remember," Heracles smiles. "I had to give the long-bearded stubborn old fool a good pounding before he agreed to replace the boy with a ram."
+"I remember," Herakles smiles. "I had to give the long-bearded stubborn old fool a good pounding before he agreed to replace the boy with a ram."
 
 "And which god did this stubborn Attam worship?" Cronus asks, insinuatingly.
 
-"Did I have time to ask?!" Heracles is puzzled. "Dias, I suppose, Zeus... who else would it be?!"
+"Did I have time to ask?!" Herakles is puzzled. "Dias, I suppose, Zeus... who else would it be?!"
 
 "Dias," Cronus pronounces slowly and distinctly, stressing every sound, "Deus[^75]... no, my child, this Attam did not worship Zeus, but an altogether different god. Attam's people call this God by many names, but that is not what matters."
 
 [^75]: The name Zeus actually sounds more like "Dzeus."
 
-"A barbarian..." Heracles mutters, shrugging with distaste.
+"A barbarian..." Herakles mutters, shrugging with distaste.
 
 "What matters is that for them, this God is the One."
 
@@ -144,13 +144,13 @@ The door creaked, trembled... and stayed where it was.
 
 "Isn't it a bit early to be counting mortals among your allies, Cronus the Fallen?"
 
-"Perhaps. Perhaps mortals will find yet another path, where there will be room for neither us, nor the Family, nor the One... And the earnest of that is the myth of Heracles. Of the mortal who crushed monsters and Gigantes; of the one who gave way to no god, and without whom the Olympians would have been powerless before those who came from the Netherworld. Whether you ascend to Olympus or simply die---I wish this myth a long and happy life. And now..."
+"Perhaps. Perhaps mortals will find yet another path, where there will be room for neither us, nor the Family, nor the One... And the earnest of that is the myth of Herakles. Of the mortal who crushed monsters and Gigantes; of the one who gave way to no god, and without whom the Olympians would have been powerless before those who came from the Netherworld. Whether you ascend to Olympus or simply die---I wish this myth a long and happy life. And now..."
 
 Cronus falls silent for a long while.
 
 "And now, the last thing. Your life will not end tomorrow, and there will surely be days in it when it becomes a burden, when you will want not to live, not to know, not to remember..."
 
-"There have already been not a few such days in my life," Heracles grinds out through his teeth.
+"There have already been not a few such days in my life," Herakles grinds out through his teeth.
 
 "Well then, I, Cronus the Fallen, your forefather, wish to give you a parting gift. I have nothing material to give you; I cannot increase your strength, or lengthen your life, or grant you glory or riches... My element is time. It's true that, being in Tartarus, and partly within you, I have no power over time outside. But I can give you dominion over your own time, over the moments of your memory. And when the black day comes---choose any moment from your past life, and you will be able, in your mind, to return to it, to live it again, to feel it in its fullness...
 
@@ -162,6 +162,6 @@ Cronus falls silent for a long while.
 
 "And now---farewell.
 
-"And I promise that the madness of the Fallen will knock at the soul of Heracles no more.
+"And I promise that the madness of the Fallen will knock at the soul of Herakles no more.
 
 "This door is closing forever."

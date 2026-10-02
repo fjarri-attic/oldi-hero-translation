@@ -78,15 +78,15 @@ Worn out.
 
 "Over the Gigantes?"
 
-"Over Heracles. Better ask which of the Family this Lone Cleaner hasn't managed to offend! Father tells them: we take Heracles and go to Phlegrae to beat the Gigantes, and they tell Father: who knows whom your favorite will decide to beat first---the Gigantes or us! Father tells them: he's a hero, one labor after another, twelve years of blameless service; and they tell Father: that much is certain! And off they go, competing to remember it all: grandfather Oceanus, whacked with an oar; Thanatos the Killer, both wings wrenched clean out of their sockets; Nereus of the Sea, his back mauled so badly he still swims sideways to this day; Helios, threatened to shoot dead---"
+"Over Herakles. Better ask which of the Family this Lone Cleaner hasn't managed to offend! Father tells them: we take Herakles and go to Phlegrae to beat the Gigantes, and they tell Father: who knows whom your favorite will decide to beat first---the Gigantes or us! Father tells them: he's a hero, one labor after another, twelve years of blameless service; and they tell Father: that much is certain! And off they go, competing to remember it all: grandfather Oceanus, whacked with an oar; Thanatos the Killer, both wings wrenched clean out of their sockets; Nereus of the Sea, his back mauled so badly he still swims sideways to this day; Helios, threatened to shoot dead---"
 
 "He should have!" Hermeias put in, glaring with hatred at the white disk of the sun.
 
-"...Poseidon can't bury his children fast enough---as of today he's lost six sons and two grandsons! Who killed them? Heracles! In short, only Apollo and I spoke up for Father. Hephaestus the toiler abstained."
+"...Poseidon can't bury his children fast enough---as of today he's lost six sons and two grandsons! Who killed them? Herakles! In short, only Apollo and I spoke up for Father. Hephaestus the toiler abstained."
 
 "You and Apollo?!" Hermeias couldn't believe his ears, forgetting the heat and his weariness at once.
 
-"What would you have me do? Even Artemis turns up her nose---she can't forgive the hunt for the Ceryneian Hind. And ever since their little meeting with Heracles, the whole Family's inquiring about Artemis's virginity---"
+"What would you have me do? Even Artemis turns up her nose---she can't forgive the hunt for the Ceryneian Hind. And ever since their little meeting with Herakles, the whole Family's inquiring about Artemis's virginity---"
 
 Ares didn't finish.
 
@@ -102,7 +102,7 @@ He looked past Hermeias to where the web of the Dromos had lately shimmered---an
 ::: {.small-scene-break}
 :::
 
-"Family," Ares muttered like a curse, turning away. "Kinfolk! Well, I don't love Father---but at least I understand that no one but Zeus the despot is capable of grabbing us by the scruff and driving us into battle! But those others... if they knew what you and I know, Trickster, they'd eat the Heracleses alive. Both of them."
+"Family," Ares muttered like a curse, turning away. "Kinfolk! Well, I don't love Father---but at least I understand that no one but Zeus the despot is capable of grabbing us by the scruff and driving us into battle! But those others... if they knew what you and I know, Trickster, they'd eat the Herakleses alive. Both of them."
 
 "What?!" The Trickster nearly jumped. "What did you say?!"
 
@@ -110,7 +110,7 @@ He looked past Hermeias to where the web of the Dromos had lately shimmered---an
 
 "And you kept quiet? All this time---quiet?!"
 
-"I kept quiet. And I'll go on keeping quiet---at least until the Gigantes are wiped out. Father, mind you, has been holding his tongue for nigh on a third of a century! And he's right to. Should Zeus let slip who's whose son here, and the Family would start a war---not with the Gigantes, not with Heracles, but Zeus himself. Was a bull, became an ox, and still reaches for the throne! Eunuch of gods and men..."
+"I kept quiet. And I'll go on keeping quiet---at least until the Gigantes are wiped out. Father, mind you, has been holding his tongue for nigh on a third of a century! And he's right to. Should Zeus let slip who's whose son here, and the Family would start a war---not with the Gigantes, not with Herakles, but Zeus himself. Was a bull, became an ox, and still reaches for the throne! Eunuch of gods and men..."
 
 Such a long pause set in that even Helios in the sky seemed to rein in his horses and listen.
 
@@ -120,7 +120,7 @@ Such a long pause set in that even Helios in the sky seemed to rein in his horse
 
 "And do we have that---time? What do you say, Ares?"
 
-"I don't know," the god of war answered seriously. "All I know is the Council didn't end in a brawl only because Apollo took it upon himself to keep a secret watch over Heracles for half a year. His term of service to Eurystheus is up, the hero's a free man---so Apollo will observe what he does with his freedom! The Archer's offer stunned the Family so badly (you understand, with Apollo's pride and temper, volunteering as a secret watcher!) that everyone unanimously agreed to put off the final verdict. And they swore by the Styx that for these six months---no personal interference."
+"I don't know," the god of war answered seriously. "All I know is the Council didn't end in a brawl only because Apollo took it upon himself to keep a secret watch over Herakles for half a year. His term of service to Eurystheus is up, the hero's a free man---so Apollo will observe what he does with his freedom! The Archer's offer stunned the Family so badly (you understand, with Apollo's pride and temper, volunteering as a secret watcher!) that everyone unanimously agreed to put off the final verdict. And they swore by the Styx that for these six months---no personal interference."
 
 The gray streak of hair fell across Enyalios's brow again, but this time he didn't brush it back.
 

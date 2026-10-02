@@ -76,15 +76,15 @@ He smiled faintly, as though apologizing, and lowered himself onto the grass.
 
 "Suspect? I am certain of it! Every member of the Family---except you, Chiron, but you do not count yourself among the Family---has had human sacrifices made to him at some time, and so each of us knows of his own connection to Tartarus and is able, should the need arise, to call upon the Fallen."
 
-"The boy---his name is Alcides?---is not of the Family. At best he is a half-god."
+"The boy---his name is Alkeides?---is not of the Family. At best he is a half-god."
 
 "A half-man."
 
 "So you say, Hermeias. So they say in the Family. I say it differently. Perhaps because to some in the Family, I myself---Chiron of Pelion---am a half-horse."
 
-"Then why 'at best'? Alcides is my half-brother by our father, which means---"
+"Then why 'at best'? Alkeides is my half-brother by our father, which means---"
 
-"Which means, or doesn't. Has Junior had children after Alcides?"
+"Which means, or doesn't. Has Junior had children after Alkeides?"
 
 "No."
 
@@ -104,19 +104,19 @@ Chiron fell silent.
 
 [^24]: The war between the gods and the Titans, as a result of which most of the defeated Titans were cast down into Tartarus.
 
-"And terrible at once. I know, Chiron. I have seen the face of Medusa on Athena's shield. That is exactly what it was---a beautiful terror. I suppose I was simply fortunate to be born afterward... But this is no time for memories, Chiron! Whether it is our own ancestors, or the strangers who came from nowhere, or both at once---if Tartarus is knocking at this child's soul, it bodes nothing good. And little Alcides has fits of madness---the gossiping nurses are ringing it through all of Thebes!"
+"And terrible at once. I know, Chiron. I have seen the face of Medusa on Athena's shield. That is exactly what it was---a beautiful terror. I suppose I was simply fortunate to be born afterward... But this is no time for memories, Chiron! Whether it is our own ancestors, or the strangers who came from nowhere, or both at once---if Tartarus is knocking at this child's soul, it bodes nothing good. And little Alkeides has fits of madness---the gossiping nurses are ringing it through all of Thebes!"
 
 "Have you tried speaking with his father?"
 
-"Ha! About what? He never much cared for advisers, and lately he has grown downright intolerant of any opinion but his own! Daddy is convinced the fits of madness are Hera's doing, out of her dislike for Alcides; and the Spouse has gotten a proper dressing-down for it more than once. Naturally, she flew into noble indignation, played the wronged innocent---and did it so clumsily that in the end I believed her. It seems Hera really has nothing to do with it."
+"Ha! About what? He never much cared for advisers, and lately he has grown downright intolerant of any opinion but his own! Daddy is convinced the fits of madness are Hera's doing, out of her dislike for Alkeides; and the Spouse has gotten a proper dressing-down for it more than once. Naturally, she flew into noble indignation, played the wronged innocent---and did it so clumsily that in the end I believed her. It seems Hera really has nothing to do with it."
 
-"You are full of paradoxes, Hermeias. Everyone, Junior included, is convinced that it is jealous Hera who sends madness upon young Alcides---yet you claim it is not so. Everyone is certain that no sacrifices, human ones included, will keep the son of Zeus and Alcmene from becoming the Slayer of Monsters (or, if you prefer, the Lone Cleaner)---yet you fear the Fallen, knocking at the door of a child's unformed soul. Listen, Hermeias---why have you come to me? What do you want?"
+"You are full of paradoxes, Hermeias. Everyone, Junior included, is convinced that it is jealous Hera who sends madness upon young Alkeides---yet you claim it is not so. Everyone is certain that no sacrifices, human ones included, will keep the son of Zeus and Alkmene from becoming the Slayer of Monsters (or, if you prefer, the Lone Cleaner)---yet you fear the Fallen, knocking at the door of a child's unformed soul. Listen, Hermeias---why have you come to me? What do you want?"
 
 "To speak my mind. You are the only one able to look at all this from the outside, without any stake in it."
 
 "Not anymore. And I would like to know what you intend to do next---once you have spoken your mind and the old centaur has bored you enough."
 
-"I will grow kin to the twins... 'Kin to the twins'---a phrase worthy of a singer-aoidos! I will try to become their friend, their companion, a bit of a teacher, a bit of a nurse; I will look into their eyes and listen to the beating of their hearts, I will wipe the foam from mad Alcides's lips, I will step into the hidden corners of his soul where the dust of Tartarus gathers in the corners, as a night dream I will press my cheek against sleeping Iphicles's, I will weigh the brothers on my own scales..."
+"I will grow kin to the twins... 'Kin to the twins'---a phrase worthy of a singer-aoidos! I will try to become their friend, their companion, a bit of a teacher, a bit of a nurse; I will look into their eyes and listen to the beating of their hearts, I will wipe the foam from mad Alkeides's lips, I will step into the hidden corners of his soul where the dust of Tartarus gathers in the corners, as a night dream I will press my cheek against sleeping Iphikles's, I will weigh the brothers on my own scales..."
 
 Hermeias fell silent, as Chiron had a little while before.
 

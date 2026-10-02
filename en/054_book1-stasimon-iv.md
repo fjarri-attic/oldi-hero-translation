@@ -114,7 +114,7 @@ Ares was alone. He was so alone that at times he began to hate his Mother (Fathe
 
 "How?"
 
-"By testing the Cleaner. A duel with a monster or a war---it makes no difference. If he's a hero, he'll prove himself; if this is all Junior's scheming, then Alcmene's son will die, but the blame won't fall on me this time! In the latter case, my Spouse will be furious, but he'll have nothing to counter with---a hero, equal to the Family, slain in his first skirmish?! Laughable! And should the hero win, that too will clarify matters, pushing back the threat hanging over me... over us. And I'll have time to find out who is causing these fits of madness in the Cleaner. Unless, of course, great Zeus himself is behind it all..."
+"By testing the Cleaner. A duel with a monster or a war---it makes no difference. If he's a hero, he'll prove himself; if this is all Junior's scheming, then Alkmene's son will die, but the blame won't fall on me this time! In the latter case, my Spouse will be furious, but he'll have nothing to counter with---a hero, equal to the Family, slain in his first skirmish?! Laughable! And should the hero win, that too will clarify matters, pushing back the threat hanging over me... over us. And I'll have time to find out who is causing these fits of madness in the Cleaner. Unless, of course, great Zeus himself is behind it all..."
 
 "I understand, Mother. A monster or a war. So which of the two?"
 

@@ -23,9 +23,9 @@ And he heard:
 
 And the Serpent rasped grimly:
 
-"Yes, now I know Heracles..."
+"Yes, now I know Herakles..."
 :::
 
 ::: {.epigraph-source}
-Y. Golosovker, *The Legend of Heracles*
+Y. Golosovker, *The Legend of Herakles*
 :::

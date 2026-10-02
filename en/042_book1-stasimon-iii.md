@@ -183,7 +183,7 @@ Hades did not answer at once, but the Trickster did not hurry him, understanding
 
 "You're right. Only the Cleaners themselves know just this much---that they exterminate monsters---and that is enough."
 
-"Yes, uncle. Enough for them. Not for us. It's my turn now, Sovereign. I'll tell you about young Alcides, son of Zeus and Alcmene, the future Lone Cleaner, equal to the gods---and about the true cause of his madness..."
+"Yes, uncle. Enough for them. Not for us. It's my turn now, Sovereign. I'll tell you about young Alkeides, son of Zeus and Alkmene, the future Lone Cleaner, equal to the gods---and about the true cause of his madness..."
 
 
 #### Epode[^33]

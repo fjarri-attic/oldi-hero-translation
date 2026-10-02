@@ -28,7 +28,7 @@ The traveler approaches the altar---low, as all altars of the underworld gods ar
 
 "Here she is. I had to trouble Menoites[^58]..."
 
-[^58]: Menoites, son of Keuthonymos---herdsman of the cattle belonging personally to Hades. It was Menoites the herdsman who once reported to Three-Bodied Geryon that Heracles was stealing his cattle, and later reported to Hades that Heracles had killed Geryon.
+[^58]: Menoites, son of Keuthonymos---herdsman of the cattle belonging personally to Hades. It was Menoites the herdsman who once reported to Three-Bodied Geryon that Herakles was stealing his cattle, and later reported to Hades that Herakles had killed Geryon.
 
 A black cow with a white patch on her forehead and empty, expressionless eyes stands beside the guide. The cow's flanks rise and fall steadily; she chews her cud indifferently, staring dully at the traveler and the pentagonal altar.
 
@@ -76,23 +76,23 @@ The traveler gives an involuntary start and, with a strange, pained expression, 
 
 Something in between.
 
-"Yes, I want to know, teacher. Only it wasn't I who stood with you on the wall of Tiryns. I am Iphicles, not Alcides. Alcides is in Maionia[^59] now, with Omphale of Lydia---men and gods believe that Heracles is atoning for the sin of unintentionally killing you, Iphitos the archer; I, though, hope that he's atoning for his madness... and that he'll atone for it once and for all. But let's not speak of that aloud, even here..."
+"Yes, I want to know, teacher. Only it wasn't I who stood with you on the wall of Tiryns. I am Iphikles, not Alkeides. Alkeides is in Maionia[^59] now, with Omphale of Lydia---men and gods believe that Herakles is atoning for the sin of unintentionally killing you, Iphitos the archer; I, though, hope that he's atoning for his madness... and that he'll atone for it once and for all. But let's not speak of that aloud, even here..."
 
 [^59]: The ancient name for Lydia; the "Maionians" were the local tribes, its native population.
 
-"I don't blame Alcides,"---a sorrowful rustle, an echo, a reverberation---"I saw Lyssa the Rage in his eyes when he stepped toward me, not understanding who stood before him, or whether anyone stood before him at all... no, I don't blame your brother."
+"I don't blame Alkeides,"---a sorrowful rustle, an echo, a reverberation---"I saw Lyssa the Rage in his eyes when he stepped toward me, not understanding who stood before him, or whether anyone stood before him at all... no, I don't blame your brother."
 
-"Yes, teacher, no one is to blame, and yet... Will you tell me what you didn't have time to finish recounting in Tiryns? Alcides passed on the beginning to me---I want to reach the end."
+"Yes, teacher, no one is to blame, and yet... Will you tell me what you didn't have time to finish recounting in Tiryns? Alkeides passed on the beginning to me---I want to reach the end."
 
 "Yes. I remember. I must. And I will tell it. And then I'll forget everything again, and that will be for the best. For me, at least."
 
 "Perhaps I---"
 
-"You can't. I know you have a kind heart, Iphicles, and I grant that you might be able to beg something out of Hades for me. But I don't want that. I want peace and oblivion."
+"You can't. I know you have a kind heart, Iphikles, and I grant that you might be able to beg something out of Hades for me. But I don't want that. I want peace and oblivion."
 
-The shade had grown pale, and Iphicles hastily held out the half-emptied rhyton to his former teacher. This time the shade drank unhurriedly, without greed or pleasure, the way one drinks a bitter but necessary medicine.
+The shade had grown pale, and Iphikles hastily held out the half-emptied rhyton to his former teacher. This time the shade drank unhurriedly, without greed or pleasure, the way one drinks a bitter but necessary medicine.
 
-"My thanks,"---Iphitos the archer pushed away the rhyton, at the bottom of which something still remained, and Iphicles thought he heard a faint sigh.
+"My thanks,"---Iphitos the archer pushed away the rhyton, at the bottom of which something still remained, and Iphikles thought he heard a faint sigh.
 
 A shade, a ghost of a sigh.
 
@@ -100,7 +100,7 @@ A shade, a ghost of a sigh.
 
 #### Antistrophe
 
-"You know from Alcides how we---the younger kinsmen of Salmoneus's brethren---fathered the Gigantes. But for us, and for *them*, the very word 'Gigantes' seemed like an unfunny joke. For these were children---helpless, squalling infants, strange in some ways, great in others, flawed in still others---but children. *Our children*. I remember those days well, when the ones born on Phlegrae survived; days of some impossible, unreal happiness, when even the blackness of doom that had always lived in the eyes of Stheno and Euryale vanished, when Chrysaor the Golden Bow, son of Medusa, was not ashamed of his tears; while I, Phyleus, son of Augeas, Podarkes the Trojan, and Three-Bodied Geryon danced a mad, furious, divine dance... I remember those days well.
+"You know from Alkeides how we---the younger kinsmen of Salmoneus's brethren---fathered the Gigantes. But for us, and for *them*, the very word 'Gigantes' seemed like an unfunny joke. For these were children---helpless, squalling infants, strange in some ways, great in others, flawed in still others---but children. *Our children*. I remember those days well, when the ones born on Phlegrae survived; days of some impossible, unreal happiness, when even the blackness of doom that had always lived in the eyes of Stheno and Euryale vanished, when Chrysaor the Golden Bow, son of Medusa, was not ashamed of his tears; while I, Phyleus, son of Augeias, Podarkes the Trojan, and Three-Bodied Geryon danced a mad, furious, divine dance... I remember those days well.
 
 I remember them even here, where I remember nothing.
 
@@ -120,7 +120,7 @@ Sometimes we---only the mortals among us!---were allowed to see the children. Th
 
 Now I understand it all! It's nonsense that the Gigantes are the serpent-legged offspring of Gaia and Tartarus, that their fate is to fight the Olympians and either win or fall. There is no fate! And even if there is, it doesn't matter. What the Possessed needed was precisely children, because children feel heat and cold, want to eat and drink, laugh and cry, but they know no difference between men and gods. Children are the only mortals for whom there are no gods; children are the potential killers of gods. And now I think that every half-god hero is, in some way, a child...
 
-From the moment of birth, the Possessed fed the infants sacrifices. Only, unlike Heracles---the first, failed attempt---the moment of making a sacrifice to the newborn was invariably tied to sensations pleasant to the child: it was fed, changed into something dry, caressed... Before long, the children were themselves demanding sacrifices, having bound them fast to pleasure.
+From the moment of birth, the Possessed fed the infants sacrifices. Only, unlike Herakles---the first, failed attempt---the moment of making a sacrifice to the newborn was invariably tied to sensations pleasant to the child: it was fed, changed into something dry, caressed... Before long, the children were themselves demanding sacrifices, having bound them fast to pleasure.
 
 When they had grown a little older, they began making sacrifices to themselves.
 
@@ -146,8 +146,8 @@ And now I want oblivion---because otherwise I will have to go on seeing, forever
 
 #### Epode
 
-"You know, Iphicles," the shade said, finishing after a moment's silence, "all of us are in some way sacrifices and in some way priests. All of us: we, the Fallen, the Gorgons, the Gigantes, the Possessed... the Olympians. All except you and Alcides---having ceased to be sacrifices, you never became priests. So promise me that Heracles will stop Salmoneus's brethren, even if it means killing the Gigantes as well---I, a father, give you my leave for that, because the maimed, misbegotten children are not to blame for their own deformity... but it frightens me to think what will happen if the mad Possessed priests of the Brotherhood of Salmoneus climb to heaven on the shoulders of the mad Gigantes children. I'm afraid all of Hellas will become one vast altar then. Do you promise me?"
+"You know, Iphikles," the shade said, finishing after a moment's silence, "all of us are in some way sacrifices and in some way priests. All of us: we, the Fallen, the Gorgons, the Gigantes, the Possessed... the Olympians. All except you and Alkeides---having ceased to be sacrifices, you never became priests. So promise me that Herakles will stop Salmoneus's brethren, even if it means killing the Gigantes as well---I, a father, give you my leave for that, because the maimed, misbegotten children are not to blame for their own deformity... but it frightens me to think what will happen if the mad Possessed priests of the Brotherhood of Salmoneus climb to heaven on the shoulders of the mad Gigantes children. I'm afraid all of Hellas will become one vast altar then. Do you promise me?"
 
-"Yes," Iphicles answered, barely audible. "I promise you that. A god would swear by the Styx; Heracles simply promises."
+"Yes," Iphikles answered, barely audible. "I promise you that. A god would swear by the Styx; Herakles simply promises."
 
 And the waters of the Great River splashed in astonishment in the darkness of Erebus.

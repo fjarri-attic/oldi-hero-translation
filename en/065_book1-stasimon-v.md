@@ -113,11 +113,11 @@ Well, thinking was something the Sovereign was accustomed to. Thinking long, tho
 
 Hermeias pretended not to notice, and went on:
 
-"The old stumbling block, uncle! Alcides of Thebes, the Lone Cleaner, daddy's pride and joy!"
+"The old stumbling block, uncle! Alkeides of Thebes, the Lone Cleaner, daddy's pride and joy!"
 
 "And what has he done this time?"
 
-"Nothing!" Trickster burst out. "That's just it---nothing! Five years, and not-a-sin-gle-thing! In Iolkos, Argus the shipwright has laid the keel of a ship, and all the heroes of Hellas are gathering for Colchis, after the Golden Fleece; even seventeen-year-old Theseus, Poseidon's Cleaner, is going with them... And not just Theseus---among Middle's other sons there's Euphemos, and Erginos; then Boreas's sons Zetes and Kalais, Dionysus's Cleaners Phanos and Staphylos, Augeas Heliad, Ialmenos and Askalaphos Areads, Palaimon Hephaestid, the Dioscuri, divine Orpheus, and my own Autolycus, and---"
+"Nothing!" Trickster burst out. "That's just it---nothing! Five years, and not-a-sin-gle-thing! In Iolkos, Argus the shipwright has laid the keel of a ship, and all the heroes of Hellas are gathering for Colchis, after the Golden Fleece; even seventeen-year-old Theseus, Poseidon's Cleaner, is going with them... And not just Theseus---among Middle's other sons there's Euphemos, and Erginos; then Boreas's sons Zetes and Kalais, Dionysus's Cleaners Phanos and Staphylos, Augeias Heliad, Ialmenos and Askalaphos Areads, Palaimon Hephaestid, the Dioskouroi, divine Orpheus, and my own Autolykos, and---"
 
 "Stop!" the Sovereign barked. "How many of them are there in all?!"
 
@@ -125,19 +125,19 @@ Hermeias pretended not to notice, and went on:
 
 "Then don't you dare list them all for me! I'm not your aunt Mnemosyne, goddess of memory! Speak plainly!"
 
-"But I am speaking plainly---Alcides alone didn't come! They even sent him an invitation---he didn't even trouble himself to answer! He stays silent, and Hellas has forgotten him all the sooner for it. Everyone's got young Troezenian Theseus on their minds, Poseidon's offspring! That boy gets around---slaughtered the Crommyonian Sow, killed off a few giants (I wonder where he found them!), cleared out some bandits, and ruined a whole crowd of girls..."
+"But I am speaking plainly---Alkeides alone didn't come! They even sent him an invitation---he didn't even trouble himself to answer! He stays silent, and Hellas has forgotten him all the sooner for it. Everyone's got young Troezenian Theseus on their minds, Poseidon's offspring! That boy gets around---slaughtered the Crommyonian Sow, killed off a few giants (I wonder where he found them!), cleared out some bandits, and ruined a whole crowd of girls..."
 
-"While Alcides, not quite twenty-three, sits idle in Thebes and won't so much as poke his nose outside! Is that what you mean, Trickster?"
+"While Alkeides, not quite twenty-three, sits idle in Thebes and won't so much as poke his nose outside! Is that what you mean, Trickster?"
 
-"Just so, uncle! The Family's abuzz: what kind of Cleaner is this, who performs no feats, wages no wars, moves no mountains---they send him invitations, they practically bow at his feet---and nothing! Trains striplings in the palaestra in Thebes, our godlike one! That's all. People have started saying that it isn't Alcides who is the Lone Cleaner after all, but rather Theseus of Troezen, Poseidon's boy."
+"Just so, uncle! The Family's abuzz: what kind of Cleaner is this, who performs no feats, wages no wars, moves no mountains---they send him invitations, they practically bow at his feet---and nothing! Trains striplings in the palaestra in Thebes, our godlike one! That's all. People have started saying that it isn't Alkeides who is the Lone Cleaner after all, but rather Theseus of Troezen, Poseidon's boy."
 
 "And from there it's one step to another thought," the Sovereign said musingly. "Middle's son-Cleaner is a true hero, unlike Junior's son-Cleaner. Zeus has grown weak, worn thin---perhaps it isn't Junior who ought to rule, but Middle?"
 
 "Yes, uncle. No one says it aloud yet, but they think it. Those who know how to think. Which means soon they'll be saying it---those who know how to talk."
 
-"So Junior's authority has been shaken, and he's desperate now for Alcides to start performing feats in honor of Father the Olympian? Does that worry you, Trickster?"
+"So Junior's authority has been shaken, and he's desperate now for Alkeides to start performing feats in honor of Father the Olympian? Does that worry you, Trickster?"
 
-"Not worry, exactly, but I decided you ought to know. What does worry me is something else: Alcides hasn't had a single fit in five years."
+"Not worry, exactly, but I decided you ought to know. What does worry me is something else: Alkeides hasn't had a single fit in five years."
 
 "Now there you're right---that looks entirely too much like the calm before the storm. And Tartarus has gone quiet too, of late... could the Fallen have found some new way out of their situation? Eh, Hermeias? Here we sit waiting for a breakout, a war, a great crash---while they..."
 
@@ -179,13 +179,13 @@ For a while, both were silent.
 
 "Anything's possible, Hermeias. And it's also possible that I'm wrong. A child can also see a bogeyman in a chiton hung out to dry."
 
-"Then we must find out, Sovereign. We know what Alcides's fits are truly connected to---which means one of the Tartarus-Possessed is in Thebes, or nearby. If we find him and question him, if we take him alive..."
+"Then we must find out, Sovereign. We know what Alkeides's fits are truly connected to---which means one of the Tartarus-Possessed is in Thebes, or nearby. If we find him and question him, if we take him alive..."
 
-"Not alive. I prefer to question the dead---they're more honest. But you're right, Hermeias. I only wanted you to say it aloud yourself. That Alcides has had no fits right now means nothing. If Junior drives his Cleaner toward feats, the Fallen will return the favor."
+"Not alive. I prefer to question the dead---they're more honest. But you're right, Hermeias. I only wanted you to say it aloud yourself. That Alkeides has had no fits right now means nothing. If Junior drives his Cleaner toward feats, the Fallen will return the favor."
 
 "Well then, let the brothers go and find the Possessed one for us!"
 
-"You disappoint me, Trickster. Even if Alcides picks up the trail of the cult of the Fallen, the Possessed need only make him a human sacrifice and the search will be the last thing on Alcides's mind."
+"You disappoint me, Trickster. Even if Alkeides picks up the trail of the cult of the Fallen, the Possessed need only make him a human sacrifice and the search will be the last thing on Alkeides's mind."
 
 "Well, then I could try---"
 
@@ -223,11 +223,11 @@ And in mournful echo:
 
 "Which child?"
 
-"Iolaus. His grandson, son of Iphicles and Automedousa. That way Amphitryon will be in Thebes, close to the twins, and yet---beyond suspicion."
+"Iolaos. His grandson, son of Iphikles and Automedusa. That way Amphitryon will be in Thebes, close to the twins, and yet---beyond suspicion."
 
 "You're cruel, uncle."
 
-"Me? No. I'm reasonable. And Amphitryon will nearly jump out of his skin trying to find out who's driving Alcides mad."
+"Me? No. I'm reasonable. And Amphitryon will nearly jump out of his skin trying to find out who's driving Alkeides mad."
 
 "More likely he'll flay the skin off the Possessed one instead..."
 
