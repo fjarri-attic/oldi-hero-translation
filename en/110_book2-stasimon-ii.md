@@ -78,9 +78,9 @@ Herakles is silent.
 
 "Perhaps. Or perhaps not. In any case, I will hope along with you."
 
-"You?! Together with me?! After you gave the order to create the Gigantes, and I shot them down at Phlegrae?!"
+"You?! Together with me?! After you gave the order to create the Gigantes, and I shot them down at Phlegra?!"
 
-"Answer me, Herakles---do you know what those unfortunate children the Achaeans called the Gigantes were meant for?"
+"Answer me, Herakles---do you know what those unfortunate children the Achaians called the Gigantes were meant for?"
 
 "They were meant to destroy the Family. To sacrifice it to themselves. I know that."
 
@@ -92,7 +92,7 @@ Herakles is silent.
 
 "And... who was meant to be born?"
 
-"We, the Fallen. Unable to break free of Tartaros in the form in which we now exist, we hoped to emerge through the Gigantes---for it is hard to imagine a greater sacrifice than an Olympian god offered up to the Fallen! And the force thus released was meant not only to extinguish the Gigantes' consciousness, but for a moment to open a new Dromos between Tartaros and Phlegrae, which were in any case already joined by an invisible umbilical cord."
+"We, the Fallen. Unable to break free of Tartaros in the form in which we now exist, we hoped to emerge through the Gigantes---for it is hard to imagine a greater sacrifice than an Olympian god offered up to the Fallen! And the force thus released was meant not only to extinguish the Gigantes' consciousness, but for a moment to open a new Dromos between Tartaros and Phlegra, which were in any case already joined by an invisible umbilical cord."
 
 A pause.
 
@@ -116,7 +116,7 @@ The door creaked, trembled... and stayed where it was.
 
 "Let everything remain as it is," Kronos goes on. "We will wait. We know how to wait. Tell me, Herakles---do you remember a certain Attam[^74], whom you kept from sacrificing his own son to a god?"
 
-[^74]: The Greek pronunciation of the name "Abraham." On his way for the apples of the Hesperides, Herakles passed through Palestine, where he stopped Attam (Abraham) from sacrificing his own son Akab (Jacob) to a god. Herakles's companions explained to Attam that the mighty "Achivite" (as the Achaeans were called in Palestine) was a son of a god, and his messenger. [This is the authors' intentional mystification. Translated as is. [TN]]
+[^74]: The Greek pronunciation of the name "Abraham." On his way for the apples of the Hesperides, Herakles passed through Palestine, where he stopped Attam (Abraham) from sacrificing his own son Akab (Jacob) to a god. Herakles's companions explained to Attam that the mighty "Achivite" (as the Achaians were called in Palestine) was a son of a god, and his messenger. [This is the authors' intentional mystification. Translated as is. [TN]]
 
 "I remember," Herakles smiles. "I had to give the long-bearded stubborn old fool a good pounding before he agreed to replace the boy with a ram."
 

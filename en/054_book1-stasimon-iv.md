@@ -120,7 +120,7 @@ Ares was alone. He was so alone that at times he began to hate his Mother (Fathe
 
 "War."
 
-"I thought as much. Otherwise you wouldn't have come to me. And I even understand why it must be war. There are no monsters near Kithairon, and dragging the Half-Man across the whole of Boeotia... he'll be recognized. So---war."
+"I thought as much. Otherwise you wouldn't have come to me. And I even understand why it must be war. There are no monsters near Kithairon, and dragging the Half-Man across the whole of Boiotia... he'll be recognized. So---war."
 
 "So---war."
 

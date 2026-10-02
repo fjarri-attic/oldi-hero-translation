@@ -100,7 +100,7 @@ A shade, a ghost of a sigh.
 
 #### Antistrophe
 
-"You know from Alkeides how we---the younger kinsmen of Salmoneus's brethren---fathered the Gigantes. But for us, and for *them*, the very word 'Gigantes' seemed like an unfunny joke. For these were children---helpless, squalling infants, strange in some ways, great in others, flawed in still others---but children. *Our children*. I remember those days well, when the ones born on Phlegrae survived; days of some impossible, unreal happiness, when even the blackness of doom that had always lived in the eyes of Stheno and Euryale vanished, when Chrysaor the Golden Bow, son of Medusa, was not ashamed of his tears; while I, Phyleus, son of Augeias, Podarkes the Trojan, and Three-Bodied Geryon danced a mad, furious, divine dance... I remember those days well.
+"You know from Alkeides how we---the younger kinsmen of Salmoneus's brethren---fathered the Gigantes. But for us, and for *them*, the very word 'Gigantes' seemed like an unfunny joke. For these were children---helpless, squalling infants, strange in some ways, great in others, flawed in still others---but children. *Our children*. I remember those days well, when the ones born on Phlegra survived; days of some impossible, unreal happiness, when even the blackness of doom that had always lived in the eyes of Stheno and Euryale vanished, when Chrysaor the Golden Bow, son of Medusa, was not ashamed of his tears; while I, Phyleus, son of Augeias, Podarkes the Trojan, and Three-Bodied Geryon danced a mad, furious, divine dance... I remember those days well.
 
 I remember them even here, where I remember nothing.
 
@@ -114,7 +114,7 @@ But the men, the Tartaros-Possessed, claimed that they knew. And we believed the
 
 I'll never forgive myself for it... though by now, that's just fine words.
 
-Without the children, everything at once turned empty. Many of us went home from the Phlegraean Fields, but even there we couldn't find our place, again and again drawn back to those strange creatures we had grown attached to, had even come to love---to them, no doubt, we looked no less strange, but the attachment turned out to be mutual---and we shared a kline again, sinking into a dreadful, painful pleasure that granted forgetting for a time; coming to our senses, we felt once more the oppressive emptiness of existence, and a dull longing drove us away---only to bring us back again after a while.
+Without the children, everything at once turned empty. Many of us went home from the Phlegraian Fields, but even there we couldn't find our place, again and again drawn back to those strange creatures we had grown attached to, had even come to love---to them, no doubt, we looked no less strange, but the attachment turned out to be mutual---and we shared a kline again, sinking into a dreadful, painful pleasure that granted forgetting for a time; coming to our senses, we felt once more the oppressive emptiness of existence, and a dull longing drove us away---only to bring us back again after a while.
 
 Sometimes we---only the mortals among us!---were allowed to see the children. The children didn't recognize us; with every visit they grew stranger still (we consoled ourselves that this was only as it should be), and these meetings were more of a burden than anything else... But we could no longer stop ourselves, we came again and again, until the fateful day arrived.
 
@@ -136,7 +136,7 @@ The sacrifices of the Gigantes are gods! Or those of the same tribe as the gods:
 ::: {.small-scene-break}
 :::
 
-"I saw the Gigantes devour two of their own mothers, Stheno and Euryale! I had already all but entered the Dromos leading home, when the Gorgon sisters appeared in the children's quarter of Phlegrae. Against the prohibition, they had resolved to visit their own offspring, and the Possessed had no strength to bar their way. Scattering the priests of Tartaros like kittens---I saw it myself, from a distance---the Gorgons drew near to the children. I could clearly make out both the sisters and the children; but when no more than a step remained between them, it seemed to me that I was losing my mind: for an instant the helpless infants appeared to me as gigantic, shaggy creatures with a mindlessly burning gaze, and the mighty Gorgons as helpless little figures, shying back in fright.
+"I saw the Gigantes devour two of their own mothers, Stheno and Euryale! I had already all but entered the Dromos leading home, when the Gorgon sisters appeared in the children's quarter of Phlegra. Against the prohibition, they had resolved to visit their own offspring, and the Possessed had no strength to bar their way. Scattering the priests of Tartaros like kittens---I saw it myself, from a distance---the Gorgons drew near to the children. I could clearly make out both the sisters and the children; but when no more than a step remained between them, it seemed to me that I was losing my mind: for an instant the helpless infants appeared to me as gigantic, shaggy creatures with a mindlessly burning gaze, and the mighty Gorgons as helpless little figures, shying back in fright.
 
 It lasted only an instant, and when I came back to myself, the mutilated corpses of Stheno and Euryale already lay upon the altar, and around their dead mothers the little children danced clumsily, pulling faces and muttering unintelligibly.
 

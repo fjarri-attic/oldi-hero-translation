@@ -29,9 +29,9 @@ Ares rose abruptly and walked over to the Trickster. The Dromos had not yet clos
 ::: {.small-scene-break}
 :::
 
-...The Phlegraean Fields[^44], burned to the ground, a table-flat, slate-coal black plain---and it truly was coal, smoldering and smoking in patches, over which the low-hung shroud of the night sky gathered in folds, with its rare, sickly reddened eyes of star-titans.
+...The Phlegraian Fields[^44], burned to the ground, a table-flat, slate-coal black plain---and it truly was coal, smoldering and smoking in patches, over which the low-hung shroud of the night sky gathered in folds, with its rare, sickly reddened eyes of star-titans.
 
-[^44]: The Phlegraean Fields---literally "the burning grounds" (Greek); located on the Chalkidiki peninsula, on its westernmost prong, Pallene. [Note that today's Phlegraean Fields are located near Naples. The Pallene location follows the classical sources (Herodotus, Strabo, Pindar) who placed the site of Gigantomachy there, and mentioned that the Italian region got its name after the Gigantomachy myth due to its fiery geology.---TN]
+[^44]: The Phlegraian Fields---literally "the burning grounds" (Greek); located on the Chalkidiki peninsula, on its westernmost prong, Pallene. [Note that today's Phlegraian Fields are located near Naples. The Pallene location follows the classical sources (Herodotus, Strabo, Pindar) who placed the site of Gigantomachy there, and mentioned that the Italian region got its name after the Gigantomachy myth due to its fiery geology.---TN]
 
 Dark columns stirred on the horizon, making the blind sores of the stars ooze filthy ichor, and began to move, raising the ash of the conflagration off the body of Mother Gaia...
 
@@ -78,7 +78,7 @@ Worn out.
 
 "Over the Gigantes?"
 
-"Over Herakles. Better ask which of the Family this Lone Cleaner hasn't managed to offend! Father tells them: we take Herakles and go to Phlegrae to beat the Gigantes, and they tell Father: who knows whom your favorite will decide to beat first---the Gigantes or us! Father tells them: he's a hero, one labor after another, twelve years of blameless service; and they tell Father: that much is certain! And off they go, competing to remember it all: grandfather Okeanos, whacked with an oar; Thanatos the Killer, both wings wrenched clean out of their sockets; Nereus of the Sea, his back mauled so badly he still swims sideways to this day; Helios, threatened to shoot dead---"
+"Over Herakles. Better ask which of the Family this Lone Cleaner hasn't managed to offend! Father tells them: we take Herakles and go to Phlegra to beat the Gigantes, and they tell Father: who knows whom your favorite will decide to beat first---the Gigantes or us! Father tells them: he's a hero, one labor after another, twelve years of blameless service; and they tell Father: that much is certain! And off they go, competing to remember it all: grandfather Okeanos, whacked with an oar; Thanatos the Killer, both wings wrenched clean out of their sockets; Nereus of the Sea, his back mauled so badly he still swims sideways to this day; Helios, threatened to shoot dead---"
 
 "He should have!" Hermeias put in, glaring with hatred at the white disk of the sun.
 
@@ -86,7 +86,7 @@ Worn out.
 
 "You and Apollo?!" Hermeias couldn't believe his ears, forgetting the heat and his weariness at once.
 
-"What would you have me do? Even Artemis turns up her nose---she can't forgive the hunt for the Ceryneian Hind. And ever since their little meeting with Herakles, the whole Family's inquiring about Artemis's virginity---"
+"What would you have me do? Even Artemis turns up her nose---she can't forgive the hunt for the Keryneian Hind. And ever since their little meeting with Herakles, the whole Family's inquiring about Artemis's virginity---"
 
 Ares didn't finish.
 
@@ -97,7 +97,7 @@ He looked past Hermeias to where the web of the Dromos had lately shimmered---an
 ::: {.small-scene-break}
 :::
 
-...a table-flat, slate-coal black plain; the blinded, torn eye-sockets of stars above Phlegrae---and slowly moving columns, living mountains on the horizon...
+...a table-flat, slate-coal black plain; the blinded, torn eye-sockets of stars above Phlegra---and slowly moving columns, living mountains on the horizon...
 
 ::: {.small-scene-break}
 :::
@@ -139,7 +139,7 @@ The air around him trembled, as though the god were hesitating: open a Dromos, o
 ::: {.small-scene-break}
 :::
 
-...Phlegrae, the Burning Grounds, the charred flesh of Gaia the Earth, the torn eye-sockets of the sky---and a Strength, a mortal Strength, come to kill forever... heroes of Tartaros.
+...Phlegra, the Burning Grounds, the charred flesh of Gaia the Earth, the torn eye-sockets of the sky---and a Strength, a mortal Strength, come to kill forever... heroes of Tartaros.
 
 ::: {.small-scene-break}
 :::

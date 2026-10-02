@@ -117,7 +117,7 @@ Hermeias pretended not to notice, and went on:
 
 "And what has he done this time?"
 
-"Nothing!" Trickster burst out. "That's just it---nothing! Five years, and not-a-sin-gle-thing! In Iolkos, Argos the shipwright has laid the keel of a ship, and all the heroes of Hellas are gathering for Colchis, after the Golden Fleece; even seventeen-year-old Theseus, Poseidon's Cleaner, is going with them... And not just Theseus---among Middle's other sons there's Euphemos, and Erginos; then Boreas's sons Zetes and Kalais, Dionysos's Cleaners Phanos and Staphylos, Augeias Heliad, Ialmenos and Askalaphos Areads, Palaimon Hephaistid, the Dioskouroi, divine Orpheus, and my own Autolykos, and---"
+"Nothing!" Trickster burst out. "That's just it---nothing! Five years, and not-a-sin-gle-thing! In Iolkos, Argos the shipwright has laid the keel of a ship, and all the heroes of Hellas are gathering for Kolchis, after the Golden Fleece; even seventeen-year-old Theseus, Poseidon's Cleaner, is going with them... And not just Theseus---among Middle's other sons there's Euphemos, and Erginos; then Boreas's sons Zetes and Kalais, Dionysos's Cleaners Phanos and Staphylos, Augeias Heliad, Ialmenos and Askalaphos Areads, Palaimon Hephaistid, the Dioskouroi, divine Orpheus, and my own Autolykos, and---"
 
 "Stop!" the Sovereign barked. "How many of them are there in all?!"
 
@@ -125,11 +125,11 @@ Hermeias pretended not to notice, and went on:
 
 "Then don't you dare list them all for me! I'm not your aunt Mnemosyne, goddess of memory! Speak plainly!"
 
-"But I am speaking plainly---Alkeides alone didn't come! They even sent him an invitation---he didn't even trouble himself to answer! He stays silent, and Hellas has forgotten him all the sooner for it. Everyone's got young Troezenian Theseus on their minds, Poseidon's offspring! That boy gets around---slaughtered the Crommyonian Sow, killed off a few giants (I wonder where he found them!), cleared out some bandits, and ruined a whole crowd of girls..."
+"But I am speaking plainly---Alkeides alone didn't come! They even sent him an invitation---he didn't even trouble himself to answer! He stays silent, and Hellas has forgotten him all the sooner for it. Everyone's got young Troizenian Theseus on their minds, Poseidon's offspring! That boy gets around---slaughtered the Krommyonian Sow, killed off a few giants (I wonder where he found them!), cleared out some bandits, and ruined a whole crowd of girls..."
 
 "While Alkeides, not quite twenty-three, sits idle in Thebes and won't so much as poke his nose outside! Is that what you mean, Trickster?"
 
-"Just so, uncle! The Family's abuzz: what kind of Cleaner is this, who performs no feats, wages no wars, moves no mountains---they send him invitations, they practically bow at his feet---and nothing! Trains striplings in the palaestra in Thebes, our godlike one! That's all. People have started saying that it isn't Alkeides who is the Lone Cleaner after all, but rather Theseus of Troezen, Poseidon's boy."
+"Just so, uncle! The Family's abuzz: what kind of Cleaner is this, who performs no feats, wages no wars, moves no mountains---they send him invitations, they practically bow at his feet---and nothing! Trains striplings in the palaestra in Thebes, our godlike one! That's all. People have started saying that it isn't Alkeides who is the Lone Cleaner after all, but rather Theseus of Troizen, Poseidon's boy."
 
 "And from there it's one step to another thought," the Sovereign said musingly. "Middle's son-Cleaner is a true hero, unlike Junior's son-Cleaner. Zeus has grown weak, worn thin---perhaps it isn't Junior who ought to rule, but Middle?"
 

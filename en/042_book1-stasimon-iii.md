@@ -57,7 +57,7 @@ Two hazy silhouettes, two shades... no, shades have no place here---they should 
 
 "No, uncle. That I cannot imagine."
 
-"Neither can I. Take you, Trickster---you are not merely the one sitting before me, pestering me with all these questions. You are also the athletes' contests, and trade, and thievery, and the hermae along the roads; all of that is you. And I am not merely your uncle---I am also this entire underworld, and men's fear of death, and submission before the face of the inevitable, and much else besides... Poseidon is not merely a stubborn fool!.. Well, in short, you understand."
+"Neither can I. Take you, Trickster---you are not merely the one sitting before me, pestering me with all these questions. You are also the athletes' contests, and trade, and thievery, and the hermai along the roads; all of that is you. And I am not merely your uncle---I am also this entire underworld, and men's fear of death, and submission before the face of the inevitable, and much else besides... Poseidon is not merely a stubborn fool!.. Well, in short, you understand."
 
 "I understand, uncle. *That* I understand."
 
