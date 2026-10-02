@@ -365,7 +365,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Гадес | Aides | Form of Hades's name used among the gods themselves, glossed in-text as distinct from "Аид" (the name used by mortals); recurs rarely |
 | Гестия | Hestia | Olympian goddess of the hearth |
 | Тевмесская лисица | the Teumessian fox | Monstrous fox that ravaged Creon's lands and had to be bought off with sixteen-year-old youths; hunted down by Amphitryon using Cephalus's magic hound |
-| Фестиклей | Thesticles | Red-bearded/red-haired Orchomenian war-commander serving basileus Erginus, leads the militia; killed by Amphitryon's spear at the battle of ch. 061 |
+| Фестиклей | Thestiklees | Red-bearded/red-haired Orchomenian war-commander serving basileus Erginus, leads the militia; killed by Amphitryon's spear at the battle of ch. 061 |
 | Амфитрион-Изгнанник | Amphitryon the Exile | Settled since ch. 008; recurring epithet/nickname for Amphitryon |
 | лабрисса | labrys | Two-handed, double-bladed ceremonial/battle axe; kept transliterated |
 | сандалии-крепиды | krepides sandals | A type of Greek sandal/boot; kept transliterated. Established since ch. 007/031 |
