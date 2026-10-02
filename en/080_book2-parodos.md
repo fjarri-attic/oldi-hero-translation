@@ -46,7 +46,7 @@ Hermeias gave a sharp whistle, clapping his hands, and the Dromos closed.
 
 "Who says?" Ares inquired in honeyed tones, settling back into his former seat as though nothing had happened. "If it's the Hyksos, don't believe them. Lying scoundrels..."
 
-Not even in his worst nightmare had Hermeias imagined that plain-spoken Enyalius could talk like that.
+Not even in his worst nightmare had Hermeias imagined that plain-spoken Enyalios could talk like that.
 
 "Fine," the youth waved a hand in resignation. "What brings you here, brother?"
 
@@ -56,13 +56,13 @@ Not even in his worst nightmare had Hermeias imagined that plain-spoken Enyalius
 
 "Me---to see you."
 
-"Are you mocking me, Enyalius? You've never once been to see me," the Trickster said, noting almost mechanically that he was repeating, nearly word for word, a phrase the centaur Chiron had said thirty years before.
+"Are you mocking me, Enyalios? You've never once been to see me," the Trickster said, noting almost mechanically that he was repeating, nearly word for word, a phrase the centaur Chiron had said thirty years before.
 
 "Better late than never. Have you heard about the Family Council?"
 
 "What, has it already started? Mother Gaia---"
 
-"It's already over. You're late, Cyllenian---seems you've got matters more pressing than Family Councils!"
+"It's already over. You're late, Kyllenian---seems you've got matters more pressing than Family Councils!"
 
 "Maybe. Still---why are you here?"
 
@@ -122,7 +122,7 @@ Such a long pause set in that even Helios in the sky seemed to rein in his horse
 
 "I don't know," the god of war answered seriously. "All I know is the Council didn't end in a brawl only because Apollo took it upon himself to keep a secret watch over Heracles for half a year. His term of service to Eurystheus is up, the hero's a free man---so Apollo will observe what he does with his freedom! The Archer's offer stunned the Family so badly (you understand, with Apollo's pride and temper, volunteering as a secret watcher!) that everyone unanimously agreed to put off the final verdict. And they swore by the Styx that for these six months---no personal interference."
 
-The gray streak of hair fell across Enyalius's brow again, but this time he didn't brush it back.
+The gray streak of hair fell across Enyalios's brow again, but this time he didn't brush it back.
 
 "Tell them..." Ares hesitated.
 

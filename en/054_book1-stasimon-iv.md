@@ -10,7 +10,7 @@ The woman's voice is calm and assured, full of a restrained authority unaccustom
 
 Though Lord Hades could attest that this is not always so.
 
-"Of course, Mother. Who else in the Family, besides you, would come to visit Ares Enyalius, Ares the Blood-Drinker, Ares the Untamable?!"
+"Of course, Mother. Who else in the Family, besides you, would come to visit Ares Enyalios, Ares the Blood-Drinker, Ares the Untamable?!"
 
 Bitter irony overflows the words.
 
@@ -96,7 +96,7 @@ A burning torch, a spear, and a predatory kite became his attributes.
 
 His "I" absorbed all of it, forging it into strength---*his strength*!---but the Family turned silently away from Ares. He became an outcast, a degenerate one was forced to reckon with. To his face, true, no one dared say so---people avoided even looking him in the eye.
 
-Alas, Ares Enyalius was nowhere near as dull-witted as Hermeias, or that same Momus the Mocker, supposed. He saw the disgust on the faces of his kin and grew hardened, plunging headlong into war, into the whirlpool of destruction; he came to find in it a peculiar, grim pleasure. Once, sharp-tongued Momus compared him to a beast of prey that laps greedily at blood from a puddle, not noticing that another beast crouches at the puddle's far edge.
+Alas, Ares Enyalios was nowhere near as dull-witted as Hermeias, or that same Momus the Mocker, supposed. He saw the disgust on the faces of his kin and grew hardened, plunging headlong into war, into the whirlpool of destruction; he came to find in it a peculiar, grim pleasure. Once, sharp-tongued Momus compared him to a beast of prey that laps greedily at blood from a puddle, not noticing that another beast crouches at the puddle's far edge.
 
 Momus thought Ares couldn't hear.
 

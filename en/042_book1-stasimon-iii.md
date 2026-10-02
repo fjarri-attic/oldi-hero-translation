@@ -34,7 +34,7 @@ Two hazy silhouettes, two shades... no, shades have no place here---they should 
 
 "No."
 
-"You're lucky, Hermeias. I have. And I wouldn't want to see them again. I don't like feeling like a speck of dust staring at a whirlwind. The Hecatoncheires, the Firstborn of Gaia the Earth and Uranus the Sky, are power itself. Primordial, boundless power, the very essence of our universe, the salt of the Earth... All that I remember from our meeting is the sense of a gigantic, inexpressible power, needing nothing, not even the manifesting of itself. Briareus, Gyges, and Cottus, the Hundred-Handed, the Hecatoncheires, the Firstborn---what are authority, glory, offense, or wrath to them?.."
+"You're lucky, Hermeias. I have. And I wouldn't want to see them again. I don't like feeling like a speck of dust staring at a whirlwind. The Hecatoncheires, the Firstborn of Gaia the Earth and Uranus the Sky, are power itself. Primordial, boundless power, the very essence of our universe, the salt of the Earth... All that I remember from our meeting is the sense of a gigantic, inexpressible power, needing nothing, not even the manifesting of itself. Briareos, Gyges, and Kottos, the Hundred-Handed, the Hecatoncheires, the Firstborn---what are authority, glory, offense, or wrath to them?.."
 
 "What?"
 
@@ -101,7 +101,7 @@ Two hazy silhouettes, two shades... no, shades have no place here---they should 
 
 "It only grew worse. The forests began to wither, the waters of rivers and streams turned stagnant, the cliffs weathered and crumbled into gravel; and ever more often one came upon patches of land scorched to ash---newborn volcanoes had begun to speak.
 
-"It was then that, for the first time, the Firstborn stirred in the abysses of Tartarus---the Hecatoncheires, Briareus, Gyges, and Cottus. They stirred, made themselves known... and fell silent again for a time..."
+"It was then that, for the first time, the Firstborn stirred in the abysses of Tartarus---the Hecatoncheires, Briareos, Gyges, and Kottos. They stirred, made themselves known... and fell silent again for a time..."
 
 "How could that be possible?!" the Trickster's voice wavered. "That was *their* own land! That was *themselves*! One cannot maim, cannot kill oneself!"
 
@@ -167,7 +167,7 @@ Hades did not answer at once, but the Trickster did not hurry him, understanding
 
 "The earth burned, seas and rivers boiled, mountains flew up into the sky, fiery lava erupted from the depths, the universe cried out for help...
 
-"And it was then that the ground of Gaia shuddered terribly, and the Hundred-Handed rose before the combatants. The Firstborn, the Hecatoncheires, Briareus, Gyges, and Cottus; those whom Cronus and his titans had entirely forgotten, and of whom the Fallen, the strangers, knew nothing at all---the strangers who had shaken the foundations of the world so badly that the world was forced to defend itself with the hands of the Hundred-Handed.
+"And it was then that the ground of Gaia shuddered terribly, and the Hundred-Handed rose before the combatants. The Firstborn, the Hecatoncheires, Briareos, Gyges, and Kottos; those whom Cronus and his titans had entirely forgotten, and of whom the Fallen, the strangers, knew nothing at all---the strangers who had shaken the foundations of the world so badly that the world was forced to defend itself with the hands of the Hundred-Handed.
 
 "The Hecatoncheires did not care who started the battle first, over what it had begun, who was right and who was wrong---the battle threatened the nature of the world, and on one side of it fought the Strangers.
 
@@ -175,7 +175,7 @@ Hades did not answer at once, but the Trickster did not hurry him, understanding
 
 "Few managed to escape the hands of the Hecatoncheires---like whirlwinds, they wrapped themselves around the Fallen, Cronus, and his titans; neither titan strength nor the flame and light of the Fallen availed them, and Time itself betrayed Cronus, halting and recoiling in fear as the Firstborn vanished into the depths of Tartarus with their prize.
 
-"And so the famous Titanomachy came to its end; but never say, Hermeias, that it was Zeus who summoned the Hundred-Handed, for they cannot be summoned, any more than they can be sent away... and without anyone's order, to this day, Briareus, Gyges, and Cottus guard the exits from Tartarus.
+"And so the famous Titanomachy came to its end; but never say, Hermeias, that it was Zeus who summoned the Hundred-Handed, for they cannot be summoned, any more than they can be sent away... and without anyone's order, to this day, Briareos, Gyges, and Kottos guard the exits from Tartarus.
 
 "Since then, every human sacrifice, every violent destruction of a mortal mind---in which particles of the Family's 'I' also reside---unwittingly feeds Tartarus and the Fallen (for now everyone down there is Fallen: some for the first time, others for the second), feeding those who once tried to destroy us and now must make do with scraps..."
 

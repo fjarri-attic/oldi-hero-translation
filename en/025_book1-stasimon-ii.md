@@ -96,7 +96,7 @@ He smiled faintly, as though apologizing, and lowered himself onto the grass.
 
 "Of course. It is not so difficult."
 
-"For you. But not for an infant. I knew my father well, better than most did, the way only bastard children, born of a moment's passion, know their fathers---and I am certain that Cronus the Master of Time himself would never have thought of such a thing on his own. Others put it into his head---strangers, those who appeared in our world unbidden, who smiled politely when men called us gods; those who called themselves the Fallen even before the great battle in which they sided with Cronus the Timekeeper and were cast down into Tartarus together with him. Yes, Junior is a great fighter, for only a great fighter would dare call the elder kin to his aid as allies---the Hundred-Handed, Briareus, Gyges, and Cottus... Only strength could summon strength."
+"For you. But not for an infant. I knew my father well, better than most did, the way only bastard children, born of a moment's passion, know their fathers---and I am certain that Cronus the Master of Time himself would never have thought of such a thing on his own. Others put it into his head---strangers, those who appeared in our world unbidden, who smiled politely when men called us gods; those who called themselves the Fallen even before the great battle in which they sided with Cronus the Timekeeper and were cast down into Tartarus together with him. Yes, Junior is a great fighter, for only a great fighter would dare call the elder kin to his aid as allies---the Hundred-Handed, Briareos, Gyges, and Kottos... Only strength could summon strength."
 
 Chiron fell silent.
 
