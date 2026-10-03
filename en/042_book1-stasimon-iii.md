@@ -81,7 +81,7 @@ Two hazy silhouettes, two shades... no, shades have no place here---they should 
 
 "Kronos the Timekeeper had just then overthrown his father Ouranos, gelding him, and the Fallen quickly understood whom to bet on. They began giving Kronos wise counsel---the kind Momos the Mocker gives..."
 
-"I know, uncle, where following the counsel of Momos, truthful through lies, leads."
+"I know, uncle, what comes of following the counsel of Momos, truthful through lies."
 
 "So do I. So do others. But that's now. Back then, Kronos took a great liking to the Fallen's idea: to become lord of the titans, Gaia's children! To give credit where it's due---the titans themselves hardly objected. After all, great, if young in years, Kronos was Gaia's favorite, the conqueror of Ouranos...
 
