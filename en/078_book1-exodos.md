@@ -71,7 +71,7 @@ Well, whom the gods would destroy... but for now, Herakles rides on to Mycenae.
 
 Iphikles Amphitryad, Alkeides---the last son of Zeus---and young Iolaos Iphiklid ride on to Mycenae.
 
-Let's allow them to make the journey in peace.
+Let us allow them to make the journey in peace.
 
 For ahead of Herakles lie twelve years of labors, though he himself believes there will be only ten.
 
@@ -83,7 +83,7 @@ Otherwise we'd have to stop and consider that, still within the lifetimes of the
 
 No.
 
-Let's not run ahead of the chariot.
+Let us not run ahead of the chariot.
 
 All things in their own time.
 
