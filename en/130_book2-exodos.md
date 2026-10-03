@@ -20,8 +20,7 @@ Darkness. Flashes. A chill-inducing mugginess. A rumble of water.
 
 That is all.
 
-::: {.big-scene-break}
-:::
+* * *
 
 "...are you there, Trickster?"
 

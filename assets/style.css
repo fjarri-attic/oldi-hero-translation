@@ -3,11 +3,7 @@
 }
 
 .small-scene-break {
-
-}
-
-.big-scene-break {
-
+    padding-top: 1em;
 }
 
 .epigraph {
@@ -17,3 +13,13 @@
 .epigraph-source {
 
 }
+
+.quote {}
+
+.verse {}
+
+.linebreak {}
+
+.authors {}
+
+.translator {}
