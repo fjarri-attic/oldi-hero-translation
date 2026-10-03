@@ -1,6 +1,4 @@
-### Parodos[^1]
-
-[^1]: The opening song of the chorus in a Greek tragedy.
+### Parodos[\*](#fn-1){.noteref}
 
 Darkness.
 
@@ -90,11 +88,7 @@ Middle does not answer.
 
 "Then can you guess what that same Cleaner Perseus began to ponder in his old age?"
 
-"Can I guess?" the darkness laughs, and its laughter is joyless. "I *know!* I asked him about it myself, when he came to me. The blood of the sacrificial cow had stirred Perseus's memory, and he had nothing left to lose---he'd already lost it all. 'I regret nothing,' he said, and I flinched when I saw his smile, 'nothing except for one thing... I shouldn't have given Alalkomeneis[^2] Medusa's head. And if I was going to give it to her, they might at least have looked each other in the eye. Kin, after all... Answer me, Sovereign---would you have dared to send Thanatos[^3] after me, then?' And I answered him nothing, Middle! I stayed silent, and he was smiling..."
-
-[^2]: One of the epithets of Athena, daughter of Zeus and Metis; she will later earn the epithet Pallas, after defeating the giant Pallas and stretching his skin over her shield.
-
-[^3]: Thanatos the Death, the twin brother of Hypnos the Sleep, son of Nyx the Night.
+"Can I guess?" the darkness laughs, and its laughter is joyless. "I *know!* I asked him about it myself, when he came to me. The blood of the sacrificial cow had stirred Perseus's memory, and he had nothing left to lose---he'd already lost it all. 'I regret nothing,' he said, and I flinched when I saw his smile, 'nothing except for one thing... I shouldn't have given Alalkomeneis[\*](#fn-2){.noteref} Medusa's head. And if I was going to give it to her, they might at least have looked each other in the eye. Kin, after all... Answer me, Sovereign---would you have dared to send Thanatos[\*](#fn-3){.noteref} after me, then?' And I answered him nothing, Middle! I stayed silent, and he was smiling..."
 
 Silence. And only the black water of the Styx laps at the foot of the White Rock of Oblivion, invisible in the gloom, as though washing away the bitterness of the Sovereign's last words.
 
@@ -102,9 +96,7 @@ Silence. And only the black water of the Styx laps at the foot of the White Rock
 
 "What do you propose, Middle?"
 
-"For a start---to talk to Junior. To convince him not to do this. The Moirai[^4] haven't spun the thread yet---which means everything is still reversible. Junior might listen to the two of us..."
-
-[^4]: The three goddesses of fate: Klotho the Spinner, Atropos the Inevitable, Lachesis the Allotter. Literally, "moira" means "lot."
+"For a start---to talk to Junior. To convince him not to do this. The Moirai[\*](#fn-4){.noteref} haven't spun the thread yet---which means everything is still reversible. Junior might listen to the two of us..."
 
 "Evidently, he wouldn’t listen to you alone. Don't be naive, Middle---you know Zeus as well as I do! Once he's decided something, you can't talk him out of it, not even if you turn the world inside out."
 
@@ -128,9 +120,7 @@ Flashes.
 
 Darkness.
 
-"You rarely come down to see me, Middle," the darkness answers, almost soundlessly. "Very rarely. Otherwise you'd know that the Hekatoncheires[^5] are finding it harder and harder to hold back the pressure from Tartaros. And sooner or later, the Hundred-Handed may not be able to hold them back. On that day I'll be glad of any ally: one of the Family, a Half-Man, even a Lone Cleaner---so long as he knows how to kill for good. Junior is a tyrant and a despot, but on that day he'll be the foremost warrior. And you, Middle---won't you want to sit it out in your depths? Don't take offense, I'm just saying... In short, I wouldn't advise you to worry too much about the future fate of the Lone Cleaner. He's mortal---and that says it all, at least to me. What you should worry about are the ones gathering their strength down there, in Tartaros. As for your claims to power, they're none of my concern. I'm not reaching for power myself---I have enough as it is. And I won't report our conversation to Junior."
-
-[^5]: The Hundred-Handed, firstborn of Ouranos the Sky and Gaia the Earth: Briareos, Gyges, and Kottos.
+"You rarely come down to see me, Middle," the darkness answers, almost soundlessly. "Very rarely. Otherwise you'd know that the Hekatoncheires[\*](#fn-5){.noteref} are finding it harder and harder to hold back the pressure from Tartaros. And sooner or later, the Hundred-Handed may not be able to hold them back. On that day I'll be glad of any ally: one of the Family, a Half-Man, even a Lone Cleaner---so long as he knows how to kill for good. Junior is a tyrant and a despot, but on that day he'll be the foremost warrior. And you, Middle---won't you want to sit it out in your depths? Don't take offense, I'm just saying... In short, I wouldn't advise you to worry too much about the future fate of the Lone Cleaner. He's mortal---and that says it all, at least to me. What you should worry about are the ones gathering their strength down there, in Tartaros. As for your claims to power, they're none of my concern. I'm not reaching for power myself---I have enough as it is. And I won't report our conversation to Junior."
 
 "At least there's that---thanks," Middle grumbles discontentedly. "Oh, Senior, you'll come to your senses---but it will be too late. Watch out you don't regret it later..."
 

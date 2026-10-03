@@ -100,9 +100,7 @@ He smiled faintly, as though apologizing, and lowered himself onto the grass.
 
 Cheiron fell silent.
 
-"You do not remember the strangers, Hermeias---you were born after the Titanomachy[^24]---but I remember. They were beautiful, and---"
-
-[^24]: The war between the gods and the Titans, as a result of which most of the defeated Titans were cast down into Tartaros.
+"You do not remember the strangers, Hermeias---you were born after the Titanomachy[\*](#fn-24){.noteref}---but I remember. They were beautiful, and---"
 
 "And terrible at once. I know, Cheiron. I have seen the face of Medusa on Athena's shield. That is exactly what it was---a beautiful terror. I suppose I was simply fortunate to be born afterward... But this is no time for memories, Cheiron! Whether it is our own ancestors, or the strangers who came from nowhere, or both at once---if Tartaros is knocking at this child's soul, it bodes nothing good. And little Alkeides has fits of madness---the gossiping nurses are ringing it through all of Thebes!"
 

@@ -48,10 +48,8 @@ Such as his memory and taste suggests,---[]{.linebreak}
 Who lays down rules, and tells fine tales of virtue;[]{.linebreak}
 Not raking up the old Titanic fables,[]{.linebreak}
 Wars of the Giants, or the Lapithae,[]{.linebreak}
-Figments of ancient times, mere pleasing trifles...[^banquet]
+Figments of ancient times, mere pleasing trifles...[\*](#fn-banquet){.noteref}
 :::
-
-[^banquet]: Quoted from Athenaeus of Naucratis, *The Deipnosophists; or, Banquet of the Learned of Athenaeus* (who in turn quotes Xenophanes), translation by Charles Duke Yonge (1854). [TN]
 
 "Figments of ancient times," the Sovereign repeated thoughtfully. "We're becoming figments, Trickster."
 

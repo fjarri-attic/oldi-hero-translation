@@ -66,6 +66,37 @@ def clean_toc(toc):
     return new_toc
 
 
+def link_notes(docs: list[tuple[str, BeautifulSoup]]) -> None:
+    """docs: (xhtml file name, parsed chapter) for every chapter."""
+    targets = {
+        el["id"]: file_name
+        for file_name, soup in docs
+        for el in soup.select(".footnote[id]")
+    }
+
+    backrefs = {}
+    for file_name, soup in docs:
+        for a in soup.select("a.noteref"):
+            note_id = a["href"].lstrip("#")
+            if note_id not in targets:
+                raise RuntimeError(f"{file_name}: no footnote with id {note_id}")
+            a["href"] = f"{targets[note_id]}#{note_id}"
+            a["epub:type"] = "noteref"
+            a["id"] = f"ref-{note_id}"
+            backrefs[note_id] = f"{file_name}#ref-{note_id}"
+
+    for file_name, soup in docs:
+        for p in soup.select(".footnote[id]"):
+            note_id = p["id"]
+            if note_id not in backrefs:
+                raise RuntimeError(f"footnote {note_id} is never referenced")
+            back = soup.new_tag("a", href=backrefs[note_id])
+            back.string = "↩︎"
+            p.append(" ")
+            p.append(back)
+            p["epub:type"] = "endnote"
+
+
 def build_epub(
     input_dir: Path,
     output_path: Path,
@@ -87,22 +118,24 @@ def build_epub(
 
     chapter_paths = sorted(input_dir.glob("*.html"))
 
-    toc_flat = []
-    chapters = []
+    docs = []
     for chapter_path in chapter_paths:
         html = BeautifulSoup(chapter_path.read_text(encoding="utf-8"), "html.parser")
         assign_heading_ids(html)
+        docs.append((f"{chapter_path.stem}.xhtml", html))
 
-        chapter = epub.EpubHtml(
-            title=chapter_path.stem,
-            file_name=f"{chapter_path.stem}.xhtml",
-            lang=lang,
-        )
+    link_notes(docs)
+
+    toc_flat = []
+    chapters = []
+    for file_name, html in docs:
+        chapter = epub.EpubHtml(title=Path(file_name).stem, file_name=file_name, lang=lang)
         chapter.content = html.body.decode_contents()
         chapter.add_item(css_item)
 
         toc_flat.extend(build_chapter_toc(html, chapter))
         chapters.append(chapter)
+
 
     toc = build_toc(toc_flat)
 
@@ -145,12 +178,6 @@ def build_epub(
 
 
 def main() -> int:
-    """
-    - make sure footnotes are not visible at the end of chapters
-    - make an actual cover
-    - build chapter IDs based on ToC instead of just random UUIDs
-    """
-
     input_dir = Path("html")
     output_path = Path("book.epub")
     title = "A Hero Stands Alone"

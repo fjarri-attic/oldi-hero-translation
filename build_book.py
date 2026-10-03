@@ -46,7 +46,7 @@ syntax on top of plain Markdown:
 
 4. Footnotes, standard Markdown syntax::
 
-       Here is a claim that needs backing up.[^src]
+       Here is a claim that needs backing up.[\\*](#fn-src){.noteref}
 
        [^src]: Cited from the 1962 edition, page 40.
 
@@ -134,7 +134,7 @@ def build_parser() -> MarkdownIt:
         )
         .use(attrs_plugin, spans=True)   # enables [text]{.class} bracketed spans
         .use(attrs_block_plugin)         # enables a lone {.class} line before a block
-        .use(footnote_plugin)            # enables [^name] / [^name]: ... footnotes
+        .use(footnote_plugin)            # enables [\*](#fn-name){.noteref} / [^name]: ... footnotes
     )
     return md
 

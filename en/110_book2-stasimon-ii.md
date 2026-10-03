@@ -114,9 +114,7 @@ Or pretends not to.
 
 The door creaked, trembled... and stayed where it was.
 
-"Let everything remain as it is," Kronos goes on. "We will wait. We know how to wait. Tell me, Herakles---do you remember a certain Attam[^74], whom you kept from sacrificing his own son to a god?"
-
-[^74]: The Greek pronunciation of the name "Abraham." On his way for the apples of the Hesperides, Herakles passed through Palestine, where he stopped Attam (Abraham) from sacrificing his own son Akab (Jacob) to a god. Herakles's companions explained to Attam that the mighty "Achivite" (as the Achaians were called in Palestine) was a son of a god, and his messenger. [This is the authors' intentional mystification. Translated as is. [TN]]
+"Let everything remain as it is," Kronos goes on. "We will wait. We know how to wait. Tell me, Herakles---do you remember a certain Attam[\*](#fn-74){.noteref}, whom you kept from sacrificing his own son to a god?"
 
 "I remember," Herakles smiles. "I had to give the long-bearded stubborn old fool a good pounding before he agreed to replace the boy with a ram."
 
@@ -124,9 +122,7 @@ The door creaked, trembled... and stayed where it was.
 
 "Did I have time to ask?!" Herakles is puzzled. "Dias, I suppose, Zeus... who else would it be?!"
 
-"Dias," Kronos pronounces slowly and distinctly, stressing every sound, "Deus[^75]... no, my child, this Attam did not worship Zeus, but an altogether different god. Attam's people call this God by many names, but that is not what matters."
-
-[^75]: The name Zeus actually sounds more like "Dzeus."
+"Dias," Kronos pronounces slowly and distinctly, stressing every sound, "Deus[\*](#fn-75){.noteref}... no, my child, this Attam did not worship Zeus, but an altogether different god. Attam's people call this God by many names, but that is not what matters."
 
 "A barbarian..." Herakles mutters, shrugging with distaste.
 
@@ -138,9 +134,7 @@ The door creaked, trembled... and stayed where it was.
 
 "Who is he, this One?"
 
-"It would take long to explain. And there is no need. I will only say that every god must, without fail, have an adversary. We, the Fallen, are the Olympians' eternal adversaries. Two extremes. You, mortals, stand in the middle. If the One takes the Family's place, whatever he may be called---we, the Fallen, will not go anywhere. We will remain, as before, in the Netherworld, in the lowest depths of Hell[^76]. And you, mortals, will remain on Gaia as well. You will believe in the One; and, therefore, in us too. No, we will not go hungry... and perhaps, thanks to us and to mortals, Gaia will not end up the One's slut."
-
-[^76]: The word "Hell" derives from "Hades." [in Russian; while Hell also means "a concealed place", it is not related to "Hades." [TN]]
+"It would take long to explain. And there is no need. I will only say that every god must, without fail, have an adversary. We, the Fallen, are the Olympians' eternal adversaries. Two extremes. You, mortals, stand in the middle. If the One takes the Family's place, whatever he may be called---we, the Fallen, will not go anywhere. We will remain, as before, in the Netherworld, in the lowest depths of Hell[\*](#fn-76){.noteref}. And you, mortals, will remain on Gaia as well. You will believe in the One; and, therefore, in us too. No, we will not go hungry... and perhaps, thanks to us and to mortals, Gaia will not end up the One's slut."
 
 "Isn't it a bit early to be counting mortals among your allies, Kronos the Fallen?"
 

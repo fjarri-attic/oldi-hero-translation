@@ -1,6 +1,4 @@
-### Exodos[^42]
-
-[^42]: The concluding song performed as the chorus withdraws from the stage.
+### Exodos[\*](#fn-42){.noteref}
 
 ::: {.quote}
 "[...] before Amphitryon reached Thebes, Zeus came by night and prolonging the one night threefold he assumed the likeness of Amphitryon and bedded with Alcmena [...] But when Amphitryon arrived and saw that he was not welcomed by his wife, he inquired the cause; and when she told him that he had come the night before and slept with her, he learned from Teiresias how Zeus had enjoyed her.
@@ -15,14 +13,10 @@ As he was returning from the hunt, there met him heralds sent by Erginos to rece
 
 Indignant at this outrage, Erginos marched against Thebes. But Herakles, having [...] taken the command, killed Erginos, put the Minyans to flight, and compelled them to pay double the tribute to the Thebans. And it chanced that in the fight Amphitryon fell fighting bravely. And Herakles received from Kreon his eldest daughter Megara as a prize of valor, and by her he had three sons [...] But Kreon gave his younger daughter to Iphikles, who already had a son Iolaos by Automedusa, daughter of Alcathus. [...]
 
-Now it came to pass that after the battle with the Minyans Herakles was driven mad through the jealousy of Hera and flung his own children, whom he had by Megara, and two children of Iphikles into the fire; wherefore he condemned himself to exile, and was purified by Thespios, and repairing to Delphi he inquired of the god where he should dwell. The Pythian priestess then first called him Herakles, for hitherto he was called Alkeides. And she told him to dwell in Tiryns, serving Eurystheus for twelve years and to perform the ten labours imposed on him[^43], and so, she said, when the tasks were accomplished, he would be immortal.
+Now it came to pass that after the battle with the Minyans Herakles was driven mad through the jealousy of Hera and flung his own children, whom he had by Megara, and two children of Iphikles into the fire; wherefore he condemned himself to exile, and was purified by Thespios, and repairing to Delphi he inquired of the god where he should dwell. The Pythian priestess then first called him Herakles, for hitherto he was called Alkeides. And she told him to dwell in Tiryns, serving Eurystheus for twelve years and to perform the ten labours imposed on him[\*](#fn-43){.noteref}, and so, she said, when the tasks were accomplished, he would be immortal.
 
-But some say that Herakles, having quitted Thebes because of the burning of his children, joined himself to the Argonauts in their voyage, and was left behind by them in Mysia; for it was fated that the great son of Zeus should return to Tiryns and accomplish the labours appointed him. And Glaukos, the sea-god, declared this to the Argonauts; and Hermes escorted Herakles to the service of Eurystheus..."[^apollodorus]
+But some say that Herakles, having quitted Thebes because of the burning of his children, joined himself to the Argonauts in their voyage, and was left behind by them in Mysia; for it was fated that the great son of Zeus should return to Tiryns and accomplish the labours appointed him. And Glaukos, the sea-god, declared this to the Argonauts; and Hermes escorted Herakles to the service of Eurystheus..."[\*](#fn-apollodorus){.noteref}
 :::
-
-[^43]: Eurystheus refused to count two of Herakles's labors---the Lernaian Hydra and the Augean stables---since Herakles had not performed them alone, and for the stables he had even demanded payment; thus the ten labors became twelve, and their completion took twelve years.
-
-[^apollodorus]: All but the last paragraph are quoted from Apollodorus, *The Library*, translation by James G. Frazer (1921). The last paragraph is paraphrased from Apollonius, *The Argonautica*. [TN]
 
 ::: small-scene-break
 :::
@@ -37,9 +31,7 @@ Shaking their grey beards, they will tell how the hero beat on bronze tympana to
 
 Their bald pates gleaming, they will report that Iolaos Iphiklid took part in the slaying of the Lernaian Hydra---forgetting to mention that Iolaos was not yet ten years old at the time, and never wondering how Iphikles Amphitryad could have let his underage son go on a deadly errand together with an uncle prone to fits, and after everything Alkeides had done in Thebes, no less!
 
-This tale is a fib...?[^pushkin]
-
-[^pushkin]: The original quotes A. S. Pushkin, *The tale of the golden rooster*; here we use the translation by Vladimir Gurvich. The quote continues as "... and yet, / Lessons can be learned from that.", which is a connection every Russian speaker immediately makes. [TN]
+This tale is a fib...?[\*](#fn-pushkin){.noteref}
 
 And even the wisest of the rhapsodes, the great blind Homer, speaking in Odysseus's voice, will say of the dark kingdom of the dead:
 
@@ -60,10 +52,8 @@ The shade of Herakles, however, will answer his guest, a man named Odysseus---wh
 Son of Laertes, nobly born and wise,[]{.linebreak}
 And yet unhappy; surely thou dost bear[]{.linebreak}
 A cruel fate, like that which I endured[]{.linebreak}
-While yet I saw the brightness of the sun.[^odyssey]
+While yet I saw the brightness of the sun.[\*](#fn-odyssey-1){.noteref}
 :::
-
-[^odyssey]: This and the previous stanza quoted from Homer, *Odyssey*, translation by William Cullen Bryant (1873). [TN]
 
 Homer was blind; Homer's successors will be blind twice over.
 

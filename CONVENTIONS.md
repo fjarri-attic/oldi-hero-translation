@@ -17,7 +17,7 @@ Don't make commits - I will handle it. Change files only when specifically instr
 
 ## Formatting
 
-- **Footnotes** (explanatory content that should actually accompany the word): Markdown style---a reference anchor near the word (without a space), and the actual footnote under the paragpaph. E.g. `... lawagetas[^9] ...` in a paragraph, and `[^9]: A Mycenaean military title---leader of the host, second in rank only to the wanax.` after the paragraph.
+- **Footnotes** (explanatory content that should actually accompany the word): Markdown style---a reference anchor near the word (without a space), and the actual footnote under the paragpaph. E.g. `... lawagetas[\*](#fn-9){.noteref} ...` in a paragraph, and `[^9]: A Mycenaean military title---leader of the host, second in rank only to the wanax.` after the paragraph.
 - Thoughts are rendered as `[Character thoughts go here]{.thoughts}`.
 - Em-dashes use `---` instead of a single unicode symbol. En-dashes use `--`. Ellipsis uses `...`.
 - Em-dashes and en-dashes are closed (not separated with spaces from the surrounding text).

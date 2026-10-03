@@ -1,6 +1,4 @@
-### Stasimon[^15] I
-
-[^15]: A choral ode performed between the epeisodia of a Greek tragedy. Literally, "a standing song."
+### Stasimon[\*](#fn-15){.noteref} I
 
 Darkness.
 

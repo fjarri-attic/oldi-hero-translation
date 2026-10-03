@@ -26,9 +26,7 @@ The traveler approaches the altar---low, as all altars of the underworld gods ar
 
 "And the sacrifice?"
 
-"Here she is. I had to trouble Menoites[^58]..."
-
-[^58]: Menoites, son of Keuthonymos---herdsman of the cattle belonging personally to Hades. It was Menoites the herdsman who once reported to Three-Bodied Geryon that Herakles was stealing his cattle, and later reported to Hades that Herakles had killed Geryon.
+"Here she is. I had to trouble Menoites[\*](#fn-58){.noteref}..."
 
 A black cow with a white patch on her forehead and empty, expressionless eyes stands beside the guide. The cow's flanks rise and fall steadily; she chews her cud indifferently, staring dully at the traveler and the pentagonal altar.
 
@@ -76,9 +74,7 @@ The traveler gives an involuntary start and, with a strange, pained expression, 
 
 Something in between.
 
-"Yes, I want to know, teacher. Only it wasn't I who stood with you on the wall of Tiryns. I am Iphikles, not Alkeides. Alkeides is in Maionia[^59] now, with Omphale of Lydia---men and gods believe that Herakles is atoning for the sin of unintentionally killing you, Iphitos the archer; I, though, hope that he's atoning for his madness... and that he'll atone for it once and for all. But let's not speak of that aloud, even here..."
-
-[^59]: The ancient name for Lydia; the "Maionians" were the local tribes, its native population.
+"Yes, I want to know, teacher. Only it wasn't I who stood with you on the wall of Tiryns. I am Iphikles, not Alkeides. Alkeides is in Maionia[\*](#fn-59){.noteref} now, with Omphale of Lydia---men and gods believe that Herakles is atoning for the sin of unintentionally killing you, Iphitos the archer; I, though, hope that he's atoning for his madness... and that he'll atone for it once and for all. But let's not speak of that aloud, even here..."
 
 "I don't blame Alkeides,"---a sorrowful rustle, an echo, a reverberation---"I saw Lyssa the Rage in his eyes when he stepped toward me, not understanding who stood before him, or whether anyone stood before him at all... no, I don't blame your brother."
 

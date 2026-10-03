@@ -1,8 +1,6 @@
 ### Stasimon III
 
-#### Strophe[^31]
-
-[^31]: A part of a stasimon.
+#### Strophe[\*](#fn-31){.noteref}
 
 Darkness.
 
@@ -49,9 +47,7 @@ Two hazy silhouettes, two shades... no, shades have no place here---they should 
 "Then let's begin at the very beginning. No, not with the creation of the world---I didn't exist yet then---but with the coming of the Fallen. Though, come to think of it, I didn't exist yet then either..."
 
 
-#### Antistrophe[^32]
-
-[^32]: A part of a stasimon.
+#### Antistrophe[\*](#fn-32){.noteref}
 
 "The universe of the Fallen, Hermeias, is utterly alien to us. We don't even know whether it truly exists. The only proof of it is the very coming of the Fallen themselves. I have gathered knowledge of them grain by grain, sought out the scraps of surviving accounts---and even so... Their homeland is not one of those worlds of Mother Gaia that we created or remade for ourselves: Olympos, my Hades, your small little world near the Theban Dromos, Cheiron's corner of Pelion... It is something wholly other, the universe of the Fallen; other if only because, if the Strangers are to be believed (and they can be believed only with great caution!), a One God reigns there! Can you imagine it, Hermeias? A god able to say: 'I am All!'"
 
@@ -186,9 +182,7 @@ Hades did not answer at once, but the Trickster did not hurry him, understanding
 "Yes, uncle. Enough for them. Not for us. It's my turn now, Sovereign. I'll tell you about young Alkeides, son of Zeus and Alkmene, the future Lone Cleaner, equal to the gods---and about the true cause of his madness..."
 
 
-#### Epode[^33]
-
-[^33]: The concluding part of a stasimon.
+#### Epode[\*](#fn-33){.noteref}
 
 "You've grown up a great deal of late, Hermeias," Hades said, weighing each word, after the Trickster fell silent. "The way out that you and Cheiron have chosen---it's not the best, but perhaps the only one..."
 

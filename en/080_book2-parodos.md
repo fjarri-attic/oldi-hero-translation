@@ -29,9 +29,7 @@ Ares rose abruptly and walked over to the Trickster. The Dromos had not yet clos
 ::: small-scene-break
 :::
 
-...The Phlegraian Fields[^44], burned to the ground, a table-flat, slate-coal black plain---and it truly was coal, smoldering and smoking in patches, over which the low-hung shroud of the night sky gathered in folds, with its rare, sickly reddened eyes of star-titans.
-
-[^44]: The Phlegraian Fields---literally "the burning grounds" (Greek); located on the Chalkidiki peninsula, on its westernmost prong, Pallene. [Note that today's Phlegraian Fields are located near Naples. The Pallene location follows the classical sources (Herodotus, Strabo, Pindar) who placed the site of Gigantomachy there, and mentioned that the Italian region got its name after the Gigantomachy myth due to its fiery geology.---TN]
+...The Phlegraian Fields[\*](#fn-44){.noteref}, burned to the ground, a table-flat, slate-coal black plain---and it truly was coal, smoldering and smoking in patches, over which the low-hung shroud of the night sky gathered in folds, with its rare, sickly reddened eyes of star-titans.
 
 Dark columns stirred on the horizon, making the blind sores of the stars ooze filthy ichor, and began to move, raising the ash of the conflagration off the body of Mother Gaia...
 
@@ -40,9 +38,7 @@ Dark columns stirred on the horizon, making the blind sores of the stars ooze fi
 
 Hermeias gave a sharp whistle, clapping his hands, and the Dromos closed.
 
-"They say an uninvited guest is worse than the Hyksos[^hyksos]," the Trickster said, barely holding himself back from kicking Ares's helmet, forgotten on the threshold. Even the little wings on the heels of Hermeias's sandals bristled their feathers aggressively.
-
-[^hyksos]: A reference to a Russian saying "an uninvited guest is worse than a Tatar". Unfortunately, "Hyksos" does not have an established singular form. [TN]
+"They say an uninvited guest is worse than the Hyksos[\*](#fn-hyksos){.noteref}," the Trickster said, barely holding himself back from kicking Ares's helmet, forgotten on the threshold. Even the little wings on the heels of Hermeias's sandals bristled their feathers aggressively.
 
 "Who says?" Ares inquired in honeyed tones, settling back into his former seat as though nothing had happened. "If it's the Hyksos, don't believe them. Lying scoundrels..."
 

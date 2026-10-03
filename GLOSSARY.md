@@ -218,7 +218,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Иола | Iole | Eurytos's foretold future daughter, prophesied to become the future wife of Alkmene's son (Herakles) |
 | Миртил | Myrtilos | Current teacher of Alkeides and Iphikles in archery |
 | Мунит | Mounitos | Eurytos's deliberately dismissive/mocking mangling of Myrtilos's name, used twice |
-| килик | kylix | Ancient Greek drinking cup; the author's own endnote glosses it simply as "a ladle-shaped drinking cup"---footnoted on first occurrence |
+| килик (мн. килики) | kylix (pl. kylikes) | Ancient Greek drinking cup; the author's own endnote glosses it simply as "a ladle-shaped drinking cup"---footnoted on first occurrence |
 | вакханка (мн. вакханки) | bacchante (pl. bacchantes) |  |
 | Своя / Свой | Kinswoman / Kinsman | Recognition term used between followers of the Fallen (Titans); gendered address, capitalized like a title |
 | Павшие | the Fallen | Collective term for the deposed Titans, awaited by their followers to return and overthrow the Olympians |
