@@ -78,7 +78,7 @@ Worn out.
 
 "Over the Gigantes?"
 
-"Over Herakles. Better ask which of the Family this Lone Cleaner hasn't managed to offend! Father tells them: we take Herakles and go to Phlegra to beat the Gigantes, and they tell Father: who knows whom your favorite will decide to beat first---the Gigantes or us! Father tells them: he's a hero, one labor after another, twelve years of blameless service; and they tell Father: that much is certain! And off they go, competing to remember it all: grandfather Okeanos, whacked with an oar; Thanatos the Killer, both wings wrenched clean out of their sockets; Nereus of the Sea, his back mauled so badly he still swims sideways to this day; Helios, threatened to shoot dead---"
+"Over Herakles. Better ask which of the Family this Lone Cleaner hasn't managed to offend! Father tells them: we take Herakles and go to Phlegra to beat the Gigantes, and they tell Father: who knows whom your favorite will decide to beat first---the Gigantes or us! Father tells them: he's a hero, one labor after another, twelve years of blameless service; and they tell Father: that much is certain! And off they go, competing to remember it all: grandfather Okeanos, whacked with an oar; Thanatos the Killer, wrenched both wings clean out of their sockets; Nereus of the Sea, mauled his back so badly he still swims sideways to this day; Helios, threatened to shoot dead---"
 
 "He should have!" Hermeias put in, glaring with hatred at the white disk of the sun.
 
