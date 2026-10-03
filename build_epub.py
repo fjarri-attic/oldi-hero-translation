@@ -49,7 +49,21 @@ def build_toc(toc_flat: list[tuple[int, epub.Link]]):
         current_level = level
         stack[-1].append((link, []))
 
-    return toc
+    return clean_toc(toc)
+
+
+def clean_toc(toc):
+    new_toc = []
+    for item in toc:
+        if isinstance(item, epub.Link):
+            new_toc.append(item)
+        else:
+            if len(item[1]) == 0:
+                new_toc.append(item[0])
+            else:
+                new_toc.append([item[0], clean_toc(item[1])])
+
+    return new_toc
 
 
 def build_epub(
