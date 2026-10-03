@@ -14,7 +14,7 @@ _HEADING_RE = re.compile(r"^h[1-6]$")
 def assign_heading_ids(soup: BeautifulSoup) -> None:
     for heading in soup.find_all(_HEADING_RE):
         if not heading.get("id"):
-            heading["id"] = str(uuid.uuid4())
+            heading["id"] = f"heading-{uuid.uuid4().hex}"
 
 
 def build_chapter_toc(soup: BeautifulSoup, chapter: epub.EpubHtml) -> list:
