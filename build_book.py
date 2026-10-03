@@ -201,8 +201,6 @@ def main(argv: list[str] | None = None) -> int:
     for path in written:
         print(f"wrote {path}")
 
-    shutil.copy("assets/style.css", args.output_dir / "style.css")
-
     return 0
 
 

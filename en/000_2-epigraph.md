@@ -1,13 +1,3 @@
-# A Hero Stands Alone
-
-::: {.authors}
-Henry Lion Oldie
-:::
-
-::: {.translator}
-Translated by Bogdan Opanchuk
-:::
-
 ::: {.epigraph}
 And then Serpent's voice rang out:
 
