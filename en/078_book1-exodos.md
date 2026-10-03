@@ -24,7 +24,7 @@ But some say that Herakles, having quitted Thebes because of the burning of his 
 
 [^apollodorus]: All but the last paragraph are quoted from Apollodorus, *The Library*, translation by James G. Frazer (1921). The last paragraph is paraphrased from Apollonius, *The Argonautica*. [TN]
 
-::: {.small-scene-break}
+::: small-scene-break
 :::
 
 This is what remained of twenty-three years of Herakles's life a mere thousand years later; and what will remain of it three and a half millennia from now will be fit only to serve as a rattle in the hands of overgrown children!
@@ -37,7 +37,7 @@ Shaking their grey beards, they will tell how the hero beat on bronze tympana to
 
 Their bald pates gleaming, they will report that Iolaos Iphiklid took part in the slaying of the Lernaian Hydra---forgetting to mention that Iolaos was not yet ten years old at the time, and never wondering how Iphikles Amphitryad could have let his underage son go on a deadly errand together with an uncle prone to fits, and after everything Alkeides had done in Thebes, no less!
 
-This tale is a fib...[^pushkin]?
+This tale is a fib...?[^pushkin]
 
 [^pushkin]: The original quotes A. S. Pushkin, *The tale of the golden rooster*; here we use the translation by Vladimir Gurvich. The quote continues as "... and yet, / Lessons can be learned from that.", which is a connection every Russian speaker immediately makes. [TN]
 

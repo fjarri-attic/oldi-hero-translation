@@ -41,7 +41,7 @@ That is all.
 And the Trickster struck up in a deliberately thin, piping voice:
 
 ::: verse
-...and he
+...and he[]{.linebreak}
 Deserves to be above his fellows lauded[]{.linebreak}
 Who drinks and then says good and witty things,[]{.linebreak}
 Such as his memory and taste suggests,---[]{.linebreak}

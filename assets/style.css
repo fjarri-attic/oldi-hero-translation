@@ -7,19 +7,31 @@
 }
 
 .epigraph {
-
+    text-align: right;
 }
 
 .epigraph-source {
-
+    text-align: right;
 }
 
-.quote {}
+.quote {
+    font-style: italic;
+}
 
-.verse {}
+.verse {
+    font-style: italic;
+}
 
-.linebreak {}
+.linebreak {
+    display: block;
+    content: ""; /* Ensures it renders even if empty */
+}
 
-.authors {}
+.authors {
+    font-style: italic;
+    font-size: 1.5em;
+}
 
-.translator {}
+.translator {
+    font-style: italic;
+}

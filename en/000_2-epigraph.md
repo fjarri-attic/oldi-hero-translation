@@ -17,5 +17,5 @@ And the Serpent rasped grimly:
 :::
 
 ::: {.epigraph-source}
-Y. Golosovker, *The Legend of Herakles*
+---Y. Golosovker, *The Legend of Herakles*
 :::

@@ -132,7 +132,6 @@ def build_epub(
 
 def main() -> int:
     """
-    - add remaining styles to CSS
     - make sure footnotes are not visible at the end of chapters
     - make an actual cover
     - build chapter IDs based on ToC instead of just random UUIDs
