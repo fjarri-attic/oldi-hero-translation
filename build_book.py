@@ -70,6 +70,7 @@ from __future__ import annotations
 import argparse
 import html
 import sys
+import shutil
 from pathlib import Path
 
 from markdown_it import MarkdownIt
@@ -143,46 +144,37 @@ def build_parser() -> MarkdownIt:
 # ---------------------------------------------------------------------------
 
 PAGE_TEMPLATE = """<!DOCTYPE html>
-<html lang="{lang}">
+<html lang="en">
 <head>
 <meta charset="utf-8">
-<title>{title}</title>
-{css_link}</head>
+<link rel="stylesheet" href="style.css">
+</head>
 <body>
-{body}</body>
+{body}
+</body>
 </html>
 """
-
-
-def wrap_page(body_html: str, title: str, lang: str, css: str | None) -> str:
-    css_link = f'<link rel="stylesheet" href="{html.escape(css)}">\n' if css else ""
-    return PAGE_TEMPLATE.format(
-        lang=html.escape(lang),
-        title=html.escape(title),
-        css_link=css_link,
-        body=body_html,
-    )
 
 
 # ---------------------------------------------------------------------------
 # Conversion
 # ---------------------------------------------------------------------------
 
-def convert_file(md: MarkdownIt, src: Path, dst: Path, *, lang: str, css: str | None) -> None:
+def convert_file(md: MarkdownIt, src: Path, dst: Path) -> None:
     text = src.read_text(encoding="utf-8")
     body_html = md.render(text)
-    page = wrap_page(body_html, title=src.stem, lang=lang, css=css)
+    page =PAGE_TEMPLATE.format(body=body_html)
     dst.write_text(page, encoding="utf-8")
 
 
-def convert_directory(input_dir: Path, output_dir: Path, *, lang: str, css: str | None) -> list[Path]:
+def convert_directory(input_dir: Path, output_dir: Path) -> list[Path]:
     md = build_parser()
     output_dir.mkdir(parents=True, exist_ok=True)
 
     written = []
     for src in sorted(input_dir.glob("*.md")):
         dst = output_dir / (src.stem + ".html")
-        convert_file(md, src, dst, lang=lang, css=css)
+        convert_file(md, src, dst)
         written.append(dst)
     return written
 
@@ -195,14 +187,12 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     parser.add_argument("input_dir", type=Path, help="Directory containing chapter .md files")
     parser.add_argument("output_dir", type=Path, help="Directory to write chapter .html files into")
-    parser.add_argument("--css", default=None, help="Stylesheet href to link from each page")
-    parser.add_argument("--lang", default="en", help="HTML lang attribute (default: en)")
     args = parser.parse_args(argv)
 
     if not args.input_dir.is_dir():
         parser.error(f"{args.input_dir} is not a directory")
 
-    written = convert_directory(args.input_dir, args.output_dir, lang=args.lang, css=args.css)
+    written = convert_directory(args.input_dir, args.output_dir)
 
     if not written:
         print(f"No .md files found in {args.input_dir}", file=sys.stderr)
@@ -210,6 +200,9 @@ def main(argv: list[str] | None = None) -> int:
 
     for path in written:
         print(f"wrote {path}")
+
+    shutil.copy("assets/style.css", args.output_dir / "style.css")
+
     return 0
 
 
