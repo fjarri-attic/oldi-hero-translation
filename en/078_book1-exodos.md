@@ -21,7 +21,7 @@ But some say that Herakles, having quitted Thebes because of the burning of his 
 ::: small-scene-break
 :::
 
-This is what remained of twenty-three years of Herakles's life a mere thousand years later; and what will remain of it three and a half millennia from now will be fit only to serve as a rattle in the hands of overgrown children!
+This is what remained of twenty-three years of Herakles's life a mere thousand years later; and what will remain of it after three and a half millennia will be fit only to serve as a rattle in the hands of overgrown children!
 
 O wise rhapsodes!
 
@@ -46,7 +46,7 @@ And golden-sandalled Juno---is his wife.
 
 Only Homer will not trouble to explain how Herakles could be present among the shades in Hades and among the gods on Olympos at one and the same time; nor why malicious Hera should suddenly grow so generous as to give her beloved daughter to the very man she persecuted his whole life long?!
 
-The shade of Herakles, however, will answer his guest, a man named Odysseus---which means "The one who angers the gods":
+The shade of Herakles, however, will answer his guest, Odysseus by name---which means "The one who angers the gods":
 
 ::: verse
 Son of Laertes, nobly born and wise,[]{.linebreak}
@@ -67,9 +67,9 @@ For ahead of Herakles lie twelve years of labors, though he himself believes the
 
 And roughly as many years of earthly life again after the labors are done---something the wise rhapsodes of every era likewise prefer not to dwell on.
 
-But... let's not run ahead of the chariot.
+But... let us not run ahead of the chariot.
 
-Otherwise we'd have to stop and consider that, still within the lifetimes of the Amphitryad brothers, a certain chosen people out of Palestine (where Achaian colonies have already stood for a hundred years) will come, once and for all, to believe in the One---not knowing that exactly six centuries have passed since the Fallen were cast down onto Gaia the Earth; that six centuries after that a prince named Siddhartha Gautama will be born, later to be called the Buddha; that six hundred years after the Buddha's birth, Jesus of Nazareth will be crucified on a cross---and that another six centuries will pass before the fierce Muhammad proclaims: "There is no god but Allah!.."
+Otherwise we would have to stop and consider that, still within the lifetimes of the brothers Amphitryads, a certain chosen people out of Palestine (where Achaian colonies have already stood for a hundred years) will come, once and for all, to believe in the One---not knowing that exactly six centuries have passed since the Fallen were cast down onto Gaia the Earth; that six centuries after that a prince named Siddhartha Gautama will be born, later to be called the Buddha; that six hundred years after the Buddha's birth, Jesus of Nazareth will be crucified on a cross---and that another six centuries will pass before the fierce Muhammad proclaims: "There is no god but Allah!.."
 
 No.
 
