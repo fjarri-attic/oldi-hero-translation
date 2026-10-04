@@ -68,7 +68,7 @@ That is all.
 
 "Don't anger me, Senior. That's not why I came here. And I don't want to quarrel with you. We've always found common ground---all of us: you, and I, and the Sisters. All except Junior. And now, look---without listening to anyone, he intends to father a Lone Cleaner! Thunderbolts are not enough for him---he wants a living one! And if Junior succeeds at this---"
 
-"I hope he succeeds," mutters Senior, but Middle pretends not to hear.
+"I hope he does," mutters Senior, but Middle pretends not to hear.
 
 "...won't we have to pay too high a price for Junior's recklessness and lust for power?! Remember one of the first---the one who killed Medusa, the youngest of the Gorgons! Remember Perseus!"
 
@@ -136,7 +136,7 @@ Something rustled in the damp gloom, tinged with crimson---though only now did i
 
 "Is that you, Trickster?"
 
-"It's me, uncle."
+"Me, uncle."
 
 "Eavesdropping?"
 
