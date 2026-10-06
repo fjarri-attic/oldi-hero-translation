@@ -74,11 +74,11 @@ Worn out.
 
 "Over the Gigantes?"
 
-"Over Herakles. Better ask which of the Family this Lone Cleaner hasn't managed to offend! Father tells them: we take Herakles and go to Phlegra to beat the Gigantes, and they tell Father: who knows whom your favorite will decide to beat first---the Gigantes or us! Father tells them: he's a hero, one labor after another, twelve years of blameless service; and they tell Father: that much is certain! And off they go, competing to remember it all: grandfather Okeanos, whacked with an oar; Thanatos the Killer, wrenched both wings clean out of their sockets; Nereus of the Sea, mauled his back so badly he still swims sideways to this day; Helios, threatened to shoot dead---"
+"Over Herakles. Better ask which of the Family this Lone Cleaner hasn't managed to offend! Father tells them: we take Herakles and go to Phlegra to beat the Gigantes, and they tell father: who knows whom your favorite will decide to beat first---the Gigantes or us! Father tells them: he's a hero, one labor after another, twelve years of blameless service; and they tell father: that much is certain! And off they go, competing to remember it all: grandfather Okeanos, whacked with an oar; Thanatos the Killer, wrenched both wings clean out of their sockets; Nereus of the Sea, mauled his back so badly he still swims sideways to this day; Helios, threatened to shoot dead---"
 
 "He should have!" Hermeias put in, glaring with hatred at the white disk of the sun.
 
-"...Poseidon can't bury his children fast enough---as of today he's lost six sons and two grandsons! Who killed them? Herakles! In short, only Apollo and I spoke up for Father. Hephaistos the toiler abstained."
+"...Poseidon can't bury his children fast enough---as of today he's lost six sons and two grandsons! Who killed them? Herakles! In short, only Apollo and I spoke up for father. Hephaistos the toiler abstained."
 
 "You and Apollo?!" Hermeias couldn't believe his ears, forgetting the heat and his weariness at once.
 
@@ -98,7 +98,7 @@ He looked past Hermeias to where the web of the Dromos had lately shimmered---an
 ::: small-scene-break
 :::
 
-"Family," Ares muttered like a curse, turning away. "Kinfolk! Well, I don't love Father---but at least I understand that no one but Zeus the despot is capable of grabbing us by the scruff and driving us into battle! But those others... if they knew what you and I know, Trickster, they'd eat the Herakleses alive. Both of them."
+"Family," Ares muttered like a curse, turning away. "Kinfolk! Well, I don't love father---but at least I understand that no one but Zeus the despot is capable of grabbing us by the scruff and driving us into battle! But those others... if they knew what you and I know, Trickster, they'd eat the Herakleses alive. Both of them."
 
 "What?!" The Trickster nearly jumped. "What did you say?!"
 

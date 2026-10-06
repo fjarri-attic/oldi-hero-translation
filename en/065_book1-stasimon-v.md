@@ -135,7 +135,7 @@ Hermeias pretended not to notice, and went on:
 
 "Yes, uncle. No one says it aloud yet, but they think it. Those who know how to think. Which means soon they'll be saying it---those who know how to talk."
 
-"So Junior's authority has been shaken, and he's desperate now for Alkeides to start performing feats in honor of Father the Olympian? Does that worry you, Trickster?"
+"So Junior's authority has been shaken, and he's desperate now for Alkeides to start performing feats in honor of his Olympian Father? Does that worry you, Trickster?"
 
 "Not worry, exactly, but I decided you ought to know. What does worry me is something else: Alkeides hasn't had a single fit in five years."
 
@@ -189,7 +189,7 @@ For a while, both were silent.
 
 "Well, then I could try---"
 
-"You can't. Your Father's called you back from Thebes, and there's no sense provoking Junior over nothing."
+"You can't. Your father's called you back from Thebes, and there's no sense provoking Junior over nothing."
 
 "Someone mortal?"
 

@@ -90,7 +90,7 @@ He smiled faintly, as though apologizing, and lowered himself onto the grass.
 
 "In almost six years---not one?!"
 
-"Not one. But Father swore an oath never again to touch a woman of earth!"
+"Not one. But dad swore an oath never again to touch a woman of earth!"
 
 "Then it is not I who am the hermit, but Junior. Which is remarkable in itself. Half-god, half-man, or just a man---if Tartaros is knocking at this child's soul... Tell me, Hermeias---it has been long since anyone made sacrifices to me, human ones least of all, and I no longer recall their taste---in such cases, are you able to shut yourself off and not answer the call of the Fallen?"
 
@@ -118,7 +118,7 @@ Cheiron fell silent.
 
 Hermeias fell silent, as Cheiron had a little while before.
 
-"And if I see that they are dangerous," he finished harshly, "I will kill them both. Whatever Father does afterward, however furious the Sovereign grows and however Poseidon and Hera rejoice---I will kill them. I believe I am the only one who would not fear doing it openly."
+"And if I see that they are dangerous," he finished harshly, "I will kill them both. Whatever father does afterward, however furious the Sovereign grows and however Poseidon and Hera rejoice---I will kill them. I believe I am the only one who would not fear doing it openly."
 
 Cheiron studied the young face of the Trickster for a long moment---so like, just then, the face of his father, Dias the Thunderer, Zeus of Olympos, as he had been many centuries ago, before the great battle.
 
