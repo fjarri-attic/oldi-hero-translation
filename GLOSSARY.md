@@ -51,7 +51,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Владыка теней | Lord of the Shades | Epithet of Hades used by a soldier |
 | Аполлон | Apollo |  |
 | Аполлончик | Apollie | Diminutive, mocking nickname Hermeias uses for his elder brother Apollo. |
-| Аполлон Дельфийский | [...] Delphinios | An epithet of Apollo. |
+| Аполлон Дельфийский | [...] of Delphi | An epithet of Apollo. |
 | златолукий Аполлон | golden-bowed Apollo | An epithet of Apollo. |
 | Аполлон-Стреловержец | Apollo the Far-Shooter | An epithet of Apollo. |
 | Аполлон Ликейский | Apollo Lykeios | An epithet of Apollo (transliterated). |
