@@ -81,7 +81,7 @@
 * * *
 
 {#fn-14 .footnote}
-*Aegletes*: "the Radiant"---one of Apollo's epithets.
+*Aigletes*: "the Radiant"---one of Apollo's epithets.
 
 * * *
 
