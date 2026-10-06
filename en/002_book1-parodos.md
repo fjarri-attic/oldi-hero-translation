@@ -34,7 +34,7 @@ Something stirred in the gloom, and the earth shuddered.
 
 "Quite the place you've chosen, Senior..."
 
-"I wasn’t the one choosing. You were. You and Junior. I took what was left. Besides, do you know a safer place? I don't."
+"I wasn't the one choosing. You were. You and Junior. I took what was left. Besides, do you know a safer place? I don't."
 
 "You're right, brother. Let's get down to business---I can't wait to get out of here already."
 
@@ -82,7 +82,7 @@ Middle does not answer.
 
 "You loved her," Senior continues confidently, and the flashes wink from afar, curling and pulsing. "Only from great love could Medusa have borne children like Pegasos and Chrysaor the Golden Bow. You loved her, Black-Maned! And that's why you came to hate Perseus and all his descendants! Perhaps, if Junior had gone tonight not to a woman of the Perseid line, but to any other, you would have---"
 
-"Don't talk nonsense, Senior! I’m not one for settling personal scores---far less so than you think! Though I forget nothing and forgive no offense. But you, do you remember what a shock it was for the whole Family---to learn that even beings like us can be killed for good?! That a Cleaner, a piece of trash, a Half-Man, is capable of something that not one of the Family can do?! Do you remember that?!"
+"Don't talk nonsense, Senior! I'm not one for settling personal scores---far less so than you think! Though I forget nothing and forgive no offense. But you, do you remember what a shock it was for the whole Family---to learn that even beings like us can be killed for good?! That a Cleaner, a piece of trash, a Half-Man, is capable of something that not one of the Family can do?! Do you remember that?!"
 
 "I remember," Senior answers dully.
 
@@ -98,7 +98,7 @@ Silence. And only the black water of the Styx laps at the foot of the White Rock
 
 "For a start---to talk to Junior. To convince him not to do this. The Moirai[\*](#fn-4){.noteref} haven't spun the thread yet---which means everything is still reversible. Junior might listen to the two of us..."
 
-"Evidently, he wouldn’t listen to you alone. Don't be naive, Middle---you know Zeus as well as I do! Once he's decided something, you can't talk him out of it, not even if you turn the world inside out."
+"Evidently, he wouldn't listen to you alone. Don't be naive, Middle---you know Zeus as well as I do! Once he's decided something, you can't talk him out of it, not even if you turn the world inside out."
 
 "Alas, Senior," sighs the sea. "You can't. What's more, he's doing *this* at this very moment. Without consulting anyone!"
 
