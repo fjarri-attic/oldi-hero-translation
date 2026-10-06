@@ -69,7 +69,7 @@ And roughly as many years of earthly life again after the labors are done---some
 
 But... let us not run ahead of the chariot.
 
-Otherwise we would have to stop and consider that, still within the lifetimes of the brothers Amphitryads, a certain chosen people out of Palestine (where Achaian colonies have already stood for a hundred years) will come, once and for all, to believe in the One---not knowing that exactly six centuries have passed since the Fallen were cast down onto Gaia the Earth; that six centuries after that a prince named Siddhartha Gautama will be born, later to be called the Buddha; that six hundred years after the Buddha's birth, Jesus of Nazareth will be crucified on a cross---and that another six centuries will pass before the fierce Muhammad proclaims: "There is no god but Allah!.."
+Otherwise we would have to stop and consider that, still within the lifetimes of the Amphitryad brothers, a certain chosen people out of Palestine (where Achaian colonies have already stood for a hundred years) will come, once and for all, to believe in the One---not knowing that exactly six centuries have passed since the Fallen were cast down onto Gaia the Earth; that six centuries after that a prince named Siddhartha Gautama will be born, later to be called the Buddha; that six hundred years after the Buddha's birth, Jesus of Nazareth will be crucified on a cross---and that another six centuries will pass before the fierce Muhammad proclaims: "There is no god but Allah!.."
 
 No.
 
