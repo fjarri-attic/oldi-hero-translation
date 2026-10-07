@@ -22,7 +22,7 @@ And it had always been this way. Only this way.
 
 "Here we are, Sister. You may speak."
 
-"Thank you for the permission, Senior," the woman's voice carries an unmistakable note of mockery---the way bronze sometimes glints from a dagger hidden in the folds of an airy peplos.
+"Thank you for granting me permission, Senior," the woman's voice carries an unmistakable note of mockery---the way bronze sometimes glints from a dagger hidden in the folds of an airy peplos.
 
 In reply---silence. The fall of droplets. The steady murmur of the River.
 
@@ -38,7 +38,7 @@ In reply---silence. The fall of droplets. The steady murmur of the River.
 
 "Your Spouse, Sister. And my brother. Incidentally, yours too."
 
-"Yes, my Spouse. My Spouse---but he is guilty! He and his son by a mortal woman, who is to be born today!"
+"Yes, my Spouse. My Spouse---but he is guilty! He and his son, to be born today of a mortal woman!"
 
 "And what could an unborn child possibly be guilty of?"
 
@@ -66,7 +66,7 @@ In reply---a sarcastic chuckle.
 
 "Trickster, you mean? Hermeias?"
 
-"Him, Maia's brat... Dummy! The wretched thief! He's managed to anger not only Middle, but my Ares as well. You know yourself, just give Ares a reason... I tell him, 'Son, don't tangle with Dummy!'---but he's beside himself. I'll catch the Trickster, he says, and..."
+"Him, Maia's brat... Dummy! The wretched thief! He's managed to anger not only Middle, but my Ares as well. You know how Ares is---just give him an excuse... I tell him, 'Son, don't tangle with Dummy!'---but he's beside himself. I'll catch the Trickster, he says, and..."
 
 "Let him catch him first."
 
@@ -82,7 +82,7 @@ In reply---a sarcastic chuckle.
 
 "It seems to me, Sister, that you're simply jealous. As usual. As you have been a hundred times before. Jealous of a mortal woman whom Junior has once again preferred to you. And---again, as usual---you're about to take out your anger on her and her son. First you chase poor Io across the whole world, then you torment Aigina, and now it's Alkmene... It's time to calm down, Sister."
 
-"I? I'm jealous of a mortal?! A mere instant will pass---for us---and her body will turn to dust, and her shade will pass to you. To me she is already dust! How can I be jealous of dust? What concerns me, first of all, is the discord in the Family; then, I simply do not like the very idea of a Lone Cleaner... And finally---my Spouse intends to raise the son of this... this woman, at the end of his life, to Olympos, making him our equal! Can you imagine it, Hades?! I did not sleep all night when Zeus announced it!"
+"I? I'm jealous of a mortal?! A mere instant will pass---for us---and her body will turn to dust, and her shade will pass to you. To me she is already dust! How can I be jealous of dust? What concerns me, first of all, is the discord in the Family; then, I simply do not like the very idea of a Lone Cleaner... And finally---my Spouse intends to raise the son of this... this woman to Olympos at the end of his life, making him our equal! Can you imagine it, Hades?! I did not sleep all night when Zeus announced it!"
 
 "That is impossible, Sister. Either he is our equal from the start---in which case Junior's intentions are meaningless; or he is not our equal---and he will not become one, whatever Junior thinks on the matter!"
 
@@ -94,9 +94,9 @@ In reply---a sarcastic chuckle.
 
 "Then he lied. I said that I keep to myself. And for now, I do not interfere. For now."
 
-"Then don't! In any case, this Lone Cleaner will not reign over all the Perseids---I've already seen to that!"
+"And keep it that way! In any case, this Lone Cleaner will not reign over all the Perseids---I've already seen to that!"
 
-The one they called Sister suddenly fell silent. When she spoke again, her voice held no more malice, no fury, not even authority---only weariness and a plea, almost a supplication.
+The one who was called Sister suddenly fell silent. When she spoke again, her voice held no more malice, no fury, not even authority---only weariness and a plea, almost a supplication.
 
 "You know, Senior, my Spouse has changed a great deal lately. For nine months now he has shared a bed with no one. Women no longer interest him---and that frightens me. He has grown irritable, at times gloomy, and even more quick-tempered than before. I do not know the reasons---and I am afraid to learn them. So I ask you, Senior---stay out of it, as you promised. And I ask one more thing---rein in the Trickster."
 
@@ -162,6 +162,6 @@ The Trickster snorted scornfully.
 
 "Just mind---don't get caught."
 
-"Me?" the Trickster burst out laughing. "Me, get caught? Sooner you'll die, uncle!.."
+"Me?" the Trickster burst out laughing. "Me, get caught? You'll die first, uncle!.."
 
 The darkness went on laughing in two voices for a long while after that.
