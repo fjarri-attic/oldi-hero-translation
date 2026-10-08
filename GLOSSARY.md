@@ -431,7 +431,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Радамант-законник | Rhadamanthys the Lawgiver | Paired epithet of Rhadamanthys (ch. 072) |
 | Одиссей | Odysseus | Autolykos's foretold grandson; name glossed in-text by the narrator as meaning "The one who angers the gods" (ch. 072) |
 | Маленьких обижают! | "They're picking on the little ones!" | Recurring childhood battle cry of Alkeides and Iphikles (established ch. 027, 050, 069, etc.); settled translation, used again by young Iolaos/Amphitryon in ch. 072 |
-| дискобол (мн. дискоболы) | diskobolos (pl. diskoboloi) | A discus thrower. We use this word because on first occurrence (072) "disc thrower" clashed with another "throw" in the sentence |
+| дискобол (мн. дискоболы) | discobolus (pl. discoboli) | A discus thrower. |
 | Радужная Ирида | Rainbow Iris | Paired epithet of Iris, messenger goddess; here specifically "Hera's own messenger" (ch. 073) |
 | Век Златой | the Golden Age | The era of Kronos/the Titans' reign, invoked as the age presided over by the Fallen (ch. 073) |
 | Алкид-сумасброд | Alkeides the madcap | Paired epithet of Alkeides, used mockingly by a bystander (ch. 074) |
