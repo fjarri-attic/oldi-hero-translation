@@ -2,7 +2,7 @@
 
 Morning.
 
-A sunbeam hops across the grass, flirting with a haughty violet, but it pays it no attention, and the sunbeam, offended, moves off to a juniper bush, where it sits on a twig, sulking.
+A sunbeam hops across the grass, flirting with a haughty violet, but the violet pays it no attention, and the sunbeam, offended, moves off to a juniper bush, where it sits on a twig, sulking.
 
 Below it, right on the ground, lies a man embracing a horse.
 
@@ -58,7 +58,7 @@ And it seems that everything around---the pines, the juniper bushes, the cave ne
 
 "Now you'll learn something more, hermit centaur. Sacrifices are already being made to this child---human sacrifices among them. I have seen it."
 
-In one elusive motion Cheiron rose onto all four legs and shifted into a slight dance in place, his hooves barely clicking against the ground. The centaur's tail lashed against his glossy flank, as though driving off a pestering horsefly; his strong fingers laced together, his face---calm until now---darkened, and a deep furrow settled between his shaggy brows.
+In one elusive motion Cheiron rose onto all four legs and danced a little in place, his hooves barely clicking against the ground. The centaur's tail lashed against his glossy flank, as though driving off a pestering horsefly; his strong fingers laced together, his face---calm until now---darkened, and a deep furrow settled between his shaggy brows.
 
 It lasted only a moment, after which Cheiron was himself again.
 
@@ -80,17 +80,17 @@ He smiled faintly, as though apologizing, and lowered himself onto the grass.
 
 "A half-man."
 
-"So you say, Hermeias. So they say in the Family. I say it differently. Perhaps because to some in the Family, I myself---Cheiron of Pelion---am a half-horse."
+"So you say, Hermeias. So they say in the Family. I say it differently. Perhaps because to some in the Family, I myself, Cheiron of Pelion, am a half-horse."
 
 "Then why 'at best'? Alkeides is my half-brother by our father, which means---"
 
-"Which means, or doesn't. Has Junior had children after Alkeides?"
+"Which means, or doesn't. Has Junior had any children since Alkeides?"
 
 "No."
 
 "In almost six years---not one?!"
 
-"Not one. But dad swore an oath never again to touch a woman of earth!"
+"Not one. But dad swore an oath never again to touch an earthly woman!"
 
 "Then it is not I who am the hermit, but Junior. Which is remarkable in itself. Half-god, half-man, or just a man---if Tartaros is knocking at this child's soul... Tell me, Hermeias---it has been long since anyone made sacrifices to me, human ones least of all, and I no longer recall their taste---in such cases, are you able to shut yourself off and not answer the call of the Fallen?"
 
@@ -102,11 +102,11 @@ Cheiron fell silent.
 
 "You do not remember the strangers, Hermeias---you were born after the Titanomachy[\*](#fn-24){.noteref}---but I remember. They were beautiful, and---"
 
-"And terrible at once. I know, Cheiron. I have seen the face of Medusa on Athena's shield. That is exactly what it was---a beautiful terror. I suppose I was simply fortunate to be born afterward... But this is no time for memories, Cheiron! Whether it is our own ancestors, or the strangers who came from nowhere, or both at once---if Tartaros is knocking at this child's soul, it bodes nothing good. And little Alkeides has fits of madness---the gossiping nurses are ringing it through all of Thebes!"
+"And terrible at the same time. I know, Cheiron. I have seen the face of Medusa on Athena's shield. That is exactly what it was---a beautiful terror. I suppose I was simply fortunate to be born afterward... But this is no time for memories, Cheiron! Whether it is our own ancestors, or the strangers who came from nowhere, or both at once---if Tartaros is knocking at this child's soul, it bodes nothing good. And little Alkeides has fits of madness---the gossiping nurses are spreading it all over Thebes!"
 
 "Have you tried speaking with his father?"
 
-"Ha! About what? He never much cared for advisers, and lately he has grown downright intolerant of any opinion but his own! Daddy is convinced the fits of madness are Hera's doing, out of her dislike for Alkeides; and the Spouse has gotten a proper dressing-down for it more than once. Naturally, she flew into noble indignation, played the wronged innocent---and did it so clumsily that in the end I believed her. It seems Hera really has nothing to do with it."
+"Ha! About what? He never much cared for advisers, and lately he has grown downright intolerant of any opinion but his own! Dad is convinced the fits of madness are Hera's doing, out of her dislike for Alkeides; and the Spouse has gotten a proper dressing-down for it more than once. Naturally, she flew into noble indignation, played the wronged innocent---and did it so clumsily that in the end I believed her. It seems Hera really has nothing to do with it."
 
 "You are full of paradoxes, Hermeias. Everyone, Junior included, is convinced that it is jealous Hera who sends madness upon young Alkeides---yet you claim it is not so. Everyone is certain that no sacrifices, human ones included, will keep the son of Zeus and Alkmene from becoming the Slayer of Monsters (or, if you prefer, the Lone Cleaner)---yet you fear the Fallen, knocking at the door of a child's unformed soul. Listen, Hermeias---why have you come to me? What do you want?"
 
@@ -114,13 +114,13 @@ Cheiron fell silent.
 
 "Not anymore. And I would like to know what you intend to do next---once you have spoken your mind and the old centaur has bored you enough."
 
-"I will grow kin to the twins... 'Kin to the twins'---a phrase worthy of a singer-aoidos! I will try to become their friend, their companion, a bit of a teacher, a bit of a nurse; I will look into their eyes and listen to the beating of their hearts, I will wipe the foam from mad Alkeides's lips, I will step into the hidden corners of his soul where the dust of Tartaros gathers in the corners, as a night dream I will press my cheek against sleeping Iphikles's, I will weigh the brothers on my own scales..."
+"I will grow kin to the twins... 'Kin to the twins'---a phrase worthy of a singer-aoidos! I will try to become their friend, their companion, a bit of a teacher, a bit of a nurse; I will look into their eyes and listen to the beating of their hearts, I will wipe the foam from mad Alkeides's lips, I will step into the hidden corners of his soul where the dust of Tartaros gathers in the corners, as a night dream I will press close against sleeping Iphikles's cheek, I will weigh the brothers on my own scales..."
 
 Hermeias fell silent, as Cheiron had a little while before.
 
 "And if I see that they are dangerous," he finished harshly, "I will kill them both. Whatever father does afterward, however furious the Sovereign grows and however Poseidon and Hera rejoice---I will kill them. I believe I am the only one who would not fear doing it openly."
 
-Cheiron studied the young face of the Trickster for a long moment---so like, just then, the face of his father, Dias the Thunderer, Zeus of Olympos, as he had been many centuries ago, before the great battle.
+Cheiron studied the young face of the Trickster for a long moment---just then, so like the face of his father, Dias the Thunderer, Zeus of Olympos, as he had been many centuries ago, before the great battle.
 
 "Do not hurry," the centaur finally said. "I am not advising you, I am simply saying: do not hurry. Even if I knew that the child would grow up and kill me, I would not kill him for that---I would not kill the present for the sake of the future. And here is what I will do... I give you leave to come to Pelion without my permission. Come as you please. But on one condition only---that you come together with these children. Agreed?"
 
