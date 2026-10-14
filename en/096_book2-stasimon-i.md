@@ -106,7 +106,7 @@ No.
 
 We didn't know that.
 
-But the men, the Tartaros-Possessed, claimed that they knew. And we believed them. Foolishly! Foolishly!.. If only we hadn't been willing to hand our children over to those quiet priests with their oily voices, if only we had resisted... there was no force that could have stopped us! Heavens, Stheno alone would have been enough to leave dozens of corpses lying at the feet of a Gorgon in fury! And my bow was at my side, and there were arrows enough in my quiver---how blind we turned out to be, children of the Possessed and descendants of the Fallen!
+But the men, the Tartaros-Possessed, claimed that they knew. And we believed them. Foolishly! Foolishly!... If only we hadn't been willing to hand our children over to those quiet priests with their oily voices, if only we had resisted... there was no force that could have stopped us! Heavens, Stheno alone would have been enough to leave dozens of corpses lying at the feet of a Gorgon in fury! And my bow was at my side, and there were arrows enough in my quiver---how blind we turned out to be, children of the Possessed and descendants of the Fallen!
 
 I'll never forgive myself for it... though by now, that's just fine words.
 

@@ -143,6 +143,6 @@ Ares was alone. He was so alone that at times he began to hate his Mother (Fathe
 
 Left alone, Ares returned to the balustrade encircling the marble portico and stood looking down into the drop, where the wind played with the bluish sand and the ruins of the inhuman fortresses.
 
-"I grew up long ago, mom," he whispered quietly, smiling, "I grew up, and you never noticed... So let me have plans of my own for my life; even if they happen to coincide with yours in places. The Lone Cleaner and Ares the Lonely, brothers by their Father, the hope of Olympos and the outcast of the Family---might it not turn out that we find common ground sooner than anyone else even thinks to?.."
+"I grew up long ago, mom," he whispered quietly, smiling, "I grew up, and you never noticed... So let me have plans of my own for my life; even if they happen to coincide with yours in places. The Lone Cleaner and Ares the Lonely, brothers by their Father, the hope of Olympos and the outcast of the Family---might it not turn out that we find common ground sooner than anyone else even thinks to?..."
 
 The wind, gusting up to the portico, timidly touched a lock of hair on his bare head---only at home did Ares ever remove his famous horsehair-crested helmet, which hid almost his whole face.

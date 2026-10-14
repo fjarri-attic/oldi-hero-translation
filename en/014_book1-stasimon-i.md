@@ -162,6 +162,6 @@ The Trickster snorted scornfully.
 
 "Just mind---don't get caught."
 
-"Me?" the Trickster burst out laughing. "Me, get caught? You'll die first, uncle!.."
+"Me?" the Trickster burst out laughing. "Me, get caught? You'll die first, uncle!..."
 
 The darkness went on laughing in two voices for a long while after that.
