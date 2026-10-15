@@ -57,7 +57,7 @@ Figments of ancient times, mere pleasing trifles...[\*](#fn-banquet){.noteref}
 
 "...and people laugh," Hades echoed. "Yes, laughter is a terrible weapon. More terrible than a thunderbolt or poisoned arrows... it seems we really were too hasty. By getting rid of the Cleaners and their descendants, we got rid of the danger lurking in them---but we also destroyed the bridge between ourselves and people. Do you remember, Hermeias, what contrivances we had to resort to in order to gather the Cleaners' children beneath Troy? The effort we spent on that deserved a better cause... And even then we had to keep steering the course of events, and as a result Ares and Aphrodite were wounded---people were no longer afraid of us! Perhaps because we were afraid of them."
 
-"I remember, uncle. And I also remember how Poseidon and Stepmother were afterwards hunting down the survivors and picking them off one by one. And they finished them off. All of them."
+"I remember, uncle. And I also remember how Poseidon and Stepmother were afterward hunting down the survivors and picking them off one by one. And they finished them off. All of them."
 
 Hermeias was silent for a while, then said through clenched teeth:
 
@@ -103,7 +103,7 @@ Lately he was always cold.
 
 "And his father?"
 
-"He considers Zeus his father! I dropped him a hint---and barely managed to slip away afterwards, out of harm's way! And the Family is happy; a Herakles like that suits them just fine..."
+"He considers Zeus his father! I dropped him a hint---and barely managed to slip away afterward, out of harm's way! And the Family is happy; a Herakles like that suits them just fine..."
 
 "You didn't tell them about the shade, of course?"
 
