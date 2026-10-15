@@ -26,7 +26,7 @@
 * * *
 
 {#fn-6 .footnote}
-*Basileus*: the ruler of a city. An analogue would be a high king or a grand prince.
+*Basileus*: the ruler of a city. An analogue would be a count or a petty prince.
 
 * * *
 
