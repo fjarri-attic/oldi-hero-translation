@@ -2,21 +2,21 @@
 
 Darkness.
 
-A viscous, dense darkness with shimmering reflections somewhere there, on the very edge, in the suffocating dampness of the air here---cloyingly warm and at the same time causing chills.
+A viscous, dense darkness with shimmering reflections somewhere far off, on the very edge, in the suffocating dampness of the air down here---cloyingly warm and at the same time chilling.
 
 Crimson flashes.
 
-It seems that close by, within arm's reach, the outlines of what might be a moss-grown wall, or a cliff, are emerging... no, that's only an illusion---the darkness reliably guards its secrets from the uninitiated...
+It seems that close by, within arm's reach, the outlines of what might be a moss-grown wall, or a cliff, are emerging... no, that's only an illusion---the darkness keeps its secrets well from the uninitiated...
 
-Though from the initiated it guards its secrets no less reliably, deceiving fools with a semblance of insight.
+Though from the initiated it keeps them no less closely, deceiving fools with a semblance of insight.
 
 A rumble.
 
 A distant subterranean rumble---like the breathing of a sleeping giant, like the murmur of a gigantic heart, like the hopeless and endless moan of myriad shades in the gloom of Erebos...
 
-A steady rustle of waves. Yes, that is it. That is the river the gods swear by, rolling its black waters---the eternal river, unseen and inescapable, without end or beginning; and along its banks the pale blossoms of asphodel sway.
+A steady lapping of waves. Yes, that's what it is. That is the river the gods swear by, rolling its black waters---the eternal river, unseen and inescapable, without end or beginning; and along its banks the pale blossoms of asphodel sway.
 
-Darkness. Flashes. A chill-inducing mugginess. A rumble of water.
+Darkness. Flashes. A feverish closeness. A rumble of water.
 
 That is all.
 

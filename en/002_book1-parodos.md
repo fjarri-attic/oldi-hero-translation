@@ -2,25 +2,25 @@
 
 Darkness.
 
-A viscous, dense darkness with shimmering reflections somewhere there, on the very edge, in the suffocating dampness of the air here---cloyingly warm and at the same time causing chills.
+A viscous, dense darkness with shimmering reflections somewhere far off, on the very edge, in the suffocating dampness of the air down here---cloyingly warm and at the same time chilling.
 
 Crimson flashes.
 
-It seems that close by, within arm's reach, the outlines of what might be a moss-grown wall, or a cliff, are emerging... no, that's only an illusion---the darkness reliably guards its secrets from the uninitiated...
+It seems that close by, within arm's reach, the outlines of what might be a moss-grown wall, or a cliff, are emerging... no, that's only an illusion---the darkness keeps its secrets well from the uninitiated...
 
-Though from the initiated it guards its secrets no less reliably, deceiving fools with a semblance of insight.
+Though from the initiated it keeps them no less closely, deceiving fools with a semblance of insight.
 
 A rumble.
 
 A distant subterranean rumble---like the breathing of a sleeping giant, like the murmur of a gigantic heart, like the hopeless and endless moan of myriad shades in the gloom of Erebos...
 
-A steady rustle of waves. Yes, that is it. That is the river the gods swear by, rolling its black waters---the eternal river, unseen and inescapable, without end or beginning; and along its banks the pale blossoms of asphodel sway.
+A steady lapping of waves. Yes, that's what it is. That is the river the gods swear by, rolling its black waters---the eternal river, unseen and inescapable, without end or beginning; and along its banks the pale blossoms of asphodel sway.
 
 Darkness.
 
 Flashes.
 
-A chill-inducing mugginess.
+A feverish closeness.
 
 A rumble of water.
 
@@ -28,7 +28,7 @@ That is all.
 
 * * *
 
-"We have arrived, Middle. Sit down. There's no need to go any further---there are no ears here that could overhear us."
+"Here we are, Middle. Sit down. There's no need to go any further---there are no ears here that could overhear us."
 
 Something stirred in the gloom, and the earth shuddered.
 
@@ -36,33 +36,33 @@ Something stirred in the gloom, and the earth shuddered.
 
 "I wasn't the one choosing. You were. You and Junior. I took what was left. Besides, do you know a safer place? I don't."
 
-"You're right, brother. Let's get down to business---I can't wait to get out of here already."
+"You're right, brother. Let's get down to business---I already can't wait to get out of here."
 
-"Many can't wait. Yet---they do."
+"Many can't wait. But wait they do."
 
-"I am not the many, Senior. And I don't like ambiguity. So tell me plainly, without beating around the bush---do you know of Junior's latest scheme?"
+"I am not the many, Senior. And I don't care for veiled hints. So tell me plainly, without beating around the bush---do you know of Junior's latest scheme?"
 
 "What do you think?"
 
 "You're right again. It's irritating sometimes... Of course you know everything. But have you thought about where it might lead?"
 
-"I often have to think, Middle---the surroundings are conducive to it..."
+"I have plenty of occasion to think, Middle---the surroundings are conducive to it..."
 
-The speaker's face (assuming, of course, that he has one) cannot be seen, but the tone of the reply leaves no doubt that Senior is smirking sarcastically right now.
+The speaker's face (assuming, of course, that he has one) cannot be seen, but the tone of the reply leaves no doubt that Senior is smirking sarcastically.
 
-"Then you must understand how dangerous this idea is, should it be realized! Junior is afraid of losing power---he's always afraid of losing power---and he frantically dreams up a new... new weapon, while we keep quiet as always and close our eyes to the possible consequences! Before, that was permissible---the scale wasn't the same, the power wasn't the same, and besides, without us, without the Family---"
+"Then you must understand how dangerous this idea would be, if it were carried out! Junior is afraid of losing power---he's always afraid of losing power---and he frantically dreams up a new... new weapon, while we keep quiet as always and close our eyes to the possible consequences! In the past it could be tolerated---the scale wasn't the same, the power wasn't the same, and besides, without us, without the Family---"
 
-"Exactly, Middle---without us! By themselves, the Half-Men are capable of nothing more than destroying their own kind... But with us---oh, with us, as it turns out, they're capable of a great deal! They turned out to be great Cleaners! And you, Middle, you yourself have sired bastard heroes with great relish, without a thought for the consequences! Isn't that so, Sea Stallion?! Go on, say it again---you're right, brother!"
+"Exactly, Middle---without us! By themselves, the Half-Men are capable of nothing more than destroying their own kind... But with us---oh, with us, as it turns out, they're capable of a great deal! They made splendid Cleaners! And you, Middle, you yourself have sired bastard heroes with great relish, without a thought for the consequences! Isn't that so, Sea Stallion?! Go on, say it again---you're right, brother!"
 
 "Stop it!"
 
-In Middle's voice the sea rumbles menacingly---stormy, terrible, its shaggy wave-crests foaming.
+In Middle's voice the sea rumbles menacingly---stormy, fearsome, its shaggy wave-crests foaming.
 
 Darkness.
 
 Flashes.
 
-A chill-inducing mugginess.
+A feverish closeness.
 
 That is all.
 
@@ -82,13 +82,13 @@ Middle does not answer.
 
 "You loved her," Senior continues confidently, and the flashes wink from afar, curling and pulsing. "Only from great love could Medusa have borne children like Pegasos and Chrysaor the Golden Bow. You loved her, Black-Maned! And that's why you came to hate Perseus and all his descendants! Perhaps, if Junior had gone tonight not to a woman of the Perseid line, but to any other, you would have---"
 
-"Don't talk nonsense, Senior! I'm not one for settling personal scores---far less so than you think! Though I forget nothing and forgive no offense. But you, do you remember what a shock it was for the whole Family---to learn that even beings like us can be killed for good?! That a Cleaner, a piece of trash, a Half-Man, is capable of something that not one of the Family can do?! Do you remember that?!"
+"Don't talk nonsense, Senior! Personal scores are far from my mind---farther than you think! Though I forget nothing and forgive no offense. But you, do you remember what a shock it was for the whole Family---to learn that even beings like us can be killed for good?! That a Cleaner, a piece of trash, a Half-Man, is capable of something that not one of the Family can do?! Do you remember that?!"
 
-"I remember," Senior answers dully.
+"I remember," Senior answers heavily.
 
 "Then can you guess what that same Cleaner Perseus began to ponder in his old age?"
 
-"Can I guess?" the darkness laughs, and its laughter is joyless. "I *know!* I asked him about it myself, when he came to me. The blood of the sacrificial cow had stirred Perseus's memory, and he had nothing left to lose---he'd already lost it all. 'I regret nothing,' he said, and I flinched when I saw his smile, 'nothing except for one thing... I shouldn't have given Alalkomeneis[\*](#fn-2){.noteref} Medusa's head. And if I was going to give it to her, they might at least have looked each other in the eye. Kin, after all... Answer me, Sovereign---would you have dared to send Thanatos[\*](#fn-3){.noteref} after me, then?' And I answered him nothing, Middle! I stayed silent, and he was smiling..."
+"Can I guess?" the darkness laughs, and its laughter is joyless. "I *know!* I asked him about it myself, when he came to me. The blood of the sacrificial cow had stirred Perseus's memory, and he had nothing left to lose---he'd already lost it all. 'I regret nothing,' he said, and I flinched when I saw his smile, 'nothing but one thing... I shouldn't have given Alalkomeneis[\*](#fn-2){.noteref} Medusa's head. And if I was going to give it to her, then I should have let them look each other in the eye. Kin, after all... Answer me, Sovereign---would you have dared to send Thanatos[\*](#fn-3){.noteref} after me, then?' And I gave him no answer, Middle! I stayed silent, and he was smiling..."
 
 Silence. And only the black water of the Styx laps at the foot of the White Rock of Oblivion, invisible in the gloom, as though washing away the bitterness of the Sovereign's last words.
 
@@ -98,15 +98,15 @@ Silence. And only the black water of the Styx laps at the foot of the White Rock
 
 "For a start---to talk to Junior. To convince him not to do this. The Moirai[\*](#fn-4){.noteref} haven't spun the thread yet---which means everything is still reversible. Junior might listen to the two of us..."
 
-"Evidently, he wouldn't listen to you alone. Don't be naive, Middle---you know Zeus as well as I do! Once he's decided something, you can't talk him out of it, not even if you turn the world inside out."
+"Evidently, he already turned you away when you went alone. Don't be naive, Middle---you know Zeus as well as I do! Once he's decided something, you can't talk him out of it, not even if you turned the world upside down."
 
-"Alas, Senior," sighs the sea. "You can't. What's more, he's doing *this* at this very moment. Without consulting anyone!"
+"Alas, Senior," sighs the sea. "You can't. What's more, he's doing *it* this very moment. Without consulting anyone!"
 
-"Has he ever consulted anyone? Even when he raised a hand against his father---he did it himself, and the Family merely joined in afterward..."
+"Has he ever consulted anyone? Even when he raised a hand against his father---he did it on his own, and the Family merely joined in afterward..."
 
-Middle sighs hollowly once more.
+Middle heaves another booming sigh.
 
-"Junior has become dangerous," he says with veiled hatred, and it seems that this hatred is about to tear the thickened gloom apart in a blindingly white flash.
+"Junior has become dangerous," he says with suppressed hatred, and it seems that this hatred is about to tear the thickened gloom apart in a blindingly white flash.
 
 "Junior has become dangerous. He's overreached! It's time to depose him---and put an end to his latest bout of recklessness! I have sufficient support in the Family..."
 
@@ -120,17 +120,17 @@ Flashes.
 
 Darkness.
 
-"You rarely come down to see me, Middle," the darkness answers, almost soundlessly. "Very rarely. Otherwise you'd know that the Hekatoncheires[\*](#fn-5){.noteref} are finding it harder and harder to hold back the pressure from Tartaros. And sooner or later, the Hundred-Handed may not be able to hold them back. On that day I'll be glad of any ally: one of the Family, a Half-Man, even a Lone Cleaner---so long as he knows how to kill for good. Junior is a tyrant and a despot, but on that day he'll be the foremost warrior. And you, Middle---won't you want to sit it out in your depths? Don't take offense, I'm just saying... In short, I wouldn't advise you to worry too much about the future fate of the Lone Cleaner. He's mortal---and that says it all, at least to me. What you should worry about are the ones gathering their strength down there, in Tartaros. As for your claims to power, they're none of my concern. I'm not reaching for power myself---I have enough as it is. And I won't report our conversation to Junior."
+"You rarely come down to see me, Middle," the darkness answers, almost soundlessly. "Very rarely. Otherwise you'd know that the Hekatoncheires[\*](#fn-5){.noteref} are finding it harder and harder to hold back the pressure from Tartaros. And sooner or later, the Hundred-Handed may give way. On that day I'll be glad of any ally: one of the Family, a Half-Man, even a Lone Cleaner---so long as he knows how to kill for good. Junior is a tyrant and a despot, but on that day he'll be the foremost warrior. And you, Middle---won't you want to sit it out in your depths? Don't take offense, I'm just saying... In short, I wouldn't advise you to worry too much about what becomes of the Lone Cleaner. He's mortal---and that says it all, at least to me. What you should worry about are the ones gathering their strength down there, in Tartaros. As for your claims to power, they're none of my concern. I don't crave power---I'm content with what I have. And I won't report our conversation to Junior."
 
-"At least there's that---thanks," Middle grumbles discontentedly. "Oh, Senior, you'll come to your senses---but it will be too late. Watch out you don't regret it later..."
+"Thanks for that much, at least," Middle grumbles discontentedly. "Oh, Senior, you'll come to your senses---but it will be too late. Take care you don't regret it later..."
 
-"I will, I will. And you watch out---don't hurt yourself: I can see here, but you---Ah, I did warn you! This is Erebos here, it's dangerous to shake the earth in this place..."
+"I will, I will. And you take care not to hurt yourself: I can see down here, but you---Ah, I did warn you! This is Erebos---it's dangerous to shake the earth here..."
 
 * * *
 
 When Middle's heavy footsteps died away in the distance, Senior spat in vexation and muttered:
 
-"You're a fool, little brother! Straight as a spear---so off you fly, without swerving, wherever they send you! Hera twists you about however she pleases, and to this day you think it's the other way around... Oh, Black-Maned! If only you had a small grain of sense..."
+"You're a fool, little brother! Straight as a spear---so off you fly, without swerving, wherever you're thrown! Hera winds you around her finger, and to this day you think it's the other way around... Oh, Black-Maned! If only you had a grain of sense..."
 
 Something rustled in the damp gloom, tinged with crimson---though only now did it become clear that the darkness, after Middle's departure, had noticeably thinned, turning into dusk.
 
@@ -160,28 +160,28 @@ For a while, Senior mulled over what he had heard.
 
 "Yes, uncle?"
 
-"You know what, Hermeias---fly on over to the Moirai! Find out what dowry they've spun for the child yet to be born. We're not able to change fate, but to know it... it wouldn't hurt to know it. Just in case..."
+"You know what, Hermeias---fly on over to the Moirai! Find out what dowry they've spun for the child yet to be born. We can't change fate, but to know it... it wouldn't hurt to know it. Just in case..."
 
 "Yes, Sovereign!" the Trickster cried out with mock enthusiasm in a squeaky little voice, at which Senior most likely winced---because the dusk instantly darkened, turning back into gloom.
 
-"Joker... I've told you a hundred times---clown around in front of strangers, if you like. Or your father. But not with me. I don't like it. All right---fly along, little one."
+"Joker... I've told you a hundred times---clown around in front of strangers, if you like. Or in front of your father. But not with me. I don't like it. All right---fly along, little one."
 
 * * *
 
 Hermeias was gone for quite a while, and Senior was beginning to wonder where the rascal had got to when, at last, the rustling sounded again, and the slightly out-of-breath messenger flopped down on the bank of the Styx beside Senior.
 
-"Strange doings, Sovereign," the Trickster was unusually serious, and this time it didn't occur to Senior to interrupt his nephew. "So I fly to the Moirai, I ask them---and they just throw up their hands. Nothing yet, they say, the thread hasn't been spun, the lot hasn't been drawn, let alone recorded. Naturally, I start pressing them---I'm thinking, the old women are hiding something!---and then, look, the thread starts moving on Klotho's spindle! And not just a thread, but a doubled, twisted one..."
+"Strange doings, Sovereign." The Trickster was unusually serious, and this time it didn't occur to Senior to interrupt his nephew. "So I fly to the Moirai, I ask them---and they just throw up their hands. Nothing yet, they say, the thread hasn't been spun, the lot hasn't been drawn, let alone recorded. Naturally, I start pressing them---I'm thinking, the old women are hiding something!---and then, look, the thread starts moving on Klotho's spindle! And not just a thread, but a doubled, twisted one..."
 
 "Twins," whispered Senior.
 
 "Twins," the Trickster agreed at once. "But a twisted thread---even the Moirai themselves don't remember anything like it! Anyway, we untwisted it somehow..."
 
-"We?" the Sovereign all but jumped up.
+"We?" The Sovereign practically leapt up.
 
 "We," Hermeias confirmed with dignity. "I helped too! Only it was all for nothing---in the end it twisted back up again. So when the two lots were drawn, we couldn't work out which was which. Though, what was there to work out---the shards were almost identical anyway..."
 
 "But the lot, what was the lot?!" Senior all but shouted.
 
-And then the Trickster leaned close to the Sovereign's very ear and whispered something.
+And then the Trickster leaned right up to the Sovereign's ear and whispered something.
 
-The flashes blinked in bewilderment, and went out.
+The flashes blinked in bewilderment and went out.

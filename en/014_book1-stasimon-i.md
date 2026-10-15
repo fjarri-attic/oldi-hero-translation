@@ -2,7 +2,7 @@
 
 Darkness.
 
-A viscous, dense darkness with shimmering reflections somewhere there, on the very edge, in the suffocating dampness of the air here---cloyingly warm and at the same time causing chills.
+A viscous, dense darkness with shimmering reflections somewhere far off, on the very edge, in the suffocating dampness of the air down here---cloyingly warm and at the same time chilling.
 
 Crimson flashes.
 

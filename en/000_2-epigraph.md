@@ -1,5 +1,5 @@
 ::: {.epigraph}
-And then Serpent's voice rang out:
+And then the Serpent's voice rang out:
 
 "A mortal holds up the sky with the gods. What of the titans then?"
 
