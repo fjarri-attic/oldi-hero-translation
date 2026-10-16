@@ -142,7 +142,7 @@ The Trickster snorted scornfully.
 
 "Then what aren't you thinking?"
 
-"My stepmother, you mean? She's jealous. But she's worried too. Only not about what she should be. I mix with people more than the rest of you put together---that's why I notice things you don't see."
+"About my stepmother, you mean? She's jealous. But she's worried too. Only not about what she should be. I mix with people more than the rest of you put together---that's why I notice things you don't see."
 
 "Such as?"
 
