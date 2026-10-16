@@ -18,6 +18,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Зевс-Высокогремящий | [...] the High-Thundering | An epithet of Zeus. |
 | Зевс-Гостеприимец | [...] the Hospitable | An epithet of Zeus. |
 | Зевс-Олимпиец | [...] the Olympian | An epithet of Zeus. |
+| Зевс Всеблагий | [...] the All-Good | An epithet of Zeus. |
 | Бронтей-громовник | Brontes the Thunder-Wielder | An alternative name + epithet of Zeus. |
 | Дий | Dias | Alternate/archaic name for Zeus, used interchangeably with Зевс and paired with epithets. |
 | Дий Высокогремящий | [...] the High-Thundering | An epithet of Dias. |
@@ -806,7 +807,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Диоскур (мн. Диоскуры) | Dioskouros (pl. Dioskouroi) | Kastor and Polydeukes, twin sons of Leda |
 | Гекатомбеон | Hekatombaion | Summer month name |
 | Никиппа | Nikippe | Wife of Sthenelos, daughter of Pelops, mother of Eurystheus |
-| Фармакиды | Pharmakides | Sorceresses in folk tradition sent by Hera to delay childbirth |
+| Фармакиды | Pharmakids | Sorceresses in folk tradition sent by Hera to delay childbirth |
 | Илифия (множ. Илифии) | Eileithyia (pl. Eileithyiai) | Goddess(es) of childbirth. |
 | Амфитриад (мн. Амфитриады) | Amphitryad (pl. Amphitryads) | Patronymic epithet, "son of Amphitryon". Note that the patronymic drops a part of the original name; this is to mimic the Russian original. |
 | Комето | Komaitho | Taphos princess |
