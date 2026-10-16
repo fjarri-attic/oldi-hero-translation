@@ -107,6 +107,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Мусорщик-Одиночка | Lone Cleaner | An epithet of Herakles |
 | Гекатонхейры / Сторукие | Hekatoncheires / Hundred-Handed |  |
 | Танат | Thanatos | The god of death |
+| Киклопы | Kyklopes |  |
 | Эреб | Erebos |  |
 | Стикс | Styx |  |
 | Тифон | Typhon |  |

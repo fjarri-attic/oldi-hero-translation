@@ -16,13 +16,13 @@ Somewhere, drops of water fall.
 
 That is all.
 
-And it had always been this way. Only this way.
+And it has always been this way. Only this way.
 
 * * *
 
 "Here we are, Sister. You may speak."
 
-"Thank you for granting me permission, Senior," the woman's voice carries an unmistakable note of mockery---the way bronze sometimes glints from a dagger hidden in the folds of an airy peplos.
+"Thank you for granting me permission, Senior." The woman's voice carries an unmistakable note of mockery---the way bronze sometimes glints from a dagger hidden in the folds of an airy peplos.
 
 In reply---silence. The fall of droplets. The steady murmur of the River.
 
@@ -42,7 +42,7 @@ In reply---silence. The fall of droplets. The steady murmur of the River.
 
 "And what could an unborn child possibly be guilty of?"
 
-"Of a great deal! Of our discord! My Spouse was never on the best of terms with Middle even before---but now they simply cannot bear the sight of each other! And I do not like it when serious quarrels arise in the Family... You know what that can lead to?"
+"Of a great deal! Of our discord! My Spouse and Middle were at odds before, too---but now they simply cannot bear the sight of each other! And I do not like it when serious quarrels arise in the Family... You know what that can lead to?"
 
 "I know, Hera."
 
@@ -50,7 +50,7 @@ In reply---silence. The fall of droplets. The steady murmur of the River.
 
 In reply---a sarcastic chuckle.
 
-"I tried to reconcile them---and very nearly fell into disfavor myself!"
+"I tried to reconcile them---and very nearly fell out of favor myself!"
 
 "Not surprising. Such is the lot of peacemakers---especially women."
 
@@ -62,7 +62,7 @@ In reply---a sarcastic chuckle.
 
 "Which one? You and I have more of them than we can count."
 
-"Don't pretend! The one who's at your place every single night, without fail! Your Soul-Guide!"
+"Don't pretend! The one who hangs about your halls night after night! That Soul-Guide of yours!"
 
 "Trickster, you mean? Hermeias?"
 
@@ -70,19 +70,19 @@ In reply---a sarcastic chuckle.
 
 "Let him catch him first."
 
-"And what if he does? The Trickster is your favorite---so tell him not to poke his long nose where it doesn't belong! Ares doesn't like to joke, you know. Or rather, he doesn't know how."
+"And what if he does? The Trickster is your favorite---so tell him not to poke his long nose where it doesn't belong! Ares is no joker, you know. Or rather, he doesn't know how to be."
 
 "The Trickster does, though. He stole my own helmet right out from under me---and that was the last anyone saw of him."
 
-"What helmet? Not the one, surely? The one the Cyclopes forged for you?!"
+"What helmet? Not that one, surely? The one the Kyklopes forged for you?!"
 
 "That very one."
 
-"That's all we needed! Goodness knows what's going on in the Family as it is! You keep silent, Junior and Middle snarl at each other, Ares is itching for a fight, Hermeias has gone completely out of hand---and all because of a child who isn't even born yet! Some Lone Cleaner, equal to the gods, indeed... And what will happen once he is born?!"
+"That's all we needed! Who knows what's going on in the Family as it is! You keep silent, Junior and Middle snarl at each other, Ares is itching for a fight, Hermeias has got completely out of hand---and all because of a child who isn't even born yet! Some Lone Cleaner, equal to the gods, indeed... And what will happen once he is born?!"
 
-"It seems to me, Sister, that you're simply jealous. As usual. As you have been a hundred times before. Jealous of a mortal woman whom Junior has once again preferred to you. And---again, as usual---you're about to take out your anger on her and her son. First you chase poor Io across the whole world, then you torment Aigina, and now it's Alkmene... It's time to calm down, Sister."
+"It seems to me, Sister, that you're simply jealous. As usual. As you have been a hundred times before. Jealous of a mortal woman whom Junior has once again preferred to you. And---again, as usual---you're about to take out your anger on her and her son. One minute you're chasing poor Io across the whole world, the next you're tormenting Aigina, and now it's Alkmene... It's time to calm down, Sister."
 
-"I? I'm jealous of a mortal?! A mere instant will pass---for us---and her body will turn to dust, and her shade will pass to you. To me she is already dust! How can I be jealous of dust? What concerns me, first of all, is the discord in the Family; then, I simply do not like the very idea of a Lone Cleaner... And finally---my Spouse intends to raise the son of this... this woman to Olympos at the end of his life, making him our equal! Can you imagine it, Hades?! I did not sleep all night when Zeus announced it!"
+"Me? Me, jealous of a mortal?! A mere instant will pass---for us---and her body will turn to dust, and her shade will come down to you. To me she is already dust! How can I be jealous of dust? What concerns me, first of all, is the discord in the Family; then, I simply do not like the very idea of a Lone Cleaner... And finally---my Spouse intends to raise the son of this... this woman to Olympos at the end of his life, making him our equal! Can you imagine it, Hades?! I lay awake all night after Zeus announced it!"
 
 "That is impossible, Sister. Either he is our equal from the start---in which case Junior's intentions are meaningless; or he is not our equal---and he will not become one, whatever Junior thinks on the matter!"
 
@@ -92,11 +92,11 @@ In reply---a sarcastic chuckle.
 
 "Middle said that you're with us."
 
-"Then he lied. I said that I keep to myself. And for now, I do not interfere. For now."
+"Then he lied. I said that I side with no one. And for now, I do not interfere. For now."
 
 "And keep it that way! In any case, this Lone Cleaner will not reign over all the Perseids---I've already seen to that!"
 
-The one who was called Sister suddenly fell silent. When she spoke again, her voice held no more malice, no fury, not even authority---only weariness and a plea, almost a supplication.
+The one who was called Sister suddenly fell silent. When she spoke again, her voice no longer held malice, or fury, or even imperiousness---only weariness and a request, almost a plea.
 
 "You know, Senior, my Spouse has changed a great deal lately. For nine months now he has shared a bed with no one. Women no longer interest him---and that frightens me. He has grown irritable, at times gloomy, and even more quick-tempered than before. I do not know the reasons---and I am afraid to learn them. So I ask you, Senior---stay out of it, as you promised. And I ask one more thing---rein in the Trickster."
 
@@ -106,19 +106,19 @@ The one who was called Sister suddenly fell silent. When she spoke again, her vo
 
 "Yes, go. Each of us has his own path. Yours is to go, mine is to stay... Just mind you don't stumble."
 
-"Ouch!"
+"Oh!"
 
 "There now, I did warn you! It's so easy to stumble---especially when the road is hard to see..."
 
 * * *
 
-...When the light footsteps and the rustle of crumbling pebbles died away in the distance, and the crimson gloom had noticeably thinned, the one they called Senior turned and pointed unerringly at one of the niches in the rugged body of the cliff.
+...When the light footsteps and the rustle of crumbling pebbles had died away in the distance, and the crimson gloom had noticeably thinned, the one they called Senior turned and jabbed a finger unerringly at one of the niches in the lumpy face of the cliff.
 
 "Trickster?"
 
 No answer came.
 
-"What, decided to hide from me? Take off the helmet and get over here. Or I'll call Kerberos to chase you around, you fool..."
+"What, decided to hide from me? Take off the helmet and fly over here. Or I'll call Kerberos to chase you around, you fool..."
 
 Something stirred in the niche---and in the gloom a face faintly emerged, followed by the dimly glowing outline of the Trickster's slender figure (which appeared somewhat later than the face), and some bulky object in his right hand.
 
@@ -136,32 +136,32 @@ The Trickster snorted scornfully.
 
 "Not a single word. In fact, I just got here."
 
-"And what do you think?"
+"And what are you thinking?"
 
-"Think? Me? You're such a joker, uncle..."
+"Thinking? Me? You're such a joker, uncle..."
 
-"Then what don't you think?"
+"Then what aren't you thinking?"
 
-"About my stepmother, you mean? She's jealous. But she's worried too. Only not about what she should be. I mix with people more than the rest of you put together---that's why I notice things you don't see."
+"My stepmother, you mean? She's jealous. But she's worried too. Only not about what she should be. I mix with people more than the rest of you put together---that's why I notice things you don't see."
 
 "Such as?"
 
-"Human sacrifices. Again. Where they used to be made, they're being made more often. Where people had begun to forget about them, they've remembered again. And even where there were never any before... And you know, uncle, who they go to, even when they're made to you and me," the Trickster jabbed a finger at the ground beneath his feet.
+"Human sacrifices. Again. Where they used to be made, they're being made more often. Where they'd begun to be forgotten, they're being remembered again. And even where there were never any before... And you know, uncle, who they go to, even when they're made to you and me." The Trickster jabbed a finger at the ground beneath his feet.
 
 "I know. Even when they're made to you and me, even when they're made to the Thunderer---they go down. Into Tartaros. And feed the Fallen."
 
-"Exactly. So raise your voice at Kerberos, uncle---he's guarding badly, too busy chasing fleas! And tell Charon---he'd better check his ferry more carefully... he'll miss a runaway shade!"
+"Exactly. So take Kerberos in hand, uncle---he's guarding badly, too busy chasing fleas! And tell Charon---he'd better check his ferry more carefully... or he'll let a runaway shade slip past!"
 
 "You frighten me, Hermeias. And I am not easily frightened... but I am careful. And I have great hopes for the child who is to be born today. If Junior hasn't made a mistake..."
 
 "Dad isn't terribly clever. But even so, he's rarely wrong."
 
-"Let's say so. But keep an eye on your father regardless---I'm not counting on Athena much. You said it yourself---not terribly clever..."
+"Granted. But keep an eye on your father regardless---I'm not counting on Athena much. You said it yourself---not terribly clever..."
 
 "I'll keep an eye on him, uncle."
 
 "Just mind---don't get caught."
 
-"Me?" the Trickster burst out laughing. "Me, get caught? You'll die first, uncle!..."
+"Me?" the Trickster burst out laughing. "Me, get caught? You'll sooner die, uncle!..."
 
 The darkness went on laughing in two voices for a long while after that.
