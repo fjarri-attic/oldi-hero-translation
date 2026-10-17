@@ -19,6 +19,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Зевс-Гостеприимец | [...] the Hospitable | An epithet of Zeus. |
 | Зевс-Олимпиец | [...] the Olympian | An epithet of Zeus. |
 | Зевс Всеблагий | [...] the All-Good | An epithet of Zeus. |
+| Зевс-соперник | [...] the rival |  |
 | Бронтей-громовник | Brontes the Thunder-Wielder | An alternative name + epithet of Zeus. |
 | Дий | Dias | Alternate/archaic name for Zeus, used interchangeably with Зевс and paired with epithets. |
 | Дий Высокогремящий | [...] the High-Thundering | An epithet of Dias. |
