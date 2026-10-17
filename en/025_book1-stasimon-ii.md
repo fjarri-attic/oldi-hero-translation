@@ -18,7 +18,7 @@ It seems he is listening.
 
 "Is that you, Hermeias?" the centaur asks quietly.
 
-Thick and low, his voice is like the sound of wind in the crowns of the giant pines growing nearby.
+Thick and low, his voice is like the sound of wind in the tops of the giant pines growing nearby.
 
 Silence.
 
@@ -34,7 +34,7 @@ The centaur nods to the silence.
 
 Out of the silence and stillness, startling the poor sunbeam, steps a slender, dark-haired youth. The nostrils of his thin, aquiline nose quiver slightly, as though he is agitated and trying to hide it.
 
-"Hail, Cheiron," the youth tosses off, turning a small caduceus rod entwined with two serpents in his hands.
+"Hail, Cheiron," the youth says offhandedly, twirling a small caduceus rod entwined with two serpents.
 
 "Hail, Hermeias," the centaur answers. "Welcome to Pelion."
 
@@ -46,9 +46,9 @@ And it seems that everything around---the pines, the juniper bushes, the cave ne
 
 "None of *us*, Cheiron. Of *us*. You too are a son of Kronos the Fallen, Master of Time, and time holds no power over you. Why do you so stubbornly set yourself apart from the Family?"
 
-"It is not my Family, Hermeias. In my time I held my tongue, and the Fallen became the Fallen, and the Family became the Family. Perhaps it would have happened even if I had not held my tongue, and I would now be in Tartaros, and you would call me Cheiron the Fallen. Yes, I am a son of Kronos, younger than Hades but older than the Earth-Shaker, and everyone believes my place is in the Family. Only I know that my place is here, on Pelion."
+"It is not my Family, Hermeias. Back then, I held my tongue, and the Fallen became the Fallen, and the Family became the Family. Perhaps it would have happened even if I had not held my tongue, and I would now be in Tartaros, and you would call me Cheiron the Fallen. Yes, I am a son of Kronos, younger than Hades but older than the Earth-Shaker, and everyone believes my place is in the Family. Only I know that my place is here, on Pelion."
 
-"Perhaps you were right to withdraw to this blessed mountain, away from the Family's squabbles... I wonder, do gossip and rumor also arrive on Pelion only after Cheiron grants them leave?"
+"Perhaps you were right to withdraw to this blessed mountain, away from the Family's squabbles... I wonder, do rumors also arrive on Pelion only with Cheiron's leave?"
 
 "Which ones, exactly?"
 
@@ -58,13 +58,13 @@ And it seems that everything around---the pines, the juniper bushes, the cave ne
 
 "Now you'll learn something more, hermit centaur. Sacrifices are already being made to this child---human sacrifices among them. I have seen it."
 
-In one elusive motion Cheiron rose onto all four legs and danced a little in place, his hooves barely clicking against the ground. The centaur's tail lashed against his glossy flank, as though driving off a pestering horsefly; his strong fingers laced together, his face---calm until now---darkened, and a deep furrow settled between his shaggy brows.
+In one swift motion Cheiron rose onto all four legs and danced a little in place, his hooves barely clicking against the ground. The centaur's tail lashed against his glossy flank, as though driving off a pestering horsefly; his strong fingers laced together, his face---calm until now---darkened, and a deep furrow settled between his shaggy brows.
 
 It lasted only a moment, after which Cheiron was himself again.
 
 He smiled faintly, as though apologizing, and lowered himself onto the grass.
 
-"You have surprised me, Hermeias. I believed I had forgotten how to be surprised, and now I must admit I was mistaken. Human sacrifices since earliest childhood?"
+"You have surprised me, Hermeias. I believed I had forgotten how to be surprised, and now I must admit I was mistaken. Human sacrifices from earliest childhood?"
 
 "Yes."
 
@@ -80,11 +80,11 @@ He smiled faintly, as though apologizing, and lowered himself onto the grass.
 
 "A half-man."
 
-"So you say, Hermeias. So they say in the Family. I say it differently. Perhaps because to some in the Family, I myself, Cheiron of Pelion, am a half-horse."
+"So you say, Hermeias. So they say in the Family. I say otherwise. Perhaps because to some in the Family, I myself, Cheiron of Pelion, am a half-horse."
 
-"Then why 'at best'? Alkeides is my half-brother by our father, which means---"
+"Then why 'at best'? Alkeides is my brother on my father's side, which means---"
 
-"Which means, or doesn't. Has Junior had any children since Alkeides?"
+"It means---or it doesn't. Has Junior had any children since Alkeides?"
 
 "No."
 
@@ -96,32 +96,32 @@ He smiled faintly, as though apologizing, and lowered himself onto the grass.
 
 "Of course. It is not so difficult."
 
-"For you. But not for an infant. I knew my father well, better than most did, the way only bastard children, born of a moment's passion, know their fathers---and I am certain that Kronos the Master of Time himself would never have thought of such a thing on his own. Others put it into his head---strangers, those who appeared in our world unbidden, who smiled politely when men called us gods; those who called themselves the Fallen even before the great battle in which they sided with Kronos the Timekeeper and were cast down into Tartaros together with him. Yes, Junior is a great fighter, for only a great fighter would dare call the elder kin to his aid as allies---the Hundred-Handed, Briareos, Gyges, and Kottos... Only strength could summon strength."
+"For you. But not for an infant. I knew my father well, better than most did, the way only bastard children, born of a moment's passion, know their fathers---and I am certain that Kronos the Master of Time himself would never have thought of such a thing on his own. Others put it into his head---strangers, those who appeared in our world unbidden, who smiled politely when men called us gods; those who called themselves the Fallen even before the great battle in which they sided with Kronos the Timekeeper and were cast down into Tartaros together with him. Yes, Junior is a great fighter, for only a great fighter would dare summon as allies the elder kin, the Hundred-Handed, Briareos, Gyges, and Kottos... Only strength could summon strength."
 
 Cheiron fell silent.
 
 "You do not remember the strangers, Hermeias---you were born after the Titanomachy[\*](#fn-24){.noteref}---but I remember. They were beautiful, and---"
 
-"And terrible at the same time. I know, Cheiron. I have seen the face of Medusa on Athena's shield. That is exactly what it was---a beautiful terror. I suppose I was simply fortunate to be born afterward... But this is no time for memories, Cheiron! Whether it is our own ancestors, or the strangers who came from nowhere, or both at once---if Tartaros is knocking at this child's soul, it bodes nothing good. And little Alkeides has fits of madness---the gossiping nurses are spreading it all over Thebes!"
+"And terrible at the same time. I know, Cheiron. I have seen the face of Medusa on Athena's shield. That is exactly what it was---a beautiful terror. I suppose I was simply fortunate to be born afterward... But this is no time for memories, Cheiron! Whether it is our own ancestors, or the strangers who came from nowhere, or both at once---if Tartaros is knocking at this child's soul, it bodes no good. And little Alkeides has fits of madness---the gossiping nurses are spreading it all over Thebes!"
 
-"Have you tried speaking with his father?"
+"Have you tried speaking with your father?"
 
-"Ha! About what? He never much cared for advisers, and lately he has grown downright intolerant of any opinion but his own! Dad is convinced the fits of madness are Hera's doing, out of her dislike for Alkeides; and the Spouse has gotten a proper dressing-down for it more than once. Naturally, she flew into noble indignation, played the wronged innocent---and did it so clumsily that in the end I believed her. It seems Hera really has nothing to do with it."
+"Ha! About what? He never much cared for advisers, and lately he has grown downright intolerant of any opinion but his own! Dad is convinced the fits of madness are Hera's doing, out of her dislike for Alkeides; and the Spouse has gotten a proper dressing-down for it more than once. Naturally, she would bristle with noble indignation, play the wronged innocent---and do it so clumsily that in the end I believed her. It seems Hera really has nothing to do with it."
 
 "You are full of paradoxes, Hermeias. Everyone, Junior included, is convinced that it is jealous Hera who sends madness upon young Alkeides---yet you claim it is not so. Everyone is certain that no sacrifices, human ones included, will keep the son of Zeus and Alkmene from becoming the Slayer of Monsters (or, if you prefer, the Lone Cleaner)---yet you fear the Fallen, knocking at the door of a child's unformed soul. Listen, Hermeias---why have you come to me? What do you want?"
 
-"To speak my mind. You are the only one able to look at all this from the outside, without any stake in it."
+"To get it off my chest. You are the only one able to look at all this from the outside, without any stake in it."
 
-"Not anymore. And I would like to know what you intend to do next---once you have spoken your mind and the old centaur has bored you enough."
+"Not anymore. And I would like to know what you intend to do next---once you have gotten it all off your chest and grown tired of the old centaur."
 
-"I will grow kin to the twins... 'Kin to the twins'---a phrase worthy of a singer-aoidos! I will try to become their friend, their companion, a bit of a teacher, a bit of a nurse; I will look into their eyes and listen to the beating of their hearts, I will wipe the foam from mad Alkeides's lips, I will step into the hidden corners of his soul where the dust of Tartaros gathers in the corners, as a night dream I will press close against sleeping Iphikles's cheek, I will weigh the brothers on my own scales..."
+"I will get in with the twins... 'Get in with the twins'---a phrase worthy of an aoidos singer! I will try to become their friend, their companion, a bit of a teacher, a bit of a nurse; I will look into their eyes and listen to the beating of their hearts, I will wipe the foam from mad Alkeides's lips, I will step into the secret recesses of his soul, where the dust of Tartaros gathers in the corners, as a night dream I will press close against sleeping Iphikles's cheek, I will weigh the brothers on my own scales..."
 
 Hermeias fell silent, as Cheiron had a little while before.
 
-"And if I see that they are dangerous," he finished harshly, "I will kill them both. Whatever father does afterward, however furious the Sovereign grows and however Poseidon and Hera rejoice---I will kill them. I believe I am the only one who would not fear doing it openly."
+"And if I see that they are dangerous," he finished harshly, "I will kill them both. Whatever my father does afterward, however furious the Sovereign grows and however Poseidon and Hera rejoice---I will kill them. I believe I am the only one who would not fear doing it openly."
 
-Cheiron studied the young face of the Trickster for a long moment---just then, so like the face of his father, Dias the Thunderer, Zeus of Olympos, as he had been many centuries ago, before the great battle.
+Cheiron looked long at the Trickster's young face, which at that moment was very like that of his father, Dias the Thunderer, Zeus of Olympos, as he had been many centuries ago, before the great battle.
 
-"Do not hurry," the centaur finally said. "I am not advising you, I am simply saying: do not hurry. Even if I knew that the child would grow up and kill me, I would not kill him for that---I would not kill the present for the sake of the future. And here is what I will do... I give you leave to come to Pelion without my permission. Come as you please. But on one condition only---that you come together with these children. Agreed?"
+"Do not be hasty," the centaur finally said. "I am not advising you, I am simply saying: do not be hasty. Even if I knew that the child would grow up and kill me, I would not kill him for that---I would not kill the present for the sake of the future. And here is what I will do... I give you leave to come to Pelion without my permission. Come as you please. But on one condition only---that you come together with these children. Agreed?"
 
 And Hermeias nodded without a word.
