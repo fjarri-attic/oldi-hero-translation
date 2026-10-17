@@ -39,3 +39,8 @@ Don't make commits - I will handle it. Change files only when specifically instr
   * An epithet that is a transliterated Greek word is written in the end, transliterated in English, without an article: "Гермес-Киллений" -> "Hermes Kyllenios", "Зевс-Бротолойгос" -> "Zeus Brotoloigos".
 - See `GLOSSARY.md` for settled names, places, and terms. Check it before translating a proper noun that may have appeared before.
 - Kin names ("dad", "mom" etc) are not capitalized if they are lowercase in the original. The original capitalizes them in certain cases, and we want to preserve that distinction.
+- Dialogue tags vs. action beats. The Russian `— Реплика, — автор…` pattern uses the same punctuation for both; English does not.
+  * A dialogue tag (verb of speaking: said, asked, answered, murmured, agreed, repeated, whispered, shouted...) joins the quote with a comma: `"Let them," Alkmene agreed.`
+  * An action beat (anything else: nodded, shrugged, smiled, sighed, laughed, rose, licked...) is a separate sentence; the quote ends with a period (or keeps its own `?`/`!`): `"That's right." Amphitryon nodded.`
+  * If the speech continues after a beat, close the beat with a period and reopen the quote: `"Listen, Autolykos." Amphitryon sighed and pushed the cup aside. "I did not come to Argos..."` Use em-dashes only when the action actually interrupts the speech mid-sentence: `"I did not come"---he pushed the cup aside---"merely to pay you a visit."`
+  * Borderline verbs (laughed, sighed, smiled, snorted, chuckled) are treated as beats, not tags.
