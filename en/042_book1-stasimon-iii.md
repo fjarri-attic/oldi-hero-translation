@@ -59,7 +59,7 @@ Two hazy silhouettes, two shades... no, shades have no place here---they should 
 
 "But none of us---not your father, not Kronos the Timekeeper, not even Ouranos the Ancestor---none could ever, or can even now, say of himself: 'I am All! I am the whole world, all that exists; All is I!'
 
-"But there, in the universe of the Fallen, it happened. Perhaps because no Hekatoncheires ever arose there, nor mortal men either---only titans; perhaps because they are not quite like us, or, say, like Helios; in short, one of them managed to grow to such limits that from being one he became the One. But just as a mortal fails, for a time, to notice a tumor taking invisible root within him (of which he too might say: 'This is my death, but it is also I!'), so the One did not at once sense how, in one of the worlds He had drawn into Himself, someone became aware of himself as a person and refused to be part of the whole, beginning to grow, like a tumor, like the One in the days of His own youth..."
+"But there, in the universe of the Fallen, it happened. Perhaps because no Hekatoncheires ever arose there, nor mortal men either---only Titans; perhaps because they are not quite like us, or, say, like Helios; in short, one of them managed to grow to such limits that from being one he became the One. But just as a mortal fails, for a time, to notice a tumor taking invisible root within him (of which he too might say: 'This is my death, but it is also I!'), so the One did not at once sense how, in one of the worlds He had drawn into Himself, someone became aware of himself as a person and refused to be part of the whole, beginning to grow, like a tumor, like the One in the days of His own youth..."
 
 "And the One cast them out of Himself---yes, uncle? The way a healer cuts off a rotten finger to save the hand, and the whole man?"
 
@@ -79,21 +79,21 @@ Two hazy silhouettes, two shades... no, shades have no place here---they should 
 
 "I know, uncle, what comes of following the counsel of Momos, truthful through lies."
 
-"So do I. So do others. But that's now. Back then, Kronos took a great liking to the Fallen's idea: to become lord of the titans, Gaia's children! To give credit where it's due---the titans themselves hardly objected. After all, great, if young in years, Kronos was Gaia's favorite, the conqueror of Ouranos...
+"So do I. So do others. But that's now. Back then, Kronos took a great liking to the Fallen's idea: to become lord of the Titans, Gaia's children! To give credit where it's due---the Titans themselves hardly objected. After all, great, if young in years, Kronos was Gaia's favorite, the conqueror of Ouranos...
 
 "And the wisdom of the Fallen was boundless; it nourished Kronos, and that age was not called the Golden Age for nothing. Day followed day, and at last the Fallen came to Kronos with a humble request:
 
 "'Lord Kronos, you see our devotion, but know this---we are withering. The flame within us is dying out, and we have nothing to replenish our failing strength. Give us something: a forest, a mountain, a river---whatever you deem fit---and we will speak of your gift: "It is We!"---and our strength will return!'
 
-"This was unheard of, astonishing to everyone. Every titan, from birth, felt himself to be a mountain, a forest, a fire, or a river---but to say of something foreign, even if given as a gift: 'This is I!'?
+"This was unheard of, astonishing to everyone. Every Titan, from birth, felt himself to be a mountain, a forest, a fire, or a river---but to say of something foreign, even if given as a gift: 'This is I!'?
 
 "And Kronos heeded the pleas of the Fallen, laughing.
 
-"And after him the titans laughed too---even the titans of the lands that were given away. They said to one another: the Fallen have nowhere to live---let them live among us; let them say, 'This is mine; and this too!'
+"And after him the Titans laughed too---even the Titans of the lands that were given away. They said to one another: the Fallen have nowhere to live---let them live among us; let them say, 'This is mine; and this too!'
 
-"After the titans, great and small, the free titan-tribes laughed too---nymphs, satyrs, Lapiths, and centaurs; and last of all laughed the Fallen, never ceasing to offer Kronos the Timekeeper their wise counsel, to which he unfailingly listened.
+"After the Titans, great and small, the free Titan-tribes laughed too---nymphs, satyrs, Lapiths, and centaurs; and last of all laughed the Fallen, never ceasing to offer Kronos the Timekeeper their wise counsel, to which he unfailingly listened.
 
-"He listened---and failed to notice that in the lands given to the Fallen, the free titan-tribes were growing ever fewer; and those one still came across were strange somehow---empty-eyed, their faces still as millponds, their very bodies half aglow, all of them silent, or hurrying to get out of sight.
+"He listened---and failed to notice that in the lands given to the Fallen, the free Titan-tribes were growing ever fewer; and those one still came across were strange somehow---empty-eyed, their faces still as millponds, their very bodies half aglow, all of them silent, or hurrying to get out of sight.
 
 "It only grew worse. The forests began to wither, the waters of rivers and streams turned stagnant, the cliffs weathered and crumbled into gravel; and ever more often one came upon patches of land scorched to ash---newborn volcanoes had begun to speak.
 
@@ -119,25 +119,25 @@ Two hazy silhouettes, two shades... no, shades have no place here---they should 
 
 Hades did not answer at once, but the Trickster did not hurry him, understanding that his uncle had told far from the whole story.
 
-"You know, Trickster," came at last out of the darkness, "I suspect the One doesn't believe in you, Hermeias Psychopompos, either. I also suspect the Fallen chose to call Kronos and the titans into alliance only for lack of strength of their own---otherwise they would hardly have stood on ceremony with our ancestors! Just as they didn't stand on ceremony with us---Kronos's children...
+"You know, Trickster," came at last out of the darkness, "I suspect the One doesn't believe in you, Hermeias Psychopompos, either. I also suspect the Fallen chose to call Kronos and the Titans into alliance only for lack of strength of their own---otherwise they would hardly have stood on ceremony with our ancestors! Just as they didn't stand on ceremony with us---Kronos's children...
 
-"I was the first son of Star-Eyed Rhea and Kronos the Timekeeper. And the Fallen understood before anyone else that a new kind of being had been born, akin in some way to themselves; not a titan, but a god! The ancient titans were offspring of Gaia; they felt themselves to be mountains, forests, elements, and so were incapable of devouring one another's domains. A river and a mountain are not rivals; each 'I' has its limit set from the start. But we, the generation of gods, are capable of extending our 'I' onto what had not belonged to it before---and in this we resemble the Fallen.
+"I was the first son of Star-Eyed Rhea and Kronos the Timekeeper. And the Fallen understood before anyone else that a new kind of being had been born, akin in some way to themselves; not a Titan, but a god! The ancient Titans were offspring of Gaia; they felt themselves to be mountains, forests, elements, and so were incapable of devouring one another's domains. A river and a mountain are not rivals; each 'I' has its limit set from the start. But we, the generation of gods, are capable of extending our 'I' onto what had not belonged to it before---and in this we resemble the Fallen.
 
 "But we are her own; we are Gaia's grandchildren. Gaia means nothing to the Fallen, for pride was mother to the Fallen, and self-assertion their father!
 
 "They had no wish for possible rivals---so they made us rivals in Kronos's eyes. 'Just as you overthrew your father Ouranos, so your children will sooner or later overthrow you. Devour them---we will teach you how---and reign forever,' they told him.
 
-"And that, Hermeias, is how they turned a titan into a god---but a god made in the likeness of the Fallen; that is how Kronos, Master of Time, became Kronos the Devourer of Children!
+"And that, Hermeias, is how they turned a Titan into a god---but a god made in the likeness of the Fallen; that is how Kronos, Master of Time, became Kronos the Devourer of Children!
 
 "I was the first to be devoured. And don't ask me what it was like. Then came the turn of Hestia (some say now that she was first... let them say so), then Demeter, Poseidon, Hera... it went on until Junior, your father, was born.
 
-"On her mother's counsel, desperate Rhea hid Junior away on Crete, and slipped Kronos the child of some obscure mountain titan instead, which he then devoured. Luckily, the Fallen were not nearby at that moment, or they would have discovered the substitution at once...
+"On her mother's counsel, desperate Rhea hid Junior away on Crete, and slipped Kronos the child of some obscure mountain Titan instead, which he then devoured. Luckily, the Fallen were not nearby at that moment, or they would have discovered the substitution at once...
 
 "Well, of *what* happened next, you've heard plenty. Now I'll tell you *how* it happened.
 
-"Junior, once he had grown up and come to thirst for revenge, needed two pillars---his own strength and allies. With the latter, matters stood well enough: some of the titans supported Junior, having finally sensed the threat from the Fallen; but as for strength...
+"Junior, once he had grown up and come to thirst for revenge, needed two pillars---his own strength and allies. With the latter, matters stood well enough: some of the Titans supported Junior, having finally sensed the threat from the Fallen; but as for strength...
 
-"Junior had nothing of his own in this world---not a scrap of land, not a wave in the sea, not a cloud in the sky... not a single spark of flame. And so he turned his attention to those whom the titans never noticed, whom Kronos despised, and who had never existed in the One, in the universe of the Fallen.
+"Junior had nothing of his own in this world---not a scrap of land, not a wave in the sea, not a cloud in the sky... not a single spark of flame. And so he turned his attention to those whom the Titans never noticed, whom Kronos despised, and who had never existed in the One, in the universe of the Fallen.
 
 "Junior placed his bet on mortals.
 
@@ -155,7 +155,7 @@ Hades did not answer at once, but the Trickster did not hurry him, understanding
 
 "Never underestimate your father, Trickster...
 
-"So began the Titanomachy: a long war of many years, between Kronos, the Fallen, and the titans loyal to the Timekeeper on one side, and the Family together with the rebel titans on the other.
+"So began the Titanomachy: a long war of many years, between Kronos, the Fallen, and the Titans loyal to the Timekeeper on one side, and the Family together with the rebel Titans on the other.
 
 "At first the Family tried to draw every battle away through the Dromoi, off to the side, away from the main body of Gaia and the people living there---the cradle and source of our strength. But the war dragged on, and then Junior took a step that still frightens me now, merely to recall it.
 
@@ -163,13 +163,13 @@ Hades did not answer at once, but the Trickster did not hurry him, understanding
 
 "The earth burned, seas and rivers boiled, mountains flew up into the sky, fiery lava erupted from the depths, the universe cried out for help...
 
-"And it was then that the ground of Gaia shuddered terribly, and the Hundred-Handed rose before the combatants. The Firstborn, the Hekatoncheires, Briareos, Gyges, and Kottos; those whom Kronos and his titans had entirely forgotten, and of whom the Fallen, the strangers, knew nothing at all---the strangers who had shaken the foundations of the world so badly that the world was forced to defend itself with the hands of the Hundred-Handed.
+"And it was then that the ground of Gaia shuddered terribly, and the Hundred-Handed rose before the combatants. The Firstborn, the Hekatoncheires, Briareos, Gyges, and Kottos; those whom Kronos and his Titans had entirely forgotten, and of whom the Fallen, the strangers, knew nothing at all---the strangers who had shaken the foundations of the world so badly that the world was forced to defend itself with the hands of the Hundred-Handed.
 
 "The Hekatoncheires did not care who started the battle first, over what it had begun, who was right and who was wrong---the battle threatened the nature of the world, and on one side of it fought the Strangers.
 
 "That was enough.
 
-"Few managed to escape the hands of the Hekatoncheires---like whirlwinds, they wrapped themselves around the Fallen, Kronos, and his titans; neither titan strength nor the flame and light of the Fallen availed them, and Time itself betrayed Kronos, halting and recoiling in fear as the Firstborn vanished into the depths of Tartaros with their prize.
+"Few managed to escape the hands of the Hekatoncheires---like whirlwinds, they wrapped themselves around the Fallen, Kronos, and his Titans; neither Titan strength nor the flame and light of the Fallen availed them, and Time itself betrayed Kronos, halting and recoiling in fear as the Firstborn vanished into the depths of Tartaros with their prize.
 
 "And so the famous Titanomachy came to its end; but never say, Hermeias, that it was Zeus who summoned the Hundred-Handed, for they cannot be summoned, any more than they can be sent away... and without anyone's order, to this day, Briareos, Gyges, and Kottos guard the exits from Tartaros.
 

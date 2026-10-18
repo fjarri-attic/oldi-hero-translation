@@ -227,7 +227,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Своя / Свой | Kinswoman / Kinsman | Recognition term used between followers of the Fallen (Titans); gendered address, capitalized like a title |
 | Павшие | the Fallen | Collective term for the deposed Titans, awaited by their followers to return and overthrow the Olympians |
 | Грайя | Graia | One of the Graiai, three grey-haired sisters born old, sharing one eye and one tooth |
-| Аргус Панопт | Argos Panoptes | The many-eyed titan/giant, here associated with the stars |
+| Аргус Панопт | Argos Panoptes | The many-eyed Titan, here associated with the stars |
 | Нюкта | Nyx | Goddess/personification of Night |
 | Селена | Selene | Moon goddess |
 | Кадм-Змей | [...] the Serpent | An epithet of Kadmos. |
@@ -235,7 +235,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Сипил | Sipylos | Mountain (and city); Tantalos's domain in the story he tells the twins |
 | Пандарей | Pandareos | Figure from the Tantalos myth; called "эфесец" (from Ephesos) in the text |
 | молния | thunderbolt | Specifically when used as Zeus's weapon of choise. |
-| Латона | Leto | Mother of Apollo and Artemis, daughter of the titan Koios and Phoibe. |
+| Латона | Leto | Mother of Apollo and Artemis, daughter of the Titan Koios and Phoibe. |
 | Кей | Koios | Titan, father of Leto |
 | Феба | Phoibe | Titaness, mother of Leto |
 | Атлант-Небодержатель | Atlas the Sky-Bearer | Paired epithet of Atlas, father of the nymph Maia |

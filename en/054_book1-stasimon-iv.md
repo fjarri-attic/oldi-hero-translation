@@ -22,7 +22,7 @@ In the distance, arching the weary horizon, a sunset the color of clotted blood 
 
 Mother knows that this sunset always blazes here, yielding its place neither to night nor to dawn, for who knows how many hundred years now, if one counts time by mortal reckoning. The same sunset, the same ruins, the same wind burying them in pale blue sand; and the bronze-and-stone cliff, lifting the Son's dwelling on high---any moment now he will draw back the heavy velvet of the curtain, deep red, fringed with gilded threads...
 
-He drew back the heavy velvet of the curtain, deep red, fringed with gilded threads, he made a welcoming gesture, and Mother obediently stepped into chambers with coal-black walls, studded with scatterings of precious stones that shimmered in the torchlight like a thousand constellation-eyes of the ancient titan Argos, once Mother's servant.
+He drew back the heavy velvet of the curtain, deep red, fringed with gilded threads, he made a welcoming gesture, and Mother obediently stepped into chambers with coal-black walls, studded with scatterings of precious stones that shimmered in the torchlight like a thousand constellation-eyes of the ancient Titan Argos, once Mother's servant.
 
 For a moment, the glints of light off the gems and the weapons hung along the walls dazzled her as she entered.
 

@@ -29,7 +29,7 @@ Ares rose abruptly and walked over to the Trickster. The Dromos had not yet clos
 ::: small-scene-break
 :::
 
-...The Phlegraian Fields[\*](#fn-44){.noteref}, burned to the ground, a table-flat, slate-coal black plain---and it truly was coal, smoldering and smoking in patches, over which the low-hung shroud of the night sky gathered in folds, with its rare, sickly reddened eyes of star-titans.
+...The Phlegraian Fields[\*](#fn-44){.noteref}, burned to the ground, a table-flat, slate-coal black plain---and it truly was coal, smoldering and smoking in patches, over which the low-hung shroud of the night sky gathered in folds, with its rare, sickly reddened eyes of star-Titans.
 
 Dark columns stirred on the horizon, making the blind sores of the stars ooze filthy ichor, and began to move, raising the ash of the conflagration off the body of Mother Gaia...
 
