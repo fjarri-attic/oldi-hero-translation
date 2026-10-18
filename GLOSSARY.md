@@ -38,7 +38,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Киллений | Kyllenios | An epithet of Hermes (transliterated). |
 | Килленец | Kyllenian | An epithet of Hermes. |
 | Гермий-Простак | Hermeias the Simpleton | An epithet of Hermes. |
-| Психопомп-Душеводитель | Psychopompos the Soul-Guide | Paired epithet combining Психопомп/Psychopompos and Душеводитель/Soul-Guide. |
+| Психопомп-Душеводитель | Psychopompos or the Soul-Guide | Paired epithet combining Психопомп/Psychopompos and Душеводитель/Soul-Guide. |
 | Лукавый | Trickster | An epithet of Hermes. |
 | Душеводитель | Soul-Guide | An epithet of Hermes. |
 | Психопомп | Psychopompos | An epithet of Hermes (transliterated). |
