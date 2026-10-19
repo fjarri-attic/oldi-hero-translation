@@ -272,6 +272,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Лисса-Безумие | Lyssa the Rage | Paired epithet, personification of rage/madness |
 | Дика-Правда | Dike the Justice | Paired epithet, personification of justice |
 | Мом | Momos | God of mockery and slander |
+| Мом-насмешник/Мом-Насмешник | Momos the mocker/Momos the Mocker | Paired epithet of Momos (cf. plain Мом / Momos) |
 | Гермий-Рогач | Hermeias the Cuckold |  |
 | Химера | the Chimera | Monster; referenced in a simile ("howled like a wounded Chimera") |
 | Сериф | Seriphos | Island where Perseus grew up |
@@ -345,7 +346,6 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Рея | Rhea | Mother of Zeus, Hera, Poseidon, Hades, etc.; wife of Kronos |
 | Ураниды | Ouranids | Descendants of Ouranos |
 | Геба | Hebe | Goddess of youth, cupbearer to the gods; daughter of Zeus and Hera, called "вертихвостка" (flighty) here |
-| Мом-насмешник | Momos the mocker | Paired epithet of Momos (cf. plain Мом / Momos) |
 | Беотия | Boiotia | Region of Greece where Thebes and Kithairon lie |
 | Пелопоннес | Peloponnese |  |
 | Киферонский Людоед | the Man-Eater of Kithairon | The lion hunted and killed by Alkeides and Iphikles; capitalized as a proper epithet-name. Recurs in later chapters, including a mocking feminine coinage "Киферонская Людоедка" applied to a field mouse. |
