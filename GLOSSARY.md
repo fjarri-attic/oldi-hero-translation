@@ -611,7 +611,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Филей | Phyleus | A son of Augeias (ch. 096) |
 | Трехтелый Герион | Three-Bodied Geryon | Combined form of Герион/Geryon + the Трехтелый/the Three-Bodied epithet (ch. 096) |
 | Молиона | Molione | Referenced again as a kinswoman of the "younger kinsmen" who fathered the Gigantes; cf. established entry (ch. 092), recurring (ch. 096) |
-| Таларии | Talaria | Hermes's winged sandals; kept as the established English loanword for the mythological item, lowercase (ch. 097) |
+| Таларии | Talaria | Hermes's winged sandals; kept as the established English loanword for the mythological item |
 | Тмол | Tmolos | Deceased former husband of Omphale, king of Maionia before her (ch. 097) |
 | Танталид | Tantalid | Patronymic epithet, "son of Tantalos" |
 | Кайстр | the Kaystros | River in Lydia/Maionia |
