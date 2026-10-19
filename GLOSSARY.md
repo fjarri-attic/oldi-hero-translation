@@ -26,9 +26,9 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Дий Высокогремящий | [...] the High-Thundering | An epithet of Dias. |
 | Дий-Громовержец | [...] the Thunderer | An epithet of Dias. |
 | Зевс-Бротолойгос | [...] Brotoloigos | An epithet of Zeus (transliterated). |
-| Зевс-самодур | Zeus the despot | An epithet of Zeus. |
-| Зевс-Тучегонитель | Zeus the Cloud-Gatherer | An epithet of Zeus. |
-| Дий-отец/Дий-Отец | Dias the Father | An epithet of Dias. |
+| Зевс-самодур | [...] the despot | An epithet of Zeus. |
+| Зевс-Тучегонитель | [...] the Cloud-Gatherer | An epithet of Zeus. |
+| Дий-отец/Дий-Отец | [...] the father/[...] the Father | An epithet of Dias. |
 | Колебатель Земли | Earth-Shaker | An epithet of Poseidon. |
 | Черногривый | Black-Maned | An epithet of Poseidon. |
 | Энносигей | Ennosigaios | An epithet of Poseidon (transliterated). |
@@ -271,7 +271,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Ата-Обман | Ate the Deception | Paired epithet, personification of delusion/ruin |
 | Лисса-Безумие | Lyssa the Rage | Paired epithet, personification of rage/madness |
 | Дика-Правда | Dike the Justice | Paired epithet, personification of justice |
-| Мом | Momos | God of mockery and slander; footnoted on first occurrence with the author's own endnote definition |
+| Мом | Momos | God of mockery and slander |
 | Гермий-Рогач | Hermeias the Cuckold |  |
 | Химера | the Chimera | Monster; referenced in a simile ("howled like a wounded Chimera") |
 | Сериф | Seriphos | Island where Perseus grew up |
@@ -345,7 +345,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Рея | Rhea | Mother of Zeus, Hera, Poseidon, Hades, etc.; wife of Kronos |
 | Ураниды | Ouranids | Descendants of Ouranos |
 | Геба | Hebe | Goddess of youth, cupbearer to the gods; daughter of Zeus and Hera, called "вертихвостка" (flighty) here |
-| Мом-насмешник | Momos the Mocker | Paired epithet of Momos (cf. plain Мом / Momos) |
+| Мом-насмешник | Momos the mocker | Paired epithet of Momos (cf. plain Мом / Momos) |
 | Беотия | Boiotia | Region of Greece where Thebes and Kithairon lie |
 | Пелопоннес | Peloponnese |  |
 | Киферонский Людоед | the Man-Eater of Kithairon | The lion hunted and killed by Alkeides and Iphikles; capitalized as a proper epithet-name. Recurs in later chapters, including a mocking feminine coinage "Киферонская Людоедка" applied to a field mouse. |

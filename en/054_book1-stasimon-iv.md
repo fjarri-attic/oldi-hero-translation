@@ -96,7 +96,7 @@ A burning torch, a spear, and a predatory kite became his attributes.
 
 His "I" absorbed all of it, forging it into strength---*his strength*!---but the Family turned silently away from Ares. He became an outcast, a degenerate one was forced to reckon with. To his face, true, no one dared say so---people avoided even looking him in the eye.
 
-Alas, Ares Enyalios was nowhere near as dull-witted as Hermeias, or that same Momos the Mocker, supposed. He saw the disgust on the faces of his kin and grew hardened, plunging headlong into war, into the whirlpool of destruction; he came to find in it a peculiar, grim pleasure. Once, sharp-tongued Momos compared him to a beast of prey that laps greedily at blood from a puddle, not noticing that another beast crouches at the puddle's far edge.
+Alas, Ares Enyalios was nowhere near as dull-witted as Hermeias, or that same Momos the mocker, supposed. He saw the disgust on the faces of his kin and grew hardened, plunging headlong into war, into the whirlpool of destruction; he came to find in it a peculiar, grim pleasure. Once, sharp-tongued Momos compared him to a beast of prey that laps greedily at blood from a puddle, not noticing that another beast crouches at the puddle's far edge.
 
 Momos thought Ares couldn't hear.
 
