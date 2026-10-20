@@ -6,6 +6,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 |---|---|---|
 | герой должен быть один | a hero stands alone | This is the name of the book, and the phrase is repeated multiple time in the text---we should use the same translation in those places. |
 | земной | earthly | This term is used alongside смертный (mortal), so we want to preserve the distinction. |
+| ворота | gate/gates | A house, courtyard or other small enclosure has a "gate"; a city or fortress has "gates". |
 | Старший | Senior | A nickname of Hades (used by fellow Olympians). |
 | Средний | Middle | A nickname of Poseidon (used by fellow Olympians). |
 | Младший | Junior | A nickname of Zeus (used by fellow Olympians). |
