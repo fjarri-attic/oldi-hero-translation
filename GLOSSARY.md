@@ -427,7 +427,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Луна-Селена | Selene the Moon | Paired epithet of Selene, common-noun-plus-name order reversed as elsewhere; Селена alone = Selene (ch. 070) |
 | Алкей Микенский | Alkaios of Mycenae | Paired epithet form for Amphitryon's father |
 | Ификлид | Iphiklid | Patronymic epithet, "son of Iphikles" |
-| Поликлей | Polykles | Fellow palaestra student. |
+| Поликлей | Polykles | Fellow palaestra pupil. |
 | Фок | Phokos | Town drunkard who frequents the market (ch. 072) |
 | Триптолем | Triptolemos | Legendary hero of Eleusis, associated with Demeter and agriculture (ch. 072) |
 | Элевсин | Eleusis | City, cult center of Demeter; Triptolemos's home (ch. 072) |
