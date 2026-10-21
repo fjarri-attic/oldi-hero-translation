@@ -350,7 +350,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Беотия | Boiotia | Region of Greece where Thebes and Kithairon lie |
 | Пелопоннес | Peloponnese |  |
 | Киферонский Людоед | the Man-Eater of Kithairon | The lion hunted and killed by Alkeides and Iphikles; capitalized as a proper epithet-name. Recurs in later chapters, including a mocking feminine coinage "Киферонская Людоедка" applied to a field mouse. |
-| Мелампиг (мн. Мелампиги) | Melampygos (pl. Melampygoi) | Mocking nickname for the male Perseids ("Black-Arsed"), from the hair on their thighs/buttocks; glossed in-text by the author |
+| Мелампиг (мн. Мелампиги) | Melampygos (pl. Melampygoi) | Mocking nickname for the male Perseids ("Black-Assed"), from the hair on their thighs/buttocks; glossed in-text by the author |
 | Абдер | Abderos | Hermes's son by a mortal woman; six years old at this point, later dies as a youth guarding Diomedes's man-eating mares (cf. Book 2) |
 | Локрида Опунтская | Opountian Lokris | Abderos's homeland |
 | Персефона | Persephone | Wife of Hades |
