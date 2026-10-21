@@ -28,6 +28,7 @@ Don't make commits - I will handle it. Change files only when specifically instr
 
 ## Style notes
 
+- Language: American English. We want to use American spelling, and avoid distinctly British expressions.
 - Register: literary, matching Oldi's long, clause-heavy sentences, semicolons, ellipses, and mid-sentence dashes. Translate fluently rather than word-for-word, but preserve sentence rhythm and structure where possible.
 - All-caps words/sentences are italicized in the translation (using the Markdown syntax enclosing them in single asterisks)
 - Chapter/section structure borrows Greek tragedy vocabulary from the original (Parodos, epeisodion, etc.)---keep these terms transliterated, not translated.
