@@ -10,7 +10,7 @@ And of blood, too.
 
 The man should probably be afraid, but this is not so; he should probably want to turn back, and this too is not so, because the man keeps walking forward.
 
-Out of the whimpering darkness, wrenched free by a ray of light from who knows where---a door. An old plank door, warped, dried out and cracked, gone grey with age, its brass handle coated in a sticky green film...
+Out of the whimpering darkness, wrenched free by a ray of light from who knows where---a door. An old plank door, warped, dried out and cracked, gone gray with age, its brass handle coated in a sticky green film...
 
 The door stands slightly ajar.
 

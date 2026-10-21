@@ -227,7 +227,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | вакханка (мн. вакханки) | bacchante (pl. bacchantes) |  |
 | Своя / Свой | Kinswoman / Kinsman | Recognition term used between followers of the Fallen (Titans); gendered address, capitalized like a title |
 | Павшие | the Fallen | Collective term for the deposed Titans, awaited by their followers to return and overthrow the Olympians |
-| Грайя | Graia | One of the Graiai, three grey-haired sisters born old, sharing one eye and one tooth |
+| Грайя | Graia | One of the Graiai, three gray-haired sisters born old, sharing one eye and one tooth |
 | Аргус Панопт | Argos Panoptes | The many-eyed Titan, here associated with the stars |
 | Нюкта | Nyx | Goddess/personification of Night |
 | Селена | Selene | Moon goddess |
