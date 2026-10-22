@@ -8,7 +8,7 @@ The darkness brightens sharply, as though someone had lit a dozen oil lamps at o
 
 "Me... uncle."
 
-The one who was called Trickster is plainly embarrassed and frightened, though he tries to hide it.
+The one just addressed as Trickster is plainly embarrassed and frightened, though he tries to hide it.
 
 "Did you lead him around the White Rock of Oblivion?"
 
@@ -18,7 +18,7 @@ And a hint of anger, ready to break loose.
 
 "Yes... Sovereign."
 
-"And didn't let him drink from Lethe?"
+"And kept him from drinking from Lethe?"
 
 "Yes... Senior."
 
@@ -26,17 +26,17 @@ And a hint of anger, ready to break loose.
 
 "Yes... I understand."
 
-"Excellent. Because your understanding pleases me. Because I warned Charon beforehand not to take Amphitryon's shade aboard, and to send the two of you the long way round. But my order turned out to be wasted---the nephew is every bit as worthy as his beloved uncle!"
+"Excellent. Because your understanding pleases me. Because I warned Charon beforehand not to take Amphitryon's shade aboard, and to send the two of you the long way around. But my order proved unnecessary---the nephew is every bit as worthy as his beloved uncle!"
 
 The darkness laughs.
 
 Long.
 
-Greedily.
+Breathlessly.
 
-"So you wanted the same thing, uncle?"---joy flutters in Trickster's voice like a caught bird.
+"So you wanted the same thing, uncle?" Joy flutters in Trickster's voice like a caught bird.
 
-"No," the darkness laughs. "Because I don't know what you wanted. I suspect you don't much know yourself, what it is you want. You meant to leave him not only his memory, but his will to act, didn't you?! Answer me!"
+"No." The darkness laughs. "Because I don't know what you wanted. I suspect you don't really know yourself what you want. You meant to leave him not only his memory, but his will to act, didn't you?! Answer me!"
 
 "Well... probably not."
 
@@ -48,17 +48,17 @@ Greedily.
 
 "To the Isles? But surely you---"
 
-"Never you mind what I intend to do. Amphitryon is better off spending some time on the Isles. Alone. Tell the Keres to keep watch on him. That way he won't meet anyone, and won't stumble by accident into Lethe or up against the Rock."
+"Never you mind what I intend to do. Amphitryon is better off spending some time on the Isles. Alone. Tell the Keres to keep watch on him. That way he won't meet anyone, and won't stumble into Lethe by accident, or wander to the Rock."
 
 The darkness thickens, gathers itself into folds, and falls silent.
 
-And when Hermeias Psychopompos had tiptoed away, leading behind him the silent shade of the one so recently called Amphitryon---Lord Hades sat a long while yet, lost in thought.
+And when Hermeias Psychopompos had tiptoed away, leading behind him the silent shade of the one so recently called Amphitryon, Lord Hades sat a long while yet, lost in thought.
 
-Today he and Hermeias had broken an ancient law, one the Sovereign himself had established. That was why it had been so terribly hard for Senior to bring himself to such a step.
+Today he and Hermeias had broken an ancient law, one the Sovereign himself had established. That was why it had been so terribly hard for Senior to bring himself to take such a step.
 
 And yet he had.
 
-Shades, once they reach Erebos, lose their earthly memory. Everyone knows this. But few have ever stopped to wonder: who needs this, and why?
+Shades, once they reach Erebos, lose their earthly memory. Everyone knows this. But few have ever stopped to wonder: whom does it serve, and why?
 
 Senior had never stopped to wonder either.
 
@@ -74,9 +74,9 @@ To finish building, to finish loving... to avenge!
 
 That is why Charon the Ferryman---a child of Erebos born old---never carries anyone back; that is why the three-headed, dragon-tailed hound Kerberos keeps ceaseless watch over the exit of Hades---the *exit*, mind you, not the *entrance*, for who would willingly come to the kingdom of the dead, and having come, manage to lose himself in it?
 
-The Sovereign sees all there is to see, in Erebos.
+In Erebos, the Sovereign sees all.
 
-Kerberos is not needed for guests. He is needed so that shades do not go running toward the light, guided by the very best of intentions---and everyone knows where that road leads.
+It is not for guests that Kerberos is needed. He is needed so that shades do not go running toward the light, guided by the very best of intentions---and everyone knows where that road leads.
 
 Here.
 
@@ -86,11 +86,11 @@ That is why the souls of the dead are led past the White Rock of Oblivion, why t
 
 Only sacrificial blood can, for a time, return memory to the shades; but Charon cannot be bribed, Kerberos cannot be swayed, and the shades forget their past, and once more trudge obediently back into the gloom...
 
-Still, today the Sovereign broke his own law for the first time.
+Yet today, for the first time, the Sovereign had broken his own law.
 
-He sensed that he would need Amphitryon the Exile, along with the whole of his hard fate.
+He sensed that he would need Amphitryon the Exile, hard fate and all.
 
-Only Hades did not know---When, How, and What for.
+What Hades did not know was---When, How, and What for.
 
 That was something to be thought through.
 
@@ -101,37 +101,37 @@ Well, thinking was something the Sovereign was accustomed to. Thinking long, tho
 
 "Rejoice, uncle! I've brought news!"
 
-"Good to hear, my boy! You know the Family doesn't spoil me with news."
+"Good to hear, my boy! You know the Family doesn't exactly shower me with news."
 
-"Now, now, uncle, don't sell yourself short! When you need to, you know all the news before it even happens. But this last petty scandal---that's something special! Poseidon's digging grandly under dad, and this time Junior won't wriggle out of it!"
+"Now, now, uncle, don't play humble! When you need to, you know all the news before it even happens. But this latest little scandal---that's something special! Poseidon's undermining dad in grand style, and this time Junior won't wriggle out of it!"
 
 "Don't make me laugh, Hermeias. Since when does your father pay any mind to Middle?"
 
-"What choice does he have, when half the Family now stands with Middle and Stepmother Hera: Artemis, and grubby Hephaistos, and that vixen Hestia, and even thick-skulled Apollo, who used to back dad in every scheme of his, out of sheer natural dullness! Only Athena is holding on, more or less..."
+"What choice does he have, when half the Family now stands with Middle and Stepmother Hera: Artemis, and grubby Hephaistos, and that vixen Hestia, and even thick-skulled Apollo, who used to back dad in every scheme of his, out of sheer natural dullness! Only Athena is holding firm, more or less..."
 
-"Interesting... don't keep me waiting, tell your old uncle the Family's secrets,"---a barely perceptible mockery lurked in the Sovereign's voice. "Who's to blame this time?"
+"Interesting... don't keep me waiting, tell your old uncle the Family's secrets." A barely perceptible hint of mockery lurked in the Sovereign's voice. "Who's to blame this time?"
 
 Hermeias pretended not to notice, and went on:
 
-"The old stumbling block, uncle! Alkeides of Thebes, the Lone Cleaner, daddy's pride and joy!"
+"The old stumbling block, uncle! Alkeides from Thebes, the Lone Cleaner, daddy's pride and joy!"
 
 "And what has he done this time?"
 
-"Nothing!" Trickster burst out. "That's just it---nothing! Five years, and not-a-sin-gle-thing! In Iolkos, Argos the shipwright has laid the keel of a ship, and all the heroes of Hellas are gathering for Kolchis, after the Golden Fleece; even seventeen-year-old Theseus, Poseidon's Cleaner, is going with them... And not just Theseus---among Middle's other sons there's Euphemos, and Erginos; then Boreas's sons Zetes and Kalais, Dionysos's Cleaners Phanos and Staphylos, Augeias Heliad, Ialmenos and Askalaphos Areads, Palaimon Hephaistid, the Dioskouroi, divine Orpheus, and my own Autolykos, and---"
+"Nothing!" Trickster burst out. "That's just it---nothing! Five years, and not-a-sin-gle-thing! In Iolkos, Argos the shipwright has laid the keel of a ship, and all the heroes of Hellas are gathering to sail to Kolchis for the Golden Fleece; even seventeen-year-old Theseus, Poseidon's Cleaner, is going with them... And not just Theseus---among Middle's other sons there are both Euphemos and Erginos; then Boreas's sons Zetes and Kalais, Dionysos's Cleaners Phanos and Staphylos, Augeias Heliad, Ialmenos and Askalaphos Areads, Palaimon Hephaistid, the Dioskouroi, divine Orpheus, and my own Autolykos, and---"
 
 "Stop!" the Sovereign barked. "How many of them are there in all?!"
 
 "Fifty, uncle! If not more by now..."
 
-"Then don't you dare list them all for me! I'm not your aunt Mnemosyne, goddess of memory! Speak plainly!"
+"Then there's no need to list them all for me! I'm not your aunt Mnemosyne, goddess of memory! Get to the point!"
 
-"But I am speaking plainly---Alkeides alone didn't come! They even sent him an invitation---he didn't even trouble himself to answer! He stays silent, and Hellas has forgotten him all the sooner for it. Everyone's got young Troizenian Theseus on their minds, Poseidon's offspring! That boy gets around---slaughtered the Krommyonian Sow, killed off a few giants (I wonder where he found them!), cleared out some bandits, and ruined a whole crowd of girls..."
+"But I am getting to the point: Alkeides is the only one who didn't come! They sent him an invitation, even---and he didn't so much as bother to answer! He stays silent, and Hellas has forgotten him all the sooner for it. Everyone's got young Troizenian Theseus on their minds, Poseidon's offspring! That boy gets around---slaughtered the Krommyonian Sow, killed off a few giants (I wonder where he found them!), cleared out some bandits, and ruined a whole crowd of girls..."
 
 "While Alkeides, not quite twenty-three, sits idle in Thebes and won't so much as poke his nose outside! Is that what you mean, Trickster?"
 
-"Just so, uncle! The Family's abuzz: what kind of Cleaner is this, who performs no feats, wages no wars, moves no mountains---they send him invitations, they practically bow at his feet---and nothing! Trains striplings in the palaestra in Thebes, our godlike one! That's all. People have started saying that it isn't Alkeides who is the Lone Cleaner after all, but rather Theseus of Troizen, Poseidon's boy."
+"Exactly, uncle! The Family's abuzz: what kind of Cleaner is this, who performs no feats, wages no wars, moves no mountains---they send him invitations, they practically bow at his feet---and nothing! Trains striplings in the palaestra in Thebes, our godlike one! That's all. People have started saying that it isn't Alkeides who is the Lone Cleaner after all, but rather Theseus from Troizen, Poseidon's boy."
 
-"And from there it's one step to another thought," the Sovereign said musingly. "Middle's son-Cleaner is a true hero, unlike Junior's son-Cleaner. Zeus has grown weak, worn thin---perhaps it isn't Junior who ought to rule, but Middle?"
+"And from there it's one step to another thought," the Sovereign said musingly. "Middle's Cleaner son is a true hero, unlike Junior's Cleaner son. Zeus has grown weak, worn himself out---perhaps it isn't Junior who ought to rule, but Middle?"
 
 "Yes, uncle. No one says it aloud yet, but they think it. Those who know how to think. Which means soon they'll be saying it---those who know how to talk."
 
@@ -143,29 +143,29 @@ Hermeias pretended not to notice, and went on:
 
 "What do you mean, uncle?"
 
-"The same thing all over again. I've thought long on this, Trickster, I've turned the puzzle this way and that, I've talked with the shades of Cleaners, returning their memory for a time with sacrificial blood---and I think I've understood something."
+"The same thing as before. I've thought long on this, Trickster, I've turned the puzzle this way and that, I've talked with the shades of Cleaners, returning their memory for a time with sacrificial blood---and I think I've understood something."
 
 "What, Sovereign?"
 
 "We, and the Fallen, and the Titans---we're all immortal. We know this. We're convinced we cannot kill one another for good. Those whom men call monsters are kin to us. But... Bellerophon killed the Chimera, and Perseus killed Medusa. Why? Why could a mortal Cleaner destroy a creature sure of its own immortality?! Have you ever seriously thought about that, Hermeias?"
 
-"No, uncle,"---Trickster was plainly at a loss.
+"No, uncle." Trickster was plainly at a loss.
 
-"You should have. Junior sees Cleaners as a new weapon; Hera, someone to persecute; the rest of us, racehorses---prestigious to own, and good to bet on. I, though, tried to understand where their strength lies."
+"You should have. Junior sees Cleaners as a new weapon; Hera, someone to persecute; the others, racehorses---prestigious to own, and good to bet on. I, though, tried to understand where their strength lies."
 
 "And did you?"
 
-"I hope so. A Cleaner, entering battle with a monster, first defeats himself---his fear of death, the dread of mortal flesh that wants to live. And if he manages that---then he puts the death he's cast out into his blows, he infects his immortal opponent with death, the way a touch from a plague-sufferer infects a healthy man; for one instant, mortal and immortal change places! We don't fear death, but a Cleaner forces us to learn it, forces us to grow afraid... and the thought chills me, Trickster!"
+"I hope so. A Cleaner, entering battle with a monster, first defeats himself---his fear of death, the dread of mortal flesh that wants to live. And if he manages that---then he puts that banished death into his blows, he infects his immortal opponent with death, the way a touch from a plague-sufferer infects a healthy man; for one instant, mortal and immortal change places! We don't fear death, but a Cleaner forces us to learn that, forces us to grow afraid... and the thought chills me, Trickster!"
 
 For a while, both were silent.
 
-"You say 'we,' uncle," Hermeias was the first to break the silence. "You don't simply say 'monsters.' That means..."
+"You say 'we,' uncle." Hermeias was the first to break the silence. "You don't simply say 'monsters.' That means..."
 
 "Yes, Hermeias. It means that if a Cleaner is capable of killing a monster, he's capable of killing a god as well. It's a double-edged weapon, and we must understand that, if we mean to use it."
 
 "But the mortal Cleaners are our children, Sovereign!"
 
-"Yes. And the Fallen in Tartaros could have thought their way to the very same conclusion! There's time enough down there for reflection, and Kronos the Timekeeper is no fool, no less than I or Junior. So, having learned the truth behind the deaths of Medusa and the Chimera, it might well have occurred to the Fallen to breed a race of mortal heroes of their own in Tartaros---let's call them, say, Gigantes---who would know themselves to be mortal, and would call the two of us monsters!"
+"Yes. And the Fallen in Tartaros could have thought their way to the very same conclusion! There's time enough down there for reflection, and Kronos the Timekeeper is every bit as clever as I am, or Junior. So once the Fallen learned the truth behind the deaths of Medusa and the Chimera, they might well have hit on the idea of breeding in Tartaros a race of mortal heroes of their own---let's call them, say, Gigantes---who would know themselves to be mortal, and would call the two of us monsters!"
 
 "Meaning?..."
 
@@ -173,19 +173,19 @@ For a while, both were silent.
 
 "But the Fallen, or the Gigantes---they're in Tartaros, uncle, guarded by the Hundred-Handed!"
 
-"Mortal Gigantes would simply walk out of Tartaros. The Hekatoncheires wouldn't even notice them, because mortals supposedly cannot threaten the order the Hundred-Handed guard. And besides, would you undertake to predict what the Hekatoncheires will do? I wouldn't. So the Family could well be dragged into war again, and even if Gaia the Earth can't withstand a fresh slaughter---the Hundred-Handed, this time, won't be able to step in and abandon the Tartaros they guard. And then the question for the Family will stand like this: not victory or defeat, but life or death. As it was for Medusa and the Chimera. But then again..."
+"Mortal Gigantes would simply walk out of Tartaros. The Hekatoncheires wouldn't even notice them, because mortals supposedly cannot threaten the order the Hundred-Handed guard. And besides, would you undertake to predict what the Hekatoncheires will do? I wouldn't. So the Family could well be dragged into war again, and even if Gaia the Earth can't withstand a fresh slaughter, the Hundred-Handed, this time, won't be able to step in and abandon the Tartaros they guard. And then, for the Family, the question will no longer be victory or defeat, but life or death. As it was for Medusa and the Chimera. But perhaps..."
 
-"Then again, what?"
+"Perhaps what?"
 
-"Anything's possible, Hermeias. And it's also possible that I'm wrong. A child can also see a bogeyman in a chiton hung out to dry."
+"Perhaps anything, Hermeias. And perhaps I'm simply wrong. A child, too, can see a bogeyman in a chiton hung out to dry."
 
 "Then we must find out, Sovereign. We know what Alkeides's fits are truly connected to---which means one of the Tartaros-Possessed is in Thebes, or nearby. If we find him and question him, if we take him alive..."
 
-"Not alive. I prefer to question the dead---they're more honest. But you're right, Hermeias. I only wanted you to say it aloud yourself. That Alkeides has had no fits right now means nothing. If Junior drives his Cleaner toward feats, the Fallen will return the favor."
+"Not alive. I prefer to question the dead---they're more honest. But you're right, Hermeias. I only wanted you to say it aloud yourself. The fact that Alkeides hasn't had any fits lately means nothing. If Junior drives his Cleaner toward feats, the Fallen will return the favor."
 
 "Well then, let the brothers go and find the Possessed one for us!"
 
-"You disappoint me, Trickster. Even if Alkeides picks up the trail of the cult of the Fallen, the Possessed need only make him a human sacrifice and the search will be the last thing on Alkeides's mind."
+"You disappoint me, Trickster. Even if Alkeides picks up the trail of the cult of the Fallen, the Possessed need only offer a human sacrifice to him and the search will be the last thing on Alkeides's mind."
 
 "Well, then I could try---"
 
@@ -219,7 +219,7 @@ And in mournful echo:
 
 "Whose body will he be able to take, without going mad?"
 
-"A child's body. Big enough to be free in his actions; and small enough to overcome the unformed soul and become sole master of the body."
+"A child's body. Old enough to act freely; and young enough to kill the unformed soul and become sole master of the body."
 
 "Which child?"
 
@@ -227,16 +227,16 @@ And in mournful echo:
 
 "You're cruel, uncle."
 
-"Me? No. I'm reasonable. And Amphitryon will nearly jump out of his skin trying to find out who's driving Alkeides mad."
+"Me? No. I'm prudent. And Amphitryon will tear himself apart trying to find out who's driving Alkeides mad."
 
-"More likely he'll flay the skin off the Possessed one instead..."
+"More likely he'll tear the Possessed one apart instead..."
 
 "That would suit me perfectly well."
 
-"Sovereign, I know Amphitryon. Believe me, he's no less... reasonable than you are, and no less proud than Junior, besides."
+"Sovereign, I know Amphitryon. Believe me, he's no less... prudent than you are, and no less proud than Junior, besides."
 
-"Don't worry. Proud or reasonable, he's mortal. And he'll know that the Isles"---a note of mockery crept into the Sovereign's voice---"the Isles of the Blessed are always ready to take him back. Besides, our interests largely coincide, so your Amphitryon will work not out of fear, but for conscience's sake."
+"Don't worry. Proud or prudent, he's mortal. And he'll know that the Isles"---a note of mockery crept into the Sovereign's voice---"the Isles of the Blessed are always ready to take him back. Besides, our interests largely coincide, so your Amphitryon will work not out of fear, but out of conviction."
 
-"Out of fear---I doubt it. But for conscience's sake... Shall I fly off for him, to the Isles, uncle?"
+"Out of fear---I doubt it. But out of conviction... Shall I fly to the Isles and fetch him, uncle?"
 
 The Sovereign nodded without a word, and light-footed Hermeias vanished instantly into the thickening crimson gloom.
