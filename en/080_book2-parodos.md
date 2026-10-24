@@ -124,7 +124,7 @@ The gray streak of hair fell across Enyalios's brow again, but this time he didn
 
 Hermeias didn't doubt for a moment whom Ares meant, though the Trickster himself put rather more into that "them" than his companion did.
 
-"Tell them to keep their heads down. Quiet as mice, and lie low! And none of these... labors. If Apollo, on top of everything else..."
+"Tell them to keep their heads down. Quiet as mice! And none of these... labors. If Apollo, on top of everything else..."
 
 Ares put on his helmet and stepped forward.
 
