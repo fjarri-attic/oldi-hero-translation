@@ -468,7 +468,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Женишок | Bridegroom | Mocking nickname the Delphic priestesses give Herakles during his madness, before "Геракл" settles as his name; used without an article, cf. Пустышка/Dummy (ch. 076). For now we choose to ignore the diminutive of the original, since it's hard to translate to English without resorting to an epithet "little" which is already overused. |
 | Любимчик Геры | Hera's Favorite | Paired nickname alongside Женишок/Bridegroom (ch. 076) |
 | Златообутая Гера | Gold-Sandaled Hera | Homeric-style epithet of Hera; capitalized to match the original (ch. 076) |
-| Отмеченный Герой | the Marked Hero | Epithet used for Herakles at Delphi, playing on the folk etymology of his name as "marked"/claimed by Hera (ch. 076) |
+| Отмеченный Герой | Marked by Hera | Epithet used for Herakles at Delphi (ch. 076) |
 | Фрасибул | Thrasyboulos | Elderly Delphic temple worker (ch. 076) |
 | Сфенелид | Sthenelid | Patronymic epithet, "son of Sthenelos," applied to Eurystheus ("Эврисфей Сфенелид"); elsewhere rendered descriptively as "Eurystheus, Sthenelos's son" (ch. 075) (ch. 076) |
 | Медуза | Medusa | Gorgon slain by Perseus; cf. Пегас/Pegasos, Хрисаор/Chrysaor, her children, and Горгоноубийца/Gorgon-Slayer, Perseus's epithet (ch. 076) |
