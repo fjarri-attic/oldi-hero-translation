@@ -79,7 +79,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Арей-Неистовый | Ares the Furious | An epithet of Ares. |
 | Арей-изгой | Ares the outcast | An epithet of Ares. |
 | Арей-Убийца | Ares the Killer | An epithet of Ares. |
-| Арей-Боязливый | Ares the Frightful | An epithet of Ares. |
+| Арей-Боязливый | Ares the Fearful | An epithet of Ares. |
 | Афина | Athena |  |
 | Тритогенейя | Tritogeneia | An epithet of Athena (transliterated). |
 | Защитница Городов | Defender of Cities | An epithet of Athena. |
