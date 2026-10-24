@@ -240,18 +240,8 @@ Eurystheus refused to count two of Herakles's labors---the Lernaian Hydra and th
 
 * * *
 
-{#fn-apollodorus .footnote}
-All but the last paragraph are quoted from (Pseudo-)Apollodorus, *The Library*, translation by James G. Frazer (1921). The last paragraph is paraphrased from Apollonius, *The Argonautica*. [TN]
-
-* * *
-
 {#fn-pushkin .footnote}
 *This tale is a fib...*: the original quotes A. S. Pushkin, *The tale of the golden rooster*; here we use the translation by Vladimir Gurvich. The quote continues as "... and yet, / Lessons can be learned from that.", which is a connection every Russian speaker immediately makes. [TN]
-
-* * *
-
-{#fn-odyssey-1 .footnote}
-This and the previous stanza quoted from Homer, *Odyssey*, translation by William Cullen Bryant (1873). [TN]
 
 * * *
 
@@ -445,11 +435,6 @@ To clean the Augean stables, Herakles dammed the rivers Alpheios and Peneios, an
 
 * * *
 
-{#fn-odyssey-2 .footnote}
-Quoted from Homer, *Odyssey*, translation by William Cullen Bryant (1873). The last four lines added by the authors. [TN]
-
-* * *
-
 {#fn-82 .footnote}
 *The Island of Pelops*: the Peloponnese.
 
@@ -467,13 +452,3 @@ In single combat for the right to become Deianeira's husband, Herakles defeated 
 
 {#fn-85 .footnote}
 *Protesilaos*: Gk. "Iolaos the First" and at the same time "First of the People", son of Iphikles, basileus of Phylake, would go down in the history of the Trojan War as the warrior who was the first to fall at Troy. Although after his death, unlike other dead men, he appears (accompanied by Hermeias) to his wife Laodameia and talks with her---and Laodameia vanishes from Phylake, having staged her own suicide.
-
-* * *
-
-{#fn-odyssey-3 .footnote}
-Quoted from Homer, *Odyssey*, translation by William Cullen Bryant (1873). [TN]
-
-* * *
-
-{#fn-banquet .footnote}
-Quoted from Athenaeus of Naucratis, *The Deipnosophists; or, Banquet of the Learned of Athenaeus* (who in turn quotes Xenophanes), translation by Charles Duke Yonge (1854). [TN]

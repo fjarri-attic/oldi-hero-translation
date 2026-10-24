@@ -48,7 +48,7 @@ Such as his memory and taste suggests,---[]{.linebreak}
 Who lays down rules, and tells fine tales of virtue;[]{.linebreak}
 Not raking up the old Titanic fables,[]{.linebreak}
 Wars of the Giants, or the Lapithae,[]{.linebreak}
-Figments of ancient times, mere pleasing trifles...[\*](#fn-banquet){.noteref}
+Figments of ancient times, mere pleasing trifles...
 :::
 
 "Figments of ancient times," the Sovereign repeated thoughtfully. "We're becoming figments, Trickster."
