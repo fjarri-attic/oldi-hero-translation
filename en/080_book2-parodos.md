@@ -112,7 +112,7 @@ Such a long pause set in that even Helios in the sky seemed to rein in his horse
 
 "You know, Ares," Hermeias spoke first, carefully choosing his words, "I think I... about you... in a way..."
 
-"Was badly mistaken," Ares finished with a bitter smile. "Never mind, Trickster, now we're even! I always believed I knew no fright except my own son Phobos... but you went scouting to Phlegra, and I didn't have the nerve. So I expect Hermeias the Simpleton and Ares the Fearful can come to terms! At least for a time."
+"Was badly mistaken," Ares finished with a bitter smile. "Never mind, Trickster, now we're even! I always believed I knew no dread except my own son Deimos... but you went scouting to Phlegra, and I didn't have the nerve. So I expect Hermeias the Simpleton and Ares the Fearful can come to terms! At least for a time."
 
 "And do we have it---that time? What do you say, Ares?"
 
