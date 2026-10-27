@@ -618,6 +618,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Кайстр | the Kaystros | River in Lydia/Maionia |
 | Мелеагр-Неуязвимый | Meleagros the Invulnerable | Paired epithet of Meleagros, one of the heroes gathered for the Kalydonian Hunt (ch. 097) |
 | Амфиарай-прорицатель | Amphiaraos the seer | Paired epithet of Amphiaraos of Argos, one of the heroes gathered for the Kalydonian Hunt (ch. 097) |
+| Амфиарай-Вещий | Amphiaraos the Soothsayer |  |
 | Пиритой | Peirithoos | One of the heroes gathered for the Kalydonian Hunt, mockingly called "the fop" (ch. 097) |
 | Аталанта-девственница | Atalante the Virgin | Paired epithet of Atalante, one of the heroes gathered for the Kalydonian Hunt (ch. 097) |
 | Калидон / Калидонская охота | Kalydon / the Kalydonian Hunt | The town and the mythological boar hunt taking place there (ch. 097) |
