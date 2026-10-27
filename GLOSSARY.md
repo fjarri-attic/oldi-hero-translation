@@ -630,15 +630,15 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Эпидавр | Epidauros | One of the future centers of the cult of Asklepios, named in the same endnote as Пергам/Pergamon and Кос/Kos (ch. 097) |
 | Кос | Kos | Island, one of the future centers of the cult of Asklepios, named in the same endnote as Пергам/Pergamon and Эпидавр/Epidauros (ch. 097) |
 | Теламон | Telamon | Peleus's brother, Argonaut, second in strength only to Herakles; called "Теламон-здоровяк"/Telamon the Strongman (ch. 098) |
-| Теламон-здоровяк | Telamon the Strongman | Paired epithet of Telamon (ch. 098) |
-| Язон | Jason | Leader of the Argonauts, described here as "несчастный скиталец" / "the wretched wanderer" who lost wife, children, and homeland (ch. 098) |
-| Тезей-изгнанник | Theseus the Exile | Paired epithet of Theseus, referring to his banishment from Athens by Menestheus; cf. Тезей-афинянин/Theseus the Athenian (ch. 081) (ch. 098) |
+| Теламон-здоровяк | Telamon the strongman | Paired epithet of Telamon |
+| Язон | Jason | Leader of the Argonauts |
+| Тезей-изгнанник | Theseus the exile | Paired epithet of Theseus |
 | Менестей | Menestheus | Mycenaean-backed demagogue who replaced Theseus as ruler of Athens (ch. 098) |
-| Аталанта-охотница | Atalante the Huntress | Paired epithet of Atalante, distinct from Аталанта-девственница/Atalante the Virgin (ch. 097)---the authors use both epithets for the same character (ch. 098) |
-| Линкей-остроглаз | Lynkeus the Sharp-eyed | Paired epithet of Lynkeus, one of the Apharetids; cf. Идас Афарид/Idas Apharetid (ch. 098) |
+| Аталанта-охотница | Atalante the huntress | Paired epithet of Atalante |
+| Линкей-остроглаз | Lynkeus the sharp-eyed | Paired epithet of Lynkeus |
 | Афарид (мн. Афариды) | Apharetid (pl. Apharetids) | Idas and Lynkeus, sons of Aphareus; cf. Идас Афарид/Idas Apharetid (ch. 098) |
 | Оиклей | Oikles | Son of Amphiaraos the seer (ch. 098) |
-| Акаст-аргонавт | Akastos the Argonaut | Paired epithet of Akastos, basileus of Iolkos; cf. established Акаст/Akastos (ch. 089) (ch. 098) |
+| Акаст-аргонавт | Akastos the Argonaut | Paired epithet of Akastos |
 | мирмидонцы | Myrmidons | Telamon's three hundred warriors (ch. 098) |
 | ионийцы | Ionians | Theseus's professional soldiers who left Attike (ch. 098) |
 | панахейский | pan-Achaian | Oldi's coinage, "all-Achaian"; kept hyphenated per standard English usage (ch. 098) |
