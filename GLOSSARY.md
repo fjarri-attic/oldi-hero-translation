@@ -818,3 +818,5 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Эакид | Aiakid | Patronymic epithet, "son of Aiakos" |
 | Главк | Glaukos | A sea-god. |
 | Молиониды | Molionids | Conjoined twin sons of Molione and Geryon |
+| Фокея | Phokaia | Ionian port on the Aegean coast near Lydia/Maionia; not to be confused with Фокида / Phokis |
+| юноша-бог | the youthful god | Descriptive reference to Hermeias; distinct from юный бог / young god |
