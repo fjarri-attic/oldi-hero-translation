@@ -69,7 +69,7 @@ Two hazy silhouettes, two shades... no, shades have no place here---they should 
 
 "Remember, I wasn't yet born then; I saw the Fallen only in the days of the Titanomachy. They were varied, Hermeias... varied. But all of them overflowed with the light and flame their incinerated strongholds had become on the Terrible Day of Exile. As for now... I don't know what they've become in Tartaros. The Fallen had already begun to change even then---the worlds of Gaia were foreign to them, as they were foreign to Mother Earth. By then they had little command even over their own forms, and they kept shifting, mixing light and darkness, beauty and horror together...
 
-"Miracles were becoming monsters. Some of the monsters still living today are descendants of the Fallen... though don't go turning your nose up, Hermeias: others are our own offspring."
+"Marvels were becoming monsters. Some of the monsters still living today are descendants of the Fallen... though don't go turning your nose up, Hermeias: others are our own offspring."
 
 "Don't change the subject, uncle," Hermeias said sharply. "What happened next?"
 

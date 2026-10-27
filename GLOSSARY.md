@@ -261,7 +261,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | герма (мн. гермы) | herma (pl. hermai) | Roadside boundary post topped with a carved head, sacred to Hermes; footnoted on first occurrence |
 | Бог-Покровитель | Patron God |  |
 | фибула | fibula | Clothing pin/clasp |
-| Силен | Silenos | Old satyr, tutor and companion of Dionysos |
+| Силен | Silenos | Old satyr, teacher and companion of Dionysos |
 | Дриопа | Dryope | Nymph, daughter of the Dryopian tribe; mother of Pan by Hermes and of Amphissos by Andraimon |
 | Андремон | Andraimon | Dryope's mortal husband |
 | Амфис | Amphissos | Son of Dryope and Andraimon |
