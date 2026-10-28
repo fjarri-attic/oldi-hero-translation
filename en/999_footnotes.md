@@ -31,7 +31,7 @@
 * * *
 
 {#fn-7 .footnote}
-*Lapiths:* one of the tribes descended from the Titans; the tree people.
+*Lapiths*: one of the tribes descended from the Titans; the tree people.
 
 * * *
 
