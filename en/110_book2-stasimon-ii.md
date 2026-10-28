@@ -2,9 +2,9 @@
 
 ...The smoky gloom of galleries leading somewhere down below.
 
-There is almost no light, but the man senses the way by some sixth sense and keeps descending into the murk that parts before him and closes again at once behind his back.
+There is almost no light, but the man finds his way by some sixth sense and keeps descending into the murk that parts before him and closes again at once behind his back.
 
-The damp air carries a faint hint of mold, and the man suddenly remembers the Cretan Labyrinth. The same bizarre weave of galleries cut through the body of porous stone, the same smoky twilight---and the same smell of mold. Only there it smelled of mold far stronger.
+The damp air carries a faint hint of mold, and the man suddenly remembers the Cretan Labyrinth. The same bizarre weave of galleries cut through the body of porous stone, the same smoky twilight---and the same smell of mold. Only there the smell of mold was far stronger.
 
 And of blood, too.
 
@@ -14,9 +14,9 @@ Out of the whimpering darkness, wrenched free by a ray of light from who knows w
 
 The door stands slightly ajar.
 
-It is from there that the warm dampness and mold are drifting.
+It is from there that the smell of warm dampness and mold comes drifting.
 
-The man understands that he must not go in. The door will be opened from the other side.
+The man understands that he need not go in. The door will be opened from the other side.
 
 And the instant this thought flickers through his mind---the door begins to open, slowly, with a strained creak. It opens, the smell of mold grows stronger, and the man stands and watches.
 
@@ -24,11 +24,11 @@ The door, however, never opens all the way, sticking somewhere halfway. There, b
 
 No, not old---ancient.
 
-But the dweller of that side does not show himself---either he cannot fit through the doorway, or he has no intention of doing so...
+But whoever dwells on that side does not show himself---either he cannot fit through the doorway, or he has no intention of doing so...
 
-[Or maybe he's ashamed of how he looks,]{.thoughts} the man suddenly thought. And this guess seemed to him closer to the truth than all the others. Though, perhaps, some other word would fit better here than "ashamed," but the man is no great hand at choosing words.
+[Or maybe he's ashamed of how he looks,]{.thoughts} the man suddenly thought. And this guess seemed to him closer to the truth than all the others. Then again, perhaps some other word would fit better here than "ashamed," but the man is no great hand at choosing words.
 
-And then, from behind the door, a voice sounded. A quiet, weary voice belonging to a lord who had renounced his throne of his own will, worn down by rebellions and intrigues, by victories and defeats, who would have liked to be born again as someone else---but that was beyond his power.
+And then, from behind the door, a voice sounded. The quiet, weary voice of a lord who renounced his throne of his own will, who is worn down by rebellions and intrigues, by victories and defeats, who would like to be born again as someone else---but that is beyond his power.
 
 That was the kind of voice it was.
 
@@ -50,13 +50,13 @@ The man named Herakles understands: yes, it is true. The voice from *that* side 
 
 "Master of Time?"
 
-"Former. Because where I am now, there is no time, and I have nothing to master."
+"Former. Because where I am now, there is no time, and I am master of nothing."
 
 "Then what is there?"
 
-"There is me. And others like me. The Fallen."
+"Here there's me. And others like me. The Fallen."
 
-"And it's you who's been driving me mad for four decades straight, making me kill the innocent?!"
+"And it's all of you who have been driving me mad for four decades straight, making me kill the innocent?!"
 
 It seems that Herakles will not be able to bear it, that he will kick the plank door off its hinges and walk in there, where there is nothing, not even time, but where, all the same, something exists.
 
@@ -66,21 +66,21 @@ Walk in, to take the Fallen by the throat.
 
 "Yes. And I never tire of rejoicing over it."
 
-"Hear me out, and don't interrupt. You turned out to be a failed attempt both for us and for the Olympians. You, as a person, were never taken into account by anyone. In his time, my son Zeus was the first to make a brilliant discovery: he understood that you, mortals, could be used---and he used you. But neither the Family nor the Fallen ever regarded you as an independent force, as a possible ally or opponent... Sacrifices to the Olympian gods, sacrifices to the Fallen in Tartaros---that was all that was ever required of you."
+"Hear me out, and don't interrupt. You turned out to be a failed attempt both for us and for the Olympians. You, as a person, were never taken into account by anyone. In his time, my son Zeus was the first to make a brilliant discovery: he understood that you humans could be used---and he used you. But neither the Family nor the Fallen ever regarded you as an independent force, as a possible ally or opponent... Sacrifices to the Olympian gods, sacrifices to the Fallen in Tartaros---that was all that was ever required of you."
 
 "Human sacrifices," Herakles adds quietly.
 
-"Human ones too," Kronos agrees. "But understand: we never considered you our equals! After all, do men torment themselves with pangs of conscience when they cut down stalks of wheat, or slaughter a ram?! It has nothing to do with us; it is so, and will remain so, whether we wish it or not."
+"Human ones too," Kronos agrees. "But understand: we never considered you our equals! After all, do humans feel pangs of conscience when they cut down stalks of wheat, or slaughter a ram?! It is not up to us; it is so, and will remain so, whether we wish it or not."
 
 Herakles is silent.
 
-"Well then," he says at last, "if it has nothing to do with you, then it has everything to do with us, with mortals. For it is we, not the gods and the Fallen, who sacrifice one another. But the stream of sacrificial blood flowing from our veins has run far shallower these last years---do you feel it, Kronos the Fallen, my forefather?! I tried very hard... And I hope that a day will come when mortals stop dying on the altars."
+"Well then," he says at last, "if it is not up to you, then first of all it is up to us humans. For it is we, not the gods or the Fallen, who sacrifice one another. But the stream of sacrificial blood flowing from our veins has run far shallower these last years---do you feel it, Kronos the Fallen, my forefather?! I tried very hard... And I hope that a day will come when humans stop dying on the altars."
 
-"Perhaps. Or perhaps not. In any case, I will hope along with you."
+"Perhaps. Or perhaps not. In any case, I will hope together with you."
 
 "You?! Together with me?! After you gave the order to create the Gigantes, and I shot them down at Phlegra?!"
 
-"Answer me, Herakles---do you know what those unfortunate children the Achaians called the Gigantes were meant for?"
+"Answer me, Herakles---do you know what they were meant for, those unfortunate children whom the Achaians named the Gigantes?"
 
 "They were meant to destroy the Family. To sacrifice it to themselves. I know that."
 
@@ -88,39 +88,39 @@ Herakles is silent.
 
 Herakles is silent.
 
-"The disintegrating 'I' of the Olympians would have entered the unripened Gigantes---and torn their souls apart, the way a hatching butterfly tears its cocoon, or a fledgling cracks the shell of its egg."
+"The disintegrating 'I' of the Olympians would have entered the unripe Gigantes---and torn their souls apart, the way an emerging butterfly tears its cocoon, or a fledgling cracks the shell of its egg."
 
 "And... who was meant to be born?"
 
-"We, the Fallen. Unable to break free of Tartaros in the form in which we now exist, we hoped to emerge through the Gigantes---for it is hard to imagine a greater sacrifice than an Olympian god offered up to the Fallen! And the force thus released was meant not only to extinguish the Gigantes' consciousness, but for a moment to open a new Dromos between Tartaros and Phlegra, which were in any case already joined by an invisible umbilical cord."
+"We, the Fallen. Unable to break free of Tartaros in the form in which we now exist, we hoped to emerge through the Gigantes---for it is hard to imagine a greater sacrifice than an Olympian god offered up to the Fallen! And the force thus released was meant not only to extinguish the Gigantes' consciousness, but also to open, for a moment, a new Dromos between Tartaros and Phlegra, which were in any case already joined by an invisible umbilical cord."
 
 A pause.
 
-"We hoped," rustles out of the murk, "we hoped very much that we would manage to take shape in our descendants, brimming with the power of the great sacrifice. But you, Herakles, our first failed attempt, a mortal, a Cleaner---you kept us from returning and taking the Olympians' place. And I am grateful to you for it."
+"We hoped," rustles out of the murk, "we hoped very much that we would manage to become incarnate in our descendants, brimming with the power of the great sacrifice. But you, Herakles, our first failed attempt, a mortal, a Cleaner---you kept us from returning and taking the Olympians' place. And I am grateful to you for it."
 
 "Grateful? For leaving you in Tartaros?!"
 
-"Yes. I, Kronos the Fallen, am grateful to Herakles. I have understood a great deal in this recent time---time that does not exist here, but that has not yet forgotten the days when I ruled over it... Do you remember, I told you that we regarded you the way you regard a wheat field, or a herd being fattened for slaughter? But would you ever speak with an ear of wheat, or a witless ram?! Would I have spoken with you at all, if I had not changed my opinion?"
+"Yes. I, Kronos the Fallen, am grateful to Herakles. I have come to understand a great deal in the time just past---time that does not exist here, but that has not yet forgotten the days when I ruled over it... Do you remember, I told you that we regarded you the way you regard a wheat field, or a herd being fattened for slaughter? But would you ever speak with an ear of wheat, or a witless ram?! Would I have spoken with you at all, if I had not changed my opinion?"
 
-"And what is it now, your opinion?" Herakles's voice sounds faintly mocking, but Kronos does not notice it.
+"And what is your opinion now?" Herakles's voice sounds faintly mocking, but Kronos does not notice it.
 
 Or pretends not to.
 
-"I think that you, mortals, are a third force, a new race, worthy of taking your place on Gaia. The Family is on Olympos, the Fallen are in Tartaros, and you live and die on Earth, so that it is you who are its true masters. But even among the Fallen, few agree with me; so what is there to say of the Olympians?! No good comes from the jealous Family..."
+"I think that you humans are a third force, a new race, worthy of taking your place on Gaia. The Family is on Olympos, the Fallen are in Tartaros, and you live and die on Earth, so that it is you who are its true masters. But even among the Fallen, few agree with me; so what can be said of the Olympians?! No good comes from the jealous Family..."
 
-"I don't expect any," Herakles throws back menacingly. "Not from the Family, and not from you."
+"I don't expect any," Herakles retorts menacingly. "Not from the Family, and not from you."
 
-"That's right. But we are far away. The Olympians are closer. And they think faster. Not always, but---often enough. It was their idea, after all---mortal Cleaners, half-men capable of killing beings like us for good... In creating the Gigantes, we merely borrowed the Family's idea. What's more, being in Tartaros gives us certain advantages---no Herakles could ever reach us there to put an end to the Fallen! But upon breaking free, we, in whom everything has burned away save the thirst for vengeance and freedom (but vengeance first of all)---oh, we would most certainly upset any balance! I fear that even the Hundred-Handed could do little to help the world then---and I am, after all, a son of Mother Gaia, and I do not wish so savage a fate upon her."
+"That's right. But we are far away. The Olympians are closer. And they think faster. Not always, but---often enough. It was their idea, after all---mortal Cleaners, half-men capable of killing beings like us for good... In creating the Gigantes, we merely borrowed the Family's idea. What's more, being in Tartaros gives us certain advantages---no Herakles could ever reach us here to put an end to the Fallen! But upon breaking free, we, in whom everything has burned away save the thirst for vengeance and freedom (but vengeance first of all)---oh, we would most certainly upset any balance! I fear that even the Hundred-Handed could do little to help the world then---and I am, after all, a son of Mother Gaia, and I do not wish so savage a fate upon her."
 
 The door creaked, trembled... and stayed where it was.
 
 "Let everything remain as it is," Kronos goes on. "We will wait. We know how to wait. Tell me, Herakles---do you remember a certain Attam[\*](#fn-74){.noteref}, whom you kept from sacrificing his own son to a god?"
 
-"I remember," Herakles smiles. "I had to give the long-bearded stubborn old fool a good pounding before he agreed to replace the boy with a ram."
+"I do." Herakles smiles. "I had to give the stubborn old longbeard a good pounding before he agreed to replace the boy with a ram."
 
-"And which god did this stubborn Attam worship?" Kronos asks, insinuatingly.
+"And which god did this stubborn Attam worship?" Kronos asks insinuatingly.
 
-"Did I have time to ask?!" Herakles is puzzled. "Dias, I suppose, Zeus... who else would it be?!"
+"As if I had time to ask!" Herakles is puzzled. "Dias, I suppose, Zeus... who else would it be?!"
 
 "Dias," Kronos pronounces slowly and distinctly, stressing every sound, "Deus[\*](#fn-75){.noteref}... no, my child, this Attam did not worship Zeus, but an altogether different god. Attam's people call this God by many names, but that is not what matters."
 
@@ -130,29 +130,29 @@ The door creaked, trembled... and stayed where it was.
 
 "The One?"
 
-"Yes. He is already here, on Gaia. Twice have the Fallen been right---He is cramped within Himself."
+"Yes. He is already here, on Gaia. The Fallen were right twice over---He is cramped within Himself."
 
-"Who is he, this One?"
+"Who is this One?"
 
-"It would take long to explain. And there is no need. I will only say that every god must, without fail, have an adversary. We, the Fallen, are the Olympians' eternal adversaries. Two extremes. You, mortals, stand in the middle. If the One takes the Family's place, whatever he may be called---we, the Fallen, will not go anywhere. We will remain, as before, in the Netherworld, in the lowest depths of Hell[\*](#fn-76){.noteref}. And you, mortals, will remain on Gaia as well. You will believe in the One; and, therefore, in us too. No, we will not go hungry... and perhaps, thanks to us and to mortals, Gaia will not end up the One's slut."
+"It would take a long time to explain. And there is no need. I will only say that every god must, without fail, have an adversary. We, the Fallen, are the Olympians' eternal adversaries. Two extremes. You humans stand in the middle. If the One takes the Family's place, whatever he may be called---we, the Fallen, will not go anywhere. We will remain, as before, in the Netherworld, in the lowest depths of Hell[\*](#fn-76){.noteref}. And you humans will remain on Gaia as well. You will believe in the One; and, therefore, in us too. No, we will not go hungry... and perhaps, thanks to us and to humans, Gaia will not end up the One's slut."
 
-"Isn't it a bit early to be counting mortals among your allies, Kronos the Fallen?"
+"Isn't it a bit early to be counting humans among your allies, Kronos the Fallen?"
 
-"Perhaps. Perhaps mortals will find yet another path, where there will be room for neither us, nor the Family, nor the One... And the earnest of that is the myth of Herakles. Of the mortal who crushed monsters and Gigantes; of the one who gave way to no god, and without whom the Olympians would have been powerless before those who came from the Netherworld. Whether you ascend to Olympos or simply die---I wish this myth a long and happy life. And now..."
+"Perhaps. Perhaps humans will find yet another path, where there will be room for neither us, nor the Family, nor the One... And the pledge of that is the myth of Herakles. Of the mortal who crushed monsters and Gigantes; of the one who gave way to no god, and without whom the Olympians would have been powerless before those who came from the Netherworld. Whether you ascend to Olympos or simply die---I wish this myth a long and happy life. And now..."
 
 Kronos falls silent for a long while.
 
 "And now, the last thing. Your life will not end tomorrow, and there will surely be days in it when it becomes a burden, when you will want not to live, not to know, not to remember..."
 
-"There have already been not a few such days in my life," Herakles grinds out through his teeth.
+"There have already been many such days in my life," Herakles grits out.
 
-"Well then, I, Kronos the Fallen, your forefather, wish to give you a parting gift. I have nothing material to give you; I cannot increase your strength, or lengthen your life, or grant you glory or riches... My element is time. It's true that, being in Tartaros, and partly within you, I have no power over time outside. But I can give you dominion over your own time, over the moments of your memory. And when the black day comes---choose any moment from your past life, and you will be able, in your mind, to return to it, to live it again, to feel it in its fullness...
+"Well then, I, Kronos the Fallen, your forefather, wish to give you a parting gift. I have nothing material to give you; I cannot increase your strength, or lengthen your life, or grant you glory or riches... My element is time. True, being in Tartaros, and partly within you, I have no power over time outside. But I can give you dominion over your own time, over the moments of your memory. And when the black day comes---choose any moment from your past life, and you will be able, in your mind, to return to it, to live it again, to feel it in its fullness...
 
-"No doubt those around you will take you for a madman. But would that be new to you? All the more so since this madness will be harmless. My gift will from now on always be within you, and you will be able to use it whenever you wish.
+"No doubt those around you will take you for a madman. But would that be new to you? Besides, this madness will be harmless. My gift will from now on always be within you, and you will be able to use it whenever you wish.
 
 "*Both* of you will be able to.
 
-"But under no circumstances---do you hear me?!---never go into the same moment of your life together at once! Otherwise trouble may come of it.
+"But never---do you hear me?!---never go into the same moment of your life both at the same time! Otherwise trouble may come of it.
 
 "And now---farewell.
 
