@@ -85,7 +85,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Защитница Городов | Defender of Cities | An epithet of Athena. |
 | Промахос | Promachos | An epithet of Athena. |
 | Воительница | Warrior | An epithet of Athena. |
-| Паллада | Pallas | An epithet of Athena. |
+| Афина Паллада | Pallas Athena | A dual name of Athena. |
 | Алалкомена | Alalkomeneis | An epithet of Athena (transliterated). |
 | Гера | Hera | Zeus's wife. |
 | златообутая Гера | gold-sandaled Hera | An epithet of Hera. |
