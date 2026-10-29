@@ -61,7 +61,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Аполлон Ликейский | Apollo Lykeios | An epithet of Apollo (transliterated). |
 | солнцеликий Аполлон | sun-faced Apollo | An epithet of Apollo. |
 | Стрелок | Archer | An epithet of Apollo. |
-| Феб-Аполлон | Phoibos-Apollo | Paired name form of Apollo. |
+| Феб-Аполлон | Phoibos Apollo | Dual name of Apollo. |
 | Феб-Сверкающий | [...] the Radiant | An epithet of Phoibos. |
 | cребролукий Аполлон | silver-bowed Apollo | An epithet of Apollo. |
 | Аполлон-Тюрайос | Apollo Thyraios | An epithet of Apollo (transliterated). |
@@ -75,7 +75,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Арей Неукротимый | Ares the Untamable | An epithet of Ares. |
 | шлемоблещущий Арей | helm-flashing Ares | An epithet of Ares. |
 | Арей Одинокий | Ares the Lonely | An epithet of Ares. |
-| Эниалий | Enyalios | An epithet of Ares (transliterated). |
+| Эниалий | Enyalios | A dual name of Ares (transliterated). |
 | Арей-Неистовый | Ares the Furious | An epithet of Ares. |
 | Арей-изгой | Ares the outcast | An epithet of Ares. |
 | Арей-Убийца | Ares the Killer | An epithet of Ares. |
