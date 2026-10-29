@@ -769,7 +769,7 @@ Settled English renderings of names, places, epithets, and terms (including the 
 | Несс / Несс-перевозчик / кентавр-перевозчик | Nessos / Nessos the ferryman / the centaur-ferryman | Centaur ferrying travelers across the Euenos, killed by Herakles (ch. 126) |
 | конечеловек | horse-man | Descriptive term for a centaur (ch. 126) |
 | лернейская желчь | Lernaian bile | The Hydra's venom on Herakles's arrows (ch. 126) |
-| Эрот | Eros | "Клянусь малюткой Эротом" → "By little Eros" (ch. 126) |
+| Эрот | Eros |  |
 | Гилл, Ктесипп, Глен, Онит | Hyllos, Ktesippos, Glenos, Onites | Deianeira's four sons by Herakles; standard mythological names (ch. 127) |
 | Макария | Makaria | Deianeira's daughter by Herakles (ch. 127) |
 | многомудрый | much-wise | Ironic epithet ("многомудрый Иолай"/"much-wise Iolaos"); established for Iobates in ch. 049, not previously logged (ch. 049/127) |
