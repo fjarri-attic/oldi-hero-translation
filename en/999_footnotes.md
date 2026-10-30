@@ -11,7 +11,7 @@
 * * *
 
 {#fn-3 .footnote}
-*Thanatos*: the Death, the twin brother of Hypnos the Sleep, a son of Nyx the Night.
+*Thanatos*: Death, the twin brother of Hypnos the Sleep, a son of Nyx the Night.
 
 * * *
 
@@ -31,7 +31,7 @@
 * * *
 
 {#fn-7 .footnote}
-*Lapiths*: one of the tribes descended from the Titans; the tree people.
+*Lapiths*: one of the degenerate tribes of Titan stock; tree-people.
 
 * * *
 
@@ -41,12 +41,12 @@
 * * *
 
 {#fn-thalamos .footnote}
-*Thalamos*: the private chambers, master bedroom. The original uses an antiquated Russian word with the same meaning. [TN]
+*Thalamos*: the private chambers, master bedroom. The original uses an antiquated Russian word with the same meaning.---Trans.
 
 * * *
 
 {#fn-kline .footnote}
-*Kline*: ancient Greek furniture, served as a bed or a couch. The original uses an antiquated Russian word with a similar meaning of "something to lie on". [TN]
+*Kline*: a piece of ancient Greek furniture that served as a bed or a couch. The original uses an antiquated Russian word whose meaning is roughly "something to lie on."---Trans.
 
 * * *
 
@@ -61,7 +61,7 @@
 * * *
 
 {#fn-pantelis .footnote}
-*Pantelis the River-God*: a reference to the joke poem "The morning after they found three corpses there" by M. Bukanov. [TN]
+*Pantelis the River-God*: a reference to the comic poem "The morning after they found three corpses there" by M. Bukanov.---Trans.
 
 * * *
 
@@ -71,12 +71,12 @@
 * * *
 
 {#fn-12 .footnote}
-*Boiotia*: the central and most fertile region of Central Greece, with the capital in Thebes.
+*Boiotia*: the most fertile region of Central Greece, centered on Thebes.
 
 * * *
 
 {#fn-13 .footnote}
-*Hekatombaion*: corresponds roughly to the period from July 15th to August 15th.
+*Hekatombaion*: corresponds roughly to the period from July 15 to August 15.
 
 * * *
 
@@ -91,7 +91,7 @@
 * * *
 
 {#fn-16 .footnote}
-*Hekate*: the night goddess, the patroness of magic and spirits, but at the same time the bestower of earthly blessings, aiding with childbirth. Her attributes are dogs, snakes, keys, and daggers.
+*Hekate*: a nocturnal goddess, the patroness of magic and spirits, but at the same time the bestower of earthly blessings, who aids in childbirth. Her attributes are dogs, snakes, keys, and daggers.
 
 * * *
 
@@ -101,7 +101,7 @@
 * * *
 
 {#fn-18 .footnote}
-*Pelops*: a son of Tantalos, killed by his own father (Tantalos, having prepared a meal from Pelops's flesh, served it to the Olympians) and restored to life by Hermes at Zeus's command. Pelops later treacherously hurled Myrtilos the charioteer, son of Hermes, from a cliff---thereby bringing a curse down upon his entire line. Among the Pelopids there followed bloody feuds between brothers, matricides, and the like.
+*Pelops*: a son of Tantalos, killed by his own father (Tantalos, having prepared a meal from Pelops's flesh, served it to the Olympians) and restored to life by Hermeias at Zeus's command. Pelops later treacherously hurled Myrtilos the charioteer, son of Hermeias, from a cliff---thereby bringing a curse down upon his entire line. Among the Pelopids there followed bloody feuds between brothers, matricides, and the like.
 
 * * *
 
@@ -111,7 +111,7 @@
 * * *
 
 {#fn-20 .footnote}
-*Palaestra*: a private gymnastics school for boys aged twelve to sixteen. Palaestras had open courtyards, running tracks, pools, covered gymnasia, and so on.
+*Palaestra*: a private athletics school for boys aged twelve to sixteen. Palaestras had open courtyards, running tracks, pools, covered gymnasia, and so on.
 
 * * *
 
@@ -126,7 +126,7 @@
 * * *
 
 {#fn-23 .footnote}
-*Mousagetes*: "the Leader of the Muses", one of Apollo's epithets.
+*Mousagetes*: "the Leader of the Muses," one of Apollo's epithets.
 
 * * *
 
@@ -146,7 +146,7 @@
 * * *
 
 {#fn-27 .footnote}
-*Dromos*: Gk. "corridor".
+*Dromos*: Gk. "corridor."
 
 * * *
 
@@ -186,7 +186,7 @@ Back then iron was more valuable than gold.
 * * *
 
 {#fn-miasma .footnote}
-*Miasma*: ritual pollution incurred by bloodshed or sacrilege, which barred a person from sacrifices and communal life until removed by purification. [TN]
+*Miasma*: ritual pollution incurred by bloodshed or sacrilege, which barred a person from sacrifices and communal life until removed by purification.---Trans.
 
 * * *
 
@@ -201,7 +201,7 @@ Back then iron was more valuable than gold.
 * * *
 
 {#fn-37 .footnote}
-*Metageitnion*: corresponds roughly to the period from August 15th to September 15th.
+*Metageitnion*: corresponds roughly to the period from August 15 to September 15.
 
 * * *
 
@@ -221,7 +221,7 @@ Back then iron was more valuable than gold.
 * * *
 
 {#fn-khumar .footnote}
-*Khumar*: an authors' anachronistic joke. The word "khumar" exists in Russian, meaning a hangover state. It was borrowed from Arabic through Turkic languages, where it had the same meaning. But it is very unlikely that it would be in use in the Bronze Age Greece. [TN]
+*Khumar*: an anachronistic joke on the authors' part. The word "khumar" exists in Russian, meaning a hangover or a drugged state; it was borrowed from Arabic through the Turkic languages, where it meant the same thing. It is hardly likely to have been in use in Bronze Age Greece.---Trans.
 
 * * *
 
@@ -241,22 +241,22 @@ Eurystheus refused to count two of Herakles's labors---the Lernaian Hydra and th
 * * *
 
 {#fn-pushkin .footnote}
-*This tale is a fib...*: the original quotes A. S. Pushkin, *The tale of the golden rooster*; here we use the translation by Vladimir Gurvich. The quote continues as "... and yet, / Lessons can be learned from that.", which is a connection every Russian speaker immediately makes. [TN]
+*This tale is a fib...*: the original quotes A. S. Pushkin, *The Tale of the Golden Rooster*; here we use the translation by Vladimir Gurvich. The quote continues as "... and yet, / Lessons can be learned from that," which is a line any Russian reader supplies automatically.---Trans.
 
 * * *
 
 {#fn-44 .footnote}
-*The Phlegraian Fields*: literally "the burning grounds" (Gk.); located on the Chalkidiki peninsula, on its westernmost prong, Pallene. [Note that today's Phlegraian Fields are located near Naples. The Pallene location follows the classical sources (Herodotus, Strabo, Pindar) who placed the site of Gigantomachy there, and mentioned that the Italian region got its name after the Gigantomachy myth due to its fiery geology.---TN]
+*The Phlegraian Fields*: literally "the burning grounds" (Gk.); located on the Chalkidiki peninsula, on its westernmost prong, Pallene. [The place known today as the Phlegraean Fields lies near Naples. The Pallene location follows the classical sources (Herodotus, Strabo, Pindar), which place the site of the Gigantomachy there and mention that the Italian region was named after the Gigantomachy myth because of its fiery geology.---Trans.]
 
 * * *
 
 {#fn-hyksos .footnote}
-A reference to a Russian saying "an uninvited guest is worse than a Tatar". Unfortunately, "Hyksos" does not have an established singular form. [TN]
+A reference to the Russian saying "an uninvited guest is worse than a Tatar." Unfortunately, "Hyksos" does not have an established singular form.---Trans.
 
 * * *
 
 {#fn-45 .footnote}
-*Lykos*: Greek for "wolf"; i.e. Lykos of Thebes means "the Theban Wolf."
+*Lykos*: Greek for "wolf"; i.e., Lykos of Thebes means "the Theban Wolf."
 
 * * *
 
@@ -266,7 +266,7 @@ Kopreus, son of Pelops and Eurystheus's uncle on his mother's side, fled from El
 * * *
 
 {#fn-47 .footnote}
-During the Trojan War, the Cretan king Idomeneus (grandson of Minos and, in a sense, the Minotaur's nephew) appears already as a vassal of Mycenae.
+During the Trojan War, the Cretan king Idomeneus (grandson of Minos and, in a sense, the Minotaur's nephew) already appears as a vassal of Mycenae.
 
 * * *
 
@@ -281,12 +281,12 @@ The city was named Ilion in honor of Ilos (father of the present ruler, Laomedon
 * * *
 
 {#fn-50 .footnote}
-*Lekythos*: A ladle.
+*Lekythos*: a ladle.
 
 * * *
 
 {#fn-51 .footnote}
-*Erytheia*: the purple island of the Sunset, past the Okeanos-stream; home to the three-bodied giant Geryon, grandson of Medusa the Gorgon, whose herds were tended by the Gigas Eurytion (Eurytion---Greek for "kinsman of Eurytos") and the two-headed hound Orthros.
+*Erytheia*: the purple island of the Sunset, beyond the stream of Okeanos; home to Geryon, the three-bodied giant and grandson of Medusa the Gorgon. His herds were tended by the Gigas Eurytion (Eurytion---Greek for "kinsman of Eurytos") and the two-headed hound Orthros.
 
 * * *
 
@@ -296,7 +296,7 @@ The city was named Ilion in honor of Ilos (father of the present ruler, Laomedon
 * * *
 
 {#fn-53 .footnote}
-*The Gorgons*: daughters of Phorcys the Old Man of the Sea and Ceto the Abyssal: Stheno, "the Forceful"; Euryale, "the Far-Roaming"; Medusa, "the Protectress" (Gk.).
+*The Gorgons*: daughters of Phorkys the Old Man of the Sea and Keto the Deep: Stheno, "the Forceful"; Euryale, "the Far-Leaping"; Medusa, "the Ruler" (Gk.).
 
 * * *
 
@@ -316,7 +316,7 @@ The sacred animals, plants, attributes, and cult centers of Apollo.
 * * *
 
 {#fn-57 .footnote}
-*Admetos*, basileus of Pherai, an Argonaut---Apollo's favorite, whom the god had saved from death more than once. Seven years before the events described, Admetos had asked his friends, his parents, and his household to die in his place (that is, to be an atoning sacrifice). The only one who agreed was Admetos's wife Alkestis---whom Herakles later wrested away from Thanatos, the god of death. It was afterward hushed up why Apollo's favorite, for all his virtues, had no intention of dying himself, offering that honor to others instead.
+*Admetos*, basileus of Pherai, an Argonaut---Apollo's favorite, whom the god had saved from death more than once. Seven years before the events described, Admetos had asked his friends, his parents, and his servants to die in his place (that is, to be an atoning sacrifice). The only one who agreed was Admetos's wife Alkestis---whom Herakles later wrested away from Thanatos, the god of death. Later on, people preferred to keep quiet about why Apollo's favorite, for all his virtues, had no intention of dying for himself and offered that honor to others instead.
 
 * * *
 
@@ -346,7 +346,7 @@ A little later, Pergamon, Epidauros, and the island of Kos would become centers 
 * * *
 
 {#fn-63 .footnote}
-*Agora*: a square.
+*Agora*: a public square.
 
 * * *
 
@@ -356,12 +356,12 @@ Through his father, the pious Aiakos, Telamon is a grandson of Zeus; through his
 * * *
 
 {#fn-65 .footnote}
-Telamon's son, Ajax---who will take part in the future Trojan War, and be the strongest of the Greeks---will lose to Odysseus the contest for the slain Achilles's armor and, in a fit of madness, slaughter a herd of cattle, believing he is killing his dishonest comrades-in-arms; then fall on his own sword.
+Telamon's son Ajax---who will fight in the future Trojan War and be the strongest of the Greeks---will lose the contest for the armor of the fallen Achilles to Odysseus and, in a fit of madness, slaughter a herd of cattle, believing he is killing his dishonest comrades-in-arms; then he will fall on his own sword.
 
 * * *
 
 {#fn-66 .footnote}
-Laomedon's youngest son Podarkes, before becoming king of Troy, was ransomed out of formal slavery by his sister Hesione, who gave up her peplos for her brother; Podarkes means "given," Priam means "ransomed."
+Laomedon's youngest son Podarkes, before becoming king of Troy, was ransomed out of nominal slavery by his sister Hesione, who gave up her peplos for her brother; Podarkes means "given," Priam means "ransomed." [In Russian, "Podarkes" puns on *podarenny*, "given"; the Greek name actually means "swift-footed." The derivation of "Priam" from *priamai*, "to buy," goes back to ancient sources.---Trans.]
 
 * * *
 
@@ -371,7 +371,7 @@ Laomedon's youngest son Podarkes, before becoming king of Troy, was ransomed out
 * * *
 
 {#fn-69 .footnote}
-*Eubouleus*: literally "good counsel," an epithet of many gods.
+*Eubouleus*: literally "good counselor," an epithet of many gods.
 
 * * *
 
@@ -386,7 +386,7 @@ Laomedon's youngest son Podarkes, before becoming king of Troy, was ransomed out
 * * *
 
 {#fn-72 .footnote}
-*Dikte*: a mountain on Crete, in a cave of which Rhea hid the infant Zeus from Kronos, who was devouring his children.
+*Dikte*: a mountain on Crete, in whose cave Rhea hid the infant Zeus from Kronos, who devoured his children.
 
 * * *
 
@@ -396,7 +396,7 @@ Laomedon's youngest son Podarkes, before becoming king of Troy, was ransomed out
 * * *
 
 {#fn-74 .footnote}
-*Attam*: the Greek pronunciation of the name "Abraham." On his way for the apples of the Hesperides, Herakles passed through Palestine, where he stopped Attam (Abraham) from sacrificing his own son Akab (Jacob) to a god. Herakles's companions explained to Attam that the mighty "Achivite" (as the Achaians were called in Palestine) was a son of a god, and his messenger. [This is the authors' intentional mystification. Translated as is. [TN]]
+*Attam*: the Greek pronunciation of the name "Abraham." While journeying to fetch the apples of the Hesperides, Herakles passed through Palestine, where he stopped Attam (Abraham) from sacrificing his own son Akab (Jacob) to a god. Herakles's companions explained to Attam that the mighty "Achivite" (as the Achaians were called in Palestine) was the son of a god and his messenger. [A deliberate hoax on the authors' part, translated as is.---Trans.]
 
 * * *
 
@@ -406,7 +406,7 @@ The name Zeus actually sounds more like "Dzeus."
 * * *
 
 {#fn-76 .footnote}
-The word "Hell" derives from "Hades." [in Russian; while "Hell" in English also derives from "a concealed place", it is not related to "Hades." [TN]]
+The word "Hell" derives from "Hades." [In Russian (*ad*). The English "Hell" likewise goes back to the idea of a hidden place (from a Germanic root meaning "to conceal"), but it is not related to "Hades."---Trans.]
 
 * * *
 
@@ -421,12 +421,12 @@ Endeis, the daughter of the centaur Cheiron, was the mother of Peleus and Telamo
 * * *
 
 {#fn-79 .footnote}
-*Taraxippos*: literally "horse-frightener"; a demon from among Hades's subjects.
+*Taraxippos*: literally "horse-frightener"; a demon, one of Hades's subjects.
 
 * * *
 
 {#fn-80 .footnote}
-*Harmonia* was the wife of Kadmos, the founder of Thebes; her wedding necklace (a gift from Aphrodite) was a source of misfortune for its owner.
+*Harmonia* was the wife of Kadmos, the founder of Thebes; her wedding necklace (a gift from Aphrodite) brought misfortune to whoever owned it.
 
 * * *
 
@@ -441,7 +441,7 @@ To clean the Augean stables, Herakles dammed the rivers Alpheios and Peneios, an
 * * *
 
 {#fn-83 .footnote}
-In single combat for the right to become Deianeira's husband, Herakles defeated Acheloos, who had taken the form of a bull, breaking off one of his horns.
+In single combat for Deianeira's hand, Herakles defeated Acheloos, who had taken the form of a bull, and broke off one of his horns.
 
 * * *
 
@@ -451,4 +451,4 @@ In single combat for the right to become Deianeira's husband, Herakles defeated 
 * * *
 
 {#fn-85 .footnote}
-*Protesilaos*: Gk. "Iolaos the First" and at the same time "First of the People", son of Iphikles, basileus of Phylake, would go down in the history of the Trojan War as the warrior who was the first to fall at Troy. Although after his death, unlike other dead men, he appears (accompanied by Hermeias) to his wife Laodameia and talks with her---and Laodameia vanishes from Phylake, having staged her own suicide.
+*Protesilaos* (Gk. "Iolaos the First" and at the same time "First of the People"), basileus of Phylake and son of Iphikles, will go down in the history of the Trojan War as the first warrior to fall at Troy. After his death, however, unlike other dead men, he appears (accompanied by Hermeias) to his wife Laodameia and talks with her---and Laodameia vanishes from Phylake, having staged her own suicide.
