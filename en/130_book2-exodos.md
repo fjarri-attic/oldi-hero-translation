@@ -30,11 +30,11 @@ That is all.
 
 "'Again' isn't quite the right word, uncle. I rarely visit the world of men these days. More often than anyone in the Family, but rarely for Hermeias Psychopompos."
 
-"All the more reason I'd like to hear the latest news of what is happening on Gaia. What can you tell me?"
+"All the more reason for me to want the latest news of what is happening on Gaia. What can you tell me?"
 
 "Nothing comforting, uncle. Mortals have a heap of worries of their own; they have no time for the Family---and I'm beginning to think that by leaving the world of men we cut the very root that fed us."
 
-"I have thought of that too, Hermeias. Once, people knew that we exist. Then, after our departure" ("In the Family they call it our ascension," Hermeias put in), "they went on believing in us for quite a long while. And now... now it has degenerated into habit. Am I right, nephew?"
+"I have thought of that too, Hermeias. Once, people knew that we existed. Then, after our departure" ("In the Family they call it our ascension," Hermeias put in), "they went on believing in us for quite a long while. And now... now it has degenerated into habit. Am I right, nephew?"
 
 "Yes, uncle. Do you know what I heard up there?"
 
@@ -53,11 +53,11 @@ Figments of ancient times, mere pleasing trifles...
 
 "Figments of ancient times," the Sovereign repeated thoughtfully. "We're becoming figments, Trickster."
 
-"If only figments, Sovereign!" Hermeias said, with bitterness in his voice. "It isn't enough that the scoundrel Xenophanes, the author of these vile lines, doesn't even think of hiding his name---in the *Odyssey*, which the rhapsodes sing in every city, the words 'godlike swineherd' come up eighteen times! Eighteen times, uncle---and people laugh..."
+"If only figments, Sovereign!" Hermeias said, with bitterness in his voice. "As if it weren't enough that the scoundrel Xenophanes, the author of these vile lines, doesn't even bother to hide his name---in the *Odyssey*, which the rhapsodes sing in every city, the words 'godlike swineherd' come up eighteen times! Eighteen times, uncle---and people laugh..."
 
-"...and people laugh," Hades echoed. "Yes, laughter is a terrible weapon. More terrible than a thunderbolt or poisoned arrows... it seems we really were too hasty. By getting rid of the Cleaners and their descendants, we got rid of the danger lurking in them---but we also destroyed the bridge between ourselves and people. Do you remember, Hermeias, what contrivances we had to resort to in order to gather the Cleaners' children beneath Troy? The effort we spent on that deserved a better cause... And even then we had to keep steering the course of events, and as a result Ares and Aphrodite were wounded---people were no longer afraid of us! Perhaps because we were afraid of them."
+"...and people laugh," Hades echoed. "Yes, laughter is a terrible weapon. More terrible than a thunderbolt or poisoned arrows... it seems we really were too hasty. By getting rid of the Cleaners and their descendants, we got rid of the danger lurking in them---but we also destroyed the bridge between ourselves and people. Do you remember, Hermeias, what contrivances we had to resort to in order to gather the Cleaners' children at Troy? The effort we spent on that deserved a better cause... And even then we had to keep steering the course of events, and as a result Ares and Aphrodite were wounded---people were no longer afraid of us! Perhaps because we were afraid of them."
 
-"I remember, uncle. And I also remember how Poseidon and Stepmother were afterward hunting down the survivors and picking them off one by one. And they finished them off. All of them."
+"I remember, uncle. And I also remember how Poseidon and Stepmother afterward hunted down the survivors and picked them off one by one. And they got them. All of them."
 
 Hermeias was silent for a while, then said through clenched teeth:
 
@@ -69,7 +69,7 @@ Hermeias was silent for a while, then said through clenched teeth:
 
 "We killed an era," Hades said slowly and sadly after a long pause. "Our own era. The time of great gods and great heroes. And when the corpse had burned out and turned to ashes, the wind scattered them in every direction, and the darkness of desolation covered Gaia... someday people will call the time after the Trojan War exactly that---'the Dark Ages.'"
 
-"I thought as much---that you knew it all without me," Hermeias grumbled, wrapping himself in a woolen cloak.
+"I figured you already knew it all without my telling you," Hermeias grumbled, wrapping himself in a woolen cloak.
 
 Lately he was always cold.
 
@@ -79,23 +79,23 @@ Lately he was always cold.
 
 "Nothing. Now it no longer matters---the Fallen, the Family, or the One. When you don't know a god but only believe in him, it is easier to believe in One than in many. We forbade ourselves to appear in the world of men, we stopped quarreling with them, loving them and hating them, we escaped many dangers and cares---but the day is near when we simply won't be able to open a Dromos to Gaia, even if we want to."
 
-"And yet people still make sacrifices to Herakles," the Trickster remarked, somewhat out of place.
+"And yet people still make offerings to Herakles," the Trickster remarked, rather beside the point.
 
-"To that one?" Hades asked, to be sure. "Or..."
+"To that one?" Hades asked, to make sure. "Or..."
 
-"That one," Hermeias nodded. "The one on Olympos."
+"That one." Hermeias nodded. "The one on Olympos."
 
 "Is he still the same?"
 
-"Why wouldn't he be?! Healthy as a bull, and just as dumb. Hebe is crazy about him. She used to refuse no one, and now---not a chance. Only with her husband. She's borne him two boys, Aniketos and Alexiares..."
+"Why wouldn't he be?! Strong as an ox, and just as dumb. Hebe is crazy about him. She used to refuse no one, and now---not a chance. Only with her husband. She's borne him two boys, Aniketos and Alexiares..."
 
 "Have you tried talking to him?"
 
 "I have. No use. He doesn't remember anything. Or rather, he remembers, but..."
 
-"Finish." There was ill-concealed tension in Hades's voice.
+"Out with it." There was ill-concealed tension in Hades's voice.
 
-"He remembers---but only what everyone knows. He remembers the labors, but insists he performed them himself! The Gigantomachy"---the Trickster shuddered---"he remembers poorly, and keeps calling it 'the Great Battle.' And he wouldn't even listen to how it really was. Turned around and walked off. Good thing he didn't give me a clout on the neck!"
+"He remembers---but only what everyone knows. He remembers the labors, but insists he performed them himself! The Gigantomachy"---the Trickster shuddered---"he remembers poorly, and keeps calling it 'the Great Battle.' And he wouldn't even listen to how it really was. Turned around and walked off. Good thing he didn't wallop me!"
 
 "Does he remember his brother?"
 
@@ -131,7 +131,7 @@ Silence.
 
 "Lichas? Why?!"
 
-"I don't know. Perhaps because he never leaves Herakles's side by a single step---just as he never left it there. Perhaps because he loved him more than anyone, forgiving him even his own death."
+"I don't know. Perhaps because he never leaves Herakles's side for a moment---just as he never left it up there. Perhaps because he loved him more than anyone, forgiving him even his own death."
 
 "Loved him---more than anyone?"
 
@@ -145,7 +145,7 @@ Then they sat for a long time without uttering a word.
 
 "Nothing."
 
-"Wise of you. For if the Herakles who now drinks nectar on Olympos and sleeps with Hebe remembers only what has been preserved of him in people's memory, in myths and legends---and that is all he remembers!---then perhaps it was people who made him that way?! And the real memory of the two twin brothers, Alkeides and Iphikles---is it here, in Erebos? And is that exactly why his shade forgets nothing?! But then I ask myself a question: people made a new god named Herakles; their memory raised him to Olympos. And I ask myself a second question, Hermeias: who made us?!"
+"Wise of you. For if the Herakles who now drinks nectar on Olympos and sleeps with Hebe remembers only what has been preserved of him in people's memory, in myths and legends---and that is all he remembers!---then perhaps it was people who made him that way?! And the real memory of the twin brothers, Alkeides and Iphikles---is it here, in Erebos? And is that exactly why his shade forgets nothing?! But then I ask myself a question: people made a new god named Herakles; their memory raised him to Olympos. And I ask myself a second question, Hermeias: who made us?!"
 
 "What do you mean, who?!" The Trickster nearly fell off the stone he was sitting on. "Really, uncle, the things you say! Had a few gulps too many from Lethe?! Ouranos and Gaia, the Titans, Kronos, then you, the elder generation, then us, your children..."
 
@@ -153,15 +153,15 @@ Then they sat for a long time without uttering a word.
 
 Hermeias was silent, stunned.
 
-"Still, these are only my guesses, and most likely we will never learn how things really stand; which came first---people or gods? In any case, we are what we are, and now we depend on mortals; while they no longer depend on us. Almost..."
+"Still, these are only my guesses, and most likely we will never learn how things really stand; which came first---people or gods? In any case, we are what we are, and now we depend on mortals, while they no longer depend on us. Almost..."
 
 "And is there no hope at all?" Hermeias asked quietly.
 
-"Hope?" Hades smiled bitterly. "You speak like a mortal. And that is why for you there is still hope. As for the rest... I don't know. Perhaps our last hope is he. Herakles. The one who is here. The one who kept the real memory. That means someone remembers the real Herakles, too. And along with him---us. The real us. There's a reason they say Herakles held up the sky with the gods on his shoulders. He's holding it even now, Hermeias."
+"Hope?" Hades smiled bitterly. "You speak like a mortal. And that is why for you there is still hope. As for the rest... I don't know. Perhaps our last hope lies with him. With Herakles. The one who is here. The one who kept the real memory. That means someone remembers the real Herakles, too. And along with him---us. The real us. There's a reason they say Herakles held the sky, gods and all, on his shoulders. He's holding it even now, Hermeias."
 
-"If he wants to leave, Kerberos will let him out," the Trickster said, his voice trembling. "And, wagging the snake that serves the foolish dog for a tail, will see him off as far as Cape Tainaron."
+"If he wants to leave, Kerberos will let him out," the Trickster said, his voice trembling. "And he'll wag the snake that serves the foolish dog for a tail and see him off all the way to Cape Tainaron."
 
-"He will," Hades nodded. "Only he won't leave. Have you seen them?"
+"He will." Hades nodded. "Only Herakles won't leave. Have you seen them?"
 
 "Them?"
 
@@ -175,7 +175,7 @@ The way out into the world of the living.
 
 And against the gray haze before dawn, against that pale patch from which came a dim, blurred, uncertain light, the outlines of three figures stood out sharply.
 
-An elderly man in a lion skin worn through to holes rested his hand on the middle head of the hellhound, frozen motionless---and the man's silhouette was faintly doubled, never quite letting one tell whether he was one, or whether there were two of them after all?
+An elderly man in a lion skin worn into holes rested his hand on the middle head of the hellhound, which stood frozen motionless---and the man's silhouette was faintly doubled, so that one could never quite tell: was he one, or were there two of them after all?
 
 At his feet sat an angular youth, pensively pouring something from palm to palm.
 
