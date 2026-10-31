@@ -181,7 +181,7 @@ def main() -> int:
     input_dir = Path("html")
     output_path = Path("book.epub")
     title = "A Hero Stands Alone"
-    author = "Henty Lion Oldie"
+    author = "Henry Lion Oldie"
     lang = "en"
     css_path = Path("assets/style.css")
     cover_path = Path("assets/cover.jpg")
